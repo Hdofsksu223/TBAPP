@@ -97,3 +97,25 @@ deportes assets/sport/
 
 
 <span class="event-table-periods-history-module_statusName__65Na3gKE__platform-desktop-ui">No Iniciado</span>
+
+
+
+<div class="event-table-periods-history-module_resultRow__aaT6c6nm__platform-desktop-ui event-table-periods-history-module_overflowed__6DfbA56l__platform-desktop-ui event-table-periods-history-module_tooltipTrigger__6Ew1nhXr__platform-desktop-ui event-table-periods-history-module_limitedWidth__5xjKKb8i__platform-desktop-ui" data-test="eventPeriodAndScore"><span class="event-table-periods-history-module_statusName__65Na3gKE__platform-desktop-ui">3º set</span>&nbsp;<span>Super Tie break</span></div>
+
+
+
+<div class="modern-layout-module_asideOpenerButton__nfGhC-OF__platform-desktop-ui"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 8 13"><use href="#svg-arrow"></use></svg></div>
+
+
+
+<div class="modern-layout-module_asideOpenerButton__nfGhC-OF__platform-desktop-ui"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 8 13"><use href="#svg-arrow"></use></svg></div>
+
+
+<symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 13" id="svg-arrow">
+  <path d="m7.712 7.128-6.038 5.58a1.041 1.041 0 0 1-1.39 0 .86.86 0 0 1 0-1.286l5.342-4.936L.284 1.549a.861.861 0 0 1 0-1.285 1.041 1.041 0 0 1 1.39 0l6.038 5.58c.192.177.288.41.288.642a.872.872 0 0 1-.288.642z"></path>
+</symbol>
+
+
+<symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 13" id="svg-arrow">
+  <path d="m7.712 7.128-6.038 5.58a1.041 1.041 0 0 1-1.39 0 .86.86 0 0 1 0-1.286l5.342-4.936L.284 1.549a.861.861 0 0 1 0-1.285 1.041 1.041 0 0 1 1.39 0l6.038 5.58c.192.177.288.41.288.642a.872.872 0 0 1-.288.642z"></path>
+</symbol>
