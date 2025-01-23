@@ -509,6 +509,21 @@ def scrape_full_structure(url):
 
     return driver  # Return the driver for further use
 
+
+def open_bets(driver):
+    """Open the bets panel if the opener button is present."""
+    try:
+        # Look for the opener button with a small wait
+        opener_button = WebDriverWait(driver, 3).until(
+            EC.presence_of_element_located((By.CLASS_NAME, "modern-layout-module_asideOpenerButton__nfGhC-OF__platform-desktop-ui"))
+        )
+        opener_button.click()
+        print("Opened bets panel")
+        time.sleep(1)  # Short wait for animation
+    except Exception as e:
+        print("Bets panel already open or button not found")
+        pass  # Continue with the program if button is not found
+
 # Example usage
 if __name__ == "__main__":
     # List of URLs to check
@@ -537,6 +552,9 @@ if __name__ == "__main__":
             print(f"Checking URL: {url}")
             driver.get(url)  # Navigate to the URL
             time.sleep(2)
+
+            # Open bets panel if needed
+            open_bets(driver)
 
             # Run the check_balance function
             balance_value = check_balance(driver)  # Check balance logic here

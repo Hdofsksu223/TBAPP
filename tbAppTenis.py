@@ -71,7 +71,7 @@ def check_balance(driver):
             balance_text = balance_element.text.strip()  # Get the text and strip any whitespace
             balance_value = int(balance_text.replace('$', '').replace(',', '').strip())  # Convert to integer
             
-            if balance_value > 1500:
+            if balance_value > 5000:
                 print(f"Balance is {balance_value}. Proceeding to place bets...")
                 return balance_value  # Return the balance value for further use
             else:
@@ -116,7 +116,7 @@ def set_bet_amount(driver):
     """Clear the bet input field and set a new bet amount."""
     bet_input = driver.find_element(By.XPATH, "//input[@data-test='betslip-amount']")
     bet_input.clear()  # Clear any existing value
-    amount = 500
+    amount = 100
     #amount = str(amount_value)
     bet_input.send_keys(amount)  # Set the value to the specified amount
     print(f"Bet amount set to: {amount}")
