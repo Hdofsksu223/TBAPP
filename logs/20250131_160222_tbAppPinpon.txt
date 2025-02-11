@@ -1,0 +1,3361 @@
+Please enter your email: Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+3.05
+1.32
+No outcome buttons found in the first market item.
+1.65
+2.1
+No outcome buttons found in the first market item.
+1.9
+1.75
+1.2
+3.8
+1.25
+3.45
+1.06
+Game period text: 2do Set11:98:3
+Associated alt value: 15
+League name: TT CUP
+Skipping button click for league: TT CUP at timer: 2do Set11:98:3 because it's in the first or second set.
+7
+1.95
+1.75
+1.85
+1.85
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+3.15
+1.3
+No outcome buttons found in the first market item.
+1.65
+2.1
+No outcome buttons found in the first market item.
+1.9
+1.75
+1.2
+3.8
+1.27
+3.3
+1.06
+Game period text: 2do Set11:98:3
+Associated alt value: 15
+League name: TT CUP
+Skipping button click for league: TT CUP at timer: 2do Set11:98:3 because it's in the first or second set.
+6.75
+1.9
+1.8
+1.85
+1.85
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.3
+1.27
+No outcome buttons found in the first market item.
+1.65
+2.1
+No outcome buttons found in the first market item.
+1.9
+1.8
+Error processing event row: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D124B350]
+	(No symbol) [0x00007FF7D124DA0C]
+	(No symbol) [0x00007FF7D124DADF]
+	(No symbol) [0x00007FF7D128D35B]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error processing event row: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D124B350]
+	(No symbol) [0x00007FF7D124DA0C]
+	(No symbol) [0x00007FF7D124DADF]
+	(No symbol) [0x00007FF7D128D35B]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error processing event row: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D124B350]
+	(No symbol) [0x00007FF7D124DA0C]
+	(No symbol) [0x00007FF7D124DADF]
+	(No symbol) [0x00007FF7D128D35B]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error processing event row: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D124B350]
+	(No symbol) [0x00007FF7D124DA0C]
+	(No symbol) [0x00007FF7D124DADF]
+	(No symbol) [0x00007FF7D128D35B]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error processing event row: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D124B350]
+	(No symbol) [0x00007FF7D124DA0C]
+	(No symbol) [0x00007FF7D124DADF]
+	(No symbol) [0x00007FF7D128D35B]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.05
+1.32
+No outcome buttons found in the first market item.
+1.65
+2.1
+No outcome buttons found in the first market item.
+2
+1.7
+1.18
+4.1
+1.35
+2.95
+1.05
+Game period text: 2do Set11:99:4
+Associated alt value: 15
+League name: TT CUP
+Skipping button click for league: TT CUP at timer: 2do Set11:99:4 because it's in the first or second set.
+7.5
+1.8
+1.9
+1.85
+1.85
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.7
+1.4
+No outcome buttons found in the first market item.
+1.65
+2.1
+No outcome buttons found in the first market item.
+1.8
+1.85
+1.16
+4.45
+1.32
+3.05
+1.07
+Game period text: 2do Set11:99:6
+Associated alt value: 15
+League name: TT CUP
+Skipping button click for league: TT CUP at timer: 2do Set11:99:6 because it's in the first or second set.
+6.5
+2.5
+1.45
+1.85
+1.85
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.7
+1.22
+No outcome buttons found in the first market item.
+1.65
+2.1
+No outcome buttons found in the first market item.
+1.65
+2.05
+1.16
+4.45
+1.42
+2.6
+1.09
+5.7
+2.5
+1.7
+1.85
+1.85
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.7
+1.22
+1.65
+2.1
+1.04
+Game period text: 2do Set11:910:7
+Associated alt value: 15
+League name: TT CUP
+Skipping button click for league: TT CUP at timer: 2do Set11:910:7 because it's in the first or second set.
+7.5
+1.65
+2.1
+1.85
+1.85
+No outcome buttons found in the first market item.
+1.75
+1.95
+1.16
+4.45
+1.2
+4
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No event table rows found.
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.7
+1.22
+1.65
+2.1
+No outcome buttons found in the first market item.
+1.65
+2.05
+1.12
+5
+1.09
+5.8
+1.08
+Game period text: 2do Set11:910:8
+Associated alt value: 15
+League name: TT CUP
+Skipping button click for league: TT CUP at timer: 2do Set11:910:8 because it's in the first or second set.
+6
+1.65
+2.1
+1.85
+1.85
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+4.35
+1.16
+1.65
+2.1
+No outcome buttons found in the first market item.
+1.75
+1.9
+1.18
+4.25
+1.09
+5.8
+1.12
+5.3
+1.65
+2.1
+1.85
+1.85
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.65
+1.22
+1.65
+2.1
+No outcome buttons found in the first market item.
+2.05
+1.7
+1.09
+5.7
+1.06
+Game period text: 3º set11:311:8
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+7
+1.22
+3.65
+1.55
+2.3
+1.85
+1.85
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+3.55
+1.25
+1.65
+2.1
+No outcome buttons found in the first market item.
+2.45
+1.47
+1.06
+Game period text: 2do Set11:55:1
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:55:1 because it's in the first or second set.
+7
+1.04
+Game period text: 3º set11:311:8
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+7.75
+1.2
+3.9
+1.52
+2.3
+1.85
+1.85
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+3.65
+1.22
+1.65
+2.1
+No outcome buttons found in the first market item.
+2.65
+1.4
+1.08
+Game period text: 2do Set11:55:2
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:55:2 because it's in the first or second set.
+6.25
+1.06
+Game period text: 3º set11:311:8
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+6.75
+1.35
+2.95
+1.42
+2.6
+1.85
+1.85
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+3.55
+1.25
+1.65
+2.1
+No outcome buttons found in the first market item.
+2.65
+1.4
+1.06
+Game period text: 2do Set11:56:3
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:56:3 because it's in the first or second set.
+6.75
+1.07
+Game period text: 3º set11:311:8
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+6.5
+1.2
+3.9
+1.6
+2.1
+1.85
+1.85
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+4.65
+1.14
+1.65
+2.1
+No outcome buttons found in the first market item.
+2.6
+1.42
+1.05
+Game period text: 2do Set11:57:4
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:57:4 because it's in the first or second set.
+7.25
+1.09
+5.9
+1.22
+3.6
+1.6
+2.1
+1.85
+1.85
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+6.25
+1.07
+Game period text: 4º set8:1111:87:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Button clicked for league: TT ELITE SERIES
+1.65
+2.1
+No outcome buttons found in the first market item.
+2.35
+1.5
+1.04
+Game period text: 2do Set11:58:4
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:58:4 because it's in the first or second set.
+7.5
+1.06
+Game period text: 3º set11:311:8
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+8.25
+1.52
+2.3
+1.75
+1.95
+1.85
+1.85
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+Error clicking remove button for event: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D124B350]
+	(No symbol) [0x00007FF7D124DA0C]
+	(No symbol) [0x00007FF7D124DADF]
+	(No symbol) [0x00007FF7D128D35B]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No more 'Borrar resultado' buttons to click.
+5
+1.12
+1.65
+2.1
+2.05
+1.65
+No outcome buttons found in the first market item.
+2.35
+1.5
+1.05
+Game period text: 2do Set11:59:5
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:59:5 because it's in the first or second set.
+7.5
+10.5
+1.52
+2.3
+1.9
+1.8
+1.85
+1.85
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.65
+2.1
+2.05
+1.65
+No outcome buttons found in the first market item.
+2.1
+1.65
+1.03
+Game period text: 2do Set11:510:5
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:510:5 because it's in the first or second set.
+8.25
+No outcome buttons found in the first market item.
+1.52
+2.3
+2.1
+1.65
+1.85
+1.85
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.65
+2.1
+2.05
+1.65
+1.55
+2.25
+2.1
+1.65
+1.85
+1.85
+No outcome buttons found in the first market item.
+2.85
+1.35
+1.04
+Game period text: 2do Set11:510:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:510:7 because it's in the first or second set.
+7.75
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.5
+1.25
+1.65
+2.1
+2.05
+1.65
+No outcome buttons found in the first market item.
+2.85
+1.35
+1.04
+Game period text: 2do Set11:510:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:510:7 because it's in the first or second set.
+7.75
+No outcome buttons found in the first market item.
+1.55
+2
+1.95
+1.75
+1.75
+1.95
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.65
+2.1
+2.05
+1.65
+No outcome buttons found in the first market item.
+2.85
+1.35
+1.03
+Game period text: 3º set11:511:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+8.5
+1.7
+2
+1.8
+1.9
+2
+1.7
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+1.65
+2.1
+2.05
+1.65
+No outcome buttons found in the first market item.
+2.85
+1.35
+1.03
+Game period text: 3º set11:511:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+8.5
+1.55
+2.25
+1.8
+1.9
+1.7
+2
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+1.65
+2.1
+2.05
+1.65
+No outcome buttons found in the first market item.
+2.55
+1.45
+1.03
+Game period text: 3º set11:511:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+8.5
+1.45
+2.55
+1.8
+1.9
+1.65
+2.1
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+1.65
+2.05
+2.05
+1.65
+No outcome buttons found in the first market item.
+2.9
+1.35
+1.04
+Game period text: 3º set11:511:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+7.75
+1.45
+2.55
+1.6
+2.15
+1.55
+2.25
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+1.55
+2.45
+2.05
+1.65
+No outcome buttons found in the first market item.
+2.55
+1.42
+1.02
+Game period text: 3º set11:511:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+8.75
+1.55
+2.25
+1.27
+3.2
+1.47
+2.45
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+1.4
+2.7
+2.05
+1.65
+No outcome buttons found in the first market item.
+2.9
+1.35
+1.01
+Game period text: 3º set11:511:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+10
+1.55
+2.25
+1.18
+4.05
+1.55
+2.4
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+1.45
+2.5
+2.05
+1.65
+1.85
+1.85
+2.9
+1.35
+1.02
+Game period text: 3º set11:511:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+8.75
+1.45
+2.55
+1.18
+4.05
+1.5
+2.4
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+1.55
+2.25
+2.05
+1.65
+2
+1.7
+3.65
+1.22
+1.01
+Game period text: 3º set11:511:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+10
+1.57
+2.55
+1.35
+2.9
+1.42
+2.4
+Validation error for button: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D124B350]
+	(No symbol) [0x00007FF7D124DA0C]
+	(No symbol) [0x00007FF7D124DADF]
+	(No symbol) [0x00007FF7D128D35B]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+1.55
+2.25
+2.05
+1.65
+2.4
+1.5
+4.7
+1.14
+11
+1.55
+2.25
+1.35
+2.9
+1.5
+2.4
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.8
+1.85
+2.05
+1.65
+2.15
+1.6
+4.05
+1.18
+11
+1.55
+2.25
+1.6
+2.15
+1.47
+2.45
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.8
+1.85
+2.05
+1.65
+2.4
+1.47
+5.4
+1.1
+1.01
+Game period text: 3º set11:511:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+10.5
+1.35
+2.9
+1.95
+1.75
+1.4
+2.7
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+2
+1.7
+2.05
+1.65
+2.15
+1.6
+5.7
+1.09
+1.01
+Game period text: 3º set11:511:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+9.75
+1.18
+4.05
+1.6
+1.75
+1.4
+2.65
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+2.4
+1.5
+2.05
+1.65
+1.9
+1.75
+2.2
+1.57
+6.25
+1.08
+Game period text: 3º set9:114:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+1.02
+Game period text: 3º set11:511:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+9
+1.16
+4.35
+2.4
+1.5
+1.32
+3.05
+2.4
+1.47
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+Error clicking remove button for event: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D124B350]
+	(No symbol) [0x00007FF7D124DA0C]
+	(No symbol) [0x00007FF7D124DADF]
+	(No symbol) [0x00007FF7D128D35B]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No more 'Borrar resultado' buttons to click.
+2.45
+1.47
+2.05
+1.65
+1.9
+1.75
+2
+1.7
+6.25
+1.08
+Game period text: 3º set9:114:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+11
+1.16
+4.45
+2.4
+1.5
+1.47
+2.45
+2.4
+1.47
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+Error clicking remove button for event: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D124B350]
+	(No symbol) [0x00007FF7D124DA0C]
+	(No symbol) [0x00007FF7D124DADF]
+	(No symbol) [0x00007FF7D128D35B]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No more 'Borrar resultado' buttons to click.
+2.55
+1.45
+2.05
+1.65
+1.9
+1.75
+1.65
+2.05
+6.25
+1.08
+Game period text: 3º set9:114:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+1.01
+Game period text: 3º set11:511:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+10
+1.18
+4.25
+2.4
+1.5
+1.5
+2.35
+2.4
+1.47
+Validation error for button: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D124B350]
+	(No symbol) [0x00007FF7D124DA0C]
+	(No symbol) [0x00007FF7D124DADF]
+	(No symbol) [0x00007FF7D128D35B]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+2.55
+1.45
+2.05
+1.65
+1.45
+2.55
+1.9
+1.75
+1.2
+4
+2.4
+1.5
+1.55
+2.25
+2.4
+1.47
+1.85
+1.85
+5
+1.12
+1.04
+Game period text: 3º set11:511:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+8
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+2.65
+1.4
+2.05
+1.65
+1.45
+2.55
+1.9
+1.75
+2.05
+1.65
+6.25
+1.08
+Game period text: 3º set9:114:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+No outcome buttons found in the first market item.
+1.35
+2.9
+No outcome buttons found in the first market item.
+1.5
+2.35
+2.4
+1.47
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+2.4
+1.5
+2.05
+1.65
+1.45
+2.55
+1.9
+1.75
+1.9
+1.75
+6.75
+1.06
+Game period text: 3º set9:114:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+No outcome buttons found in the first market item.
+1.32
+3
+2.1
+1.65
+1.7
+2
+2.4
+1.47
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+2.4
+1.5
+2.05
+1.65
+1.45
+2.55
+1.9
+1.75
+2.35
+1.5
+7.75
+1.04
+Game period text: 3º set9:114:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+No outcome buttons found in the first market item.
+1.6
+2.1
+2.35
+1.5
+1.6
+2.15
+No outcome buttons found in the first market item.
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+2
+1.7
+2.05
+1.65
+1.45
+2.55
+1.9
+1.75
+2.8
+1.37
+8.25
+1.03
+Game period text: 3º set9:114:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+1.32
+2.95
+2.3
+1.52
+1.65
+2.1
+No outcome buttons found in the first market item.
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+2.6
+1.42
+2.05
+1.65
+1.45
+2.55
+1.9
+1.75
+3.15
+1.3
+8.25
+1.03
+Game period text: 3º set9:114:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+1.6
+2.1
+2.65
+1.4
+1.75
+1.95
+No outcome buttons found in the first market item.
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+2.15
+1.6
+2.05
+1.65
+1.45
+2.55
+1.9
+1.75
+3.2
+1.3
+8.5
+1.03
+Game period text: 3º set9:114:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+1.32
+4.55
+2.35
+1.52
+1.75
+1.95
+No outcome buttons found in the first market item.
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+2.3
+1.52
+2.25
+1.55
+1.45
+2.55
+1.9
+1.75
+3.2
+1.3
+10
+1.01
+Game period text: 3º set9:114:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+1.18
+4.15
+2
+1.7
+1.8
+1.85
+No outcome buttons found in the first market item.
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+2.6
+1.42
+1.95
+1.7
+1.45
+2.55
+1.9
+1.75
+3.2
+1.3
+No outcome buttons found in the first market item.
+1.18
+4.15
+1.75
+1.9
+1.8
+1.85
+No outcome buttons found in the first market item.
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.05
+1.65
+1.75
+1.95
+1.45
+2.55
+1.9
+1.75
+2.85
+1.35
+No outcome buttons found in the first market item.
+1.16
+4.25
+1.75
+1.9
+1.6
+2.15
+No outcome buttons found in the first market item.
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.85
+1.8
+1.6
+2.15
+1.45
+2.55
+1.9
+1.75
+3.15
+1.3
+No outcome buttons found in the first market item.
+1.16
+4.25
+1.95
+1.75
+1.75
+1.95
+No outcome buttons found in the first market item.
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.8
+1.85
+1.8
+1.85
+1.45
+2.55
+1.9
+1.75
+4.05
+1.18
+No outcome buttons found in the first market item.
+1.25
+3.4
+1.65
+2.05
+1.57
+2.2
+No outcome buttons found in the first market item.
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.8
+1.85
+1.6
+2.15
+1.45
+2.55
+1.9
+1.75
+1.22
+3.65
+1.9
+2.1
+1.02
+Game period text: 4º set11:88:1112:10
+Associated alt value: 15
+League name: TT CUP
+Button clicked for league: TT CUP
+9
+1.6
+2.15
+No outcome buttons found in the first market item.
+4.05
+1.18
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+1.7
+2
+1.7
+2
+1.45
+2.55
+1.9
+1.75
+1.22
+3.7
+1.45
+2.55
+No outcome buttons found in the first market item.
+1.7
+1.95
+No outcome buttons found in the first market item.
+3.6
+1.22
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.7
+2
+1.7
+2
+1.45
+2.55
+1.9
+1.75
+1.27
+3.25
+1.52
+2.35
+No outcome buttons found in the first market item.
+1.7
+2
+No outcome buttons found in the first market item.
+4.25
+1.16
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.55
+2.25
+1.95
+1.7
+1.45
+2.55
+1.9
+1.75
+1.35
+2.85
+1.37
+2.8
+No outcome buttons found in the first market item.
+2.15
+1.6
+No outcome buttons found in the first market item.
+4.75
+1.14
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Error checking balance: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'customer-balance-module_text')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D12CB037]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.37
+2.8
+2.6
+1.42
+1.45
+2.55
+1.9
+1.75
+1.47
+2.45
+1.37
+2.8
+No outcome buttons found in the first market item.
+1.8
+1.85
+No outcome buttons found in the first market item.
+4.1
+1.18
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.3
+3.15
+2.6
+1.42
+1.45
+2.55
+1.9
+1.75
+1.32
+2.95
+1.37
+2.8
+No outcome buttons found in the first market item.
+2.15
+1.6
+No outcome buttons found in the first market item.
+3.55
+1.25
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.95
+1.75
+1.45
+2.55
+1.9
+1.75
+1.25
+3.4
+1.27
+3.25
+No outcome buttons found in the first market item.
+2.5
+1.45
+No outcome buttons found in the first market item.
+3.15
+1.3
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+2.5
+1.45
+1.45
+2.55
+1.9
+1.75
+1.35
+2.95
+1.37
+2.4
+No outcome buttons found in the first market item.
+2.85
+1.35
+No outcome buttons found in the first market item.
+3.85
+1.2
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Error checking balance: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'customer-balance-module_text')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D12CB037]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.55
+2.25
+2.45
+1.47
+1.45
+2.55
+2.1
+1.6
+1.15
+4.55
+1.37
+2.8
+2.5
+1.45
+No outcome buttons found in the first market item.
+4.55
+1.15
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.42
+2.55
+3.2
+1.27
+1.45
+2.55
+2.1
+1.6
+1.09
+5.7
+1.47
+2.4
+2.2
+1.57
+No outcome buttons found in the first market item.
+5.6
+1.1
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.32
+3
+3.6
+1.22
+1.52
+2.3
+1.8
+1.85
+1.16
+4.35
+1.65
+2.1
+2.5
+1.45
+No outcome buttons found in the first market item.
+4.6
+1.15
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.22
+3.75
+3.25
+1.27
+1.4
+2.65
+1.8
+1.9
+1.27
+3.25
+1.65
+2.1
+3.45
+1.25
+No outcome buttons found in the first market item.
+6
+1.08
+Game period text: 2do Set8:117:9
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set8:117:9 because it's in the first or second set.
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.27
+3.3
+2.85
+1.35
+1.57
+2.2
+1.55
+2.3
+1.35
+2.95
+1.75
+1.95
+3.45
+1.25
+No outcome buttons found in the first market item.
+6.25
+1.07
+Game period text: 3º set8:117:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+1.2
+3.8
+2.55
+1.42
+1.45
+2.5
+1.52
+2.3
+1.6
+2.15
+2
+1.7
+4
+1.2
+No outcome buttons found in the first market item.
+6.25
+1.07
+Game period text: 3º set8:117:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+1.18
+4.05
+2.25
+1.55
+1.32
+3
+1.37
+2.75
+1.6
+2.15
+2
+1.7
+3.25
+1.27
+No outcome buttons found in the first market item.
+6.25
+1.07
+Game period text: 3º set8:117:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+1.18
+Error processing button: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D124B350]
+	(No symbol) [0x00007FF7D124DA0C]
+	(No symbol) [0x00007FF7D124DADF]
+	(No symbol) [0x00007FF7D128D35B]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+1.37
+2.75
+1.6
+Error processing button: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D124B350]
+	(No symbol) [0x00007FF7D124DA0C]
+	(No symbol) [0x00007FF7D124DADF]
+	(No symbol) [0x00007FF7D128D35B]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No outcome buttons found in the first market item.
+2.9
+1.35
+No outcome buttons found in the first market item.
+7.5
+1.05
+Game period text: 3º set8:117:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.9
+1.75
+1.57
+2.2
+1.45
+2.45
+1.65
+2.1
+2.05
+1.65
+3.4
+1.25
+2.35
+1.5
+6.5
+1.07
+Game period text: 3º set8:117:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+No event table rows found.
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.95
+1.75
+1.37
+2.75
+1.37
+2.8
+1.3
+3.1
+2.15
+1.6
+4.85
+1.14
+2.35
+1.5
+5.1
+1.12
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.27
+3.35
+1.95
+1.75
+1.35
+2.85
+1.37
+2.8
+1.3
+3.15
+2.1
+1.6
+3.35
+1.27
+2.35
+1.5
+4.7
+1.14
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.27
+3.35
+1.75
+1.95
+1.35
+2.95
+1.35
+2.8
+1.18
+4.05
+2.1
+1.6
+3.3
+1.27
+2.35
+1.5
+5.2
+1.12
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.27
+3.35
+1.85
+1.8
+1.25
+2.85
+1.25
+3.55
+1.09
+5.7
+2.1
+1.6
+3.35
+1.27
+2.35
+1.5
+1.55
+2.25
+5.7
+1.09
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.2
+3.95
+2.25
+1.55
+1.18
+4.15
+1.22
+3.65
+1.16
+4.35
+2.1
+1.6
+No outcome buttons found in the first market item.
+2.35
+1.5
+1.55
+2.25
+6.5
+1.07
+Game period text: 3º set8:117:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+1.12
+5
+2.45
+1.47
+1.14
+4.6
+1.22
+3.7
+1.27
+3.35
+2.6
+1.42
+3.15
+1.3
+2.35
+1.5
+1.55
+2.25
+7.75
+1.04
+Game period text: 3º set8:117:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+Validation error for button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//ancestor::div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D14D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D175BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D16B66C6+1401718]
+	(No symbol) [0x00007FF7D128D84C]
+	(No symbol) [0x00007FF7D128DA0B]
+	(No symbol) [0x00007FF7D1283E0C]
+	(No symbol) [0x00007FF7D12ADE1F]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D1283C7D]
+	(No symbol) [0x00007FF7D12AE0C0]
+	(No symbol) [0x00007FF7D1283DB7]
+	(No symbol) [0x00007FF7D12C890D]
+	(No symbol) [0x00007FF7D12ADA43]
+	(No symbol) [0x00007FF7D1283304]
+	(No symbol) [0x00007FF7D1282636]
+	(No symbol) [0x00007FF7D1282EF1]
+	(No symbol) [0x00007FF7D130E1A4]
+	(No symbol) [0x00007FF7D13B608F]
+	(No symbol) [0x00007FF7D1311B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D18181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1467191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1462484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D14625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1457546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+1.12
+5.1
+2.5
+1.45

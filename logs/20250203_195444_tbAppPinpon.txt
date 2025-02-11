@@ -1,0 +1,203 @@
+Please enter your email: Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Error checking balance: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'customer-balance-module_text')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B50D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B535BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B52B66C6+1401718]
+	(No symbol) [0x00007FF6B4E8D84C]
+	(No symbol) [0x00007FF6B4E8DA0B]
+	(No symbol) [0x00007FF6B4ECB037]
+	(No symbol) [0x00007FF6B4EADE1F]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4EC890D]
+	(No symbol) [0x00007FF6B4EADA43]
+	(No symbol) [0x00007FF6B4E83304]
+	(No symbol) [0x00007FF6B4E82636]
+	(No symbol) [0x00007FF6B4E82EF1]
+	(No symbol) [0x00007FF6B4F0E1A4]
+	(No symbol) [0x00007FF6B4FB608F]
+	(No symbol) [0x00007FF6B4F11B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6B54181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5067191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5062484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B50625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5057546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Balance is 4898. Proceeding to place bets...
+Error clicking remove button for event: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[contains(@class, 'coupon-bet-remove-module_Holder')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B50D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B535BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B52B66C6+1401718]
+	(No symbol) [0x00007FF6B4E8D84C]
+	(No symbol) [0x00007FF6B4E8DA0B]
+	(No symbol) [0x00007FF6B4E83E0C]
+	(No symbol) [0x00007FF6B4EADE1F]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4E83C7D]
+	(No symbol) [0x00007FF6B4EAE0C0]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4EC890D]
+	(No symbol) [0x00007FF6B4EADA43]
+	(No symbol) [0x00007FF6B4E83304]
+	(No symbol) [0x00007FF6B4E82636]
+	(No symbol) [0x00007FF6B4E82EF1]
+	(No symbol) [0x00007FF6B4F0E1A4]
+	(No symbol) [0x00007FF6B4FB608F]
+	(No symbol) [0x00007FF6B4F11B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6B54181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5067191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5062484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B50625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5057546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Clicked 'Borrar resultado' button.
+No more 'Borrar resultado' buttons to click.
+6.25
+1.08
+Game period text: 3º set8:117:119:9
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 9, Set: 0
+Team Name: Misiak, Mateusz, Team Score: 9, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: 3º set8:117:119:9 because it's in the first or second set.
+1.47
+2.45
+1.75
+1.95
+2.25
+1.55
+1.9
+1.8
+2.9
+1.35
+2.1
+1.65
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4898. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+5.7
+1.09
+Game period text: 3º set8:117:1110:10
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 10, Set: 0
+Team Name: Misiak, Mateusz, Team Score: 10, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: 3º set8:117:1110:10 because it's in the first or second set.
+1.57
+2.2
+1.7
+1.95
+2.25
+1.55
+1.57
+2.2
+1.9
+1.8
+1.3
+3.1
+1.37
+2.8
+2.4
+1.47
+2.4
+1.5
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4898. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No event table rows found.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4898. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.35
+1.27
+1.8
+1.85
+1.45
+2.5
+2.25
+1.55
+1.35
+2.9
+1.95
+1.7
+1.3
+3.1
+1.37
+2.8
+2.4
+1.47
+2.3
+1.52
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4898. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.35
+1.27
+1.85
+1.8
+1.4
+2.7
+2.05
+1.65
+1.16
+Game period text: 5º set8:1111:65:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Medek, Josef, Team Score: 7, Set: 2
+Team Name: Zajicek, Jan, Team Score: 4, Set: 2
+Button clicked for league: CZECH LIGA PRO
+4.35
+1.95
+1.75
+1.3
+3.1
+1.37
+2.8
+2.4
+1.47
+2.35
+1.5
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4898. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+3.25
+1.27
+1.95
+1.7
+1.4
+2.65
+2.45
+1.47
+1.06
+Game period text: 5º set8:1111:65:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Medek, Josef, Team Score: 8, Set: 2
+Team Name: Zajicek, Jan, Team Score: 4, Set: 2
+Button clicked for league: CZECH LIGA PRO
+6.75
+No outcome buttons found in the first market item.
+1.3
+3.1

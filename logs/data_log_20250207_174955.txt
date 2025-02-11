@@ -1,0 +1,2063 @@
+Please enter your email: Scroll counter: 1
+Scroll counter: 2
+Scroll counter: 3
+Scroll counter: 4
+Scroll counter: 5
+Scroll counter: 6
+Scroll counter: 7
+Scroll counter: 8
+Scroll counter: 9
+Scroll counter: 10
+Scroll counter: 11
+Scroll counter: 12
+Scroll counter: 13
+Scroll counter: 14
+Scroll counter: 15
+Scroll counter: 16
+Scroll counter: 17
+Scroll counter: 18
+Scroll counter: 19
+Scroll counter: 20
+Scroll counter: 21
+Scroll counter: 22
+Scroll counter: 23
+Scroll counter: 24
+Scroll counter: 25
+Scroll counter: 26
+Scroll counter: 27
+Scroll counter: 28
+Scroll counter: 29
+Scroll counter: 30
+Scroll counter: 31
+Scroll counter: 32
+Scroll counter: 33
+Scroll counter: 34
+Scroll counter: 35
+Scroll counter: 36
+Scroll counter: 37
+Scroll counter: 38
+Scroll counter: 39
+Scroll counter: 40
+Scroll counter: 41
+Scroll counter: 42
+Scroll counter: 43
+Scroll counter: 44
+Scroll counter: 45
+Scroll counter: 46
+Scroll counter: 47
+Scroll counter: 48
+Scroll counter: 49
+Scroll counter: 50
+Scroll counter: 51
+Scroll counter: 52
+Scroll counter: 53
+Scroll counter: 54
+Scroll counter: 55
+Scroll counter: 56
+Scroll counter: 57
+Scroll counter: 58
+Scroll counter: 59
+Scroll counter: 60
+Scroll counter: 61
+Scroll counter: 62
+Scroll counter: 63
+Scroll counter: 64
+Scroll counter: 65
+Scroll counter: 66
+Scroll counter: 67
+Scroll counter: 68
+Scroll counter: 69
+Scroll counter: 70
+Scroll counter: 71
+Scroll counter: 72
+Scroll counter: 73
+Scroll counter: 74
+Scroll counter: 75
+Scroll counter: 76
+Scroll counter: 77
+Scroll counter: 78
+Scroll counter: 79
+Scroll counter: 80
+Scroll counter: 81
+Scroll counter: 82
+Scroll counter: 83
+Scroll counter: 84
+Scroll counter: 85
+Scroll counter: 86
+Scroll counter: 87
+Scroll counter: 88
+Scroll counter: 89
+Scroll counter: 90
+Scroll counter: 91
+Scroll counter: 92
+Scroll counter: 93
+Scroll counter: 94
+Scroll counter: 95
+Scroll counter: 96
+Scroll counter: 97
+Scroll counter: 98
+Scroll counter: 99
+Scroll counter: 100
+Scroll counter: 101
+Scroll counter: 102
+Scroll counter: 103
+Scroll counter: 104
+Scroll counter: 105
+Scroll counter: 106
+Scroll counter: 107
+Scroll counter: 108
+Scroll counter: 109
+Scroll counter: 110
+Scroll counter: 111
+Scroll counter: 112
+Scroll counter: 113
+Scroll counter: 114
+Scroll counter: 115
+Scroll counter: 116
+Scroll counter: 117
+Scroll counter: 118
+Scroll counter: 119
+Scroll counter: 120
+Scroll counter: 121
+Scroll counter: 122
+Scroll counter: 123
+Scroll counter: 124
+Scroll counter: 125
+Scroll counter: 126
+Scroll counter: 127
+Scroll counter: 128
+Scroll counter: 129
+Scroll counter: 130
+Scroll counter: 131
+Scroll counter: 132
+Scroll counter: 133
+Scroll counter: 134
+Scroll counter: 135
+Scroll counter: 136
+Scroll counter: 137
+Scroll counter: 138
+Scroll counter: 139
+Scroll counter: 140
+Scroll counter: 141
+Scroll counter: 142
+Scroll counter: 143
+Scroll counter: 144
+Scroll counter: 145
+Scroll counter: 146
+Scroll counter: 147
+Scroll counter: 148
+Scroll counter: 149
+Scroll counter: 150
+Scroll counter: 151
+Scroll counter: 152
+Scroll counter: 153
+Scroll counter: 154
+Scroll counter: 155
+Scroll counter: 156
+Scroll counter: 157
+Scroll counter: 158
+Scroll counter: 159
+Scroll counter: 160
+Scroll counter: 161
+Scroll counter: 162
+Scroll counter: 163
+Scroll counter: 164
+Scroll counter: 165
+Scroll counter: 166
+Scroll counter: 167
+Scroll counter: 168
+Scroll counter: 169
+Scroll counter: 170
+Found 1478 bet items after scrolling
+
+
+-----------------------------------------------
+Expanded item 1/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 2/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 3/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 4/1478
+Bet type: simple
+Bet_type: 1
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Bet type: simple
+Match Sport ID: 1 (<class 'int'>)
+Match league: Botola Pro D1
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 5/1478
+Bet type: simple
+Bet_type: 1
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Bet type: simple
+Match Sport ID: 1 (<class 'int'>)
+Match league: Challenge League
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 6/1478
+Bet type: simple
+Bet_type: 1
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Bet type: simple
+Match Sport ID: 1 (<class 'int'>)
+Match league: Challenge League
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 7/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 8/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 9/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 10/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 11/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 12/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 13/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 14/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 15/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 16/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 17/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 18/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 19/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 20/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 21/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 22/1478
+Bet type: múltiple
+Bet_type: 2
+Error retrieving sport ID: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//img[contains(@src, '/assets/sport/')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Scrape1 error: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[contains(@class, 'details-module_league__CSGMiNgP__platform-desktop-ui')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error retrieving sport ID: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//img[contains(@src, '/assets/sport/')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Scrape2 error: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[contains(@class, 'details-module_league__CSGMiNgP__platform-desktop-ui')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error retrieving sport ID: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//img[contains(@src, '/assets/sport/')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Scrape2 error: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[contains(@class, 'details-module_league__CSGMiNgP__platform-desktop-ui')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+
+
+-----------------------------------------------
+Expanded item 23/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 24/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 25/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 26/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 27/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 28/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 29/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 30/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 31/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: WTT Singapore Smash
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 32/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 33/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 34/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: WTT Singapore Smash, Women
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 35/1478
+Bet type: simple
+Bet_type: 1
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Bet type: simple
+Match Sport ID: 1 (<class 'int'>)
+Match league: Copa del Rey
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 36/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 37/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 38/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 39/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 40/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 41/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 42/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 43/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 44/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: WTT Singapore Smash, Women
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 45/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 46/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 47/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 48/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: WTT Singapore Smash, Doubles
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 49/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 50/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: WTT Singapore Smash, Doubles
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 51/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 52/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 53/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 54/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 55/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: WTT Singapore Smash, Women Doubles
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 56/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 57/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 58/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 59/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 60/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: WTT Singapore Smash, Doubles
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 61/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 62/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: WTT Singapore Smash
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 63/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 64/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: WTT Singapore Smash
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 65/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: WTT Singapore Smash, Women Doubles
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 66/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 67/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 68/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 69/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 70/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 71/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 72/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 73/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 74/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 75/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 76/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 77/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 78/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 79/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 80/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 81/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 82/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 83/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 84/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 85/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 86/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 87/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 88/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 89/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 90/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 91/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 92/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 93/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 94/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 95/1478
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet None
+
+
+-----------------------------------------------
+Expanded item 96/1478

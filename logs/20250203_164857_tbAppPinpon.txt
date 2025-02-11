@@ -1,0 +1,765 @@
+Please enter your email: Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 166. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.3
+3.2
+2.05
+1.65
+8
+1.04
+Game period text: 2do Set5:110:4
+Associated alt value: 15
+League name: TT ELITE SERIES
+Skipping button click for league: TT ELITE SERIES at timer: 2do Set5:110:4 because it's in the first or second set.
+2.15
+1.6
+1.07
+Game period text: 4º set11:79:1111:8
+Associated alt value: 15
+League name: TT CUP
+Button clicked for league: TT CUP
+6.5
+2.25
+1.55
+1.08
+Game period text: 3º set11:411:60:1
+Associated alt value: 15
+League name: TT CUP
+Button clicked for league: TT CUP
+6.25
+7.5
+1.05
+Game period text: 3º set8:118:11
+Associated alt value: 15
+League name: TT CUP
+Button clicked for league: TT CUP
+2.95
+1.35
+1.9
+1.8
+1.65
+2.05
+3.55
+1.25
+SELECTED BUTTON:  1.07
+Scoreboard:
+Team Name: Krezel, Andrzej, Team Score: 9, Set: 2
+Team Name: Bracha, Michal, Team Score: 8, Set: 1
+Unclicked Krezel, Andrzej - insufficient lead and/or value 1.07
+SELECTED BUTTON:  1.06
+Scoreboard:
+Team Name: Martinez, Alejandro, Team Score: 1, Set: 2
+Team Name: Sanchez Juan A, Team Score: 1, Set: 0
+Unclicked Martinez, Alejandro - insufficient lead and/or value 1.06
+SELECTED BUTTON:  1.03
+Scoreboard:
+Team Name: Cermak, Jiri, Team Score: 3, Set: 0
+Team Name: Mach, Jakub, Team Score: 3, Set: 2
+Unclicked Mach, Jakub - insufficient lead and/or value 1.03
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 166. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.3
+3.1
+2.6
+1.42
+8.25
+1.03
+Game period text: 2do Set5:111:5
+Associated alt value: 15
+League name: TT ELITE SERIES
+Skipping button click for league: TT ELITE SERIES at timer: 2do Set5:111:5 because it's in the first or second set.
+2.15
+1.6
+No outcome buttons found in the first market item.
+2.1
+1.6
+1.06
+Game period text: 3º set11:411:61:1
+Associated alt value: 15
+League name: TT CUP
+Button clicked for league: TT CUP
+7
+6.5
+1.07
+Game period text: 3º set8:118:11
+Associated alt value: 15
+League name: TT CUP
+Button clicked for league: TT CUP
+3.5
+1.25
+1.9
+1.8
+1.6
+2.1
+4.65
+1.14
+Game period text: 4º set6:1111:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+Validation error for button: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B50D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B535BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B52B66C6+1401718]
+	(No symbol) [0x00007FF6B4E4B350]
+	(No symbol) [0x00007FF6B4E4DA0C]
+	(No symbol) [0x00007FF6B4E4DADF]
+	(No symbol) [0x00007FF6B4E8940F]
+	(No symbol) [0x00007FF6B4EADDDA]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4E83C7D]
+	(No symbol) [0x00007FF6B4EAE0C0]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4EC890D]
+	(No symbol) [0x00007FF6B4EADA43]
+	(No symbol) [0x00007FF6B4E83304]
+	(No symbol) [0x00007FF6B4E82636]
+	(No symbol) [0x00007FF6B4E82EF1]
+	(No symbol) [0x00007FF6B4F0E1A4]
+	(No symbol) [0x00007FF6B4FB608F]
+	(No symbol) [0x00007FF6B4F11B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6B54181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5067191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5062484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B50625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5057546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Validation error for button: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B50D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B535BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B52B66C6+1401718]
+	(No symbol) [0x00007FF6B4E4B350]
+	(No symbol) [0x00007FF6B4E4DA0C]
+	(No symbol) [0x00007FF6B4E4DADF]
+	(No symbol) [0x00007FF6B4E8940F]
+	(No symbol) [0x00007FF6B4EADDDA]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4E83C7D]
+	(No symbol) [0x00007FF6B4EAE0C0]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4EC890D]
+	(No symbol) [0x00007FF6B4EADA43]
+	(No symbol) [0x00007FF6B4E83304]
+	(No symbol) [0x00007FF6B4E82636]
+	(No symbol) [0x00007FF6B4E82EF1]
+	(No symbol) [0x00007FF6B4F0E1A4]
+	(No symbol) [0x00007FF6B4FB608F]
+	(No symbol) [0x00007FF6B4F11B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6B54181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5067191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5062484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B50625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5057546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Validation error for button: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B50D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B535BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B52B66C6+1401718]
+	(No symbol) [0x00007FF6B4E4B350]
+	(No symbol) [0x00007FF6B4E4DA0C]
+	(No symbol) [0x00007FF6B4E4DADF]
+	(No symbol) [0x00007FF6B4E8940F]
+	(No symbol) [0x00007FF6B4EADDDA]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4E83C7D]
+	(No symbol) [0x00007FF6B4EAE0C0]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4EC890D]
+	(No symbol) [0x00007FF6B4EADA43]
+	(No symbol) [0x00007FF6B4E83304]
+	(No symbol) [0x00007FF6B4E82636]
+	(No symbol) [0x00007FF6B4E82EF1]
+	(No symbol) [0x00007FF6B4F0E1A4]
+	(No symbol) [0x00007FF6B4FB608F]
+	(No symbol) [0x00007FF6B4F11B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6B54181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5067191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5062484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B50625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5057546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 166. Proceeding to place bets...
+Removed events before betting.
+Removed events before betting.
+Error clicking remove button for event: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B50D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B535BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B52B66C6+1401718]
+	(No symbol) [0x00007FF6B4E4B350]
+	(No symbol) [0x00007FF6B4E4DA0C]
+	(No symbol) [0x00007FF6B4E4DADF]
+	(No symbol) [0x00007FF6B4E8D35B]
+	(No symbol) [0x00007FF6B4E8DA0B]
+	(No symbol) [0x00007FF6B4E83E0C]
+	(No symbol) [0x00007FF6B4EADE1F]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4E83C7D]
+	(No symbol) [0x00007FF6B4EAE0C0]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4EC890D]
+	(No symbol) [0x00007FF6B4EADA43]
+	(No symbol) [0x00007FF6B4E83304]
+	(No symbol) [0x00007FF6B4E82636]
+	(No symbol) [0x00007FF6B4E82EF1]
+	(No symbol) [0x00007FF6B4F0E1A4]
+	(No symbol) [0x00007FF6B4FB608F]
+	(No symbol) [0x00007FF6B4F11B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6B54181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5067191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5062484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B50625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5057546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No more 'Borrar resultado' buttons to click.
+1.3
+3.15
+3.6
+1.22
+9
+1.02
+Game period text: 2do Set5:111:7
+Associated alt value: 15
+League name: TT ELITE SERIES
+Skipping button click for league: TT ELITE SERIES at timer: 2do Set5:111:7 because it's in the first or second set.
+2.15
+1.6
+No outcome buttons found in the first market item.
+2.7
+1.4
+1.12
+Game period text: 3º set11:411:61:4
+Associated alt value: 15
+League name: TT CUP
+Button clicked for league: TT CUP
+5
+5.5
+1.1
+Game period text: 3º set8:118:11
+Associated alt value: 15
+League name: TT CUP
+Button clicked for league: TT CUP
+3.65
+1.22
+1.9
+1.8
+1.6
+2.1
+4.25
+Error processing button: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B50D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B535BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B52B66C6+1401718]
+	(No symbol) [0x00007FF6B4E4B350]
+	(No symbol) [0x00007FF6B4E4DA0C]
+	(No symbol) [0x00007FF6B4E4DADF]
+	(No symbol) [0x00007FF6B4E8D35B]
+	(No symbol) [0x00007FF6B4E8DA0B]
+	(No symbol) [0x00007FF6B4E83E0C]
+	(No symbol) [0x00007FF6B4EADE1F]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4E83C7D]
+	(No symbol) [0x00007FF6B4EAE0C0]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4EC890D]
+	(No symbol) [0x00007FF6B4EADA43]
+	(No symbol) [0x00007FF6B4E83304]
+	(No symbol) [0x00007FF6B4E82636]
+	(No symbol) [0x00007FF6B4E82EF1]
+	(No symbol) [0x00007FF6B4F0E1A4]
+	(No symbol) [0x00007FF6B4FB608F]
+	(No symbol) [0x00007FF6B4F11B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6B54181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5067191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5062484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B50625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5057546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+SELECTED BUTTON:  1.12
+Scoreboard:
+Team Name: Martinez, Alejandro, Team Score: 1, Set: 2
+Team Name: Sanchez Juan A, Team Score: 4, Set: 0
+Unclicked Martinez, Alejandro - insufficient lead and/or value 1.12
+SELECTED BUTTON:  1.1
+Scoreboard:
+Team Name: Cermak, Jiri, Team Score: 6, Set: 0
+Team Name: Mach, Jakub, Team Score: 4, Set: 2
+Unclicked Mach, Jakub - insufficient lead and/or value 1.1
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 166. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+1.12
+Game period text: 4º set7:1112:10
+Associated alt value: 15
+League name: TT ELITE SERIES
+Button clicked for league: TT ELITE SERIES
+4.9
+3
+1.32
+9.25
+1.02
+Game period text: 2do Set5:111:8
+Associated alt value: 15
+League name: TT ELITE SERIES
+Skipping button click for league: TT ELITE SERIES at timer: 2do Set5:111:8 because it's in the first or second set.
+2.15
+1.6
+2.7
+1.35
+1.18
+Game period text: 3º set11:411:61:6
+Associated alt value: 15
+League name: TT CUP
+Button clicked for league: TT CUP
+4.2
+6.5
+1.07
+Game period text: 3º set8:118:11
+Associated alt value: 15
+League name: TT CUP
+Button clicked for league: TT CUP
+3.75
+1.22
+1.9
+1.8
+1.32
+3.05
+3.05
+1.32
+SELECTED BUTTON:  1.2
+Scoreboard:
+Team Name: Wloczko, Krzysztof, Team Score: 4, Set: 2
+Team Name: Felkel, Grzegorz, Team Score: 3, Set: 1
+Unclicked Wloczko, Krzysztof - insufficient lead and/or value 1.2
+SELECTED BUTTON:  1.15
+Scoreboard:
+Team Name: Martinez, Alejandro, Team Score: 2, Set: 2
+Team Name: Sanchez Juan A, Team Score: 6, Set: 0
+Unclicked Martinez, Alejandro - insufficient lead and/or value 1.15
+SELECTED BUTTON:  1.05
+Scoreboard:
+Team Name: Cermak, Jiri, Team Score: 6, Set: 0
+Team Name: Mach, Jakub, Team Score: 6, Set: 2
+Unclicked Mach, Jakub - insufficient lead and/or value 1.05
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 166. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.2
+Game period text: 4º set7:1112:10
+Associated alt value: 15
+League name: TT ELITE SERIES
+Button clicked for league: TT ELITE SERIES
+4
+3.25
+1.27
+9.25
+1.02
+Game period text: 2do Set5:112:10
+Associated alt value: 15
+League name: TT ELITE SERIES
+Skipping button click for league: TT ELITE SERIES at timer: 2do Set5:112:10 because it's in the first or second set.
+2.15
+1.6
+2.95
+1.35
+1.16
+Game period text: 3º set11:411:62:7
+Associated alt value: 15
+League name: TT CUP
+Button clicked for league: TT CUP
+4.35
+7
+1.06
+Game period text: 3º set8:118:11
+Associated alt value: 15
+League name: TT CUP
+Button clicked for league: TT CUP
+3.55
+1.25
+1.9
+1.8
+1.16
+Game period text: 5º set9:1110:12
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+4.3
+2.25
+1.55
+SELECTED BUTTON:  1.12
+Scoreboard:
+Team Name: Wloczko, Krzysztof, Team Score: 5, Set: 2
+Team Name: Felkel, Grzegorz, Team Score: 3, Set: 1
+SELECTED BUTTON:  1.18
+Scoreboard:
+Team Name: Martinez, Alejandro, Team Score: 2, Set: 2
+Team Name: Sanchez Juan A, Team Score: 8, Set: 0
+Unclicked Martinez, Alejandro - insufficient lead and/or value 1.18
+SELECTED BUTTON:  1.03
+Scoreboard:
+Team Name: Cermak, Jiri, Team Score: 7, Set: 0
+Team Name: Mach, Jakub, Team Score: 7, Set: 2
+Unclicked Mach, Jakub - insufficient lead and/or value 1.03
+SELECTED BUTTON:  1.16
+Scoreboard:
+Team Name: Vavrecka, Michal, Team Score: 4, Set: 2
+Team Name: Pagac, Zbynek, Team Score: 1, Set: 2
+Unclicked Vavrecka, Michal - insufficient lead and/or value 1.16
+Bet amount set to: 111
+Possible win amount (118.0) is not sufficient compared to input amount (111).
+Error in place_bet: Message: element click intercepted: Element <div data-test="outcome">...</div> is not clickable at point (650, 11). Other element would receive the click: <ul class="site-menu-module_menu__dvbNnYzv__platform-desktop-ui">...</ul>
+  (Session info: MicrosoftEdge=132.0.2957.140)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B50D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B535BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B52B66C6+1401718]
+	(No symbol) [0x00007FF6B4E9410B]
+	(No symbol) [0x00007FF6B4E92138]
+	(No symbol) [0x00007FF6B4E8FC4A]
+	(No symbol) [0x00007FF6B4E8EE60]
+	(No symbol) [0x00007FF6B4E846D3]
+	(No symbol) [0x00007FF6B4EADDDA]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4E83C7D]
+	(No symbol) [0x00007FF6B4EAE0C0]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4EC890D]
+	(No symbol) [0x00007FF6B4EADA43]
+	(No symbol) [0x00007FF6B4E83304]
+	(No symbol) [0x00007FF6B4E82636]
+	(No symbol) [0x00007FF6B4E82EF1]
+	(No symbol) [0x00007FF6B4F0E1A4]
+	(No symbol) [0x00007FF6B4FB608F]
+	(No symbol) [0x00007FF6B4F11B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6B54181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5067191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5062484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B50625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5057546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 166. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+1.12
+Game period text: 4º set7:1112:10
+Associated alt value: 15
+League name: TT ELITE SERIES
+Button clicked for league: TT ELITE SERIES
+5.2
+3.3
+1.27
+9.5
+1.02
+Game period text: 3º set5:112:110:0
+Associated alt value: 15
+League name: TT ELITE SERIES
+Button clicked for league: TT ELITE SERIES
+2.15
+1.6
+3.05
+1.3
+1.18
+Game period text: 3º set11:411:62:10
+Associated alt value: 15
+League name: TT CUP
+Button clicked for league: TT CUP
+4.05
+5.7
+1.09
+Game period text: 3º set8:118:11
+Associated alt value: 15
+League name: TT CUP
+Button clicked for league: TT CUP
+4.4
+1.16
+Game period text: 1er set
+Associated alt value: 15
+League name: TT CUP
+Skipping button click for league: TT CUP at timer: 1er set because it's in the first or second set.
+1.9
+1.8
+1.1
+Game period text: 5º set9:1110:12
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+5.5
+3.7
+1.22
+SELECTED BUTTON:  1.05
+Scoreboard:
+Team Name: Wloczko, Krzysztof, Team Score: 7, Set: 2
+Team Name: Felkel, Grzegorz, Team Score: 4, Set: 1
+SELECTED BUTTON:  1.03
+Scoreboard:
+Team Name: Michalski, Jakub, Team Score: 1, Set: 0
+Team Name: Schaniel Krzysztof, Team Score: 0, Set: 2
+Unclicked Schaniel Krzysztof - insufficient lead and/or value 1.03
+SELECTED BUTTON:  1.18
+Scoreboard:
+Team Name: Martinez, Alejandro, Team Score: 2, Set: 2
+Team Name: Sanchez Juan A, Team Score: 11, Set: 1
+Unclicked Martinez, Alejandro - insufficient lead and/or value 1.18
+SELECTED BUTTON:  1.14
+Scoreboard:
+Team Name: Cermak, Jiri, Team Score: 9, Set: 0
+Team Name: Mach, Jakub, Team Score: 7, Set: 2
+Unclicked Mach, Jakub - insufficient lead and/or value 1.14
+SELECTED BUTTON:  1.1
+Scoreboard:
+Team Name: Vavrecka, Michal, Team Score: 5, Set: 2
+Team Name: Pagac, Zbynek, Team Score: 1, Set: 2
+Bet amount set to: 111
+Possible win amount (129.0) is sufficient compared to input amount (111).
+Looking for after-bet errors
+Looking for after-bet errors
+Bet placed successfully.
+Scoreboard:
+Team Name: Wloczko, Krzysztof, Team Score: 7, Set: 2
+Team Name: Felkel, Grzegorz, Team Score: 4, Set: 1
+Scoreboard:
+Team Name: Vavrecka, Michal, Team Score: 5, Set: 2
+Team Name: Pagac, Zbynek, Team Score: 1, Set: 2
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 55. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.5
+2.4
+3.5
+1.25
+2.15
+1.6
+1.85
+1.8
+1.27
+3.35
+3.7
+1.22
+2.95
+1.32
+1.9
+1.8
+1.85
+1.85
+No outcome buttons found in the first market item.
+1.85
+1.85
+1.65
+2.1
+2.05
+1.65
+1.55
+2.25
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 55. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.3
+3.2
+3.45
+1.25
+2.15
+1.6
+1.9
+1.75
+1.18
+Game period text: 4º set11:411:62:11
+Associated alt value: 15
+League name: TT CUP
+Error processing button: Message: element click intercepted: Element <div data-test="outcome">...</div> is not clickable at point (650, 11). Other element would receive the click: <ul class="site-menu-module_menu__dvbNnYzv__platform-desktop-ui">...</ul>
+  (Session info: MicrosoftEdge=132.0.2957.140)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B50D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B535BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B52B66C6+1401718]
+	(No symbol) [0x00007FF6B4E9410B]
+	(No symbol) [0x00007FF6B4E92138]
+	(No symbol) [0x00007FF6B4E8FC4A]
+	(No symbol) [0x00007FF6B4E8EE60]
+	(No symbol) [0x00007FF6B4E846D3]
+	(No symbol) [0x00007FF6B4EADDDA]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4E83C7D]
+	(No symbol) [0x00007FF6B4EAE0C0]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4EC890D]
+	(No symbol) [0x00007FF6B4EADA43]
+	(No symbol) [0x00007FF6B4E83304]
+	(No symbol) [0x00007FF6B4E82636]
+	(No symbol) [0x00007FF6B4E82EF1]
+	(No symbol) [0x00007FF6B4F0E1A4]
+	(No symbol) [0x00007FF6B4FB608F]
+	(No symbol) [0x00007FF6B4F11B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6B54181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5067191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5062484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B50625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5057546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+4.1
+5.7
+1.1
+Game period text: 4º set8:118:11
+Associated alt value: 15
+League name: TT CUP
+Error processing button: Message: element click intercepted: Element <div data-test="outcome">...</div> is not clickable at point (748, 108). Other element would receive the click: <ul class="breadcrumbs-module_list__uGfYOw9y__platform-desktop-ui breadcrumbs-module_modern__h73J6Zwh__platform-desktop-ui">...</ul>
+  (Session info: MicrosoftEdge=132.0.2957.140)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B50D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B535BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B52B66C6+1401718]
+	(No symbol) [0x00007FF6B4E9410B]
+	(No symbol) [0x00007FF6B4E92138]
+	(No symbol) [0x00007FF6B4E8FC4A]
+	(No symbol) [0x00007FF6B4E8EE60]
+	(No symbol) [0x00007FF6B4E846D3]
+	(No symbol) [0x00007FF6B4EADDDA]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4E83C7D]
+	(No symbol) [0x00007FF6B4EAE0C0]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4EC890D]
+	(No symbol) [0x00007FF6B4EADA43]
+	(No symbol) [0x00007FF6B4E83304]
+	(No symbol) [0x00007FF6B4E82636]
+	(No symbol) [0x00007FF6B4E82EF1]
+	(No symbol) [0x00007FF6B4F0E1A4]
+	(No symbol) [0x00007FF6B4FB608F]
+	(No symbol) [0x00007FF6B4F11B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6B54181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5067191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5062484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B50625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5057546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+2.7
+1.4
+1.9
+1.8
+1.85
+1.85
+No outcome buttons found in the first market item.
+1.85
+1.85
+1.65
+2.1
+2.05
+1.65
+1.55
+2.25
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 55. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.9
+1.75
+3.3
+1.27
+2.15
+1.6
+2.15
+1.6
+1.2
+Game period text: 4º set11:411:62:11
+Associated alt value: 15
+League name: TT CUP
+Button clicked for league: TT CUP
+4
+4.75
+1.14
+Game period text: 4º set8:118:11
+Associated alt value: 15
+League name: TT CUP
+Button clicked for league: TT CUP
+3.3
+1.27
+1.9
+1.8
+1.85
+1.85
+No outcome buttons found in the first market item.
+1.85
+1.85
+1.65
+2.1
+2.05
+1.65
+1.55
+2.25
+SELECTED BUTTON:  1.1
+Scoreboard:
+Team Name: Martinez, Alejandro, Team Score: 8, Set: 2
+Team Name: Sanchez Juan A, Team Score: 7, Set: 1
+Unclicked Martinez, Alejandro - insufficient lead and/or value 1.1
+SELECTED BUTTON:  1.14
+Scoreboard:
+Team Name: Cermak, Jiri, Team Score: 6, Set: 1
+Team Name: Mach, Jakub, Team Score: 6, Set: 2
+Unclicked Mach, Jakub - insufficient lead and/or value 1.14
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 55. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.9
+1.75
+3.3
+1.27
+2.15
+1.6
+1.95
+1.7
+1.18
+Game period text: 4º set11:411:62:11
+Associated alt value: 15
+League name: TT CUP
+Button clicked for league: TT CUP

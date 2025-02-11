@@ -1,0 +1,368 @@
+Please enter your email: Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4500. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.01
+Game period text: No Iniciado11:5
+Associated alt value: 15
+League name: TT ELITE SERIES
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado11:5 because it's in the first or second set.
+9.75
+3.5
+1.25
+1.95
+1.75
+2.75
+1.37
+Error processing event row: Message: 
+
+2.45
+1.47
+2.15
+1.6
+Error getting selected buttons: Message: 
+
+Error getting selected buttons: Message: 
+
+No valid buttons to bet on
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4500. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+Error processing event row: Message: 
+
+2.7
+1.37
+1.95
+1.75
+1.47
+2.45
+Error processing event row: Message: 
+
+1.8
+1.9
+2.15
+1.6
+Error getting selected buttons: Message: 
+
+Error getting selected buttons: Message: 
+
+No valid buttons to bet on
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4500. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.3
+1.27
+1.95
+1.75
+1.95
+1.7
+2.1
+1.65
+1.25
+3.5
+Error getting selected buttons: Message: 
+
+Error getting selected buttons: Message: 
+
+No valid buttons to bet on
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4500. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+Error processing event row: Message: 
+
+1.95
+1.75
+3.2
+1.3
+2.1
+1.65
+1.8
+1.85
+Error getting selected buttons: Message: 
+
+Error getting selected buttons: Message: 
+
+No valid buttons to bet on
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4500. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+Error processing event row: Message: 
+
+1.95
+1.75
+4
+1.2
+1.95
+1.75
+1.14
+4.65
+Error getting selected buttons: Message: 
+
+Error getting selected buttons: Message: 
+
+No valid buttons to bet on
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4500. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.3
+1.27
+1.95
+1.75
+2.05
+1.65
+4
+1.2
+2.2
+1.57
+Error processing event row: Message: 
+
+Error getting selected buttons: Message: 
+
+Error getting selected buttons: Message: 
+
+No valid buttons to bet on
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4500. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.5
+1.45
+1.95
+1.75
+2.05
+1.65
+4.55
+1.15
+2
+1.7
+Error processing event row: Message: 
+
+Error getting selected buttons: Message: 
+
+Error getting selected buttons: Message: 
+
+No valid buttons to bet on
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Error checking balance: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'customer-balance-module_text')]"}
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B50D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B535BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B52B66C6+1401718]
+	(No symbol) [0x00007FF6B4E8D84C]
+	(No symbol) [0x00007FF6B4E8DA0B]
+	(No symbol) [0x00007FF6B4ECB037]
+	(No symbol) [0x00007FF6B4EADE1F]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4EC890D]
+	(No symbol) [0x00007FF6B4EADA43]
+	(No symbol) [0x00007FF6B4E83304]
+	(No symbol) [0x00007FF6B4E82636]
+	(No symbol) [0x00007FF6B4E82EF1]
+	(No symbol) [0x00007FF6B4F0E1A4]
+	(No symbol) [0x00007FF6B4FB608F]
+	(No symbol) [0x00007FF6B4F11B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6B54181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5067191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5062484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B50625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5057546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Balance is 4500. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.65
+1.4
+1.95
+1.75
+2.05
+1.65
+3.85
+1.2
+1.8
+1.9
+Error processing event row: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B50D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B535BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B52B66C6+1401718]
+	(No symbol) [0x00007FF6B4E4B350]
+	(No symbol) [0x00007FF6B4E4DA0C]
+	(No symbol) [0x00007FF6B4E4DADF]
+	(No symbol) [0x00007FF6B4E8D35B]
+	(No symbol) [0x00007FF6B4E8DA0B]
+	(No symbol) [0x00007FF6B4E842DC]
+	(No symbol) [0x00007FF6B4EADE1F]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4E83C7D]
+	(No symbol) [0x00007FF6B4EAE0C0]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4EC890D]
+	(No symbol) [0x00007FF6B4EADA43]
+	(No symbol) [0x00007FF6B4E83304]
+	(No symbol) [0x00007FF6B4E82636]
+	(No symbol) [0x00007FF6B4E82EF1]
+	(No symbol) [0x00007FF6B4F0E1A4]
+	(No symbol) [0x00007FF6B4FB608F]
+	(No symbol) [0x00007FF6B4F11B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6B54181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5067191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5062484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B50625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5057546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error getting selected buttons: Message: 
+
+Error getting selected buttons: Message: 
+
+No valid buttons to bet on
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4500. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.65
+1.4
+1.95
+1.75
+2.05
+1.65
+4.3
+1.16
+1.95
+1.75
+2.05
+1.65
+Error getting selected buttons: Message: 
+
+Error getting selected buttons: Message: 
+
+No valid buttons to bet on
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4500. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+5.4
+1.07
+Game period text: Tercer break11:5
+Associated alt value: 15
+League name: TT ELITE SERIES
+Skipping button click for league: TT ELITE SERIES at timer: Tercer break11:5 because it's in the first or second set.
+1.95
+1.75
+2.05
+1.65
+3.75
+1.22
+1.75
+1.95
+2.05
+1.65
+Error getting selected buttons: Message: 
+
+Error getting selected buttons: Message: 
+
+No valid buttons to bet on
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4500. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+6.25
+1.07
+Game period text: 4º set11:57:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Button clicked for league: TT ELITE SERIES
+2.15
+1.6
+2.05
+1.65
+3.45
+1.25
+1.7
+1.95
+2.05
+1.65
+Error getting selected buttons: Message: 
+
+Error getting selected buttons: Message: 
+
+No valid buttons to bet on
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4500. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+5.5
+1.1
+2.3
+1.52
+2.05
+1.65
+1.7
+2
+4
+1.18
+2.5
+1.45
+2.05
+1.65
+1.85
+1.85
+Error getting selected buttons: Message: 
+
+Error getting selected buttons: Message: 
+
+No valid buttons to bet on
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4500. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+6.75
+1.06
+Game period text: 4º set11:57:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Button clicked for league: TT ELITE SERIES
+2.8
+1.37
+2.05
+1.65
+1.7
+2
+5.1
+1.12
+2.2
+1.57
+2.05
+1.65
+1.85
+1.85
+Error getting selected buttons: Message: 
+
+Error getting selected buttons: Message: 
+
+No valid buttons to bet on
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found

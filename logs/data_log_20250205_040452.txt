@@ -1,0 +1,1430 @@
+Please enter your email: Scroll counter: 1
+Scroll counter: 2
+Scroll counter: 3
+Scroll counter: 4
+Scroll counter: 5
+Scroll counter: 6
+Scroll counter: 7
+Scroll counter: 8
+Scroll counter: 9
+Scroll counter: 10
+Scroll counter: 11
+Scroll counter: 12
+Scroll counter: 13
+Scroll counter: 14
+Scroll counter: 15
+Scroll counter: 16
+Scroll counter: 17
+Scroll counter: 18
+Scroll counter: 19
+Scroll counter: 20
+Scroll counter: 21
+Scroll counter: 22
+Scroll counter: 23
+Scroll counter: 24
+Scroll counter: 25
+Scroll counter: 26
+Scroll counter: 27
+Scroll counter: 28
+Scroll counter: 29
+Scroll counter: 30
+Scroll counter: 31
+Scroll counter: 32
+Scroll counter: 33
+Scroll counter: 34
+Scroll counter: 35
+Scroll counter: 36
+Scroll counter: 37
+Scroll counter: 38
+Scroll counter: 39
+Scroll counter: 40
+Scroll counter: 41
+Scroll counter: 42
+Scroll counter: 43
+Scroll counter: 44
+Scroll counter: 45
+Scroll counter: 46
+Scroll counter: 47
+Scroll counter: 48
+Scroll counter: 49
+Scroll counter: 50
+Scroll counter: 51
+Scroll counter: 52
+Scroll counter: 53
+Scroll counter: 54
+Scroll counter: 55
+Scroll counter: 56
+Scroll counter: 57
+Scroll counter: 58
+Scroll counter: 59
+Scroll counter: 60
+Scroll counter: 61
+Scroll counter: 62
+Scroll counter: 63
+Scroll counter: 64
+Scroll counter: 65
+Scroll counter: 66
+Scroll counter: 67
+Scroll counter: 68
+Scroll counter: 69
+Scroll counter: 70
+Scroll counter: 71
+Scroll counter: 72
+Scroll counter: 73
+Scroll counter: 74
+Scroll counter: 75
+Scroll counter: 76
+Scroll counter: 77
+Scroll counter: 78
+Scroll counter: 79
+Scroll counter: 80
+Scroll counter: 81
+Scroll counter: 82
+Scroll counter: 83
+Scroll counter: 84
+Scroll counter: 85
+Scroll counter: 86
+Scroll counter: 87
+Scroll counter: 88
+Scroll counter: 89
+Scroll counter: 90
+Scroll counter: 91
+Scroll counter: 92
+Scroll counter: 93
+Scroll counter: 94
+Scroll counter: 95
+Scroll counter: 96
+Scroll counter: 97
+Scroll counter: 98
+Scroll counter: 99
+Scroll counter: 100
+Scroll counter: 101
+Scroll counter: 102
+Scroll counter: 103
+Scroll counter: 104
+Scroll counter: 105
+Scroll counter: 106
+Scroll counter: 107
+Scroll counter: 108
+Scroll counter: 109
+Scroll counter: 110
+Scroll counter: 111
+Scroll counter: 112
+Scroll counter: 113
+Scroll counter: 114
+Scroll counter: 115
+Scroll counter: 116
+Scroll counter: 117
+Scroll counter: 118
+Scroll counter: 119
+Scroll counter: 120
+Scroll counter: 121
+Scroll counter: 122
+Scroll counter: 123
+Scroll counter: 124
+Scroll counter: 125
+Scroll counter: 126
+Scroll counter: 127
+Scroll counter: 128
+Scroll counter: 129
+Scroll counter: 130
+Scroll counter: 131
+Scroll counter: 132
+Scroll counter: 133
+Scroll counter: 134
+Scroll counter: 135
+Scroll counter: 136
+Scroll counter: 137
+Scroll counter: 138
+Scroll counter: 139
+Scroll counter: 140
+Scroll counter: 141
+Scroll counter: 142
+Scroll counter: 143
+Scroll counter: 144
+Scroll counter: 145
+Scroll counter: 146
+Scroll counter: 147
+Scroll counter: 148
+Scroll counter: 149
+Scroll counter: 150
+Scroll counter: 151
+Scroll counter: 152
+Scroll counter: 153
+Scroll counter: 154
+Scroll counter: 155
+Scroll counter: 156
+Scroll counter: 157
+Scroll counter: 158
+Scroll counter: 159
+Scroll counter: 160
+Scroll counter: 161
+Scroll counter: 162
+Scroll counter: 163
+Scroll counter: 164
+Scroll counter: 165
+Scroll counter: 166
+Scroll counter: 167
+Scroll counter: 168
+Scroll counter: 169
+Scroll counter: 170
+Found 1431 bet items after scrolling
+Error processing item 1: Message: element click intercepted: Element <button type="button" class="actions-module_expandBtn__Yk1wzyzI__platform-desktop-ui" title="Detalles" aria-label="Detalles" data-test="expand">...</button> is not clickable at point (1451, 12). Other element would receive the click: <div class="page-wrapper page-wrapper--flex">...</div>
+  (Session info: MicrosoftEdge=132.0.2957.140)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C3410B]
+	(No symbol) [0x00007FF7D1C32138]
+	(No symbol) [0x00007FF7D1C2FC4A]
+	(No symbol) [0x00007FF7D1C2EE60]
+	(No symbol) [0x00007FF7D1C246D3]
+	(No symbol) [0x00007FF7D1C4DDDA]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 2/1431
+Error processing item 2: 'WebElement' object has no attribute 'lower'
+Expanded item 3/1431
+Error processing item 3: 'WebElement' object has no attribute 'lower'
+Expanded item 4/1431
+Error processing item 4: 'WebElement' object has no attribute 'lower'
+Expanded item 5/1431
+Error processing item 5: 'WebElement' object has no attribute 'lower'
+Expanded item 6/1431
+Error processing item 6: 'WebElement' object has no attribute 'lower'
+Expanded item 7/1431
+Error processing item 7: 'WebElement' object has no attribute 'lower'
+Expanded item 8/1431
+Error processing item 8: 'WebElement' object has no attribute 'lower'
+Expanded item 9/1431
+Error processing item 9: 'WebElement' object has no attribute 'lower'
+Expanded item 10/1431
+Error processing item 10: 'WebElement' object has no attribute 'lower'
+Expanded item 11/1431
+Error processing item 11: 'WebElement' object has no attribute 'lower'
+Expanded item 12/1431
+Error processing item 12: 'WebElement' object has no attribute 'lower'
+Expanded item 13/1431
+Error processing item 13: 'WebElement' object has no attribute 'lower'
+Expanded item 14/1431
+Error processing item 14: 'WebElement' object has no attribute 'lower'
+Expanded item 15/1431
+Error processing item 15: 'WebElement' object has no attribute 'lower'
+Expanded item 16/1431
+Error processing item 16: 'WebElement' object has no attribute 'lower'
+Expanded item 17/1431
+Error processing item 17: 'WebElement' object has no attribute 'lower'
+Expanded item 18/1431
+Error processing item 18: 'WebElement' object has no attribute 'lower'
+Expanded item 19/1431
+Error processing item 19: 'WebElement' object has no attribute 'lower'
+Expanded item 20/1431
+Error processing item 20: 'WebElement' object has no attribute 'lower'
+Expanded item 21/1431
+Error processing item 21: 'WebElement' object has no attribute 'lower'
+Expanded item 22/1431
+Error processing item 22: 'WebElement' object has no attribute 'lower'
+Expanded item 23/1431
+Error processing item 23: 'WebElement' object has no attribute 'lower'
+Expanded item 24/1431
+Error processing item 24: 'WebElement' object has no attribute 'lower'
+Expanded item 25/1431
+Error processing item 25: 'WebElement' object has no attribute 'lower'
+Expanded item 26/1431
+Error processing item 26: 'WebElement' object has no attribute 'lower'
+Expanded item 27/1431
+Error processing item 27: 'WebElement' object has no attribute 'lower'
+Expanded item 28/1431
+Error processing item 28: 'WebElement' object has no attribute 'lower'
+Expanded item 29/1431
+Error processing item 29: 'WebElement' object has no attribute 'lower'
+Expanded item 30/1431
+Error processing item 30: 'WebElement' object has no attribute 'lower'
+Expanded item 31/1431
+Error processing item 31: 'WebElement' object has no attribute 'lower'
+Expanded item 32/1431
+Error processing item 32: 'WebElement' object has no attribute 'lower'
+Expanded item 33/1431
+Error processing item 33: 'WebElement' object has no attribute 'lower'
+Expanded item 34/1431
+Error processing item 34: 'WebElement' object has no attribute 'lower'
+Expanded item 35/1431
+Error processing item 35: 'WebElement' object has no attribute 'lower'
+Expanded item 36/1431
+Error processing item 36: 'WebElement' object has no attribute 'lower'
+Expanded item 37/1431
+Error processing item 37: 'WebElement' object has no attribute 'lower'
+Expanded item 38/1431
+Error processing item 38: 'WebElement' object has no attribute 'lower'
+Expanded item 39/1431
+Error processing item 39: 'WebElement' object has no attribute 'lower'
+Expanded item 40/1431
+Error processing item 40: 'WebElement' object has no attribute 'lower'
+Expanded item 41/1431
+Error processing item 41: 'WebElement' object has no attribute 'lower'
+Expanded item 42/1431
+Error processing item 42: 'WebElement' object has no attribute 'lower'
+Expanded item 43/1431
+Error processing item 43: 'WebElement' object has no attribute 'lower'
+Expanded item 44/1431
+Error processing item 44: 'WebElement' object has no attribute 'lower'
+Expanded item 45/1431
+Error processing item 45: 'WebElement' object has no attribute 'lower'
+Expanded item 46/1431
+Error processing item 46: 'WebElement' object has no attribute 'lower'
+Expanded item 47/1431
+Error processing item 47: 'WebElement' object has no attribute 'lower'
+Expanded item 48/1431
+Error processing item 48: 'WebElement' object has no attribute 'lower'
+Expanded item 49/1431
+Error processing item 49: 'WebElement' object has no attribute 'lower'
+Expanded item 50/1431
+Error processing item 50: 'WebElement' object has no attribute 'lower'
+Expanded item 51/1431
+Error processing item 51: 'WebElement' object has no attribute 'lower'
+Expanded item 52/1431
+Error processing item 52: 'WebElement' object has no attribute 'lower'
+Expanded item 53/1431
+Error processing item 53: 'WebElement' object has no attribute 'lower'
+Expanded item 54/1431
+Error processing item 54: 'WebElement' object has no attribute 'lower'
+Expanded item 55/1431
+Error processing item 55: 'WebElement' object has no attribute 'lower'
+Expanded item 56/1431
+Error processing item 56: 'WebElement' object has no attribute 'lower'
+Expanded item 57/1431
+Error processing item 57: 'WebElement' object has no attribute 'lower'
+Expanded item 58/1431
+Error processing item 58: 'WebElement' object has no attribute 'lower'
+Expanded item 59/1431
+Error processing item 59: 'WebElement' object has no attribute 'lower'
+Expanded item 60/1431
+Error processing item 60: 'WebElement' object has no attribute 'lower'
+Expanded item 61/1431
+Error processing item 61: 'WebElement' object has no attribute 'lower'
+Expanded item 62/1431
+Error processing item 62: 'WebElement' object has no attribute 'lower'
+Expanded item 63/1431
+Error processing item 63: 'WebElement' object has no attribute 'lower'
+Expanded item 64/1431
+Error processing item 64: 'WebElement' object has no attribute 'lower'
+Expanded item 65/1431
+Error processing item 65: 'WebElement' object has no attribute 'lower'
+Expanded item 66/1431
+Error processing item 66: 'WebElement' object has no attribute 'lower'
+Expanded item 67/1431
+Error processing item 67: 'WebElement' object has no attribute 'lower'
+Expanded item 68/1431
+Error processing item 68: 'WebElement' object has no attribute 'lower'
+Expanded item 69/1431
+Error processing item 69: 'WebElement' object has no attribute 'lower'
+Expanded item 70/1431
+Error processing item 70: 'WebElement' object has no attribute 'lower'
+Expanded item 71/1431
+Error processing item 71: 'WebElement' object has no attribute 'lower'
+Expanded item 72/1431
+Error processing item 72: 'WebElement' object has no attribute 'lower'
+Expanded item 73/1431
+Error processing item 73: 'WebElement' object has no attribute 'lower'
+Expanded item 74/1431
+Error processing item 74: 'WebElement' object has no attribute 'lower'
+Expanded item 75/1431
+Error processing item 75: 'WebElement' object has no attribute 'lower'
+Expanded item 76/1431
+Error processing item 76: 'WebElement' object has no attribute 'lower'
+Expanded item 77/1431
+Error processing item 77: 'WebElement' object has no attribute 'lower'
+Expanded item 78/1431
+Error processing item 78: 'WebElement' object has no attribute 'lower'
+Expanded item 79/1431
+Error processing item 79: 'WebElement' object has no attribute 'lower'
+Expanded item 80/1431
+Error processing item 80: 'WebElement' object has no attribute 'lower'
+Expanded item 81/1431
+Error processing item 81: 'WebElement' object has no attribute 'lower'
+Expanded item 82/1431
+Error processing item 82: 'WebElement' object has no attribute 'lower'
+Expanded item 83/1431
+Error processing item 83: 'WebElement' object has no attribute 'lower'
+Expanded item 84/1431
+Error processing item 84: 'WebElement' object has no attribute 'lower'
+Expanded item 85/1431
+Error processing item 85: 'WebElement' object has no attribute 'lower'
+Expanded item 86/1431
+Error processing item 86: 'WebElement' object has no attribute 'lower'
+Expanded item 87/1431
+Error processing item 87: 'WebElement' object has no attribute 'lower'
+Expanded item 88/1431
+Error processing item 88: 'WebElement' object has no attribute 'lower'
+Expanded item 89/1431
+Error processing item 89: 'WebElement' object has no attribute 'lower'
+Expanded item 90/1431
+Error processing item 90: 'WebElement' object has no attribute 'lower'
+Expanded item 91/1431
+Error processing item 91: 'WebElement' object has no attribute 'lower'
+Expanded item 92/1431
+Error processing item 92: 'WebElement' object has no attribute 'lower'
+Expanded item 93/1431
+Error processing item 93: 'WebElement' object has no attribute 'lower'
+Expanded item 94/1431
+Error processing item 94: 'WebElement' object has no attribute 'lower'
+Expanded item 95/1431
+Error processing item 95: 'WebElement' object has no attribute 'lower'
+Expanded item 96/1431
+Error processing item 96: 'WebElement' object has no attribute 'lower'
+Expanded item 97/1431
+Error processing item 97: 'WebElement' object has no attribute 'lower'
+Expanded item 98/1431
+Error processing item 98: 'WebElement' object has no attribute 'lower'
+Expanded item 99/1431
+Error processing item 99: 'WebElement' object has no attribute 'lower'
+Expanded item 100/1431
+Error processing item 100: 'WebElement' object has no attribute 'lower'
+Expanded item 101/1431
+Error processing item 101: 'WebElement' object has no attribute 'lower'
+Expanded item 102/1431
+Error processing item 102: 'WebElement' object has no attribute 'lower'
+Expanded item 103/1431
+Error processing item 103: 'WebElement' object has no attribute 'lower'
+Expanded item 104/1431
+Error processing item 104: 'WebElement' object has no attribute 'lower'
+Expanded item 105/1431
+Error processing item 105: 'WebElement' object has no attribute 'lower'
+Expanded item 106/1431
+Error processing item 106: 'WebElement' object has no attribute 'lower'
+Expanded item 107/1431
+Error processing item 107: 'WebElement' object has no attribute 'lower'
+Expanded item 108/1431
+Error processing item 108: 'WebElement' object has no attribute 'lower'
+Expanded item 109/1431
+Error processing item 109: 'WebElement' object has no attribute 'lower'
+Expanded item 110/1431
+Error processing item 110: 'WebElement' object has no attribute 'lower'
+Expanded item 111/1431
+Error processing item 111: 'WebElement' object has no attribute 'lower'
+Expanded item 112/1431
+Error processing item 112: 'WebElement' object has no attribute 'lower'
+Expanded item 113/1431
+Error processing item 113: 'WebElement' object has no attribute 'lower'
+Expanded item 114/1431
+Error processing item 114: 'WebElement' object has no attribute 'lower'
+Expanded item 115/1431
+Error processing item 115: 'WebElement' object has no attribute 'lower'
+Expanded item 116/1431
+Error processing item 116: 'WebElement' object has no attribute 'lower'
+Expanded item 117/1431
+Error processing item 117: 'WebElement' object has no attribute 'lower'
+Expanded item 118/1431
+Error processing item 118: 'WebElement' object has no attribute 'lower'
+Expanded item 119/1431
+Error processing item 119: 'WebElement' object has no attribute 'lower'
+Expanded item 120/1431
+Error processing item 120: 'WebElement' object has no attribute 'lower'
+Expanded item 121/1431
+Error processing item 121: 'WebElement' object has no attribute 'lower'
+Expanded item 122/1431
+Error processing item 122: 'WebElement' object has no attribute 'lower'
+Expanded item 123/1431
+Error processing item 123: 'WebElement' object has no attribute 'lower'
+Expanded item 124/1431
+Error processing item 124: 'WebElement' object has no attribute 'lower'
+Expanded item 125/1431
+Error processing item 125: 'WebElement' object has no attribute 'lower'
+Expanded item 126/1431
+Error processing item 126: 'WebElement' object has no attribute 'lower'
+Expanded item 127/1431
+Error processing item 127: 'WebElement' object has no attribute 'lower'
+Expanded item 128/1431
+Error processing item 128: 'WebElement' object has no attribute 'lower'
+Expanded item 129/1431
+Error processing item 129: 'WebElement' object has no attribute 'lower'
+Expanded item 130/1431
+Error processing item 130: 'WebElement' object has no attribute 'lower'
+Expanded item 131/1431
+Error processing item 131: 'WebElement' object has no attribute 'lower'
+Expanded item 132/1431
+Error processing item 132: 'WebElement' object has no attribute 'lower'
+Expanded item 133/1431
+Error processing item 133: 'WebElement' object has no attribute 'lower'
+Expanded item 134/1431
+Error processing item 134: 'WebElement' object has no attribute 'lower'
+Expanded item 135/1431
+Error processing item 135: 'WebElement' object has no attribute 'lower'
+Expanded item 136/1431
+Error processing item 136: 'WebElement' object has no attribute 'lower'
+Expanded item 137/1431
+Error processing item 137: 'WebElement' object has no attribute 'lower'
+Expanded item 138/1431
+Error processing item 138: 'WebElement' object has no attribute 'lower'
+Expanded item 139/1431
+Error processing item 139: 'WebElement' object has no attribute 'lower'
+Expanded item 140/1431
+Error processing item 140: 'WebElement' object has no attribute 'lower'
+Expanded item 141/1431
+Error processing item 141: 'WebElement' object has no attribute 'lower'
+Expanded item 142/1431
+Error processing item 142: 'WebElement' object has no attribute 'lower'
+Expanded item 143/1431
+Error processing item 143: 'WebElement' object has no attribute 'lower'
+Expanded item 144/1431
+Error processing item 144: 'WebElement' object has no attribute 'lower'
+Expanded item 145/1431
+Error processing item 145: 'WebElement' object has no attribute 'lower'
+Expanded item 146/1431
+Error processing item 146: 'WebElement' object has no attribute 'lower'
+Expanded item 147/1431
+Error processing item 147: 'WebElement' object has no attribute 'lower'
+Expanded item 148/1431
+Error processing item 148: 'WebElement' object has no attribute 'lower'
+Expanded item 149/1431
+Error processing item 149: 'WebElement' object has no attribute 'lower'
+Expanded item 150/1431
+Error processing item 150: 'WebElement' object has no attribute 'lower'
+Expanded item 151/1431
+Error processing item 151: 'WebElement' object has no attribute 'lower'
+Expanded item 152/1431
+Error processing item 152: 'WebElement' object has no attribute 'lower'
+Expanded item 153/1431
+Error processing item 153: 'WebElement' object has no attribute 'lower'
+Expanded item 154/1431
+Error processing item 154: 'WebElement' object has no attribute 'lower'
+Expanded item 155/1431
+Error processing item 155: 'WebElement' object has no attribute 'lower'
+Expanded item 156/1431
+Error processing item 156: 'WebElement' object has no attribute 'lower'
+Expanded item 157/1431
+Error processing item 157: 'WebElement' object has no attribute 'lower'
+Expanded item 158/1431
+Error processing item 158: 'WebElement' object has no attribute 'lower'
+Expanded item 159/1431
+Error processing item 159: 'WebElement' object has no attribute 'lower'
+Expanded item 160/1431
+Error processing item 160: 'WebElement' object has no attribute 'lower'
+Expanded item 161/1431
+Error processing item 161: 'WebElement' object has no attribute 'lower'
+Expanded item 162/1431
+Error processing item 162: 'WebElement' object has no attribute 'lower'
+Expanded item 163/1431
+Error processing item 163: 'WebElement' object has no attribute 'lower'
+Expanded item 164/1431
+Error processing item 164: 'WebElement' object has no attribute 'lower'
+Expanded item 165/1431
+Error processing item 165: 'WebElement' object has no attribute 'lower'
+Expanded item 166/1431
+Error processing item 166: 'WebElement' object has no attribute 'lower'
+Expanded item 167/1431
+Error processing item 167: 'WebElement' object has no attribute 'lower'
+Expanded item 168/1431
+Error processing item 168: 'WebElement' object has no attribute 'lower'
+Expanded item 169/1431
+Error processing item 169: 'WebElement' object has no attribute 'lower'
+Expanded item 170/1431
+Error processing item 170: 'WebElement' object has no attribute 'lower'
+Expanded item 171/1431
+Error processing item 171: 'WebElement' object has no attribute 'lower'
+Expanded item 172/1431
+Error processing item 172: 'WebElement' object has no attribute 'lower'
+Expanded item 173/1431
+Error processing item 173: 'WebElement' object has no attribute 'lower'
+Expanded item 174/1431
+Error processing item 174: 'WebElement' object has no attribute 'lower'
+Expanded item 175/1431
+Error processing item 175: 'WebElement' object has no attribute 'lower'
+Expanded item 176/1431
+Error processing item 176: 'WebElement' object has no attribute 'lower'
+Expanded item 177/1431
+Error processing item 177: 'WebElement' object has no attribute 'lower'
+Expanded item 178/1431
+Error processing item 178: 'WebElement' object has no attribute 'lower'
+Expanded item 179/1431
+Error processing item 179: 'WebElement' object has no attribute 'lower'
+Expanded item 180/1431
+Error processing item 180: 'WebElement' object has no attribute 'lower'
+Expanded item 181/1431
+Error processing item 181: 'WebElement' object has no attribute 'lower'
+Expanded item 182/1431
+Error processing item 182: 'WebElement' object has no attribute 'lower'
+Expanded item 183/1431
+Error processing item 183: 'WebElement' object has no attribute 'lower'
+Expanded item 184/1431
+Error processing item 184: 'WebElement' object has no attribute 'lower'
+Expanded item 185/1431
+Error processing item 185: 'WebElement' object has no attribute 'lower'
+Expanded item 186/1431
+Error processing item 186: 'WebElement' object has no attribute 'lower'
+Expanded item 187/1431
+Error processing item 187: 'WebElement' object has no attribute 'lower'
+Expanded item 188/1431
+Error processing item 188: 'WebElement' object has no attribute 'lower'
+Expanded item 189/1431
+Error processing item 189: 'WebElement' object has no attribute 'lower'
+Expanded item 190/1431
+Error processing item 190: 'WebElement' object has no attribute 'lower'
+Expanded item 191/1431
+Error processing item 191: 'WebElement' object has no attribute 'lower'
+Expanded item 192/1431
+Error processing item 192: 'WebElement' object has no attribute 'lower'
+Expanded item 193/1431
+Error processing item 193: 'WebElement' object has no attribute 'lower'
+Expanded item 194/1431
+Error processing item 194: 'WebElement' object has no attribute 'lower'
+Expanded item 195/1431
+Error processing item 195: 'WebElement' object has no attribute 'lower'
+Expanded item 196/1431
+Error processing item 196: 'WebElement' object has no attribute 'lower'
+Expanded item 197/1431
+Error processing item 197: 'WebElement' object has no attribute 'lower'
+Expanded item 198/1431
+Error processing item 198: 'WebElement' object has no attribute 'lower'
+Expanded item 199/1431
+Error processing item 199: 'WebElement' object has no attribute 'lower'
+Expanded item 200/1431
+Error processing item 200: 'WebElement' object has no attribute 'lower'
+Expanded item 201/1431
+Error processing item 201: 'WebElement' object has no attribute 'lower'
+Expanded item 202/1431
+Error processing item 202: 'WebElement' object has no attribute 'lower'
+Expanded item 203/1431
+Error processing item 203: 'WebElement' object has no attribute 'lower'
+Expanded item 204/1431
+Error processing item 204: 'WebElement' object has no attribute 'lower'
+Expanded item 205/1431
+Error processing item 205: 'WebElement' object has no attribute 'lower'
+Expanded item 206/1431
+Error processing item 206: 'WebElement' object has no attribute 'lower'
+Expanded item 207/1431
+Error processing item 207: 'WebElement' object has no attribute 'lower'
+Expanded item 208/1431
+Error processing item 208: 'WebElement' object has no attribute 'lower'
+Expanded item 209/1431
+Error processing item 209: 'WebElement' object has no attribute 'lower'
+Expanded item 210/1431
+Error processing item 210: 'WebElement' object has no attribute 'lower'
+Expanded item 211/1431
+Error processing item 211: 'WebElement' object has no attribute 'lower'
+Expanded item 212/1431
+Error processing item 212: 'WebElement' object has no attribute 'lower'
+Expanded item 213/1431
+Error processing item 213: 'WebElement' object has no attribute 'lower'
+Expanded item 214/1431
+Error processing item 214: 'WebElement' object has no attribute 'lower'
+Expanded item 215/1431
+Error processing item 215: 'WebElement' object has no attribute 'lower'
+Expanded item 216/1431
+Error processing item 216: 'WebElement' object has no attribute 'lower'
+Expanded item 217/1431
+Error processing item 217: 'WebElement' object has no attribute 'lower'
+Expanded item 218/1431
+Error processing item 218: 'WebElement' object has no attribute 'lower'
+Expanded item 219/1431
+Error processing item 219: 'WebElement' object has no attribute 'lower'
+Expanded item 220/1431
+Error processing item 220: 'WebElement' object has no attribute 'lower'
+Expanded item 221/1431
+Error processing item 221: 'WebElement' object has no attribute 'lower'
+Expanded item 222/1431
+Error processing item 222: 'WebElement' object has no attribute 'lower'
+Expanded item 223/1431
+Error processing item 223: 'WebElement' object has no attribute 'lower'
+Expanded item 224/1431
+Error processing item 224: 'WebElement' object has no attribute 'lower'
+Expanded item 225/1431
+Error processing item 225: 'WebElement' object has no attribute 'lower'
+Expanded item 226/1431
+Error processing item 226: 'WebElement' object has no attribute 'lower'
+Expanded item 227/1431
+Error processing item 227: 'WebElement' object has no attribute 'lower'
+Expanded item 228/1431
+Error processing item 228: 'WebElement' object has no attribute 'lower'
+Expanded item 229/1431
+Error processing item 229: 'WebElement' object has no attribute 'lower'
+Expanded item 230/1431
+Error processing item 230: 'WebElement' object has no attribute 'lower'
+Expanded item 231/1431
+Error processing item 231: 'WebElement' object has no attribute 'lower'
+Expanded item 232/1431
+Error processing item 232: 'WebElement' object has no attribute 'lower'
+Expanded item 233/1431
+Error processing item 233: 'WebElement' object has no attribute 'lower'
+Expanded item 234/1431
+Error processing item 234: 'WebElement' object has no attribute 'lower'
+Expanded item 235/1431
+Error processing item 235: 'WebElement' object has no attribute 'lower'
+Expanded item 236/1431
+Error processing item 236: 'WebElement' object has no attribute 'lower'
+Expanded item 237/1431
+Error processing item 237: 'WebElement' object has no attribute 'lower'
+Expanded item 238/1431
+Error processing item 238: 'WebElement' object has no attribute 'lower'
+Expanded item 239/1431
+Error processing item 239: 'WebElement' object has no attribute 'lower'
+Expanded item 240/1431
+Error processing item 240: 'WebElement' object has no attribute 'lower'
+Expanded item 241/1431
+Error processing item 241: 'WebElement' object has no attribute 'lower'
+Expanded item 242/1431
+Error processing item 242: 'WebElement' object has no attribute 'lower'
+Expanded item 243/1431
+Error processing item 243: 'WebElement' object has no attribute 'lower'
+Expanded item 244/1431
+Error processing item 244: 'WebElement' object has no attribute 'lower'
+Expanded item 245/1431
+Error processing item 245: 'WebElement' object has no attribute 'lower'
+Expanded item 246/1431
+Error processing item 246: 'WebElement' object has no attribute 'lower'
+Expanded item 247/1431
+Error processing item 247: 'WebElement' object has no attribute 'lower'
+Expanded item 248/1431
+Error processing item 248: 'WebElement' object has no attribute 'lower'
+Expanded item 249/1431
+Error processing item 249: 'WebElement' object has no attribute 'lower'
+Expanded item 250/1431
+Error processing item 250: 'WebElement' object has no attribute 'lower'
+Expanded item 251/1431
+Error processing item 251: 'WebElement' object has no attribute 'lower'
+Expanded item 252/1431
+Error processing item 252: 'WebElement' object has no attribute 'lower'
+Expanded item 253/1431
+Error processing item 253: 'WebElement' object has no attribute 'lower'
+Expanded item 254/1431
+Error processing item 254: 'WebElement' object has no attribute 'lower'
+Expanded item 255/1431
+Error processing item 255: 'WebElement' object has no attribute 'lower'
+Expanded item 256/1431
+Error processing item 256: 'WebElement' object has no attribute 'lower'
+Expanded item 257/1431
+Error processing item 257: 'WebElement' object has no attribute 'lower'
+Expanded item 258/1431
+Error processing item 258: 'WebElement' object has no attribute 'lower'
+Expanded item 259/1431
+Error processing item 259: 'WebElement' object has no attribute 'lower'
+Expanded item 260/1431
+Error processing item 260: 'WebElement' object has no attribute 'lower'
+Expanded item 261/1431
+Error processing item 261: 'WebElement' object has no attribute 'lower'
+Expanded item 262/1431
+Error processing item 262: 'WebElement' object has no attribute 'lower'
+Expanded item 263/1431
+Error processing item 263: 'WebElement' object has no attribute 'lower'
+Expanded item 264/1431
+Error processing item 264: 'WebElement' object has no attribute 'lower'
+Expanded item 265/1431
+Error processing item 265: 'WebElement' object has no attribute 'lower'
+Expanded item 266/1431
+Error processing item 266: 'WebElement' object has no attribute 'lower'
+Expanded item 267/1431
+Error processing item 267: 'WebElement' object has no attribute 'lower'
+Expanded item 268/1431
+Error processing item 268: 'WebElement' object has no attribute 'lower'
+Expanded item 269/1431
+Error processing item 269: 'WebElement' object has no attribute 'lower'
+Expanded item 270/1431
+Error processing item 270: 'WebElement' object has no attribute 'lower'
+Expanded item 271/1431
+Error processing item 271: 'WebElement' object has no attribute 'lower'
+Expanded item 272/1431
+Error processing item 272: 'WebElement' object has no attribute 'lower'
+Expanded item 273/1431
+Error processing item 273: 'WebElement' object has no attribute 'lower'
+Expanded item 274/1431
+Error processing item 274: 'WebElement' object has no attribute 'lower'
+Expanded item 275/1431
+Error processing item 275: 'WebElement' object has no attribute 'lower'
+Expanded item 276/1431
+Error processing item 276: 'WebElement' object has no attribute 'lower'
+Expanded item 277/1431
+Error processing item 277: 'WebElement' object has no attribute 'lower'
+Expanded item 278/1431
+Error processing item 278: 'WebElement' object has no attribute 'lower'
+Expanded item 279/1431
+Error processing item 279: 'WebElement' object has no attribute 'lower'
+Expanded item 280/1431
+Error processing item 280: 'WebElement' object has no attribute 'lower'
+Expanded item 281/1431
+Error processing item 281: 'WebElement' object has no attribute 'lower'
+Expanded item 282/1431
+Error processing item 282: 'WebElement' object has no attribute 'lower'
+Expanded item 283/1431
+Error processing item 283: 'WebElement' object has no attribute 'lower'
+Expanded item 284/1431
+Error processing item 284: 'WebElement' object has no attribute 'lower'
+Expanded item 285/1431
+Error processing item 285: 'WebElement' object has no attribute 'lower'
+Expanded item 286/1431
+Error processing item 286: 'WebElement' object has no attribute 'lower'
+Expanded item 287/1431
+Error processing item 287: 'WebElement' object has no attribute 'lower'
+Expanded item 288/1431
+Error processing item 288: 'WebElement' object has no attribute 'lower'
+Expanded item 289/1431
+Error processing item 289: 'WebElement' object has no attribute 'lower'
+Expanded item 290/1431
+Error processing item 290: 'WebElement' object has no attribute 'lower'
+Expanded item 291/1431
+Error processing item 291: 'WebElement' object has no attribute 'lower'
+Expanded item 292/1431
+Error processing item 292: 'WebElement' object has no attribute 'lower'
+Expanded item 293/1431
+Error processing item 293: 'WebElement' object has no attribute 'lower'
+Expanded item 294/1431
+Error processing item 294: 'WebElement' object has no attribute 'lower'
+Expanded item 295/1431
+Error processing item 295: 'WebElement' object has no attribute 'lower'
+Expanded item 296/1431
+Error processing item 296: 'WebElement' object has no attribute 'lower'
+Expanded item 297/1431
+Error processing item 297: 'WebElement' object has no attribute 'lower'
+Expanded item 298/1431
+Error processing item 298: 'WebElement' object has no attribute 'lower'
+Expanded item 299/1431
+Error processing item 299: 'WebElement' object has no attribute 'lower'
+Expanded item 300/1431
+Error processing item 300: 'WebElement' object has no attribute 'lower'
+Expanded item 301/1431
+Error processing item 301: 'WebElement' object has no attribute 'lower'
+Expanded item 302/1431
+Error processing item 302: 'WebElement' object has no attribute 'lower'
+Expanded item 303/1431
+Error processing item 303: 'WebElement' object has no attribute 'lower'
+Expanded item 304/1431
+Error processing item 304: 'WebElement' object has no attribute 'lower'
+Expanded item 305/1431
+Error processing item 305: 'WebElement' object has no attribute 'lower'
+Expanded item 306/1431
+Error processing item 306: 'WebElement' object has no attribute 'lower'
+Expanded item 307/1431
+Error processing item 307: 'WebElement' object has no attribute 'lower'
+Expanded item 308/1431
+Error processing item 308: 'WebElement' object has no attribute 'lower'
+Expanded item 309/1431
+Error processing item 309: 'WebElement' object has no attribute 'lower'
+Expanded item 310/1431
+Error processing item 310: 'WebElement' object has no attribute 'lower'
+Expanded item 311/1431
+Error processing item 311: 'WebElement' object has no attribute 'lower'
+Expanded item 312/1431
+Error processing item 312: 'WebElement' object has no attribute 'lower'
+Expanded item 313/1431
+Error processing item 313: 'WebElement' object has no attribute 'lower'
+Expanded item 314/1431
+Error processing item 314: 'WebElement' object has no attribute 'lower'
+Expanded item 315/1431
+Error processing item 315: 'WebElement' object has no attribute 'lower'
+Expanded item 316/1431
+Error processing item 316: 'WebElement' object has no attribute 'lower'
+Expanded item 317/1431
+Error processing item 317: 'WebElement' object has no attribute 'lower'
+Expanded item 318/1431
+Error processing item 318: 'WebElement' object has no attribute 'lower'
+Expanded item 319/1431
+Error processing item 319: 'WebElement' object has no attribute 'lower'
+Expanded item 320/1431
+Error processing item 320: 'WebElement' object has no attribute 'lower'
+Expanded item 321/1431
+Error processing item 321: 'WebElement' object has no attribute 'lower'
+Expanded item 322/1431
+Error processing item 322: 'WebElement' object has no attribute 'lower'
+Expanded item 323/1431
+Error processing item 323: 'WebElement' object has no attribute 'lower'
+Expanded item 324/1431
+Error processing item 324: 'WebElement' object has no attribute 'lower'
+Expanded item 325/1431
+Error processing item 325: 'WebElement' object has no attribute 'lower'
+Expanded item 326/1431
+Error processing item 326: 'WebElement' object has no attribute 'lower'
+Expanded item 327/1431
+Error processing item 327: 'WebElement' object has no attribute 'lower'
+Expanded item 328/1431
+Error processing item 328: 'WebElement' object has no attribute 'lower'
+Expanded item 329/1431
+Error processing item 329: 'WebElement' object has no attribute 'lower'
+Expanded item 330/1431
+Error processing item 330: 'WebElement' object has no attribute 'lower'
+Expanded item 331/1431
+Error processing item 331: 'WebElement' object has no attribute 'lower'
+Expanded item 332/1431
+Error processing item 332: 'WebElement' object has no attribute 'lower'
+Expanded item 333/1431
+Error processing item 333: 'WebElement' object has no attribute 'lower'
+Expanded item 334/1431
+Error processing item 334: 'WebElement' object has no attribute 'lower'
+Expanded item 335/1431
+Error processing item 335: 'WebElement' object has no attribute 'lower'
+Expanded item 336/1431
+Error processing item 336: 'WebElement' object has no attribute 'lower'
+Expanded item 337/1431
+Error processing item 337: 'WebElement' object has no attribute 'lower'
+Expanded item 338/1431
+Error processing item 338: 'WebElement' object has no attribute 'lower'
+Expanded item 339/1431
+Error processing item 339: 'WebElement' object has no attribute 'lower'
+Expanded item 340/1431
+Error processing item 340: 'WebElement' object has no attribute 'lower'
+Expanded item 341/1431
+Error processing item 341: 'WebElement' object has no attribute 'lower'
+Expanded item 342/1431
+Error processing item 342: 'WebElement' object has no attribute 'lower'
+Expanded item 343/1431
+Error processing item 343: 'WebElement' object has no attribute 'lower'
+Expanded item 344/1431
+Error processing item 344: 'WebElement' object has no attribute 'lower'
+Expanded item 345/1431
+Error processing item 345: 'WebElement' object has no attribute 'lower'
+Expanded item 346/1431
+Error processing item 346: 'WebElement' object has no attribute 'lower'
+Expanded item 347/1431
+Error processing item 347: 'WebElement' object has no attribute 'lower'
+Expanded item 348/1431
+Error processing item 348: 'WebElement' object has no attribute 'lower'
+Expanded item 349/1431
+Error processing item 349: 'WebElement' object has no attribute 'lower'
+Expanded item 350/1431
+Error processing item 350: 'WebElement' object has no attribute 'lower'
+Expanded item 351/1431
+Error processing item 351: 'WebElement' object has no attribute 'lower'
+Expanded item 352/1431
+Error processing item 352: 'WebElement' object has no attribute 'lower'
+Expanded item 353/1431
+Error processing item 353: 'WebElement' object has no attribute 'lower'
+Expanded item 354/1431
+Error processing item 354: 'WebElement' object has no attribute 'lower'
+Expanded item 355/1431
+Error processing item 355: 'WebElement' object has no attribute 'lower'
+Expanded item 356/1431
+Error processing item 356: 'WebElement' object has no attribute 'lower'
+Expanded item 357/1431
+Error processing item 357: 'WebElement' object has no attribute 'lower'
+Expanded item 358/1431
+Error processing item 358: 'WebElement' object has no attribute 'lower'
+Expanded item 359/1431
+Error processing item 359: 'WebElement' object has no attribute 'lower'
+Expanded item 360/1431
+Error processing item 360: 'WebElement' object has no attribute 'lower'
+Expanded item 361/1431
+Error processing item 361: 'WebElement' object has no attribute 'lower'
+Expanded item 362/1431
+Error processing item 362: 'WebElement' object has no attribute 'lower'
+Expanded item 363/1431
+Error processing item 363: 'WebElement' object has no attribute 'lower'
+Expanded item 364/1431
+Error processing item 364: 'WebElement' object has no attribute 'lower'
+Expanded item 365/1431
+Error processing item 365: 'WebElement' object has no attribute 'lower'
+Expanded item 366/1431
+Error processing item 366: 'WebElement' object has no attribute 'lower'
+Expanded item 367/1431
+Error processing item 367: 'WebElement' object has no attribute 'lower'
+Expanded item 368/1431
+Error processing item 368: 'WebElement' object has no attribute 'lower'
+Expanded item 369/1431
+Error processing item 369: 'WebElement' object has no attribute 'lower'
+Expanded item 370/1431
+Error processing item 370: 'WebElement' object has no attribute 'lower'
+Expanded item 371/1431
+Error processing item 371: 'WebElement' object has no attribute 'lower'
+Expanded item 372/1431
+Error processing item 372: 'WebElement' object has no attribute 'lower'
+Expanded item 373/1431
+Error processing item 373: 'WebElement' object has no attribute 'lower'
+Expanded item 374/1431
+Error processing item 374: 'WebElement' object has no attribute 'lower'
+Expanded item 375/1431
+Error processing item 375: 'WebElement' object has no attribute 'lower'
+Expanded item 376/1431
+Error processing item 376: 'WebElement' object has no attribute 'lower'
+Expanded item 377/1431
+Error processing item 377: 'WebElement' object has no attribute 'lower'
+Expanded item 378/1431
+Error processing item 378: 'WebElement' object has no attribute 'lower'
+Expanded item 379/1431
+Error processing item 379: 'WebElement' object has no attribute 'lower'
+Expanded item 380/1431
+Error processing item 380: 'WebElement' object has no attribute 'lower'
+Expanded item 381/1431
+Error processing item 381: 'WebElement' object has no attribute 'lower'
+Expanded item 382/1431
+Error processing item 382: 'WebElement' object has no attribute 'lower'
+Expanded item 383/1431
+Error processing item 383: 'WebElement' object has no attribute 'lower'
+Expanded item 384/1431
+Error processing item 384: 'WebElement' object has no attribute 'lower'
+Expanded item 385/1431
+Error processing item 385: 'WebElement' object has no attribute 'lower'
+Expanded item 386/1431
+Error processing item 386: 'WebElement' object has no attribute 'lower'
+Expanded item 387/1431
+Error processing item 387: 'WebElement' object has no attribute 'lower'
+Expanded item 388/1431
+Error processing item 388: 'WebElement' object has no attribute 'lower'
+Expanded item 389/1431
+Error processing item 389: 'WebElement' object has no attribute 'lower'
+Expanded item 390/1431
+Error processing item 390: 'WebElement' object has no attribute 'lower'
+Expanded item 391/1431
+Error processing item 391: 'WebElement' object has no attribute 'lower'
+Expanded item 392/1431
+Error processing item 392: 'WebElement' object has no attribute 'lower'
+Expanded item 393/1431
+Error processing item 393: 'WebElement' object has no attribute 'lower'
+Expanded item 394/1431
+Error processing item 394: 'WebElement' object has no attribute 'lower'
+Expanded item 395/1431
+Error processing item 395: 'WebElement' object has no attribute 'lower'
+Expanded item 396/1431
+Error processing item 396: 'WebElement' object has no attribute 'lower'
+Expanded item 397/1431
+Error processing item 397: 'WebElement' object has no attribute 'lower'
+Expanded item 398/1431
+Error processing item 398: 'WebElement' object has no attribute 'lower'
+Expanded item 399/1431
+Error processing item 399: 'WebElement' object has no attribute 'lower'
+Expanded item 400/1431
+Error processing item 400: 'WebElement' object has no attribute 'lower'
+Expanded item 401/1431
+Error processing item 401: 'WebElement' object has no attribute 'lower'
+Expanded item 402/1431
+Error processing item 402: 'WebElement' object has no attribute 'lower'
+Expanded item 403/1431
+Error processing item 403: 'WebElement' object has no attribute 'lower'
+Expanded item 404/1431
+Error processing item 404: 'WebElement' object has no attribute 'lower'
+Expanded item 405/1431
+Error processing item 405: 'WebElement' object has no attribute 'lower'
+Expanded item 406/1431
+Error processing item 406: 'WebElement' object has no attribute 'lower'
+Expanded item 407/1431
+Error processing item 407: 'WebElement' object has no attribute 'lower'
+Expanded item 408/1431
+Error processing item 408: 'WebElement' object has no attribute 'lower'
+Expanded item 409/1431
+Error processing item 409: 'WebElement' object has no attribute 'lower'
+Expanded item 410/1431
+Error processing item 410: 'WebElement' object has no attribute 'lower'
+Expanded item 411/1431
+Error processing item 411: 'WebElement' object has no attribute 'lower'
+Expanded item 412/1431
+Error processing item 412: 'WebElement' object has no attribute 'lower'
+Expanded item 413/1431
+Error processing item 413: 'WebElement' object has no attribute 'lower'
+Expanded item 414/1431
+Error processing item 414: 'WebElement' object has no attribute 'lower'
+Expanded item 415/1431
+Error processing item 415: 'WebElement' object has no attribute 'lower'
+Expanded item 416/1431
+Error processing item 416: 'WebElement' object has no attribute 'lower'
+Expanded item 417/1431
+Error processing item 417: 'WebElement' object has no attribute 'lower'
+Expanded item 418/1431
+Error processing item 418: 'WebElement' object has no attribute 'lower'
+Expanded item 419/1431
+Error processing item 419: 'WebElement' object has no attribute 'lower'
+Expanded item 420/1431
+Error processing item 420: 'WebElement' object has no attribute 'lower'
+Expanded item 421/1431
+Error processing item 421: 'WebElement' object has no attribute 'lower'
+Expanded item 422/1431
+Error processing item 422: 'WebElement' object has no attribute 'lower'
+Expanded item 423/1431
+Error processing item 423: 'WebElement' object has no attribute 'lower'
+Expanded item 424/1431
+Error processing item 424: 'WebElement' object has no attribute 'lower'
+Expanded item 425/1431
+Error processing item 425: 'WebElement' object has no attribute 'lower'
+Expanded item 426/1431
+Error processing item 426: 'WebElement' object has no attribute 'lower'
+Expanded item 427/1431
+Error processing item 427: 'WebElement' object has no attribute 'lower'
+Expanded item 428/1431
+Error processing item 428: 'WebElement' object has no attribute 'lower'
+Expanded item 429/1431
+Error processing item 429: 'WebElement' object has no attribute 'lower'
+Expanded item 430/1431
+Error processing item 430: 'WebElement' object has no attribute 'lower'
+Expanded item 431/1431
+Error processing item 431: 'WebElement' object has no attribute 'lower'
+Expanded item 432/1431
+Error processing item 432: 'WebElement' object has no attribute 'lower'
+Expanded item 433/1431
+Error processing item 433: 'WebElement' object has no attribute 'lower'
+Expanded item 434/1431
+Error processing item 434: 'WebElement' object has no attribute 'lower'
+Expanded item 435/1431
+Error processing item 435: 'WebElement' object has no attribute 'lower'
+Expanded item 436/1431
+Error processing item 436: 'WebElement' object has no attribute 'lower'
+Expanded item 437/1431
+Error processing item 437: 'WebElement' object has no attribute 'lower'
+Expanded item 438/1431
+Error processing item 438: 'WebElement' object has no attribute 'lower'
+Expanded item 439/1431
+Error processing item 439: 'WebElement' object has no attribute 'lower'
+Expanded item 440/1431
+Error processing item 440: 'WebElement' object has no attribute 'lower'
+Expanded item 441/1431
+Error processing item 441: 'WebElement' object has no attribute 'lower'
+Expanded item 442/1431
+Error processing item 442: 'WebElement' object has no attribute 'lower'
+Expanded item 443/1431
+Error processing item 443: 'WebElement' object has no attribute 'lower'
+Expanded item 444/1431
+Error processing item 444: 'WebElement' object has no attribute 'lower'
+Expanded item 445/1431
+Error processing item 445: 'WebElement' object has no attribute 'lower'
+Expanded item 446/1431
+Error processing item 446: 'WebElement' object has no attribute 'lower'
+Expanded item 447/1431
+Error processing item 447: 'WebElement' object has no attribute 'lower'
+Expanded item 448/1431
+Error processing item 448: 'WebElement' object has no attribute 'lower'
+Expanded item 449/1431
+Error processing item 449: 'WebElement' object has no attribute 'lower'
+Expanded item 450/1431
+Error processing item 450: 'WebElement' object has no attribute 'lower'
+Expanded item 451/1431
+Error processing item 451: 'WebElement' object has no attribute 'lower'
+Expanded item 452/1431
+Error processing item 452: 'WebElement' object has no attribute 'lower'
+Expanded item 453/1431
+Error processing item 453: 'WebElement' object has no attribute 'lower'
+Expanded item 454/1431
+Error processing item 454: 'WebElement' object has no attribute 'lower'
+Expanded item 455/1431
+Error processing item 455: 'WebElement' object has no attribute 'lower'
+Expanded item 456/1431
+Error processing item 456: 'WebElement' object has no attribute 'lower'
+Expanded item 457/1431
+Error processing item 457: 'WebElement' object has no attribute 'lower'
+Expanded item 458/1431
+Error processing item 458: 'WebElement' object has no attribute 'lower'
+Expanded item 459/1431
+Error processing item 459: 'WebElement' object has no attribute 'lower'
+Expanded item 460/1431
+Error processing item 460: 'WebElement' object has no attribute 'lower'
+Expanded item 461/1431
+Error processing item 461: 'WebElement' object has no attribute 'lower'
+Expanded item 462/1431
+Error processing item 462: 'WebElement' object has no attribute 'lower'
+Expanded item 463/1431
+Error processing item 463: 'WebElement' object has no attribute 'lower'
+Expanded item 464/1431
+Error processing item 464: 'WebElement' object has no attribute 'lower'
+Expanded item 465/1431
+Error processing item 465: 'WebElement' object has no attribute 'lower'
+Expanded item 466/1431
+Error processing item 466: 'WebElement' object has no attribute 'lower'
+Expanded item 467/1431
+Error processing item 467: 'WebElement' object has no attribute 'lower'
+Expanded item 468/1431
+Error processing item 468: 'WebElement' object has no attribute 'lower'
+Expanded item 469/1431
+Error processing item 469: 'WebElement' object has no attribute 'lower'
+Expanded item 470/1431
+Error processing item 470: 'WebElement' object has no attribute 'lower'
+Expanded item 471/1431
+Error processing item 471: 'WebElement' object has no attribute 'lower'
+Expanded item 472/1431
+Error processing item 472: 'WebElement' object has no attribute 'lower'
+Expanded item 473/1431
+Error processing item 473: 'WebElement' object has no attribute 'lower'
+Expanded item 474/1431
+Error processing item 474: 'WebElement' object has no attribute 'lower'
+Expanded item 475/1431
+Error processing item 475: 'WebElement' object has no attribute 'lower'
+Expanded item 476/1431
+Error processing item 476: 'WebElement' object has no attribute 'lower'
+Expanded item 477/1431
+Error processing item 477: 'WebElement' object has no attribute 'lower'
+Expanded item 478/1431
+Error processing item 478: 'WebElement' object has no attribute 'lower'
+Expanded item 479/1431
+Error processing item 479: 'WebElement' object has no attribute 'lower'
+Expanded item 480/1431
+Error processing item 480: 'WebElement' object has no attribute 'lower'
+Expanded item 481/1431
+Error processing item 481: 'WebElement' object has no attribute 'lower'
+Expanded item 482/1431
+Error processing item 482: 'WebElement' object has no attribute 'lower'
+Expanded item 483/1431
+Error processing item 483: 'WebElement' object has no attribute 'lower'
+Expanded item 484/1431
+Error processing item 484: 'WebElement' object has no attribute 'lower'
+Expanded item 485/1431
+Error processing item 485: 'WebElement' object has no attribute 'lower'
+Expanded item 486/1431
+Error processing item 486: 'WebElement' object has no attribute 'lower'
+Expanded item 487/1431
+Error processing item 487: 'WebElement' object has no attribute 'lower'
+Expanded item 488/1431
+Error processing item 488: 'WebElement' object has no attribute 'lower'
+Expanded item 489/1431
+Error processing item 489: 'WebElement' object has no attribute 'lower'
+Expanded item 490/1431
+Error processing item 490: 'WebElement' object has no attribute 'lower'
+Expanded item 491/1431
+Error processing item 491: 'WebElement' object has no attribute 'lower'
+Expanded item 492/1431
+Error processing item 492: 'WebElement' object has no attribute 'lower'
+Expanded item 493/1431
+Error processing item 493: 'WebElement' object has no attribute 'lower'
+Expanded item 494/1431
+Error processing item 494: 'WebElement' object has no attribute 'lower'
+Expanded item 495/1431
+Error processing item 495: 'WebElement' object has no attribute 'lower'
+Expanded item 496/1431
+Error processing item 496: 'WebElement' object has no attribute 'lower'
+Expanded item 497/1431
+Error processing item 497: 'WebElement' object has no attribute 'lower'
+Expanded item 498/1431
+Error processing item 498: 'WebElement' object has no attribute 'lower'
+Expanded item 499/1431
+Error processing item 499: 'WebElement' object has no attribute 'lower'
+Expanded item 500/1431
+Error processing item 500: 'WebElement' object has no attribute 'lower'
+Expanded item 501/1431
+Error processing item 501: 'WebElement' object has no attribute 'lower'
+Expanded item 502/1431
+Error processing item 502: 'WebElement' object has no attribute 'lower'
+Expanded item 503/1431
+Error processing item 503: 'WebElement' object has no attribute 'lower'
+Expanded item 504/1431
+Error processing item 504: 'WebElement' object has no attribute 'lower'
+Expanded item 505/1431
+Error processing item 505: 'WebElement' object has no attribute 'lower'
+Expanded item 506/1431
+Error processing item 506: 'WebElement' object has no attribute 'lower'
+Expanded item 507/1431
+Error processing item 507: 'WebElement' object has no attribute 'lower'
+Expanded item 508/1431
+Error processing item 508: 'WebElement' object has no attribute 'lower'
+Expanded item 509/1431
+Error processing item 509: 'WebElement' object has no attribute 'lower'
+Expanded item 510/1431
+Error processing item 510: 'WebElement' object has no attribute 'lower'
+Expanded item 511/1431
+Error processing item 511: 'WebElement' object has no attribute 'lower'
+Expanded item 512/1431
+Error processing item 512: 'WebElement' object has no attribute 'lower'
+Expanded item 513/1431
+Error processing item 513: 'WebElement' object has no attribute 'lower'
+Expanded item 514/1431
+Error processing item 514: 'WebElement' object has no attribute 'lower'
+Expanded item 515/1431
+Error processing item 515: 'WebElement' object has no attribute 'lower'
+Expanded item 516/1431
+Error processing item 516: 'WebElement' object has no attribute 'lower'
+Expanded item 517/1431
+Error processing item 517: 'WebElement' object has no attribute 'lower'
+Expanded item 518/1431
+Error processing item 518: 'WebElement' object has no attribute 'lower'
+Expanded item 519/1431
+Error processing item 519: 'WebElement' object has no attribute 'lower'
+Expanded item 520/1431
+Error processing item 520: 'WebElement' object has no attribute 'lower'
+Expanded item 521/1431
+Error processing item 521: 'WebElement' object has no attribute 'lower'
+Expanded item 522/1431
+Error processing item 522: 'WebElement' object has no attribute 'lower'
+Expanded item 523/1431
+Error processing item 523: 'WebElement' object has no attribute 'lower'
+Expanded item 524/1431
+Error processing item 524: 'WebElement' object has no attribute 'lower'
+Expanded item 525/1431
+Error processing item 525: 'WebElement' object has no attribute 'lower'
+Expanded item 526/1431
+Error processing item 526: 'WebElement' object has no attribute 'lower'
+Expanded item 527/1431
+Error processing item 527: 'WebElement' object has no attribute 'lower'
+Expanded item 528/1431
+Error processing item 528: 'WebElement' object has no attribute 'lower'
+Expanded item 529/1431
+Error processing item 529: 'WebElement' object has no attribute 'lower'
+Expanded item 530/1431
+Error processing item 530: 'WebElement' object has no attribute 'lower'
+Expanded item 531/1431
+Error processing item 531: 'WebElement' object has no attribute 'lower'
+Expanded item 532/1431
+Error processing item 532: 'WebElement' object has no attribute 'lower'
+Expanded item 533/1431
+Error processing item 533: 'WebElement' object has no attribute 'lower'
+Expanded item 534/1431
+Error processing item 534: 'WebElement' object has no attribute 'lower'
+Expanded item 535/1431
+Error processing item 535: 'WebElement' object has no attribute 'lower'
+Expanded item 536/1431
+Error processing item 536: 'WebElement' object has no attribute 'lower'
+Expanded item 537/1431
+Error processing item 537: 'WebElement' object has no attribute 'lower'
+Expanded item 538/1431
+Error processing item 538: 'WebElement' object has no attribute 'lower'
+Expanded item 539/1431
+Error processing item 539: 'WebElement' object has no attribute 'lower'
+Expanded item 540/1431
+Error processing item 540: 'WebElement' object has no attribute 'lower'
+Expanded item 541/1431
+Error processing item 541: 'WebElement' object has no attribute 'lower'
+Expanded item 542/1431
+Error processing item 542: 'WebElement' object has no attribute 'lower'
+Expanded item 543/1431
+Error processing item 543: 'WebElement' object has no attribute 'lower'
+Expanded item 544/1431
+Error processing item 544: 'WebElement' object has no attribute 'lower'
+Expanded item 545/1431
+Error processing item 545: 'WebElement' object has no attribute 'lower'
+Expanded item 546/1431
+Error processing item 546: 'WebElement' object has no attribute 'lower'
+Expanded item 547/1431
+Error processing item 547: 'WebElement' object has no attribute 'lower'
+Expanded item 548/1431
+Error processing item 548: 'WebElement' object has no attribute 'lower'
+Expanded item 549/1431
+Error processing item 549: 'WebElement' object has no attribute 'lower'
+Expanded item 550/1431
+Error processing item 550: 'WebElement' object has no attribute 'lower'
+Expanded item 551/1431
+Error processing item 551: 'WebElement' object has no attribute 'lower'
+Expanded item 552/1431
+Error processing item 552: 'WebElement' object has no attribute 'lower'
+Expanded item 553/1431
+Error processing item 553: 'WebElement' object has no attribute 'lower'
+Expanded item 554/1431
+Error processing item 554: 'WebElement' object has no attribute 'lower'
+Expanded item 555/1431
+Error processing item 555: 'WebElement' object has no attribute 'lower'
+Expanded item 556/1431
+Error processing item 556: 'WebElement' object has no attribute 'lower'
+Expanded item 557/1431
+Error processing item 557: 'WebElement' object has no attribute 'lower'
+Expanded item 558/1431
+Error processing item 558: 'WebElement' object has no attribute 'lower'
+Expanded item 559/1431
+Error processing item 559: 'WebElement' object has no attribute 'lower'
+Expanded item 560/1431
+Error processing item 560: 'WebElement' object has no attribute 'lower'
+Expanded item 561/1431
+Error processing item 561: 'WebElement' object has no attribute 'lower'
+Expanded item 562/1431
+Error processing item 562: 'WebElement' object has no attribute 'lower'
+Expanded item 563/1431
+Error processing item 563: 'WebElement' object has no attribute 'lower'
+Expanded item 564/1431
+Error processing item 564: 'WebElement' object has no attribute 'lower'
+Expanded item 565/1431
+Error processing item 565: 'WebElement' object has no attribute 'lower'
+Expanded item 566/1431
+Error processing item 566: 'WebElement' object has no attribute 'lower'
+Expanded item 567/1431
+Error processing item 567: 'WebElement' object has no attribute 'lower'
+Expanded item 568/1431
+Error processing item 568: 'WebElement' object has no attribute 'lower'
+Expanded item 569/1431
+Error processing item 569: 'WebElement' object has no attribute 'lower'
+Expanded item 570/1431
+Error processing item 570: 'WebElement' object has no attribute 'lower'
+Expanded item 571/1431
+Error processing item 571: 'WebElement' object has no attribute 'lower'
+Expanded item 572/1431
+Error processing item 572: 'WebElement' object has no attribute 'lower'
+Expanded item 573/1431
+Error processing item 573: 'WebElement' object has no attribute 'lower'
+Expanded item 574/1431
+Error processing item 574: 'WebElement' object has no attribute 'lower'
+Expanded item 575/1431
+Error processing item 575: 'WebElement' object has no attribute 'lower'
+Expanded item 576/1431
+Error processing item 576: 'WebElement' object has no attribute 'lower'
+Expanded item 577/1431
+Error processing item 577: 'WebElement' object has no attribute 'lower'
+Expanded item 578/1431
+Error processing item 578: 'WebElement' object has no attribute 'lower'
+Expanded item 579/1431
+Error processing item 579: 'WebElement' object has no attribute 'lower'
+Expanded item 580/1431
+Error processing item 580: 'WebElement' object has no attribute 'lower'
+Expanded item 581/1431
+Error processing item 581: 'WebElement' object has no attribute 'lower'
+Expanded item 582/1431
+Error processing item 582: 'WebElement' object has no attribute 'lower'
+Expanded item 583/1431
+Error processing item 583: 'WebElement' object has no attribute 'lower'
+Expanded item 584/1431
+Error processing item 584: 'WebElement' object has no attribute 'lower'
+Expanded item 585/1431
+Error processing item 585: 'WebElement' object has no attribute 'lower'
+Expanded item 586/1431
+Error processing item 586: 'WebElement' object has no attribute 'lower'
+Expanded item 587/1431
+Error processing item 587: 'WebElement' object has no attribute 'lower'
+Expanded item 588/1431
+Error processing item 588: 'WebElement' object has no attribute 'lower'
+Expanded item 589/1431
+Error processing item 589: 'WebElement' object has no attribute 'lower'
+Expanded item 590/1431
+Error processing item 590: 'WebElement' object has no attribute 'lower'
+Expanded item 591/1431
+Error processing item 591: 'WebElement' object has no attribute 'lower'
+Expanded item 592/1431
+Error processing item 592: 'WebElement' object has no attribute 'lower'
+Expanded item 593/1431
+Error processing item 593: 'WebElement' object has no attribute 'lower'
+Expanded item 594/1431
+Error processing item 594: 'WebElement' object has no attribute 'lower'
+Expanded item 595/1431
+Error processing item 595: 'WebElement' object has no attribute 'lower'
+Expanded item 596/1431
+Error processing item 596: 'WebElement' object has no attribute 'lower'
+Expanded item 597/1431
+Error processing item 597: 'WebElement' object has no attribute 'lower'
+Expanded item 598/1431
+Error processing item 598: 'WebElement' object has no attribute 'lower'
+Expanded item 599/1431
+Error processing item 599: 'WebElement' object has no attribute 'lower'
+Expanded item 600/1431
+Error processing item 600: 'WebElement' object has no attribute 'lower'
+Expanded item 601/1431
+Error processing item 601: 'WebElement' object has no attribute 'lower'
+Expanded item 602/1431
+Error processing item 602: 'WebElement' object has no attribute 'lower'
+Expanded item 603/1431
+Error processing item 603: 'WebElement' object has no attribute 'lower'
+Expanded item 604/1431
+Error processing item 604: 'WebElement' object has no attribute 'lower'
+Expanded item 605/1431
+Error processing item 605: 'WebElement' object has no attribute 'lower'
+Expanded item 606/1431
+Error processing item 606: 'WebElement' object has no attribute 'lower'
+Expanded item 607/1431
+Error processing item 607: 'WebElement' object has no attribute 'lower'
+Expanded item 608/1431
+Error processing item 608: 'WebElement' object has no attribute 'lower'
+Expanded item 609/1431
+Error processing item 609: 'WebElement' object has no attribute 'lower'
+Expanded item 610/1431
+Error processing item 610: 'WebElement' object has no attribute 'lower'
+Expanded item 611/1431
+Error processing item 611: 'WebElement' object has no attribute 'lower'
+Expanded item 612/1431
+Error processing item 612: 'WebElement' object has no attribute 'lower'
+Expanded item 613/1431
+Error processing item 613: 'WebElement' object has no attribute 'lower'
+Expanded item 614/1431
+Error processing item 614: 'WebElement' object has no attribute 'lower'
+Expanded item 615/1431

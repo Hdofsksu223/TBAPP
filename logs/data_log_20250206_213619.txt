@@ -1,0 +1,840 @@
+Please enter your email: Scroll counter: 1
+Scroll counter: 2
+Scroll counter: 3
+Scroll counter: 4
+Scroll counter: 5
+Scroll counter: 6
+Scroll counter: 7
+Scroll counter: 8
+Scroll counter: 9
+Scroll counter: 10
+Scroll counter: 11
+Scroll counter: 12
+Scroll counter: 13
+Scroll counter: 14
+Scroll counter: 15
+Scroll counter: 16
+Scroll counter: 17
+Scroll counter: 18
+Scroll counter: 19
+Scroll counter: 20
+Scroll counter: 21
+Scroll counter: 22
+Scroll counter: 23
+Scroll counter: 24
+Scroll counter: 25
+Scroll counter: 26
+Scroll counter: 27
+Scroll counter: 28
+Scroll counter: 29
+Scroll counter: 30
+Scroll counter: 31
+Scroll counter: 32
+Scroll counter: 33
+Scroll counter: 34
+Scroll counter: 35
+Scroll counter: 36
+Scroll counter: 37
+Scroll counter: 38
+Scroll counter: 39
+Scroll counter: 40
+Scroll counter: 41
+Scroll counter: 42
+Scroll counter: 43
+Scroll counter: 44
+Scroll counter: 45
+Scroll counter: 46
+Scroll counter: 47
+Scroll counter: 48
+Scroll counter: 49
+Scroll counter: 50
+Scroll counter: 51
+Scroll counter: 52
+Scroll counter: 53
+Scroll counter: 54
+Scroll counter: 55
+Scroll counter: 56
+Scroll counter: 57
+Scroll counter: 58
+Scroll counter: 59
+Scroll counter: 60
+Scroll counter: 61
+Scroll counter: 62
+Scroll counter: 63
+Scroll counter: 64
+Scroll counter: 65
+Scroll counter: 66
+Scroll counter: 67
+Scroll counter: 68
+Scroll counter: 69
+Scroll counter: 70
+Scroll counter: 71
+Scroll counter: 72
+Scroll counter: 73
+Scroll counter: 74
+Scroll counter: 75
+Scroll counter: 76
+Scroll counter: 77
+Scroll counter: 78
+Scroll counter: 79
+Scroll counter: 80
+Scroll counter: 81
+Scroll counter: 82
+Scroll counter: 83
+Scroll counter: 84
+Scroll counter: 85
+Scroll counter: 86
+Scroll counter: 87
+Scroll counter: 88
+Scroll counter: 89
+Scroll counter: 90
+Scroll counter: 91
+Scroll counter: 92
+Scroll counter: 93
+Scroll counter: 94
+Scroll counter: 95
+Scroll counter: 96
+Scroll counter: 97
+Scroll counter: 98
+Scroll counter: 99
+Scroll counter: 100
+Scroll counter: 101
+Scroll counter: 102
+Scroll counter: 103
+Scroll counter: 104
+Scroll counter: 105
+Scroll counter: 106
+Scroll counter: 107
+Scroll counter: 108
+Scroll counter: 109
+Scroll counter: 110
+Scroll counter: 111
+Scroll counter: 112
+Scroll counter: 113
+Scroll counter: 114
+Scroll counter: 115
+Scroll counter: 116
+Scroll counter: 117
+Scroll counter: 118
+Scroll counter: 119
+Scroll counter: 120
+Scroll counter: 121
+Scroll counter: 122
+Scroll counter: 123
+Scroll counter: 124
+Scroll counter: 125
+Scroll counter: 126
+Scroll counter: 127
+Scroll counter: 128
+Scroll counter: 129
+Scroll counter: 130
+Scroll counter: 131
+Scroll counter: 132
+Scroll counter: 133
+Scroll counter: 134
+Scroll counter: 135
+Scroll counter: 136
+Scroll counter: 137
+Scroll counter: 138
+Scroll counter: 139
+Scroll counter: 140
+Scroll counter: 141
+Scroll counter: 142
+Scroll counter: 143
+Scroll counter: 144
+Scroll counter: 145
+Scroll counter: 146
+Scroll counter: 147
+Scroll counter: 148
+Scroll counter: 149
+Scroll counter: 150
+Scroll counter: 151
+Scroll counter: 152
+Scroll counter: 153
+Scroll counter: 154
+Scroll counter: 155
+Scroll counter: 156
+Scroll counter: 157
+Scroll counter: 158
+Scroll counter: 159
+Scroll counter: 160
+Scroll counter: 161
+Scroll counter: 162
+Scroll counter: 163
+Scroll counter: 164
+Scroll counter: 165
+Scroll counter: 166
+Scroll counter: 167
+Scroll counter: 168
+Scroll counter: 169
+Scroll counter: 170
+Found 1444 bet items after scrolling
+Error processing item 1: Message: element click intercepted: Element <button type="button" class="actions-module_expandBtn__Yk1wzyzI__platform-desktop-ui" title="Detalles" aria-label="Detalles" data-test="expand">...</button> is not clickable at point (1451, 12). Other element would receive the click: <div class="page-wrapper page-wrapper--flex">...</div>
+  (Session info: MicrosoftEdge=132.0.2957.140)
+Stacktrace:
+	GetHandleVerifier [0x00007FF60EBB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF60EE3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF60ED966C6+1401718]
+	(No symbol) [0x00007FF60E97410B]
+	(No symbol) [0x00007FF60E972138]
+	(No symbol) [0x00007FF60E96FC4A]
+	(No symbol) [0x00007FF60E96EE60]
+	(No symbol) [0x00007FF60E9646D3]
+	(No symbol) [0x00007FF60E98DDDA]
+	(No symbol) [0x00007FF60E963DB7]
+	(No symbol) [0x00007FF60E963C7D]
+	(No symbol) [0x00007FF60E98E0C0]
+	(No symbol) [0x00007FF60E963DB7]
+	(No symbol) [0x00007FF60E9A890D]
+	(No symbol) [0x00007FF60E98DA43]
+	(No symbol) [0x00007FF60E963304]
+	(No symbol) [0x00007FF60E962636]
+	(No symbol) [0x00007FF60E962EF1]
+	(No symbol) [0x00007FF60E9EE1A4]
+	(No symbol) [0x00007FF60EA9608F]
+	(No symbol) [0x00007FF60E9F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF60EEF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF60EB47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF60EB42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF60EB425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF60EB37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 2/1444
+Bet type: simple
+Bet ID: #5772370
+Bet Date: 05.02.2025
+Bet Time: 16:55
+Bet Odds: 1.01
+Error processing item 2: 'int' object has no attribute 'text'
+Expanded item 3/1444
+Bet type: simple
+Bet ID: #5772337
+Bet Date: 05.02.2025
+Bet Time: 16:49
+Bet Odds: 1.01
+Error processing item 3: 'int' object has no attribute 'text'
+Expanded item 4/1444
+Bet type: simple
+Bet ID: #5772289
+Bet Date: 05.02.2025
+Bet Time: 16:45
+Bet Odds: 1.04
+Error processing item 4: 'int' object has no attribute 'text'
+Expanded item 5/1444
+Bet type: simple
+Bet ID: #5771656
+Bet Date: 05.02.2025
+Bet Time: 15:24
+Bet Odds: 1.01
+Error processing item 5: 'int' object has no attribute 'text'
+Expanded item 6/1444
+Bet type: simple
+Bet ID: #5771519
+Bet Date: 05.02.2025
+Bet Time: 15:08
+Bet Odds: 1.2
+Error processing item 6: 'int' object has no attribute 'text'
+Expanded item 7/1444
+Bet type: simple
+Bet ID: #5771301
+Bet Date: 05.02.2025
+Bet Time: 14:47
+Bet Odds: 1.14
+Error processing item 7: 'int' object has no attribute 'text'
+Expanded item 8/1444
+Bet type: simple
+Bet ID: #5771238
+Bet Date: 05.02.2025
+Bet Time: 14:38
+Bet Odds: 1.22
+Error processing item 8: 'int' object has no attribute 'text'
+Expanded item 9/1444
+Bet type: simple
+Bet ID: #5769042
+Bet Date: 05.02.2025
+Bet Time: 04:48
+Bet Odds: 1.01
+Error processing item 9: 'int' object has no attribute 'text'
+Expanded item 10/1444
+Bet type: simple
+Bet ID: #5769021
+Bet Date: 05.02.2025
+Bet Time: 04:40
+Bet Odds: 1.1
+Error processing item 10: 'int' object has no attribute 'text'
+Expanded item 11/1444
+Bet type: simple
+Bet ID: #5768993
+Bet Date: 05.02.2025
+Bet Time: 04:29
+Bet Odds: 1.18
+Error processing item 11: 'int' object has no attribute 'text'
+Expanded item 12/1444
+Bet type: simple
+Bet ID: #5768966
+Bet Date: 05.02.2025
+Bet Time: 04:13
+Bet Odds: 1.09
+Error processing item 12: 'int' object has no attribute 'text'
+Expanded item 13/1444
+Bet type: simple
+Bet ID: #5768964
+Bet Date: 05.02.2025
+Bet Time: 04:13
+Bet Odds: 1.08
+Error processing item 13: 'int' object has no attribute 'text'
+Expanded item 14/1444
+Bet type: simple
+Bet ID: #5768946
+Bet Date: 05.02.2025
+Bet Time: 04:04
+Bet Odds: 1.05
+Error processing item 14: 'int' object has no attribute 'text'
+Expanded item 15/1444
+Bet type: simple
+Bet ID: #5768919
+Bet Date: 05.02.2025
+Bet Time: 03:52
+Bet Odds: 1.02
+Error processing item 15: 'int' object has no attribute 'text'
+Expanded item 16/1444
+Bet type: simple
+Bet ID: #5768910
+Bet Date: 05.02.2025
+Bet Time: 03:46
+Bet Odds: 1.1
+Error processing item 16: 'int' object has no attribute 'text'
+Expanded item 17/1444
+Bet type: simple
+Bet ID: #5768898
+Bet Date: 05.02.2025
+Bet Time: 03:41
+Bet Odds: 1.18
+Error processing item 17: 'int' object has no attribute 'text'
+Expanded item 18/1444
+Bet type: simple
+Bet ID: #5768848
+Bet Date: 05.02.2025
+Bet Time: 03:30
+Bet Odds: 1.07
+Error processing item 18: 'int' object has no attribute 'text'
+Expanded item 19/1444
+Bet type: simple
+Bet ID: #5768822
+Bet Date: 05.02.2025
+Bet Time: 03:25
+Bet Odds: 1.12
+Error processing item 19: 'int' object has no attribute 'text'
+Expanded item 20/1444
+Bet type: simple
+Bet ID: #5768804
+Bet Date: 05.02.2025
+Bet Time: 03:20
+Bet Odds: 1.07
+Error processing item 20: 'int' object has no attribute 'text'
+Expanded item 21/1444
+Bet type: simple
+Bet ID: #5768795
+Bet Date: 05.02.2025
+Bet Time: 03:13
+Bet Odds: 1.07
+Error processing item 21: 'int' object has no attribute 'text'
+Expanded item 22/1444
+Bet type: simple
+Bet ID: #5768734
+Bet Date: 05.02.2025
+Bet Time: 02:53
+Bet Odds: 1.01
+Error processing item 22: 'int' object has no attribute 'text'
+Expanded item 23/1444
+Bet type: simple
+Bet ID: #5768715
+Bet Date: 05.02.2025
+Bet Time: 02:45
+Bet Odds: 1.05
+Error processing item 23: 'int' object has no attribute 'text'
+Expanded item 24/1444
+Bet type: simple
+Bet ID: #5768704
+Bet Date: 05.02.2025
+Bet Time: 02:39
+Bet Odds: 1.09
+Error processing item 24: 'int' object has no attribute 'text'
+Expanded item 25/1444
+Bet type: simple
+Bet ID: #5768682
+Bet Date: 05.02.2025
+Bet Time: 02:34
+Bet Odds: 1.02
+Error processing item 25: 'int' object has no attribute 'text'
+Expanded item 26/1444
+Bet type: simple
+Bet ID: #5768671
+Bet Date: 05.02.2025
+Bet Time: 02:29
+Bet Odds: 1.03
+Error processing item 26: 'int' object has no attribute 'text'
+Expanded item 27/1444
+Bet type: simple
+Bet ID: #5768650
+Bet Date: 05.02.2025
+Bet Time: 02:22
+Bet Odds: 1.03
+Error processing item 27: 'int' object has no attribute 'text'
+Expanded item 28/1444
+Bet type: simple
+Bet ID: #5768634
+Bet Date: 05.02.2025
+Bet Time: 02:17
+Bet Odds: 1.09
+Error processing item 28: 'int' object has no attribute 'text'
+Expanded item 29/1444
+Bet type: simple
+Bet ID: #5768617
+Bet Date: 05.02.2025
+Bet Time: 02:12
+Bet Odds: 1.03
+Error processing item 29: 'int' object has no attribute 'text'
+Expanded item 30/1444
+Bet type: simple
+Bet ID: #5768598
+Bet Date: 05.02.2025
+Bet Time: 02:05
+Bet Odds: 1.06
+Error processing item 30: 'int' object has no attribute 'text'
+Expanded item 31/1444
+Bet type: simple
+Bet ID: #5768575
+Bet Date: 05.02.2025
+Bet Time: 02:00
+Bet Odds: 1.05
+Error processing item 31: 'int' object has no attribute 'text'
+Expanded item 32/1444
+Bet type: simple
+Bet ID: #5768527
+Bet Date: 05.02.2025
+Bet Time: 01:47
+Bet Odds: 1.08
+Error processing item 32: 'int' object has no attribute 'text'
+Expanded item 33/1444
+Bet type: simple
+Bet ID: #5768458
+Bet Date: 05.02.2025
+Bet Time: 01:23
+Bet Odds: 1.18
+Error processing item 33: 'int' object has no attribute 'text'
+Expanded item 34/1444
+Bet type: simple
+Bet ID: #5768447
+Bet Date: 05.02.2025
+Bet Time: 01:17
+Bet Odds: 1.06
+Error processing item 34: 'int' object has no attribute 'text'
+Expanded item 35/1444
+Bet type: simple
+Bet ID: #5768426
+Bet Date: 05.02.2025
+Bet Time: 01:10
+Bet Odds: 1.05
+Error processing item 35: 'int' object has no attribute 'text'
+Expanded item 36/1444
+Bet type: simple
+Bet ID: #5768385
+Bet Date: 05.02.2025
+Bet Time: 01:00
+Bet Odds: 1.14
+Error processing item 36: 'int' object has no attribute 'text'
+Expanded item 37/1444
+Bet type: simple
+Bet ID: #5768327
+Bet Date: 05.02.2025
+Bet Time: 00:42
+Bet Odds: 1.12
+Error processing item 37: 'int' object has no attribute 'text'
+Expanded item 38/1444
+Bet type: simple
+Bet ID: #5768297
+Bet Date: 05.02.2025
+Bet Time: 00:35
+Bet Odds: 1.05
+Error processing item 38: 'int' object has no attribute 'text'
+Expanded item 39/1444
+Bet type: simple
+Bet ID: #5768242
+Bet Date: 05.02.2025
+Bet Time: 00:21
+Bet Odds: 1.14
+Error processing item 39: 'int' object has no attribute 'text'
+Expanded item 40/1444
+Bet type: simple
+Bet ID: #5768217
+Bet Date: 05.02.2025
+Bet Time: 00:16
+Bet Odds: 1.08
+Error processing item 40: 'int' object has no attribute 'text'
+Expanded item 41/1444
+Bet type: simple
+Bet ID: #5768215
+Bet Date: 05.02.2025
+Bet Time: 00:16
+Bet Odds: 1.02
+Error processing item 41: 'int' object has no attribute 'text'
+Expanded item 42/1444
+Bet type: simple
+Bet ID: #5768175
+Bet Date: 05.02.2025
+Bet Time: 00:12
+Bet Odds: 1.06
+Error processing item 42: 'int' object has no attribute 'text'
+Expanded item 43/1444
+Bet type: simple
+Bet ID: #5768130
+Bet Date: 05.02.2025
+Bet Time: 00:04
+Bet Odds: 1.01
+Error processing item 43: 'int' object has no attribute 'text'
+Expanded item 44/1444
+Bet type: simple
+Bet ID: #5768021
+Bet Date: 04.02.2025
+Bet Time: 23:44
+Bet Odds: 1.09
+Error processing item 44: 'int' object has no attribute 'text'
+Expanded item 45/1444
+Bet type: simple
+Bet ID: #5767998
+Bet Date: 04.02.2025
+Bet Time: 23:39
+Bet Odds: 1.04
+Error processing item 45: 'int' object has no attribute 'text'
+Expanded item 46/1444
+Bet type: simple
+Bet ID: #5767932
+Bet Date: 04.02.2025
+Bet Time: 23:28
+Bet Odds: 1.01
+Error processing item 46: 'int' object has no attribute 'text'
+Expanded item 47/1444
+Bet type: simple
+Bet ID: #5767891
+Bet Date: 04.02.2025
+Bet Time: 23:23
+Bet Odds: 1.08
+Error processing item 47: 'int' object has no attribute 'text'
+Expanded item 48/1444
+Bet type: simple
+Bet ID: #5767822
+Bet Date: 04.02.2025
+Bet Time: 23:12
+Bet Odds: 1.16
+Error processing item 48: 'int' object has no attribute 'text'
+Expanded item 49/1444
+Bet type: simple
+Bet ID: #5767774
+Bet Date: 04.02.2025
+Bet Time: 23:03
+Bet Odds: 1.08
+Error processing item 49: 'int' object has no attribute 'text'
+Expanded item 50/1444
+Bet type: simple
+Bet ID: #5767753
+Bet Date: 04.02.2025
+Bet Time: 22:57
+Bet Odds: 1.14
+Error processing item 50: 'int' object has no attribute 'text'
+Expanded item 51/1444
+Bet type: simple
+Bet ID: #5767707
+Bet Date: 04.02.2025
+Bet Time: 22:46
+Bet Odds: 1.1
+Error processing item 51: 'int' object has no attribute 'text'
+Expanded item 52/1444
+Bet type: simple
+Bet ID: #5767682
+Bet Date: 04.02.2025
+Bet Time: 22:42
+Bet Odds: 1.03
+Error processing item 52: 'int' object has no attribute 'text'
+Expanded item 53/1444
+Bet type: simple
+Bet ID: #5767612
+Bet Date: 04.02.2025
+Bet Time: 22:28
+Bet Odds: 1.14
+Error processing item 53: 'int' object has no attribute 'text'
+Expanded item 54/1444
+Bet type: simple
+Bet ID: #5767585
+Bet Date: 04.02.2025
+Bet Time: 22:20
+Bet Odds: 1.2
+Error processing item 54: 'int' object has no attribute 'text'
+Expanded item 55/1444
+Bet type: simple
+Bet ID: #5767559
+Bet Date: 04.02.2025
+Bet Time: 22:14
+Bet Odds: 1.05
+Error processing item 55: 'int' object has no attribute 'text'
+Expanded item 56/1444
+Bet type: simple
+Bet ID: #5767500
+Bet Date: 04.02.2025
+Bet Time: 22:05
+Bet Odds: 1.1
+Error processing item 56: 'int' object has no attribute 'text'
+Expanded item 57/1444
+Bet type: simple
+Bet ID: #5766852
+Bet Date: 04.02.2025
+Bet Time: 19:41
+Bet Odds: 1.04
+Error processing item 57: 'int' object has no attribute 'text'
+Expanded item 58/1444
+Bet type: simple
+Bet ID: #5766829
+Bet Date: 04.02.2025
+Bet Time: 19:36
+Bet Odds: 1.2
+Error processing item 58: 'int' object has no attribute 'text'
+Expanded item 59/1444
+Bet type: simple
+Bet ID: #5766802
+Bet Date: 04.02.2025
+Bet Time: 19:31
+Bet Odds: 1.09
+Error processing item 59: 'int' object has no attribute 'text'
+Expanded item 60/1444
+Bet type: simple
+Bet ID: #5766764
+Bet Date: 04.02.2025
+Bet Time: 19:25
+Bet Odds: 1.06
+Error processing item 60: 'int' object has no attribute 'text'
+Expanded item 61/1444
+Bet type: simple
+Bet ID: #5766732
+Bet Date: 04.02.2025
+Bet Time: 19:18
+Bet Odds: 1.04
+Error processing item 61: 'int' object has no attribute 'text'
+Expanded item 62/1444
+Bet type: simple
+Bet ID: #5766718
+Bet Date: 04.02.2025
+Bet Time: 19:14
+Bet Odds: 1.12
+Error processing item 62: 'int' object has no attribute 'text'
+Expanded item 63/1444
+Bet type: simple
+Bet ID: #5766691
+Bet Date: 04.02.2025
+Bet Time: 19:08
+Bet Odds: 1.06
+Error processing item 63: 'int' object has no attribute 'text'
+Expanded item 64/1444
+Bet type: simple
+Bet ID: #5766666
+Bet Date: 04.02.2025
+Bet Time: 19:04
+Bet Odds: 1.2
+Error processing item 64: 'int' object has no attribute 'text'
+Expanded item 65/1444
+Bet type: simple
+Bet ID: #5766637
+Bet Date: 04.02.2025
+Bet Time: 18:55
+Bet Odds: 1.15
+Error processing item 65: 'int' object has no attribute 'text'
+Expanded item 66/1444
+Bet type: simple
+Bet ID: #5766628
+Bet Date: 04.02.2025
+Bet Time: 18:52
+Bet Odds: 1.02
+Error processing item 66: 'int' object has no attribute 'text'
+Expanded item 67/1444
+Bet type: simple
+Bet ID: #5766598
+Bet Date: 04.02.2025
+Bet Time: 18:45
+Bet Odds: 1.18
+Error processing item 67: 'int' object has no attribute 'text'
+Expanded item 68/1444
+Bet type: simple
+Bet ID: #5766567
+Bet Date: 04.02.2025
+Bet Time: 18:40
+Bet Odds: 1.06
+Error processing item 68: 'int' object has no attribute 'text'
+Expanded item 69/1444
+Bet type: simple
+Bet ID: #5766545
+Bet Date: 04.02.2025
+Bet Time: 18:37
+Bet Odds: 1.05
+Error processing item 69: 'int' object has no attribute 'text'
+Expanded item 70/1444
+Bet type: simple
+Bet ID: #5766516
+Bet Date: 04.02.2025
+Bet Time: 18:32
+Bet Odds: 1.2
+Error processing item 70: 'int' object has no attribute 'text'
+Expanded item 71/1444
+Bet type: simple
+Bet ID: #5766497
+Bet Date: 04.02.2025
+Bet Time: 18:29
+Bet Odds: 1.03
+Error processing item 71: 'int' object has no attribute 'text'
+Expanded item 72/1444
+Bet type: simple
+Bet ID: #5766454
+Bet Date: 04.02.2025
+Bet Time: 18:20
+Bet Odds: 1.04
+Error processing item 72: 'int' object has no attribute 'text'
+Expanded item 73/1444
+Bet type: simple
+Bet ID: #5766366
+Bet Date: 04.02.2025
+Bet Time: 18:02
+Bet Odds: 1.01
+Error processing item 73: 'int' object has no attribute 'text'
+Expanded item 74/1444
+Bet type: simple
+Bet ID: #5766351
+Bet Date: 04.02.2025
+Bet Time: 18:00
+Bet Odds: 1.04
+Error processing item 74: 'int' object has no attribute 'text'
+Expanded item 75/1444
+Bet type: simple
+Bet ID: #5766303
+Bet Date: 04.02.2025
+Bet Time: 17:51
+Bet Odds: 1.2
+Error processing item 75: 'int' object has no attribute 'text'
+Expanded item 76/1444
+Bet type: simple
+Bet ID: #5766281
+Bet Date: 04.02.2025
+Bet Time: 17:48
+Bet Odds: 1.01
+Error processing item 76: 'int' object has no attribute 'text'
+Expanded item 77/1444
+Bet type: simple
+Bet ID: #5766272
+Bet Date: 04.02.2025
+Bet Time: 17:45
+Bet Odds: 1.03
+Error processing item 77: 'int' object has no attribute 'text'
+Expanded item 78/1444
+Bet type: simple
+Bet ID: #5766248
+Bet Date: 04.02.2025
+Bet Time: 17:41
+Bet Odds: 1.18
+Error processing item 78: 'int' object has no attribute 'text'
+Expanded item 79/1444
+Bet type: simple
+Bet ID: #5766117
+Bet Date: 04.02.2025
+Bet Time: 17:20
+Bet Odds: 1.01
+Error processing item 79: 'int' object has no attribute 'text'
+Expanded item 80/1444
+Bet type: simple
+Bet ID: #5766096
+Bet Date: 04.02.2025
+Bet Time: 17:17
+Bet Odds: 1.08
+Error processing item 80: 'int' object has no attribute 'text'
+Expanded item 81/1444
+Bet type: simple
+Bet ID: #5766079
+Bet Date: 04.02.2025
+Bet Time: 17:14
+Bet Odds: 1.16
+Error processing item 81: 'int' object has no attribute 'text'
+Expanded item 82/1444
+Bet type: simple
+Bet ID: #5766038
+Bet Date: 04.02.2025
+Bet Time: 17:07
+Bet Odds: 1.02
+Error processing item 82: 'int' object has no attribute 'text'
+Expanded item 83/1444
+Bet type: simple
+Bet ID: #5766014
+Bet Date: 04.02.2025
+Bet Time: 17:03
+Bet Odds: 1.02
+Error processing item 83: 'int' object has no attribute 'text'
+Expanded item 84/1444
+Bet type: simple
+Bet ID: #5765998
+Bet Date: 04.02.2025
+Bet Time: 16:59
+Bet Odds: 1.03
+Error processing item 84: 'int' object has no attribute 'text'
+Expanded item 85/1444
+Bet type: simple
+Bet ID: #5765964
+Bet Date: 04.02.2025
+Bet Time: 16:56
+Bet Odds: 1.08
+Error processing item 85: 'int' object has no attribute 'text'
+Expanded item 86/1444
+Bet type: simple
+Bet ID: #5765962
+Bet Date: 04.02.2025
+Bet Time: 16:56
+Bet Odds: 1.04
+Error processing item 86: 'int' object has no attribute 'text'
+Expanded item 87/1444
+Bet type: simple
+Bet ID: #5765946
+Bet Date: 04.02.2025
+Bet Time: 16:54
+Bet Odds: 1.02
+Error processing item 87: 'int' object has no attribute 'text'
+Expanded item 88/1444
+Bet type: simple
+Bet ID: #5765929
+Bet Date: 04.02.2025
+Bet Time: 16:50
+Bet Odds: 1.03
+Error processing item 88: 'int' object has no attribute 'text'
+Expanded item 89/1444
+Bet type: simple
+Bet ID: #5765918
+Bet Date: 04.02.2025
+Bet Time: 16:47
+Bet Odds: 1.04
+Error processing item 89: 'int' object has no attribute 'text'
+Expanded item 90/1444
+Bet type: simple
+Bet ID: #5765917
+Bet Date: 04.02.2025
+Bet Time: 16:47
+Bet Odds: 1.15
+Error processing item 90: 'int' object has no attribute 'text'
+Expanded item 91/1444
+Bet type: simple
+Bet ID: #5765901
+Bet Date: 04.02.2025
+Bet Time: 16:43
+Bet Odds: 1.09
+Error processing item 91: 'int' object has no attribute 'text'
+Expanded item 92/1444
+Bet type: simple
+Bet ID: #5765887
+Bet Date: 04.02.2025
+Bet Time: 16:39
+Bet Odds: 1.18
+Error processing item 92: 'int' object has no attribute 'text'

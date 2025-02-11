@@ -1,0 +1,2021 @@
+Please enter your email: Scroll counter: 1
+Scroll counter: 2
+Scroll counter: 3
+Scroll counter: 4
+Scroll counter: 5
+Scroll counter: 6
+Scroll counter: 7
+Scroll counter: 8
+Scroll counter: 9
+Scroll counter: 10
+Scroll counter: 11
+Scroll counter: 12
+Scroll counter: 13
+Scroll counter: 14
+Scroll counter: 15
+Scroll counter: 16
+Scroll counter: 17
+Scroll counter: 18
+Scroll counter: 19
+Scroll counter: 20
+Scroll counter: 21
+Scroll counter: 22
+Scroll counter: 23
+Scroll counter: 24
+Scroll counter: 25
+Scroll counter: 26
+Scroll counter: 27
+Scroll counter: 28
+Scroll counter: 29
+Scroll counter: 30
+Scroll counter: 31
+Scroll counter: 32
+Scroll counter: 33
+Scroll counter: 34
+Scroll counter: 35
+Scroll counter: 36
+Scroll counter: 37
+Scroll counter: 38
+Scroll counter: 39
+Scroll counter: 40
+Scroll counter: 41
+Scroll counter: 42
+Scroll counter: 43
+Scroll counter: 44
+Scroll counter: 45
+Scroll counter: 46
+Scroll counter: 47
+Scroll counter: 48
+Scroll counter: 49
+Scroll counter: 50
+Scroll counter: 51
+Scroll counter: 52
+Scroll counter: 53
+Scroll counter: 54
+Scroll counter: 55
+Scroll counter: 56
+Scroll counter: 57
+Scroll counter: 58
+Scroll counter: 59
+Scroll counter: 60
+Scroll counter: 61
+Scroll counter: 62
+Scroll counter: 63
+Scroll counter: 64
+Scroll counter: 65
+Scroll counter: 66
+Scroll counter: 67
+Scroll counter: 68
+Scroll counter: 69
+Scroll counter: 70
+Scroll counter: 71
+Scroll counter: 72
+Scroll counter: 73
+Scroll counter: 74
+Scroll counter: 75
+Scroll counter: 76
+Scroll counter: 77
+Scroll counter: 78
+Scroll counter: 79
+Scroll counter: 80
+Scroll counter: 81
+Scroll counter: 82
+Scroll counter: 83
+Scroll counter: 84
+Scroll counter: 85
+Scroll counter: 86
+Scroll counter: 87
+Scroll counter: 88
+Scroll counter: 89
+Scroll counter: 90
+Scroll counter: 91
+Scroll counter: 92
+Scroll counter: 93
+Scroll counter: 94
+Scroll counter: 95
+Scroll counter: 96
+Scroll counter: 97
+Scroll counter: 98
+Scroll counter: 99
+Scroll counter: 100
+Scroll counter: 101
+Scroll counter: 102
+Scroll counter: 103
+Scroll counter: 104
+Scroll counter: 105
+Scroll counter: 106
+Scroll counter: 107
+Scroll counter: 108
+Scroll counter: 109
+Scroll counter: 110
+Scroll counter: 111
+Scroll counter: 112
+Scroll counter: 113
+Scroll counter: 114
+Scroll counter: 115
+Scroll counter: 116
+Scroll counter: 117
+Scroll counter: 118
+Scroll counter: 119
+Scroll counter: 120
+Scroll counter: 121
+Scroll counter: 122
+Scroll counter: 123
+Scroll counter: 124
+Scroll counter: 125
+Scroll counter: 126
+Scroll counter: 127
+Scroll counter: 128
+Scroll counter: 129
+Scroll counter: 130
+Scroll counter: 131
+Scroll counter: 132
+Scroll counter: 133
+Scroll counter: 134
+Scroll counter: 135
+Scroll counter: 136
+Scroll counter: 137
+Scroll counter: 138
+Scroll counter: 139
+Scroll counter: 140
+Scroll counter: 141
+Scroll counter: 142
+Scroll counter: 143
+Scroll counter: 144
+Scroll counter: 145
+Scroll counter: 146
+Scroll counter: 147
+Scroll counter: 148
+Scroll counter: 149
+Scroll counter: 150
+Scroll counter: 151
+Scroll counter: 152
+Scroll counter: 153
+Scroll counter: 154
+Scroll counter: 155
+Scroll counter: 156
+Scroll counter: 157
+Scroll counter: 158
+Scroll counter: 159
+Scroll counter: 160
+Scroll counter: 161
+Scroll counter: 162
+Scroll counter: 163
+Scroll counter: 164
+Scroll counter: 165
+Scroll counter: 166
+Scroll counter: 167
+Scroll counter: 168
+Scroll counter: 169
+Scroll counter: 170
+Found 1434 bet items after scrolling
+Error processing item 1: Message: element click intercepted: Element <button type="button" class="actions-module_expandBtn__Yk1wzyzI__platform-desktop-ui" title="Detalles" aria-label="Detalles" data-test="expand">...</button> is not clickable at point (1451, 12). Other element would receive the click: <div class="page-wrapper page-wrapper--flex">...</div>
+  (Session info: MicrosoftEdge=132.0.2957.140)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C3410B]
+	(No symbol) [0x00007FF7D1C32138]
+	(No symbol) [0x00007FF7D1C2FC4A]
+	(No symbol) [0x00007FF7D1C2EE60]
+	(No symbol) [0x00007FF7D1C246D3]
+	(No symbol) [0x00007FF7D1C4DDDA]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 2/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2574")>
+Error processing item 2: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 3/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2581")>
+Error processing item 3: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 4/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2587")>
+Error processing item 4: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 5/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2591")>
+Error processing item 5: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 6/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2595")>
+Error processing item 6: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 7/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2599")>
+Error processing item 7: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 8/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2603")>
+Error processing item 8: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 9/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2607")>
+Error processing item 9: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 10/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2611")>
+Error processing item 10: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 11/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2616")>
+Error processing item 11: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 12/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2621")>
+Error processing item 12: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 13/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2626")>
+Error processing item 13: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 14/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2631")>
+Error processing item 14: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 15/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2635")>
+Error processing item 15: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 16/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2640")>
+Error processing item 16: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 17/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2645")>
+Error processing item 17: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 18/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2650")>
+Error processing item 18: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 19/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2654")>
+Error processing item 19: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 20/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2659")>
+Error processing item 20: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 21/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2665")>
+Error processing item 21: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 22/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2670")>
+Error processing item 22: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 23/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2675")>
+Error processing item 23: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 24/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2680")>
+Error processing item 24: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 25/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2685")>
+Error processing item 25: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 26/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2690")>
+Error processing item 26: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 27/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2695")>
+Error processing item 27: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 28/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2700")>
+Error processing item 28: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 29/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2705")>
+Error processing item 29: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 30/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2710")>
+Error processing item 30: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 31/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2715")>
+Error processing item 31: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 32/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2720")>
+Error processing item 32: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 33/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2725")>
+Error processing item 33: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 34/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2730")>
+Error processing item 34: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 35/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2734")>
+Error processing item 35: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 36/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2739")>
+Error processing item 36: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 37/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2743")>
+Error processing item 37: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 38/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2747")>
+Error processing item 38: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 39/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2751")>
+Error processing item 39: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 40/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2755")>
+Error processing item 40: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 41/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2760")>
+Error processing item 41: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 42/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2765")>
+Error processing item 42: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 43/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2770")>
+Error processing item 43: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 44/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2775")>
+Error processing item 44: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 45/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2780")>
+Error processing item 45: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 46/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2785")>
+Error processing item 46: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 47/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2790")>
+Error processing item 47: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 48/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2795")>
+Error processing item 48: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 49/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2800")>
+Error processing item 49: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 50/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2805")>
+Error processing item 50: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 51/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2810")>
+Error processing item 51: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 52/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2815")>
+Error processing item 52: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 53/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2820")>
+Error processing item 53: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 54/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2825")>
+Error processing item 54: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 55/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2830")>
+Error processing item 55: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 56/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2835")>
+Error processing item 56: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[@data-test='eventDate']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Expanded item 57/1434
+Bet type: simple
+Bet ID: <selenium.webdriver.remote.webelement.WebElement (session="c705b6e8fe19e8fda7caa59434672a60", element="f.8B30B0856F7B72EA5A55FE83FD291618.d.6657E5D1E440B0EE68B872D9B42D648B.e.2840")>

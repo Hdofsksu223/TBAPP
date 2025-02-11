@@ -1,0 +1,309 @@
+Please enter your email: Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4765. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.75
+1.22
+1.42
+2.6
+1.12
+5.3
+1.4
+2.65
+1.57
+2.2
+1.37
+2.8
+1.14
+4.65
+2.5
+1.45
+3.25
+1.27
+1.52
+2.3
+6
+1.08
+Game period text: 3º set6:118:112:2
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+1.22
+3.55
+1.1
+5.4
+SELECTED BUTTON:  1.08
+Scoreboard:
+Team Name: Plachy, Jiri, Team Score: 2, Set: 0
+Team Name: Pycha, Patrik, Team Score: 2, Set: 2
+Unclicked Pycha, Patrik - insufficient lead and/or value 1.08
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4765. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+4.55
+1.15
+1.1
+5.6
+1.07
+Game period text: 4º set11:611:2
+Associated alt value: 15
+League name: TT ELITE SERIES
+Button clicked for league: TT ELITE SERIES
+6.25
+1.4
+2.65
+1.57
+2.2
+1.4
+2.7
+No outcome buttons found in the first market item.
+1.65
+2.05
+3.5
+1.25
+1.7
+2
+5.6
+1.1
+1.35
+2.85
+1.06
+Game period text: No Iniciado11:5
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Skipping button click for league: CZECH LIGA PRO at timer: No Iniciado11:5 because it's in the first or second set.
+6.75
+SELECTED BUTTON:  1.04
+Scoreboard:
+Team Name: Sawczak Jr, Milosz, Team Score: 4, Set: 2
+Team Name: Misiak, Mateusz, Team Score: 1, Set: 1
+Unclicked Sawczak Jr, Milosz - insufficient lead and/or value 1.04
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4765. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+4.95
+1.12
+1.12
+4.9
+1.04
+Game period text: 4º set11:611:2
+Associated alt value: 15
+League name: TT ELITE SERIES
+Button clicked for league: TT ELITE SERIES
+7.75
+1.4
+2.65
+1.57
+2.2
+1.2
+3.9
+1.14
+4.7
+1.75
+1.95
+3.45
+1.25
+1.9
+1.75
+5.7
+1.09
+1.3
+3.1
+1.06
+Game period text: No Iniciado11:5
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Skipping button click for league: CZECH LIGA PRO at timer: No Iniciado11:5 because it's in the first or second set.
+6.75
+SELECTED BUTTON:  1.02
+Scoreboard:
+Team Name: Sawczak Jr, Milosz, Team Score: 5, Set: 2
+Team Name: Misiak, Mateusz, Team Score: 1, Set: 1
+Bet amount set to: 500
+Possible win amount (510.0) is not sufficient compared to input amount (500).
+Unclicked selected outcome button due to insufficient bet amount.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4765. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+6
+1.08
+Game period text: 4º set11:89:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Button clicked for league: TT ELITE SERIES
+1.14
+4.85
+1.02
+Game period text: No Iniciado11:6
+Associated alt value: 15
+League name: TT ELITE SERIES
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado11:6 because it's in the first or second set.
+9.25
+1.4
+2.65
+1.57
+2.2
+1.2
+3.9
+No outcome buttons found in the first market item.
+1.75
+1.95
+4.1
+1.18
+2.25
+1.7
+7.5
+1.05
+Game period text: 3º set6:118:114:5
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+1.3
+3.1
+1.1
+5.6
+SELECTED BUTTON:  1.09
+Scoreboard:
+Team Name: Kotyl, Krzysztof, Team Score: 1, Set: 1
+Team Name: Baran, Sebastian, Team Score: 2, Set: 2
+Validation error for button: Message: element click intercepted: Element <div data-test="outcome">...</div> is not clickable at point (748, 11). Other element would receive the click: <a class="menu-cms-header-module_item__ll8IscUk__platform-common site-menu-module_default__2TBNe2AR__platform-desktop-ui site-menu-module_link__MKYI8mSj__platform-desktop-ui" data-test="menu-cms-header-item" href="/cl/live-casino">...</a>
+  (Session info: MicrosoftEdge=132.0.2957.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B50D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B535BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B52B66C6+1401718]
+	(No symbol) [0x00007FF6B4E9410B]
+	(No symbol) [0x00007FF6B4E92138]
+	(No symbol) [0x00007FF6B4E8FC4A]
+	(No symbol) [0x00007FF6B4E8EE60]
+	(No symbol) [0x00007FF6B4E846D3]
+	(No symbol) [0x00007FF6B4EADDDA]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4E83C7D]
+	(No symbol) [0x00007FF6B4EAE0C0]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4EC890D]
+	(No symbol) [0x00007FF6B4EADA43]
+	(No symbol) [0x00007FF6B4E83304]
+	(No symbol) [0x00007FF6B4E82636]
+	(No symbol) [0x00007FF6B4E82EF1]
+	(No symbol) [0x00007FF6B4F0E1A4]
+	(No symbol) [0x00007FF6B4FB608F]
+	(No symbol) [0x00007FF6B4F11B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6B54181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5067191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5062484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B50625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5057546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+SELECTED BUTTON:  1.05
+Scoreboard:
+Team Name: Plachy, Jiri, Team Score: 4, Set: 0
+Team Name: Pycha, Patrik, Team Score: 6, Set: 2
+Unclicked Pycha, Patrik - insufficient lead and/or value 1.05
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4765. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+5.8
+1.09
+1.04
+Game period text: 3º set13:1111:94:2
+Associated alt value: 15
+League name: TT ELITE SERIES
+Button clicked for league: TT ELITE SERIES
+6.75
+1.01
+Game period text: 4º set11:611:2
+Associated alt value: 15
+League name: TT ELITE SERIES
+Button clicked for league: TT ELITE SERIES
+10
+1.4
+2.65
+1.57
+2.2
+1.1
+5.6
+No outcome buttons found in the first market item.
+1.6
+2.1
+No outcome buttons found in the first market item.
+2
+1.7
+7.25
+1.05
+Game period text: 3º set6:118:115:6
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+1.18
+4
+1.09
+5.8
+SELECTED BUTTON:  1.08
+Scoreboard:
+Team Name: Sawicki, Grzegorz, Team Score: 4, Set: 2
+Team Name: Michalski, Jakub, Team Score: 4, Set: 0
+Validation error for button: Message: element click intercepted: Element <div data-test="outcome">...</div> is not clickable at point (650, 11). Other element would receive the click: <ul class="site-menu-module_menu__dvbNnYzv__platform-desktop-ui">...</ul>
+  (Session info: MicrosoftEdge=132.0.2957.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B50D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B535BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B52B66C6+1401718]
+	(No symbol) [0x00007FF6B4E9410B]
+	(No symbol) [0x00007FF6B4E92138]
+	(No symbol) [0x00007FF6B4E8FC4A]
+	(No symbol) [0x00007FF6B4E8EE60]
+	(No symbol) [0x00007FF6B4E846D3]
+	(No symbol) [0x00007FF6B4EADDDA]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4E83C7D]
+	(No symbol) [0x00007FF6B4EAE0C0]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4EC890D]
+	(No symbol) [0x00007FF6B4EADA43]
+	(No symbol) [0x00007FF6B4E83304]
+	(No symbol) [0x00007FF6B4E82636]
+	(No symbol) [0x00007FF6B4E82EF1]
+	(No symbol) [0x00007FF6B4F0E1A4]
+	(No symbol) [0x00007FF6B4FB608F]
+	(No symbol) [0x00007FF6B4F11B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6B54181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5067191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5062484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B50625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5057546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+SELECTED BUTTON:  1.02
+Scoreboard:
+Team Name: Sawczak Jr, Milosz, Team Score: 7, Set: 2
+Team Name: Misiak, Mateusz, Team Score: 3, Set: 1
+SELECTED BUTTON:  1.09
+Scoreboard:
+Team Name: Plachy, Jiri, Team Score: 6, Set: 0
+Team Name: Pycha, Patrik, Team Score: 6, Set: 2
+Unclicked Pycha, Patrik - insufficient lead and/or value 1.09
+Bet amount set to: 500
+Possible win amount (570.0) is sufficient compared to input amount (500).
+Looking for after-bet errors
+Looking for after-bet errors
+Bet placed successfully.
+Scoreboard:
+Team Name: Sawczak Jr, Milosz, Team Score: 7, Set: 2
+Team Name: Misiak, Mateusz, Team Score: 3, Set: 1

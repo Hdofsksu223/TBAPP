@@ -1,0 +1,127 @@
+Please enter your email: Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4500. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+7.25
+1.05
+Game period text: 4º set6:1111:8
+Associated alt value: 15
+League name: TT ELITE SERIES
+Button clicked for league: TT ELITE SERIES
+1.55
+2.25
+1.52
+2.3
+1.7
+2
+Button not found in market container
+No valid buttons to bet on
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4500. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+9.25
+1.02
+Game period text: 4º set6:1111:8
+Associated alt value: 15
+League name: TT ELITE SERIES
+Button clicked for league: TT ELITE SERIES
+1.65
+2.05
+1.9
+1.8
+1.7
+2
+Button not found in market container
+No valid buttons to bet on
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4500. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+Error processing event row: Message: 
+
+1.75
+1.9
+1.9
+1.8
+1.7
+2
+Error getting selected buttons: Message: 
+
+Error getting selected buttons: Message: 
+
+No valid buttons to bet on
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4500. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+Error processing event row: Message: 
+
+1.8
+1.9
+Error processing event row: Message: 
+
+1.95
+1.7
+1.7
+2
+Error getting selected buttons: Message: 
+
+Error getting selected buttons: Message: 
+
+No valid buttons to bet on
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4500. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+Error processing event row: Message: 
+
+1.75
+1.95
+1.9
+1.8
+1.5
+2.4
+1.7
+2
+Error getting selected buttons: Message: 
+
+Error getting selected buttons: Message: 
+
+No valid buttons to bet on
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4500. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.75
+1.9
+1.9
+1.8
+1.18
+4.15
+1.7
+2
+Error getting selected buttons: Message: 
+
+Error getting selected buttons: Message: 
+
+No valid buttons to bet on
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4500. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.9
+1.75
+1.85
+1.85
+1.4
+2.7
+1.7
+2

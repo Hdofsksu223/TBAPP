@@ -1,0 +1,73 @@
+Please enter your email: Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 880. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.27
+3.2
+2.7
+1.4
+2.15
+1.6
+3.05
+1.32
+1.75
+1.95
+1.18
+Game period text: 2do Set11:62:0
+Associated alt value: 15
+League name: TT CUP
+Skipping button click for league: TT CUP at timer: 2do Set11:62:0 because it's in the first or second set.
+4.2
+4.75
+1.14
+Game period text: 2do Set9:112:6
+Associated alt value: 15
+League name: TT CUP
+Skipping button click for league: TT CUP at timer: 2do Set9:112:6 because it's in the first or second set.
+1.57
+2.2
+1.08
+Game period text: 4º set11:912:1412:10
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+6.25
+1.32
+2.5
+1.14
+Game period text: 5º set11:77:1111:4
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+4.7
+5
+1.12
+Game period text: 3º set9:1114:123:5
+Associated alt value: 15
+League name: CHALLENGER SERIES
+Button clicked for league: CHALLENGER SERIES
+SELECTED BUTTON:  1.08
+Scoreboard:
+Team Name: Turek, Tomas, Team Score: 6, Set: 2
+Team Name: Kliuchuk, Rostyslav, Team Score: 4, Set: 1
+SELECTED BUTTON:  1.14
+Scoreboard:
+Team Name: Brom, Vladan, Team Score: 6, Set: 2
+Team Name: Vosyka, Radek, Team Score: 3, Set: 2
+SELECTED BUTTON:  1.12
+Scoreboard:
+Team Name: Echaveguren, Manuel, Team Score: 3, Set: 1
+Team Name: Hollo, Mike, Team Score: 5, Set: 1
+Unclicked Hollo, Mike - insufficient lead and/or value 1.12
+Bet amount set to: 500
+Possible win amount (615.0) is sufficient compared to input amount (500).
+Looking for after-bet errors
+Looking for after-bet errors
+Bet placed successfully.
+Scoreboard:
+Team Name: Turek, Tomas, Team Score: 6, Set: 2
+Team Name: Kliuchuk, Rostyslav, Team Score: 4, Set: 1
+Scoreboard:
+Team Name: Brom, Vladan, Team Score: 6, Set: 2
+Team Name: Vosyka, Radek, Team Score: 3, Set: 2

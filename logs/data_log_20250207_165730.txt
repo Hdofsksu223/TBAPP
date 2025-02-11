@@ -1,0 +1,2236 @@
+Please enter your email: Scroll counter: 1
+Scroll counter: 2
+Scroll counter: 3
+Scroll counter: 4
+Scroll counter: 5
+Scroll counter: 6
+Scroll counter: 7
+Scroll counter: 8
+Scroll counter: 9
+Scroll counter: 10
+Scroll counter: 11
+Scroll counter: 12
+Scroll counter: 13
+Scroll counter: 14
+Scroll counter: 15
+Scroll counter: 16
+Scroll counter: 17
+Scroll counter: 18
+Scroll counter: 19
+Scroll counter: 20
+Scroll counter: 21
+Scroll counter: 22
+Scroll counter: 23
+Scroll counter: 24
+Scroll counter: 25
+Scroll counter: 26
+Scroll counter: 27
+Scroll counter: 28
+Scroll counter: 29
+Scroll counter: 30
+Scroll counter: 31
+Scroll counter: 32
+Scroll counter: 33
+Scroll counter: 34
+Scroll counter: 35
+Scroll counter: 36
+Scroll counter: 37
+Scroll counter: 38
+Scroll counter: 39
+Scroll counter: 40
+Scroll counter: 41
+Scroll counter: 42
+Scroll counter: 43
+Scroll counter: 44
+Scroll counter: 45
+Scroll counter: 46
+Scroll counter: 47
+Scroll counter: 48
+Scroll counter: 49
+Scroll counter: 50
+Scroll counter: 51
+Scroll counter: 52
+Scroll counter: 53
+Scroll counter: 54
+Scroll counter: 55
+Scroll counter: 56
+Scroll counter: 57
+Scroll counter: 58
+Scroll counter: 59
+Scroll counter: 60
+Scroll counter: 61
+Scroll counter: 62
+Scroll counter: 63
+Scroll counter: 64
+Scroll counter: 65
+Scroll counter: 66
+Scroll counter: 67
+Scroll counter: 68
+Scroll counter: 69
+Scroll counter: 70
+Scroll counter: 71
+Scroll counter: 72
+Scroll counter: 73
+Scroll counter: 74
+Scroll counter: 75
+Scroll counter: 76
+Scroll counter: 77
+Scroll counter: 78
+Scroll counter: 79
+Scroll counter: 80
+Scroll counter: 81
+Scroll counter: 82
+Scroll counter: 83
+Scroll counter: 84
+Scroll counter: 85
+Scroll counter: 86
+Scroll counter: 87
+Scroll counter: 88
+Scroll counter: 89
+Scroll counter: 90
+Scroll counter: 91
+Scroll counter: 92
+Scroll counter: 93
+Scroll counter: 94
+Scroll counter: 95
+Scroll counter: 96
+Scroll counter: 97
+Scroll counter: 98
+Scroll counter: 99
+Scroll counter: 100
+Scroll counter: 101
+Scroll counter: 102
+Scroll counter: 103
+Scroll counter: 104
+Scroll counter: 105
+Scroll counter: 106
+Scroll counter: 107
+Scroll counter: 108
+Scroll counter: 109
+Scroll counter: 110
+Scroll counter: 111
+Scroll counter: 112
+Scroll counter: 113
+Scroll counter: 114
+Scroll counter: 115
+Scroll counter: 116
+Scroll counter: 117
+Scroll counter: 118
+Scroll counter: 119
+Scroll counter: 120
+Scroll counter: 121
+Scroll counter: 122
+Scroll counter: 123
+Scroll counter: 124
+Scroll counter: 125
+Scroll counter: 126
+Scroll counter: 127
+Scroll counter: 128
+Scroll counter: 129
+Scroll counter: 130
+Scroll counter: 131
+Scroll counter: 132
+Scroll counter: 133
+Scroll counter: 134
+Scroll counter: 135
+Scroll counter: 136
+Scroll counter: 137
+Scroll counter: 138
+Scroll counter: 139
+Scroll counter: 140
+Scroll counter: 141
+Scroll counter: 142
+Scroll counter: 143
+Scroll counter: 144
+Scroll counter: 145
+Scroll counter: 146
+Scroll counter: 147
+Scroll counter: 148
+Scroll counter: 149
+Scroll counter: 150
+Scroll counter: 151
+Scroll counter: 152
+Scroll counter: 153
+Scroll counter: 154
+Scroll counter: 155
+Scroll counter: 156
+Scroll counter: 157
+Scroll counter: 158
+Scroll counter: 159
+Scroll counter: 160
+Scroll counter: 161
+Scroll counter: 162
+Scroll counter: 163
+Scroll counter: 164
+Scroll counter: 165
+Scroll counter: 166
+Scroll counter: 167
+Scroll counter: 168
+Scroll counter: 169
+Scroll counter: 170
+Found 1466 bet items after scrolling
+
+
+-----------------------------------------------
+Expanded item 1/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (482, null, null, null, 1, null, null, 0.00, null, 15, TT Cup, Krezel, Andrzej, Chybinski, Marek, Krezel, Andrzej, 3–2 (9–11, 8–11, 11–5, 11–5, 11–7), null, null, 2025-02-07 17:06:09.491019).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Cup', 'team_1': 'Krezel, Andrzej', 'team_2': 'Chybinski, Marek', 'selected_team': 'Krezel, Andrzej', 'match_result': '3–2 (9–11, 8–11, 11–5, 11–5, 11–7)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 2/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (483, null, null, null, 1, null, null, 0.00, null, 15, TT Cup, Sochor, Miroslav, Sulc, Martin, Sochor, Miroslav, 3–2 (8–11, 8–11, 11–7, 11–6, 11–3), null, null, 2025-02-07 17:06:10.812205).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Cup', 'team_1': 'Sochor, Miroslav', 'team_2': 'Sulc, Martin', 'selected_team': 'Sochor, Miroslav', 'match_result': '3–2 (8–11, 8–11, 11–7, 11–6, 11–3)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 3/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (484, null, null, null, 1, null, null, 0.00, null, 15, Czech Liga Pro, Kos, Tomas, Kliuchuk, Rostyslav, Kliuchuk, Rostyslav, 3–2 (11–4, 7–11, 11–3, 13–15, 11–10), null, null, 2025-02-07 17:06:12.023997).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'Czech Liga Pro', 'team_1': 'Kos, Tomas', 'team_2': 'Kliuchuk, Rostyslav', 'selected_team': 'Kliuchuk, Rostyslav', 'match_result': '3–2 (11–4, 7–11, 11–3, 13–15, 11–10)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 4/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (485, null, null, null, 1, null, null, 0.00, null, 15, Czech Liga Pro, Pleskot, Jan, Sulava, Lubor, Sulava, Lubor, 2–3 (11–9, 5–11, 11–4, 6–11, 8–10), null, null, 2025-02-07 17:06:13.203609).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'Czech Liga Pro', 'team_1': 'Pleskot, Jan', 'team_2': 'Sulava, Lubor', 'selected_team': 'Sulava, Lubor', 'match_result': '2–3 (11–9, 5–11, 11–4, 6–11, 8–10)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 5/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (486, null, null, null, 1, null, null, 0.00, null, 15, TT Cup, Nemec, Michal, Rolik, Jakub, Nemec, Michal, 3–2 (11–7, 11–4, 12–14, 10–12, 11–3), null, null, 2025-02-07 17:06:14.541987).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Cup', 'team_1': 'Nemec, Michal', 'team_2': 'Rolik, Jakub', 'selected_team': 'Nemec, Michal', 'match_result': '3–2 (11–7, 11–4, 12–14, 10–12, 11–3)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 6/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (487, null, null, null, 1, null, null, 0.00, null, 15, TT Cup, Dvorak, Jakub, Kral, Adam, Dvorak, Jakub, 3–1 (3–11, 11–4, 11–8, 10–7), null, null, 2025-02-07 17:06:16.084587).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Cup', 'team_1': 'Dvorak, Jakub', 'team_2': 'Kral, Adam', 'selected_team': 'Dvorak, Jakub', 'match_result': '3–1 (3–11, 11–4, 11–8, 10–7)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 7/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (488, null, null, null, 1, null, null, 0.00, null, 15, TT Cup, Wloszek, Sylwester, Masternak, Jan, Masternak, Jan, 2–3 (6–11, 11–8, 6–11, 11–8, 9–10), null, null, 2025-02-07 17:06:17.498051).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Cup', 'team_1': 'Wloszek, Sylwester', 'team_2': 'Masternak, Jan', 'selected_team': 'Masternak, Jan', 'match_result': '2–3 (6–11, 11–8, 6–11, 11–8, 9–10)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 8/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (489, null, null, null, 1, null, null, 0.00, null, 15, TT Cup, Hrncir, Jan, Bauer, Horst, Hrncir, Jan, 3–2 (10–12, 11–7, 8–11, 11–5, 10–4), null, null, 2025-02-07 17:06:19.07356).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Cup', 'team_1': 'Hrncir, Jan', 'team_2': 'Bauer, Horst', 'selected_team': 'Hrncir, Jan', 'match_result': '3–2 (10–12, 11–7, 8–11, 11–5, 10–4)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 9/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (490, null, null, null, 1, null, null, 0.00, null, 15, TT Elite Series, Murawski, Daniel, Rudomina, Kamil, Rudomina, Kamil, 1–3 (9–11, 8–11, 11–8, 8–10), null, null, 2025-02-07 17:06:20.527889).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Elite Series', 'team_1': 'Murawski, Daniel', 'team_2': 'Rudomina, Kamil', 'selected_team': 'Rudomina, Kamil', 'match_result': '1–3 (9–11, 8–11, 11–8, 8–10)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 10/1466
+Bet type: múltiple
+Bet_type: 2
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error retrieving sport ID: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//img[contains(@src, '/assets/sport/')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Scrape2 error: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[contains(@class, 'details-module_league__CSGMiNgP__platform-desktop-ui')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error retrieving sport ID: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//img[contains(@src, '/assets/sport/')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Scrape2 error: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[contains(@class, 'details-module_league__CSGMiNgP__platform-desktop-ui')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+
+
+-----------------------------------------------
+Expanded item 11/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (491, null, null, null, 1, null, null, 0.00, null, 15, TT Elite Series, Maruszak, Piotr, Marcinowski, Krzysztof, Maruszak, Piotr, 3–2 (11–9, 7–11, 11–13, 11–9, 11–5), null, null, 2025-02-07 17:06:23.139168).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Elite Series', 'team_1': 'Maruszak, Piotr', 'team_2': 'Marcinowski, Krzysztof', 'selected_team': 'Maruszak, Piotr', 'match_result': '3–2 (11–9, 7–11, 11–13, 11–9, 11–5)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 12/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (492, null, null, null, 1, null, null, 0.00, null, 15, Czech Liga Pro, Tuma, Daniel, Nohejl, Matej, Nohejl, Matej, 2–3 (11–13, 9–11, 12–10, 11–8, 7–11), null, null, 2025-02-07 17:06:24.563479).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'Czech Liga Pro', 'team_1': 'Tuma, Daniel', 'team_2': 'Nohejl, Matej', 'selected_team': 'Nohejl, Matej', 'match_result': '2–3 (11–13, 9–11, 12–10, 11–8, 7–11)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 13/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (493, null, null, null, 1, null, null, 0.00, null, 15, Czech Liga Pro, Zika, Tadeas, Kos, Tomas, Kos, Tomas, 2–3 (11–7, 5–11, 6–11, 11–7, 4–10), null, null, 2025-02-07 17:06:25.97521).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'Czech Liga Pro', 'team_1': 'Zika, Tadeas', 'team_2': 'Kos, Tomas', 'selected_team': 'Kos, Tomas', 'match_result': '2–3 (11–7, 5–11, 6–11, 11–7, 4–10)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 14/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (494, null, null, null, 1, null, null, 0.00, null, 15, TT Cup, Sulc, Martin, Bauer, Horst, Sulc, Martin, 3–1 (11–8, 11–8, 8–11, 11–8), null, null, 2025-02-07 17:06:27.321066).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Cup', 'team_1': 'Sulc, Martin', 'team_2': 'Bauer, Horst', 'selected_team': 'Sulc, Martin', 'match_result': '3–1 (11–8, 11–8, 8–11, 11–8)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 15/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (495, null, null, null, 1, null, null, 0.00, null, 15, TT Cup, Gallego, Jose A, Martinez, Alejandro, Martinez, Alejandro, 1–3 (7–11, 11–13, 12–10, 8–11), null, null, 2025-02-07 17:06:28.699277).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Cup', 'team_1': 'Gallego, Jose A', 'team_2': 'Martinez, Alejandro', 'selected_team': 'Martinez, Alejandro', 'match_result': '1–3 (7–11, 11–13, 12–10, 8–11)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 16/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (496, null, null, null, 1, null, null, 0.00, null, 15, Czech Liga Pro, Pavelka, Radim, Plachy, Jiri, Plachy, Jiri, 3–2 (7–11, 8–11, 11–6, 11–2, 12–10), null, null, 2025-02-07 17:06:30.0998).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'Czech Liga Pro', 'team_1': 'Pavelka, Radim', 'team_2': 'Plachy, Jiri', 'selected_team': 'Plachy, Jiri', 'match_result': '3–2 (7–11, 8–11, 11–6, 11–2, 12–10)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 17/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (497, null, null, null, 1, null, null, 0.00, null, 15, TT Cup, Hrncir, Jan, Sochor, Miroslav, Sochor, Miroslav, 2–3 (9–11, 9–11, 11–7, 11–3, 5–11), null, null, 2025-02-07 17:06:31.489373).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Cup', 'team_1': 'Hrncir, Jan', 'team_2': 'Sochor, Miroslav', 'selected_team': 'Sochor, Miroslav', 'match_result': '2–3 (9–11, 9–11, 11–7, 11–3, 5–11)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 18/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (498, null, null, null, 1, null, null, 0.00, null, 15, Czech Liga Pro, Madle, Ludek, Hejduk, Alexander, Hejduk, Alexander, 0–3 (13–15, 8–11, 3–11), null, null, 2025-02-07 17:06:32.848993).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'Czech Liga Pro', 'team_1': 'Madle, Ludek', 'team_2': 'Hejduk, Alexander', 'selected_team': 'Hejduk, Alexander', 'match_result': '0–3 (13–15, 8–11, 3–11)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 19/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: WTT Singapore Smash
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (499, null, null, null, 1, null, null, 0.00, null, 15, WTT Singapore Smash, Qiu, Dang, U21 Lebrun, Alexis, U21 Lebrun, Alexis, 2–4 (9–11, 11–5, 7–11, 8–11, 11–6, 4–11), null, null, 2025-02-07 17:06:34.356977).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'WTT Singapore Smash', 'team_1': 'Qiu, Dang', 'team_2': 'U21 Lebrun, Alexis', 'selected_team': 'U21 Lebrun, Alexis', 'match_result': '2–4 (9–11, 11–5, 7–11, 8–11, 11–6, 4–11)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 20/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (500, null, null, null, 1, null, null, 0.00, null, 15, Czech Liga Pro, Turek, Tomas, Smidt, Karel, Turek, Tomas, 3–0 (11–6, 11–8, 10–8), null, null, 2025-02-07 17:06:35.773847).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'Czech Liga Pro', 'team_1': 'Turek, Tomas', 'team_2': 'Smidt, Karel', 'selected_team': 'Turek, Tomas', 'match_result': '3–0 (11–6, 11–8, 10–8)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 21/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (501, null, null, null, 1, null, null, 0.00, null, 15, TT Elite Series, Litwiniuk, Marcin, Czerwinski, Bartosz, Czerwinski, Bartosz, 1–3 (8–11, 9–11, 11–8, 8–11), null, null, 2025-02-07 17:06:37.178559).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Elite Series', 'team_1': 'Litwiniuk, Marcin', 'team_2': 'Czerwinski, Bartosz', 'selected_team': 'Czerwinski, Bartosz', 'match_result': '1–3 (8–11, 9–11, 11–8, 8–11)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 22/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: WTT Singapore Smash, Women
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (502, null, null, null, 1, null, null, 0.00, null, 15, WTT Singapore Smash, Women, Wang, Yidi, Ito, Mima, Wang, Yidi, 4–1 (11–7, 4–11, 11–9, 11–6, 10–5), null, null, 2025-02-07 17:06:38.630173).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'WTT Singapore Smash, Women', 'team_1': 'Wang, Yidi', 'team_2': 'Ito, Mima', 'selected_team': 'Wang, Yidi', 'match_result': '4–1 (11–7, 4–11, 11–9, 11–6, 10–5)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 23/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 1 (<class 'int'>)
+Match league: Copa del Rey
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (503, null, null, null, 1, null, null, 0.00, null, 1, Copa del Rey, CD Leganés, Real Madrid CF, null, 2–3 (1–2, 1–1), null, null, 2025-02-07 17:06:40.02881).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 1, 'league': 'Copa del Rey', 'team_1': 'CD Leganés', 'team_2': 'Real Madrid CF', 'selected_team': None, 'match_result': '2–3 (1–2, 1–1)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 24/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (504, null, null, null, 1, null, null, 0.00, null, 15, TT Elite Series, Filbrandt, Tomasz, Kolodziej, Krystian, Kolodziej, Krystian, 3–2 (9–11, 9–11, 11–8, 11–8, 10–2), null, null, 2025-02-07 17:06:41.399867).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Elite Series', 'team_1': 'Filbrandt, Tomasz', 'team_2': 'Kolodziej, Krystian', 'selected_team': 'Kolodziej, Krystian', 'match_result': '3–2 (9–11, 9–11, 11–8, 11–8, 10–2)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 25/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (505, null, null, null, 1, null, null, 0.00, null, 15, TT Cup, Wenda, Krzysztof, Kiejda, Arkadiusz, Kiejda, Arkadiusz, 1–3 (11–8, 6–11, 7–11, 9–11), null, null, 2025-02-07 17:06:42.814376).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Cup', 'team_1': 'Wenda, Krzysztof', 'team_2': 'Kiejda, Arkadiusz', 'selected_team': 'Kiejda, Arkadiusz', 'match_result': '1–3 (11–8, 6–11, 7–11, 9–11)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 26/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (506, null, null, null, 1, null, null, 0.00, null, 15, Czech Liga Pro, Vavrecka, Michal, Pagac, Zbynek, Pagac, Zbynek, 1–3 (7–11, 12–10, 5–11, 5–10), null, null, 2025-02-07 17:06:44.140242).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'Czech Liga Pro', 'team_1': 'Vavrecka, Michal', 'team_2': 'Pagac, Zbynek', 'selected_team': 'Pagac, Zbynek', 'match_result': '1–3 (7–11, 12–10, 5–11, 5–10)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 27/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (507, null, null, null, 1, null, null, 0.00, null, 15, TT Cup, Vrastil, Petr, Vyvial, Pavel, Vyvial, Pavel, 2–3 (9–11, 11–9, 2–11, 13–11, 7–11), null, null, 2025-02-07 17:06:45.664429).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Cup', 'team_1': 'Vrastil, Petr', 'team_2': 'Vyvial, Pavel', 'selected_team': 'Vyvial, Pavel', 'match_result': '2–3 (9–11, 11–9, 2–11, 13–11, 7–11)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 28/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (508, null, null, null, 1, null, null, 0.00, null, 15, TT Cup, Soucek, Lukas, Strejc, Filip, Strejc, Filip, 0–3 (9–11, 9–11, 12–14), null, null, 2025-02-07 17:06:47.110183).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Cup', 'team_1': 'Soucek, Lukas', 'team_2': 'Strejc, Filip', 'selected_team': 'Strejc, Filip', 'match_result': '0–3 (9–11, 9–11, 12–14)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 29/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (509, null, null, null, 1, null, null, 0.00, null, 15, TT Cup, Wenda, Krzysztof, Stojek, Karol, Wenda, Krzysztof, 2–3 (11–6, 15–13, 7–11, 11–13, 7–11), null, null, 2025-02-07 17:06:48.578393).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Cup', 'team_1': 'Wenda, Krzysztof', 'team_2': 'Stojek, Karol', 'selected_team': 'Wenda, Krzysztof', 'match_result': '2–3 (11–6, 15–13, 7–11, 11–13, 7–11)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 30/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (510, null, null, null, 1, null, null, 0.00, null, 15, TT Elite Series, Wisniewski, Karol, Filbrandt, Tomasz, Wisniewski, Karol, 3–1 (13–11, 9–11, 11–9, 10–6), null, null, 2025-02-07 17:06:49.874378).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Elite Series', 'team_1': 'Wisniewski, Karol', 'team_2': 'Filbrandt, Tomasz', 'selected_team': 'Wisniewski, Karol', 'match_result': '3–1 (13–11, 9–11, 11–9, 10–6)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 31/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (511, null, null, null, 1, null, null, 0.00, null, 15, Czech Liga Pro, Potensky, Jan, Madle, Ludek, Potensky, Jan, 3–2 (6–11, 13–11, 11–8, 9–11, 10–6), null, null, 2025-02-07 17:06:51.196429).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'Czech Liga Pro', 'team_1': 'Potensky, Jan', 'team_2': 'Madle, Ludek', 'selected_team': 'Potensky, Jan', 'match_result': '3–2 (6–11, 13–11, 11–8, 9–11, 10–6)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 32/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: WTT Singapore Smash, Women
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (512, null, null, null, 1, null, null, 0.00, null, 15, WTT Singapore Smash, Women, Samara, Elizabeta, Polcanova, Sofia, Polcanova, Sofia, 2–3 (10–12, 11–8, 11–9, 9–11, 10–11), null, null, 2025-02-07 17:06:52.558211).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'WTT Singapore Smash, Women', 'team_1': 'Samara, Elizabeta', 'team_2': 'Polcanova, Sofia', 'selected_team': 'Polcanova, Sofia', 'match_result': '2–3 (10–12, 11–8, 11–9, 9–11, 10–11)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 33/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (513, null, null, null, 1, null, null, 0.00, null, 15, TT Cup, Sanchez, Pedro J, Cambronero, Angel, Sanchez, Pedro J, 3–1 (11–5, 13–11, 8–11, 10–9), null, null, 2025-02-07 17:06:53.90088).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Cup', 'team_1': 'Sanchez, Pedro J', 'team_2': 'Cambronero, Angel', 'selected_team': 'Sanchez, Pedro J', 'match_result': '3–1 (11–5, 13–11, 8–11, 10–9)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 34/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (514, null, null, null, 1, null, null, 0.00, null, 15, TT Cup, Stapor, Dawid, Warpas, Blazej, Warpas, Blazej, 3–2 (8–11, 9–11, 13–11, 11–4, 9–11), null, null, 2025-02-07 17:06:55.305827).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Cup', 'team_1': 'Stapor, Dawid', 'team_2': 'Warpas, Blazej', 'selected_team': 'Warpas, Blazej', 'match_result': '3–2 (8–11, 9–11, 13–11, 11–4, 9–11)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 35/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (515, null, null, null, 1, null, null, 0.00, null, 15, TT Elite Series, Olejnik, Martin, David, Petr, David, Petr, 2–3 (11–7, 13–11, 9–11, 6–11, 3–11), null, null, 2025-02-07 17:06:56.656451).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Elite Series', 'team_1': 'Olejnik, Martin', 'team_2': 'David, Petr', 'selected_team': 'David, Petr', 'match_result': '2–3 (11–7, 13–11, 9–11, 6–11, 3–11)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 36/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: WTT Singapore Smash, Doubles
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (516, null, null, null, 1, null, null, 0.00, null, 15, WTT Singapore Smash, Doubles, Ishiy V / Teodoro G, Bourrassaud F / Dorr E, Bourrassaud F / Dorr E, 2–3 (13–11, 11–9, 9–11, 6–11, 9–10), null, null, 2025-02-07 17:06:58.113029).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'WTT Singapore Smash, Doubles', 'team_1': 'Ishiy V / Teodoro G', 'team_2': 'Bourrassaud F / Dorr E', 'selected_team': 'Bourrassaud F / Dorr E', 'match_result': '2–3 (13–11, 11–9, 9–11, 6–11, 9–10)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 37/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (517, null, null, null, 1, null, null, 0.00, null, 15, TT Cup, Lysakowski, Michal, Kukawka, Milosz, Lysakowski, Michal, 2–3 (7–11, 11–13, 11–7, 11–6, 9–10), null, null, 2025-02-07 17:06:59.469558).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Cup', 'team_1': 'Lysakowski, Michal', 'team_2': 'Kukawka, Milosz', 'selected_team': 'Lysakowski, Michal', 'match_result': '2–3 (7–11, 11–13, 11–7, 11–6, 9–10)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 38/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: WTT Singapore Smash, Doubles
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (518, null, null, null, 1, null, null, 0.00, null, 15, WTT Singapore Smash, Doubles, Ishiy V / Teodoro G, Bourrassaud F / Dorr E, Ishiy V / Teodoro G, 2–3 (13–11, 11–9, 9–11, 6–11, 9–10), null, null, 2025-02-07 17:07:00.788885).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'WTT Singapore Smash, Doubles', 'team_1': 'Ishiy V / Teodoro G', 'team_2': 'Bourrassaud F / Dorr E', 'selected_team': 'Ishiy V / Teodoro G', 'match_result': '2–3 (13–11, 11–9, 9–11, 6–11, 9–10)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 39/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (519, null, null, null, 1, null, null, 0.00, null, 15, TT Elite Series, Petas, Kacper, Spychala, Adrian, Spychala, Adrian, 3–2 (11–7, 6–11, 9–11, 12–10, 10–9), null, null, 2025-02-07 17:07:02.184497).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Elite Series', 'team_1': 'Petas, Kacper', 'team_2': 'Spychala, Adrian', 'selected_team': 'Spychala, Adrian', 'match_result': '3–2 (11–7, 6–11, 9–11, 12–10, 10–9)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 40/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Database insertion error: el valor nulo en la columna «bet_date» de la relación «bet_history» viola la restricción de no nulo
+DETAIL:  La fila que falla contiene (520, null, null, null, 1, null, null, 0.00, null, 15, TT Elite Series, Lilien, Aleksander, Przewlocki, Jacek, Przewlocki, Jacek, 2–3 (11–4, 7–11, 9–11, 12–10, 10–12), null, null, 2025-02-07 17:07:03.554027).
+
+Failed data: {'bet_id': None, 'bet_date': None, 'bet_time': None, 'odds': None, 'stake': None, 'win_amount': 0.0, 'bet_status': None, 'sport_id': 15, 'league': 'TT Elite Series', 'team_1': 'Lilien, Aleksander', 'team_2': 'Przewlocki, Jacek', 'selected_team': 'Przewlocki, Jacek', 'match_result': '2–3 (11–4, 7–11, 9–11, 12–10, 10–12)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 41/1466
+Bet type: simple
+Bet_type: 1
+Scrape1 error: Message: invalid selector: Unable to locate an element with the xpath expression .//td[@data-test, 'betting-history-odds'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string './/td[@data-test, 'betting-history-odds']' is not a valid XPath expression.
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A2B350]
+	(No symbol) [0x00007FF776A2DA0C]
+	(No symbol) [0x00007FF776A2DADF]
+	(No symbol) [0x00007FF776A6D35B]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series

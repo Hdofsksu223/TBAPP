@@ -1,0 +1,185 @@
+Please enter your email: Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4898. Proceeding to place bets...
+Removed events before betting.
+No more 'Borrar resultado' buttons to click.
+1.95
+1.75
+5.8
+1.09
+Game period text: 3º set9:117:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Button clicked for league: TT ELITE SERIES
+SELECTED BUTTON:  1.09
+Scoreboard:
+Team Name: Schaniel Krzysztof, Team Score: 6, Set: 0
+Team Name: Jadach, Oskar, Team Score: 6, Set: 2
+Unclicked Jadach, Oskar - insufficient lead and/or value 1.09
+No valid buttons remaining after final checks
+5.8
+1.09
+Game period text: 3º set8:1111:13
+Associated alt value: 15
+League name: TT ELITE SERIES
+Button clicked for league: TT ELITE SERIES
+SELECTED BUTTON:  1.09
+Scoreboard:
+Team Name: Schaniel Krzysztof, Team Score: 8, Set: 0
+Team Name: Jadach, Oskar, Team Score: 6, Set: 2
+Unclicked Jadach, Oskar - insufficient lead and/or value 1.09
+SELECTED BUTTON:  1.09
+Scoreboard:
+Team Name: Poliniewicz, Grzegorz, Team Score: 12, Set: 0
+Team Name: Wloczko, Krzysztof, Team Score: 12, Set: 2
+Unclicked Wloczko, Krzysztof - insufficient lead and/or value 1.09
+No valid buttons remaining after final checks
+1.65
+2.7
+1.8
+1.9
+7
+1.05
+Game period text: 3º set3:1110:12
+Associated alt value: 15
+League name: TT CUP
+Button clicked for league: TT CUP
+SELECTED BUTTON:  1.12
+Scoreboard:
+Team Name: Schaniel Krzysztof, Team Score: 8, Set: 0
+Team Name: Jadach, Oskar, Team Score: 6, Set: 2
+Unclicked Jadach, Oskar - insufficient lead and/or value 1.12
+Validation error for button: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B50D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B535BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B52B66C6+1401718]
+	(No symbol) [0x00007FF6B4E4B350]
+	(No symbol) [0x00007FF6B4E4DA0C]
+	(No symbol) [0x00007FF6B4E4DADF]
+	(No symbol) [0x00007FF6B4E8940F]
+	(No symbol) [0x00007FF6B4EADDDA]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4E83C7D]
+	(No symbol) [0x00007FF6B4EAE0C0]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4EC890D]
+	(No symbol) [0x00007FF6B4EADA43]
+	(No symbol) [0x00007FF6B4E83304]
+	(No symbol) [0x00007FF6B4E82636]
+	(No symbol) [0x00007FF6B4E82EF1]
+	(No symbol) [0x00007FF6B4F0E1A4]
+	(No symbol) [0x00007FF6B4FB608F]
+	(No symbol) [0x00007FF6B4F11B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6B54181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5067191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5062484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B50625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5057546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+SELECTED BUTTON:  1.05
+Scoreboard:
+Team Name: Jakubsky, Filip, Team Score: 3, Set: 0
+Team Name: Nadvornik, Vaclav, Team Score: 3, Set: 2
+Unclicked Nadvornik, Vaclav - insufficient lead and/or value 1.05
+No valid buttons remaining after final checks
+2.8
+1.37
+2.7
+1.4
+4.4
+1.16
+Game period text: 4º set5:118:1111:5
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Button clicked for league: CZECH LIGA PRO
+SELECTED BUTTON:  1.12
+Scoreboard:
+Team Name: Schaniel Krzysztof, Team Score: 8, Set: 0
+Team Name: Jadach, Oskar, Team Score: 6, Set: 2
+Unclicked Jadach, Oskar - insufficient lead and/or value 1.12
+Validation error for button: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B50D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B535BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B52B66C6+1401718]
+	(No symbol) [0x00007FF6B4E4B350]
+	(No symbol) [0x00007FF6B4E4DA0C]
+	(No symbol) [0x00007FF6B4E4DADF]
+	(No symbol) [0x00007FF6B4E8940F]
+	(No symbol) [0x00007FF6B4EADDDA]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4E83C7D]
+	(No symbol) [0x00007FF6B4EAE0C0]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4EC890D]
+	(No symbol) [0x00007FF6B4EADA43]
+	(No symbol) [0x00007FF6B4E83304]
+	(No symbol) [0x00007FF6B4E82636]
+	(No symbol) [0x00007FF6B4E82EF1]
+	(No symbol) [0x00007FF6B4F0E1A4]
+	(No symbol) [0x00007FF6B4FB608F]
+	(No symbol) [0x00007FF6B4F11B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6B54181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5067191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5062484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B50625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5057546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+SELECTED BUTTON:  1.08
+Scoreboard:
+Team Name: Jakubsky, Filip, Team Score: 4, Set: 0
+Team Name: Nadvornik, Vaclav, Team Score: 3, Set: 2
+Unclicked Nadvornik, Vaclav - insufficient lead and/or value 1.08
+SELECTED BUTTON:  1.08
+Scoreboard:
+Team Name: Mares, Erik, Team Score: 8, Set: 1
+Team Name: Macela, Petr, Team Score: 9, Set: 2
+Unclicked Macela, Petr - insufficient lead and/or value 1.08
+No valid buttons remaining after final checks
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4898. Proceeding to place bets...
+Removed events before betting.
+Error clicking remove button for event: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6B50D0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B535BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6B52B66C6+1401718]
+	(No symbol) [0x00007FF6B4E4B350]
+	(No symbol) [0x00007FF6B4E4DA0C]
+	(No symbol) [0x00007FF6B4E4DADF]
+	(No symbol) [0x00007FF6B4E8D35B]
+	(No symbol) [0x00007FF6B4E8DA0B]
+	(No symbol) [0x00007FF6B4E83E0C]
+	(No symbol) [0x00007FF6B4EADE1F]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4E83C7D]
+	(No symbol) [0x00007FF6B4EAE0C0]
+	(No symbol) [0x00007FF6B4E83DB7]
+	(No symbol) [0x00007FF6B4EC890D]
+	(No symbol) [0x00007FF6B4EADA43]
+	(No symbol) [0x00007FF6B4E83304]
+	(No symbol) [0x00007FF6B4E82636]
+	(No symbol) [0x00007FF6B4E82EF1]
+	(No symbol) [0x00007FF6B4F0E1A4]
+	(No symbol) [0x00007FF6B4FB608F]
+	(No symbol) [0x00007FF6B4F11B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6B54181F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5067191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5062484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B50625C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6B5057546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+4.5

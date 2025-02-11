@@ -6,6 +6,33 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 import getpass  # Import getpass for secure password input
+import os
+import sys
+from datetime import datetime
+from selenium.common.exceptions import StaleElementReferenceException
+
+# Add this code right after the imports
+log_dir = "logs"
+os.makedirs(log_dir, exist_ok=True)
+timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+log_file = os.path.join(log_dir, f"{timestamp}_tbAppPinpon.txt")
+
+class Tee:
+    def __init__(self, *files):
+        self.files = files
+    def write(self, obj):
+        for f in self.files:
+            f.write(obj)
+    def flush(self):
+        for f in self.files:
+            f.flush()
+
+original_stdout = sys.stdout
+original_stderr = sys.stderr
+
+log_fd = open(log_file, "w", encoding="utf-8")
+sys.stdout = Tee(sys.stdout, log_fd)
+sys.stderr = Tee(sys.stderr, log_fd)
 
 # Function to access the site and manage cookie settings
 def accessSite(driver):
@@ -71,7 +98,7 @@ def check_balance(driver):
             balance_text = balance_element.text.strip()  # Get the text and strip any whitespace
             balance_value = int(balance_text.replace('$', '').replace(',', '').strip())  # Convert to integer
             
-            if balance_value > 1000:
+            if balance_value > 3500:
                 print(f"Balance is {balance_value}. Proceeding to place bets...")
                 return balance_value  # Return the balance value for further use
             else:
@@ -81,6 +108,26 @@ def check_balance(driver):
         except Exception as e:
             print("Error checking balance:", e)
             time.sleep(5)
+
+def remove_betslip_2(driver):
+    # Locate all coupon bet events
+    coupon_bet_events = driver.find_elements(By.XPATH, "//div[@data-test='couponBetEvent']")
+    
+    if not coupon_bet_events:
+        print("No coupon bet events found to remove.")
+        return  # Exit the function if there are no events
+
+    for event in coupon_bet_events:
+        try:
+            # Click the associated remove button
+            remove_button = event.find_element(By.XPATH, ".//div[contains(@class, 'coupon-bet-remove-module_Holder')]")
+            remove_button.click()
+            print("Removed events before betting.")
+        except Exception as e:
+            # If the status element is not found, continue to the next event
+            print(f"Error clicking remove button for event: {e}")
+            continue
+
 
 def remove_betslip(driver):
     # Click the 'Borrar resultado' button if it exists
@@ -142,41 +189,37 @@ def check_bet_amount(driver, amount):
         print("Error checking bet amount:", e)
         return False  # Return false if there's an error
 
-def check_outcome_button_values(driver, selected_outcome_buttons):
-    """Check the values of selected outcome buttons and unclick those above the threshold."""
-    values_below_threshold = True  # Flag to check if all values are below 1.1
-    for button in selected_outcome_buttons:
-        try:
-            time.sleep(2)
-            value_span = button.find_element(By.XPATH, ".//span")
-            value_text = value_span.text.strip()
-            value = float(value_text)
 
-            if value > 1.09:
-                # Unclick the button if the value is above 1.1
-                button.click()  # This assumes clicking again will unselect it
-                print(f"Unclicked button for value: {value} (above threshold)")
-                values_below_threshold = False  # Set flag to false if any value is above 1.1
-                time.sleep(1)
-
-        except Exception as e:
-            print("Error retrieving value from button:", e)
-
-    return values_below_threshold
-
-
-def place_bet_and_check_errors(driver, selected_outcome_buttons, amount):
+def place_bet_and_check_errors(driver, button, selected_outcome_buttons, amount, placed_bet):
+    """Click the 'Apostar' button and check for error messages."""
+    
+    def click_with_retry(element, retries=3):
+        """Attempt to click an element with a specified number of retries."""
+        for attempt in range(retries):
+            try:
+                element.click()
+                return True  # Click successful
+            except Exception as e:
+                print(f"Click failed on attempt {attempt + 1}: {e}")
+                time.sleep(1)  # Wait before retrying
+        return False  # Click failed after retries
 
     if not check_bet_amount(driver, amount):
         # Unclick the selected outcome buttons if the bet amount is not sufficient
-        for button in selected_outcome_buttons:
-            button.click()  # This assumes clicking again will unselect it
-            print("Unclicked selected outcome button due to insufficient bet amount.")
+        button.click()  # This assumes clicking again will unselect it
+        placed_bet = False
+        print("Unclicked selected outcome button due to insufficient bet amount.")
         return False  # Exit the function if the bet cannot be placed
-    
-    """Click the 'Apostar' button and check for error messages."""
+
+    # Locate the 'Apostar' button
     apostar_button = driver.find_element(By.XPATH, "//button[@data-test='betslip-place-bet']//span[contains(text(), 'Apostar')]")
-    apostar_button.click()  # Click the "Apostar" button
+    
+    # Attempt to click the 'Apostar' button with retries
+    if not click_with_retry(apostar_button):
+        print("Failed to click 'Apostar' button after multiple attempts.")
+        placed_bet = False
+        return False  # Exit if the button could not be clicked
+
     placed_bet = True
 
     # Loop to check for the error message
@@ -190,10 +233,9 @@ def place_bet_and_check_errors(driver, selected_outcome_buttons, amount):
                 print("Error message detected: Invalid stake amount entered for current bet.")
                 
                 # Unclick the selected outcome buttons
-                for button in selected_outcome_buttons:
-                    button.click()  # This assumes clicking again will unselect it
-                    placed_bet = False
-                    print("Unclicked selected outcome button.")
+                button.click()  # This assumes clicking again will unselect it
+                placed_bet = False
+                print("Unclicked selected outcome button due to error.")
                 return placed_bet  # Exit the function after handling the error
         except Exception:
             # If the error message is not found, continue checking
@@ -202,220 +244,141 @@ def place_bet_and_check_errors(driver, selected_outcome_buttons, amount):
 
     if placed_bet:
         print("Bet placed successfully.")
-    time.sleep(120)  # Wait for 30 seconds after placing a bet
+        
+        # Print the scoreboard for each selected match
+        try:
+            # Find the event container for the button
+            events_table = button.find_element(By.XPATH, ".//ancestor::div[@data-test='eventTableRow']")
+            
+            team_scores = events_table.find_elements(By.XPATH, ".//div[contains(@class, 'event-table-additional-results-module_base__ZlPakjl1__platform-common')]")
+            set_team_scores = events_table.find_elements(By.XPATH, ".//div[@data-test='teamScore']")
+            team_names = events_table.find_elements(By.XPATH, ".//div[@data-test='teamName']")
+
+            
+            print("Scoreboard:")
+            for team_name, team_score, set_team_score in zip(team_names, team_scores, set_team_scores):
+                print(f"Team Name: {team_name.text}, Team Score: {team_score.text}, Set: {set_team_score.text}")
+            placed_bet = True
+
+        except Exception as e:
+            print("Error retrieving team names and scores:", e)
+
+    time.sleep(1)  # Wait for 30 seconds after placing a bet
     return placed_bet
 
-def input_bet(driver, selected_outcome_buttons):
-    """Main function to input the bet and place it."""
-    amount = set_bet_amount(driver)  # Set the bet amount
 
-    # Check if the input field is not empty
-    bet_input = driver.find_element(By.XPATH, "//input[@data-test='betslip-amount']")
-    if bet_input.get_attribute("value"):  # Check if the value is not empty
-        time.sleep(1)
+def check_and_adjust_outcome_buttons(driver, button, selected_outcome_buttons, placed_bet):
+    """Validate all selected buttons' scores and values before placing bet"""
+    valid_buttons = []
+    time.sleep(1)
+    if selected_outcome_buttons == True:
+        try:
+            texto = button.text.strip()
+            print("SELECTED BUTTON: ", texto)
+            # Get the specific row context for each button
+            row = button.find_element(By.XPATH, ".//ancestor::div[@data-test='eventTableRow']")
+            
+            # Get current value check
+            value_span = button.find_element(By.XPATH, ".//span")
+            current_value = float(value_span.text.strip())
+            
+
+            # Get scores from THIS button's match context
+            #team_scores = row.find_elements(By.XPATH, ".//div[contains(@class, 'event-table-additional-results-module_base__ZlPakjl1__platform-common')]")
+            #team_set_scores = row.find_elements(By.XPATH, ".//div[@data-test='teamScore']")
+            #team_names = row.find_elements(By.XPATH, ".//div[@data-test='teamName']")
+            #score_dict = {name.text.strip(): int(score.text.strip()) 
+            #            for name, score in zip(team_names, team_scores)}
+            #set_score_dict = {name2.text.strip(): int(score2.text.strip())
+            #                  for name2, score2 in zip(team_names, team_set_scores)}
+            #print("Scoreboard:")
+            #for team_name, team_score, set_team_score in zip(team_names, team_scores, team_set_scores):
+            #    print(f"Team Name: {team_name.text}, Team Score: {team_score.text}, Set: {set_team_score.text}")
+
+            # Get selected team for THIS button
+            selected_team_name = define_sel_team(button, row)
+            #selected_team_element = define_sel_team(button, row)
+            #selected_team_name = selected_team_element.text.replace("Ganador:", "").strip()
+
+            # Score validation for THIS button's match
+            if current_value > 1.2: #or not check_selected_team_score(selected_team_name, score_dict, set_score_dict):
+                wait = WebDriverWait(driver, 2)
+                element = wait.until(EC.element_to_be_clickable(button))
+                driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", element)
+                driver.execute_script("arguments[0].click();", element)
+                print(f"Unclicked {selected_team_name} - insufficient lead and/or value {current_value}")
+                placed_bet = False
+                
+                
+            selected_outcome_buttons = True
+
+        except Exception as e:
+            print(f"Validation error for button: {str(e)}")
+            
+    return selected_outcome_buttons
+
+
+def check_selected_team_score(selected_team_name, score_dict, set_score_dict):
+    """Check if selected team is winning by 3+ points."""
+    if selected_team_name in score_dict and selected_team_name in set_score_dict:
+        selected_score = score_dict[selected_team_name]
+        set_score = set_score_dict[selected_team_name]
+        if selected_score > 4 and set_score == 2:
+            opponent_scores = [score for name, score in score_dict.items() 
+                         if name != selected_team_name]
+            return any(selected_score - score >= 2 for score in opponent_scores)
+    return False
+
+
+def define_sel_team(button, row):
+    """Match button position to corresponding team name using DOM order"""
+    try:
+        # Get all outcome buttons in the same market container
+        market_container = button.find_element(By.XPATH, "./ancestor::div[@data-test='marketItem']")
+        outcome_buttons = market_container.find_elements(By.XPATH, ".//div[@data-test='outcome']")
         
-        # Check outcome button values
-        values_below_threshold = check_outcome_button_values(driver, selected_outcome_buttons)
+        # Get button index within its market container
+        button_index = outcome_buttons.index(button)
+        
+        # Get team names from the same event row
+        team_names = row.find_elements(By.XPATH, ".//div[@data-test='teamName']")
+        
+        # Validate index alignment
+        if button_index >= len(team_names):
+            print(f"Button index {button_index} exceeds team count {len(team_names)}")
+            return None
+            
+        return team_names[button_index].text.strip()
+        
+    except ValueError:
+        print("Button not found in market container")
+        return None
+    except Exception as e:
+        print(f"Team definition error: {str(e)}")
+        return None
 
-        # If all values are below 1.1, place the bet
-        if values_below_threshold:
-            placed_bet = place_bet_and_check_errors(driver, selected_outcome_buttons, amount)
-            return placed_bet
-        else:
-            print("One or more values were above 1.1. Bet not placed.")
-    else:
-        print("Bet amount is empty. Cannot place bet.")
 
 # Function to place a bet
-def place_bet(driver, selected_outcome_buttons):
+def place_bet(driver, button, selected_outcome_buttons, placed_bet):
     try:
-        # Check for the presence of the no-bid module
-        no_bid_element = driver.find_elements(By.XPATH, "//div[@class='coupon-no-bid-module_couponBids__jnyAzF6g__platform-common' and @data-test='noOutcomePlaceHolder']")
-        if no_bid_element:
-            print("No bids available. Cannot place a bet.")
-            return  # Exit the function if the no-bid element is found
+        # Validate all buttons before placing bet
+        selected_outcome_buttons = check_and_adjust_outcome_buttons(driver, button, selected_outcome_buttons, placed_bet)
         
-        try:
-            remove_betslip(driver)
-        except Exception as e:
-            print("Error removing betslips:", e)
-
-        try:
-            input_bet(driver, selected_outcome_buttons)
-        except Exception as e:
-            print("Error input bet:", e)
-
+        if not selected_outcome_buttons:
+            print("No valid buttons remaining after final checks")
+            return
+        
+        # Proceed with only validated buttons
+        amount = set_bet_amount(driver)
+        time.sleep(1)
+        placed_bet = place_bet_and_check_errors(driver, button, selected_outcome_buttons, amount, placed_bet)
+        
     except Exception as e:
-        print("Error placing bet:", e)
+        print(f"Error in place_bet: {str(e)}")
+
+    return placed_bet
 
 
-
-def sport_case(driver, button, associated_alt, events_table, league_name, period_text, selected_outcome_buttons, row):
-    """Handle the logic for different sports based on associated_alt."""
-    try:
-       # Wait for the game timer element
-        game_timer = row.find_element(By.XPATH, ".//div[@data-test='liveTimer']")
-        timer_text = game_timer.text.strip()  # Get the timer text
-
-        # Convert timer to total seconds
-        minutes, seconds = map(int, timer_text.split(':'))  # Split MM:SS and convert to integers
-        total_seconds = minutes * 60 + seconds  # Calculate total seconds
-
-    except Exception as e:
-        print("Error finding game timer:", e)
-        total_seconds = 0  # Set to 0 if not found
-
-    # Match the associated_alt value to determine the sport logic
-    match associated_alt:
-        case '1':  # Fútbol
-            if total_seconds < 4801 or "no iniciado" in period_text.lower():
-                print(f"Skipping button click for league: {league_name} at timer: {timer_text}")
-                return  # Move on to the next case or iteration
-            
-            if total_seconds > 4800:  # 80 minutes in seconds
-                button.click()
-                print(f"Button clicked for league: {league_name} at timer: {timer_text}")
-                time.sleep(1)  # Wait for 1 second after clicking
-                selected_outcome_buttons.append(button)  # Save clicked button
-
-        case '2':  # Basket
-            if total_seconds < 2101 or "no iniciado" in period_text.lower():
-                print(f"Skipping button click for league: {league_name} at timer: {timer_text}")
-                return  # Move on to the next case or iteration
-            
-            if total_seconds > 2100:  # 35 minutes in seconds
-                button.click()
-                print(f"Button clicked for league: {league_name} at timer: {timer_text}")
-                time.sleep(1)  # Wait for 1 second after clicking
-                selected_outcome_buttons.append(button)  # Save clicked button
-
-        case '3':  # Tenis
-            if "1er set" in period_text.lower() or "no iniciado" in period_text.lower():
-                print(f"Skipping button click for league: {league_name} at timer: {period_text} because it's in the 1er set.")
-                return  # Move on to the next case or iteration
-
-            if any(phrase.lower() in period_text.lower() for phrase in ["3º set", "4º set", "5º set"]) and any(phrase.lower() in league_name.lower() for phrase in ["open de australia indiv", "australian open men singles", "australian open women singles"]):
-                button.click()
-                print(f"Button clicked for league: {league_name} at timer: {period_text}")
-                time.sleep(1)  # Wait for 1 second after clicking
-                selected_outcome_buttons.append(button)  # Save clicked button
-            elif any(phrase.lower() in period_text.lower() for phrase in ["2do set", "3º set", "4º set", "5º set"]):
-                button.click()
-                print(f"Button clicked for league: {league_name} at timer: {period_text}")
-                time.sleep(1)  # Wait for 1 second after clicking
-                selected_outcome_buttons.append(button)  # Save clicked button
-
-        case '4':  # Hockey hielo
-            if total_seconds < 3121 or "no iniciado" in period_text.lower():
-                print(f"Skipping button click for league: {league_name} at timer: {timer_text}")
-                return  # Move on to the next case or iteration
-            
-            if total_seconds > 3120:  # 52 minutes in seconds
-                button.click()
-                print(f"Button clicked for league: {league_name} at timer: {timer_text}")
-                time.sleep(1)  # Wait for 1 second after clicking
-                selected_outcome_buttons.append(button)  # Save clicked button
-
-        case '7':  # Voleibol
-            if any(phrase.lower() in period_text.lower() for phrase in ["3º set", "4º set", "5º set"]):
-                button.click()
-                print(f"Button clicked for league: {league_name} at timer: {period_text}")
-                time.sleep(1)  # Wait for 1 second after clicking
-                selected_outcome_buttons.append(button)  # Save clicked button
-
-        case '10':  # Handball
-            if total_seconds < 3121 or "no iniciado" in period_text.lower():
-                print(f"Skipping button click for league: {league_name} at timer: {timer_text}")
-                return  # Move on to the next case or iteration
-            
-            if total_seconds > 3120:  # 52 minutes in seconds
-                button.click()
-                print(f"Button clicked for league: {league_name} at timer: {timer_text}")
-                time.sleep(1)  # Wait for 1 second after clicking
-                selected_outcome_buttons.append(button)  # Save clicked button
-
-        case '12':  # Badminton
-            button.click()
-            print(f"Button clicked for league: {league_name} at timer: {timer_text}")
-            time.sleep(1)  # Wait for 1 second after clicking
-            selected_outcome_buttons.append(button)  # Save clicked button
-
-        case '14':  # Futsal
-            if total_seconds < 1921 or "no iniciado" in period_text.lower():
-                print(f"Skipping button click for league: {league_name} at timer: {timer_text}")
-                return  # Move on to the next case or iteration
-            
-            if total_seconds > 1920:  # 32 minutes in seconds
-                button.click()
-                print(f"Button clicked for league: {league_name} at timer: {timer_text}")
-                time.sleep(1)  # Wait for 1 second after clicking
-                selected_outcome_buttons.append(button)  # Save clicked button
-
-        case '15':  # Pinpon
-            if any(phrase.lower() in period_text.lower() for phrase in ["1er set", "2do set", "no iniciado", "primer", "segundo"]):
-                print(f"Skipping button click for league: {league_name} at timer: {period_text} because it's in the first or second set.")
-                return  # Move on to the next case or iteration
-            
-            if any(phrase.lower() in period_text.lower() for phrase in ["3º set", "4º set", "5º set"]):
-                button.click()
-                print(f"Button clicked for league: {league_name} at timer: {period_text}")
-                time.sleep(1)  # Wait for 1 second after clicking
-                selected_outcome_buttons.append(button)  # Save clicked button
-
-        case '17':  # Fut americano
-            if total_seconds < 3121 or "no iniciado" in period_text.lower():
-                print(f"Skipping button click for league: {league_name} at timer: {timer_text}")
-                return  # Move on to the next case or iteration
-            
-            if total_seconds > 3120:  # 52 minutes in seconds
-                button.click()
-                print(f"Button clicked for league: {league_name} at timer: {timer_text}")
-                time.sleep(1)  # Wait for 1 second after clicking
-                selected_outcome_buttons.append(button)  # Save clicked button
-
-        case '22':  # Criquet
-            button.click()
-            print(f"Button clicked for league: {league_name} at timer: {timer_text}")
-            time.sleep(1)  # Wait for 1 second after clicking
-            selected_outcome_buttons.append(button)  # Save clicked button
-
-        case '42':  # Golf
-            button.click()
-            print(f"Button clicked for league: {league_name} at timer: {timer_text}")
-            time.sleep(1)  # Wait for 1 second after clicking
-            selected_outcome_buttons.append(button)  # Save clicked button
-
-        case '1054':  # CounterStrike
-            button.click()
-            print(f"Button clicked for league: {league_name} at timer: {timer_text}")
-            time.sleep(1)  # Wait for 1 second after clicking
-            selected_outcome_buttons.append(button)  # Save clicked button
-
-        case '1056':  # Dota2
-            button.click()
-            print(f"Button clicked for league: {league_name} at timer: {timer_text}")
-            time.sleep(1)  # Wait for 1 second after clicking
-            selected_outcome_buttons.append(button)  # Save clicked button
-
-        case '1059':  # Esoccer
-            if total_seconds < 361 or "no iniciado" in period_text.lower():
-                print(f"Skipping button click for league: {league_name} at timer: {timer_text}")
-                return  # Move on to the next case or iteration
-            
-            if total_seconds > 360:  # 6 minutes in seconds
-                button.click()
-                print(f"Button clicked for league: {league_name} at timer: {timer_text}")
-                time.sleep(1)  # Wait for 1 second after clicking
-                selected_outcome_buttons.append(button)  # Save clicked button
-
-        case '1067':  # LoL
-            button.click()
-            print(f"Button clicked for league: {league_name} at timer: {timer_text}")
-            time.sleep(1)  # Wait for 1 second after clicking
-            selected_outcome_buttons.append(button)  # Save clicked button
-
-        case _:  # Default case if no match found
-            print(f"No matching case for associated_alt: {associated_alt}")
 
 # New function to obtain button information
 def button_info(driver, button, selected_outcome_buttons, row):
@@ -424,10 +387,17 @@ def button_info(driver, button, selected_outcome_buttons, row):
     print(value_text)
     value = float(value_text)
 
-    if value < 1.1:  # Adjusted condition to click buttons with value < 1.1
+    if value < 1.21:  # Adjusted condition to click buttons with value < 1.1
         events_table = button.find_element(By.XPATH, ".//ancestor::div[@data-test='eventsTable']")
         associated_image = events_table.find_element(By.XPATH, ".//img[@title='Sport']")
         associated_alt = associated_image.get_attribute("alt")
+
+        # Print team names and scores
+        #team_names = row.find_elements(By.XPATH, ".//div[@data-test='teamName']")
+        #team_scores = row.find_elements(By.XPATH, ".//div[@data-test='teamScore']")
+            
+        #for team_name, team_score in zip(team_names, team_scores):
+        #    print(f"Team Name: {team_name.text}, Team Score: {team_score.text}")
 
         # Find the league name from the corresponding 'a' tag
         league_name_element = events_table.find_element(By.XPATH, ".//a[@data-test='leagueLink']")  # Locate the league link
@@ -444,13 +414,40 @@ def button_info(driver, button, selected_outcome_buttons, row):
 
         print(f"Associated alt value: {associated_alt}")  # Debugging statement
         print(f"League name: {league_name}")  # Debugging statement
+
+        # Get scores from THIS button's match context
+        team_scores = row.find_elements(By.XPATH, ".//div[contains(@class, 'event-table-additional-results-module_base__ZlPakjl1__platform-common')]")
+        team_set_scores = row.find_elements(By.XPATH, ".//div[@data-test='teamScore']")
+        team_names = row.find_elements(By.XPATH, ".//div[@data-test='teamName']")
+        score_dict = {name.text.strip(): int(score.text.strip()) 
+                    for name, score in zip(team_names, team_scores)}
+        set_score_dict = {name2.text.strip(): int(score2.text.strip())
+                            for name2, score2 in zip(team_names, team_set_scores)}
+        print("Scoreboard:")
+        for team_name, team_score, set_team_score in zip(team_names, team_scores, team_set_scores):
+            print(f"Team Name: {team_name.text}, Team Score: {team_score.text}, Set: {set_team_score.text}")
+
+        # Get selected team for THIS button
+        selected_team_name = define_sel_team(button, row)
+
+        if any(phrase.lower() in period_text.lower() for phrase in ["1er set", "2do set", "no iniciado", "primer", "segundo", "break"]) or not check_selected_team_score(selected_team_name, score_dict, set_score_dict):
+                print(f"Skipping button click for league: {league_name} at timer: {period_text} because it's in the first or second set.")
+                return  # Move on to the next case or iteration
+            
+        if any(phrase.lower() in period_text.lower() for phrase in ["3º set", "4º set", "5º set"]) and check_selected_team_score(selected_team_name, score_dict, set_score_dict):
+            button.click()
+            print(f"Button clicked for league: {league_name}")
+            selected_outcome_buttons = True
+            time.sleep(1)
         # Inside your main logic where you handle the sports
-        sport_case(driver, button, associated_alt, events_table, league_name, period_text, selected_outcome_buttons, row)
+        #sport_case(driver, button, associated_alt, events_table, league_name, period_text, selected_outcome_buttons, row)
+        return selected_outcome_buttons
 
 # Function to select bets based on conditions
 def bet_sel(driver):
     remove_betslip(driver)
-    selected_outcome_buttons = []  # Array to store selected outcome buttons
+    selected_outcome_buttons = False  # Array to store selected outcome buttons
+    placed_bet = False
     #button_clicked = False  # Initialize a flag to track if any button was clicked
     # Locate all event table rows
     event_rows = driver.find_elements(By.XPATH, "//div[@data-test='eventTableRow']")
@@ -470,15 +467,28 @@ def bet_sel(driver):
 
             for button in outcome_buttons:
                 try:
-                    button_info(driver, button, selected_outcome_buttons, row)
+                    selected_outcome_buttons = False
+                    selected_outcome_buttons = button_info(driver, button, selected_outcome_buttons, row)
+                    if selected_outcome_buttons == True:
+                        placed_bet = place_bet(driver, button, selected_outcome_buttons, placed_bet)
                     
                     time.sleep(0.5)  # Optional: wait a moment before checking again
 
                 except Exception as e:
                     print(f"Error processing button:", e)
-
+            
         except Exception as e:
             print(f"Error processing event row:", e)
+    
+    #for button in selected_outcome_buttons:
+    #            try:
+    #                check_outcome_buttons_score(driver, row, button, selected_outcome_buttons)
+    #            except Exception as e:
+    #                print(f"Error checking scores:", e)
+    if placed_bet == True:
+        time.sleep(300)
+    elif placed_bet == False:
+        time.sleep(1)
 
     return selected_outcome_buttons  # Return the array of selected outcome buttons
 
@@ -524,54 +534,61 @@ def open_bets(driver):
         print("Bets panel already open or button not found")
         pass  # Continue with the program if button is not found
 
+
+
 # Example usage
 if __name__ == "__main__":
-    # List of URLs to check
-    urls = [
-        #"https://tonybet.com/cl/live?top=1",
-        #"https://tonybet.com/cl/live/tennis",
-        #"https://tonybet.com/cl/live/football",
-        #"https://tonybet.com/cl/live/basketball",
-        #"https://tonybet.com/cl/live/volleyball",
-        #"https://tonybet.com/cl/live/badminton",
-        "https://tonybet.com/cl/live/table-tennis"
-        #"https://tonybet.com/cl/live/cricket"
-        #"https://tonybet.com/cl/live/esport-fifa",
-        #"https://tonybet.com/cl/live/snooker",
-        #"https://tonybet.com/cl/live/dota-2",
-        #"https://tonybet.com/cl/live/league-of-legends",
-        #"https://tonybet.com/cl/live/futsal"
-        #"https://tonybet.com/cl/live/baseball",
-        #"https://tonybet.com/cl/live/ice-hockey"
-    ]
+    try:
+        # List of URLs to check
+        urls = [
+            #"https://tonybet.com/cl/live?top=1",
+            #"https://tonybet.com/cl/live/tennis",
+            #"https://tonybet.com/cl/live/football",
+            #"https://tonybet.com/cl/live/basketball",
+            #"https://tonybet.com/cl/live/volleyball",
+            #"https://tonybet.com/cl/live/badminton",
+            "https://tonybet.com/cl/live/table-tennis"
+            #"https://tonybet.com/cl/live/cricket"
+            #"https://tonybet.com/cl/live/esport-fifa",
+            #"https://tonybet.com/cl/live/snooker",
+            #"https://tonybet.com/cl/live/dota-2",
+            #"https://tonybet.com/cl/live/league-of-legends",
+            #"https://tonybet.com/cl/live/futsal"
+            #"https://tonybet.com/cl/live/baseball",
+            #"https://tonybet.com/cl/live/ice-hockey"
+        ]
 
-    driver = scrape_full_structure(urls[0])  # Start with the first URL
+        driver = scrape_full_structure(urls[0])  # Start with the first URL
 
-    while True:  # Main loop to continuously check URLs
-        for index, url in enumerate(urls):
-            print(f"Checking URL: {url}")
-            driver.get(url)  # Navigate to the URL
-            time.sleep(2)
+        while True:  # Main loop to continuously check URLs
+            for index, url in enumerate(urls):
+                print(f"Checking URL: {url}")
+                driver.get(url)  # Navigate to the URL
+                time.sleep(2)
 
-            # Open bets panel if needed
-            open_bets(driver)
+                # Open bets panel if needed
+                open_bets(driver)
 
-            # Run the check_balance function
-            balance_value = check_balance(driver)  # Check balance logic here
+                # Run the check_balance function
+                balance_value = check_balance(driver)  # Check balance logic here
 
-            # Call bet_sel to click buttons
-            #button_clicked = bet_sel(driver)
+                # Call bet_sel to click buttons
+                #button_clicked = bet_sel(driver)
+                remove_betslip_2(driver)
 
-            # Call bet_sel to click buttons and get selected outcome buttons
-            selected_outcome_buttons = bet_sel(driver)
+                # Call bet_sel to click buttons and get selected outcome buttons
+                selected_outcome_buttons = bet_sel(driver)
 
-            place_bet(driver, selected_outcome_buttons)
+                #place_bet(driver, selected_outcome_buttons)
 
-            # Place a bet only after visiting the last URL and returning to the first
-            #if index == len(urls) - 1:  # If it's the last URL
-            #    place_bet(driver)  # Place a bet after checking all URLs
+                # Place a bet only after visiting the last URL and returning to the first
+                #if index == len(urls) - 1:  # If it's the last URL
+                #    place_bet(driver)  # Place a bet after checking all URLs
 
-            # Wait before checking the next URL or re-checking
-            time.sleep(1)  # Adjust as necessary
+                # Wait before checking the next URL or re-checking
+                time.sleep(1)  # Adjust as necessary
 
-    driver.quit()
+    finally:
+        sys.stdout = original_stdout
+        sys.stderr = original_stderr
+        log_fd.close()

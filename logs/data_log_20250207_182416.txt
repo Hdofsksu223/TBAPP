@@ -1,0 +1,1029 @@
+Please enter your email: Scroll counter: 1
+Scroll counter: 2
+Scroll counter: 3
+Scroll counter: 4
+Scroll counter: 5
+Scroll counter: 6
+Scroll counter: 7
+Scroll counter: 8
+Scroll counter: 9
+Scroll counter: 10
+Scroll counter: 11
+Scroll counter: 12
+Scroll counter: 13
+Scroll counter: 14
+Scroll counter: 15
+Scroll counter: 16
+Scroll counter: 17
+Scroll counter: 18
+Scroll counter: 19
+Scroll counter: 20
+Scroll counter: 21
+Scroll counter: 22
+Scroll counter: 23
+Scroll counter: 24
+Scroll counter: 25
+Scroll counter: 26
+Scroll counter: 27
+Scroll counter: 28
+Scroll counter: 29
+Scroll counter: 30
+Scroll counter: 31
+Scroll counter: 32
+Scroll counter: 33
+Scroll counter: 34
+Scroll counter: 35
+Scroll counter: 36
+Scroll counter: 37
+Scroll counter: 38
+Scroll counter: 39
+Scroll counter: 40
+Scroll counter: 41
+Scroll counter: 42
+Scroll counter: 43
+Scroll counter: 44
+Scroll counter: 45
+Scroll counter: 46
+Scroll counter: 47
+Scroll counter: 48
+Scroll counter: 49
+Scroll counter: 50
+Scroll counter: 51
+Scroll counter: 52
+Scroll counter: 53
+Scroll counter: 54
+Scroll counter: 55
+Scroll counter: 56
+Scroll counter: 57
+Scroll counter: 58
+Scroll counter: 59
+Scroll counter: 60
+Scroll counter: 61
+Scroll counter: 62
+Scroll counter: 63
+Scroll counter: 64
+Scroll counter: 65
+Scroll counter: 66
+Scroll counter: 67
+Scroll counter: 68
+Scroll counter: 69
+Scroll counter: 70
+Scroll counter: 71
+Scroll counter: 72
+Scroll counter: 73
+Scroll counter: 74
+Scroll counter: 75
+Scroll counter: 76
+Scroll counter: 77
+Scroll counter: 78
+Scroll counter: 79
+Scroll counter: 80
+Scroll counter: 81
+Scroll counter: 82
+Scroll counter: 83
+Scroll counter: 84
+Scroll counter: 85
+Scroll counter: 86
+Scroll counter: 87
+Scroll counter: 88
+Scroll counter: 89
+Scroll counter: 90
+Scroll counter: 91
+Scroll counter: 92
+Scroll counter: 93
+Scroll counter: 94
+Scroll counter: 95
+Scroll counter: 96
+Scroll counter: 97
+Scroll counter: 98
+Scroll counter: 99
+Scroll counter: 100
+Scroll counter: 101
+Scroll counter: 102
+Scroll counter: 103
+Scroll counter: 104
+Scroll counter: 105
+Scroll counter: 106
+Scroll counter: 107
+Scroll counter: 108
+Scroll counter: 109
+Scroll counter: 110
+Scroll counter: 111
+Scroll counter: 112
+Scroll counter: 113
+Scroll counter: 114
+Scroll counter: 115
+Scroll counter: 116
+Scroll counter: 117
+Scroll counter: 118
+Scroll counter: 119
+Scroll counter: 120
+Scroll counter: 121
+Scroll counter: 122
+Scroll counter: 123
+Scroll counter: 124
+Scroll counter: 125
+Scroll counter: 126
+Scroll counter: 127
+Scroll counter: 128
+Scroll counter: 129
+Scroll counter: 130
+Scroll counter: 131
+Scroll counter: 132
+Scroll counter: 133
+Scroll counter: 134
+Scroll counter: 135
+Scroll counter: 136
+Scroll counter: 137
+Scroll counter: 138
+Scroll counter: 139
+Scroll counter: 140
+Scroll counter: 141
+Scroll counter: 142
+Scroll counter: 143
+Scroll counter: 144
+Scroll counter: 145
+Scroll counter: 146
+Scroll counter: 147
+Scroll counter: 148
+Scroll counter: 149
+Scroll counter: 150
+Scroll counter: 151
+Scroll counter: 152
+Scroll counter: 153
+Scroll counter: 154
+Scroll counter: 155
+Scroll counter: 156
+Scroll counter: 157
+Scroll counter: 158
+Scroll counter: 159
+Scroll counter: 160
+Scroll counter: 161
+Scroll counter: 162
+Scroll counter: 163
+Scroll counter: 164
+Scroll counter: 165
+Scroll counter: 166
+Scroll counter: 167
+Scroll counter: 168
+Scroll counter: 169
+Scroll counter: 170
+Found 1485 bet items after scrolling
+
+
+-----------------------------------------------
+Expanded item 1/1485
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Database insertion error: can't adapt type 'WebElement'
+Failed data: {'bet_id': <selenium.webdriver.remote.webelement.WebElement (session="8baf4cd146cf7131009596755a711fb7", element="f.D3E90C4A80B7DC4B23BB5F2C4E6EE762.d.DBBADC3D502B64B19491480EA9404783.e.2589")>, 'bet_date': datetime.date(2025, 2, 7), 'bet_time': datetime.time(18, 21), 'odds': 1.04, 'stake': 1000.0, 'win_amount': 1040.0, 'bet_status': 1, 'sport_id': 15, 'league': 'TT Elite Series', 'team_1': 'Murawski, Daniel', 'team_2': 'Marcinowski, Krzysztof', 'selected_team': 'Marcinowski, Krzysztof', 'match_result': '2–3 (6–11, 10–12, 11–9, 11–9, 6–11)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 2/1485
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Database insertion error: can't adapt type 'WebElement'
+Failed data: {'bet_id': <selenium.webdriver.remote.webelement.WebElement (session="8baf4cd146cf7131009596755a711fb7", element="f.D3E90C4A80B7DC4B23BB5F2C4E6EE762.d.DBBADC3D502B64B19491480EA9404783.e.2613")>, 'bet_date': datetime.date(2025, 2, 7), 'bet_time': datetime.time(18, 20), 'odds': 1.16, 'stake': 500.0, 'win_amount': 0.0, 'bet_status': 2, 'sport_id': 15, 'league': 'Czech Liga Pro', 'team_1': 'Zuzanek, Jiri', 'team_2': 'Vondrak, Michal', 'selected_team': 'Vondrak, Michal', 'match_result': '3–2 (11–8, 7–11, 11–6, 8–11, 12–11)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 3/1485
+Bet type: simple
+Bet_type: 1
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Bet type: simple
+Match Sport ID: 1 (<class 'int'>)
+Match league: Eerste Divisie
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Database insertion error: can't adapt type 'WebElement'
+Failed data: {'bet_id': <selenium.webdriver.remote.webelement.WebElement (session="8baf4cd146cf7131009596755a711fb7", element="f.D3E90C4A80B7DC4B23BB5F2C4E6EE762.d.DBBADC3D502B64B19491480EA9404783.e.2633")>, 'bet_date': datetime.date(2025, 2, 7), 'bet_time': datetime.time(18, 7), 'odds': 4.25, 'stake': 111.0, 'win_amount': 0.0, 'bet_status': 2, 'sport_id': 1, 'league': 'Eerste Divisie', 'team_1': 'FC Volendam', 'team_2': 'ADO Den Haag', 'selected_team': None, 'match_result': '1–2 (0–0, 1–2)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 4/1485
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Database insertion error: can't adapt type 'WebElement'
+Failed data: {'bet_id': <selenium.webdriver.remote.webelement.WebElement (session="8baf4cd146cf7131009596755a711fb7", element="f.D3E90C4A80B7DC4B23BB5F2C4E6EE762.d.DBBADC3D502B64B19491480EA9404783.e.2649")>, 'bet_date': datetime.date(2025, 2, 7), 'bet_time': datetime.time(18, 5), 'odds': 1.12, 'stake': 500.0, 'win_amount': 560.0, 'bet_status': 1, 'sport_id': 15, 'league': 'TT Elite Series', 'team_1': 'Grzegorczyk, Jakub', 'team_2': 'Kasperski, Adam', 'selected_team': 'Grzegorczyk, Jakub', 'match_result': '3–1 (11–5, 9–11, 12–10, 14–12)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 5/1485
+Bet type: simple
+Bet_type: 1
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Bet type: simple
+Match Sport ID: 1 (<class 'int'>)
+Match league: Eerste Divisie
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Database insertion error: can't adapt type 'WebElement'
+Failed data: {'bet_id': <selenium.webdriver.remote.webelement.WebElement (session="8baf4cd146cf7131009596755a711fb7", element="f.D3E90C4A80B7DC4B23BB5F2C4E6EE762.d.DBBADC3D502B64B19491480EA9404783.e.2668")>, 'bet_date': datetime.date(2025, 2, 7), 'bet_time': datetime.time(17, 55), 'odds': 1.15, 'stake': 1000.0, 'win_amount': 1150.0, 'bet_status': 1, 'sport_id': 1, 'league': 'Eerste Divisie', 'team_1': 'Roda JC Kirchrath', 'team_2': 'YOUTH AZ Alkmaar', 'selected_team': None, 'match_result': '3–3 (2–1, 1–2)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 6/1485
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Database insertion error: can't adapt type 'WebElement'
+Failed data: {'bet_id': <selenium.webdriver.remote.webelement.WebElement (session="8baf4cd146cf7131009596755a711fb7", element="f.D3E90C4A80B7DC4B23BB5F2C4E6EE762.d.DBBADC3D502B64B19491480EA9404783.e.2687")>, 'bet_date': datetime.date(2025, 2, 7), 'bet_time': datetime.time(17, 51), 'odds': 1.07, 'stake': 1000.0, 'win_amount': 1070.0, 'bet_status': 1, 'sport_id': 15, 'league': 'TT Cup', 'team_1': 'Vorisek, Tomas', 'team_2': 'Jicha, David', 'selected_team': 'Jicha, David', 'match_result': '2–3 (6–11, 11–4, 8–11, 11–7, 6–10)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 7/1485
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Database insertion error: can't adapt type 'WebElement'
+Failed data: {'bet_id': <selenium.webdriver.remote.webelement.WebElement (session="8baf4cd146cf7131009596755a711fb7", element="f.D3E90C4A80B7DC4B23BB5F2C4E6EE762.d.DBBADC3D502B64B19491480EA9404783.e.2706")>, 'bet_date': datetime.date(2025, 2, 7), 'bet_time': datetime.time(17, 51), 'odds': 1.12, 'stake': 500.0, 'win_amount': 560.0, 'bet_status': 1, 'sport_id': 15, 'league': 'TT Cup', 'team_1': 'Stapor Rafal', 'team_2': 'Stepien, Marcin', 'selected_team': 'Stapor Rafal', 'match_result': '3–2 (14–12, 12–10, 9–11, 8–11, 11–3)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 8/1485
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Database insertion error: can't adapt type 'WebElement'
+Failed data: {'bet_id': <selenium.webdriver.remote.webelement.WebElement (session="8baf4cd146cf7131009596755a711fb7", element="f.D3E90C4A80B7DC4B23BB5F2C4E6EE762.d.DBBADC3D502B64B19491480EA9404783.e.2725")>, 'bet_date': datetime.date(2025, 2, 7), 'bet_time': datetime.time(17, 47), 'odds': 1.05, 'stake': 1000.0, 'win_amount': 1050.0, 'bet_status': 1, 'sport_id': 15, 'league': 'Czech Liga Pro', 'team_1': 'Pikous, Marcel', 'team_2': 'Zuzanek, Jiri', 'selected_team': 'Zuzanek, Jiri', 'match_result': '1–3 (6–11, 11–7, 9–11, 7–11)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 9/1485
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Database insertion error: can't adapt type 'WebElement'
+Failed data: {'bet_id': <selenium.webdriver.remote.webelement.WebElement (session="8baf4cd146cf7131009596755a711fb7", element="f.D3E90C4A80B7DC4B23BB5F2C4E6EE762.d.DBBADC3D502B64B19491480EA9404783.e.2744")>, 'bet_date': datetime.date(2025, 2, 7), 'bet_time': datetime.time(17, 43), 'odds': 2.15, 'stake': 111.0, 'win_amount': 0.0, 'bet_status': 2, 'sport_id': 15, 'league': 'TT Cup', 'team_1': 'Vorisek, Tomas', 'team_2': 'Jicha, David', 'selected_team': 'Vorisek, Tomas', 'match_result': '2–3 (6–11, 11–4, 8–11, 11–7, 6–10)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 10/1485
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Database insertion error: can't adapt type 'WebElement'
+Failed data: {'bet_id': <selenium.webdriver.remote.webelement.WebElement (session="8baf4cd146cf7131009596755a711fb7", element="f.D3E90C4A80B7DC4B23BB5F2C4E6EE762.d.DBBADC3D502B64B19491480EA9404783.e.2762")>, 'bet_date': datetime.date(2025, 2, 7), 'bet_time': datetime.time(17, 41), 'odds': 1.15, 'stake': 500.0, 'win_amount': 575.0, 'bet_status': 1, 'sport_id': 15, 'league': 'TT Elite Series', 'team_1': 'Czernik, Mateusz', 'team_2': 'Strowski, Karol', 'selected_team': 'Czernik, Mateusz', 'match_result': '3–2 (11–8, 7–11, 11–7, 5–11, 10–7)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 11/1485
+Bet type: simple
+Bet_type: 1
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Bet type: simple
+Match Sport ID: 1 (<class 'int'>)
+Match league: Botola Pro D1
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Database insertion error: can't adapt type 'WebElement'
+Failed data: {'bet_id': <selenium.webdriver.remote.webelement.WebElement (session="8baf4cd146cf7131009596755a711fb7", element="f.D3E90C4A80B7DC4B23BB5F2C4E6EE762.d.DBBADC3D502B64B19491480EA9404783.e.2785")>, 'bet_date': datetime.date(2025, 2, 7), 'bet_time': datetime.time(17, 35), 'odds': 4.7, 'stake': 111.0, 'win_amount': 0.0, 'bet_status': 2, 'sport_id': 1, 'league': 'Botola Pro D1', 'team_1': 'Jeunesse Sportive Soualem', 'team_2': 'SCC Mohammedia', 'selected_team': None, 'match_result': '1–1 (1–1, 0–0)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 12/1485
+Bet type: simple
+Bet_type: 1
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Bet type: simple
+Match Sport ID: 1 (<class 'int'>)
+Match league: Challenge League
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Database insertion error: can't adapt type 'WebElement'
+Failed data: {'bet_id': <selenium.webdriver.remote.webelement.WebElement (session="8baf4cd146cf7131009596755a711fb7", element="f.D3E90C4A80B7DC4B23BB5F2C4E6EE762.d.DBBADC3D502B64B19491480EA9404783.e.2806")>, 'bet_date': datetime.date(2025, 2, 7), 'bet_time': datetime.time(17, 35), 'odds': 2.65, 'stake': 111.0, 'win_amount': 0.0, 'bet_status': 2, 'sport_id': 1, 'league': 'Challenge League', 'team_1': 'FC Etoile Carouge', 'team_2': 'Neuchatel Xamax FCS', 'selected_team': None, 'match_result': '2–1 (1–0, 1–1)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 13/1485
+Bet type: simple
+Bet_type: 1
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Bet type: simple
+Match Sport ID: 1 (<class 'int'>)
+Match league: Challenge League
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF776CB0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776F3BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF776E966C6+1401718]
+	(No symbol) [0x00007FF776A6D84C]
+	(No symbol) [0x00007FF776A6DA0B]
+	(No symbol) [0x00007FF776A63E0C]
+	(No symbol) [0x00007FF776A8DE1F]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776A63C7D]
+	(No symbol) [0x00007FF776A8E0C0]
+	(No symbol) [0x00007FF776A63DB7]
+	(No symbol) [0x00007FF776AA890D]
+	(No symbol) [0x00007FF776A8DA43]
+	(No symbol) [0x00007FF776A63304]
+	(No symbol) [0x00007FF776A62636]
+	(No symbol) [0x00007FF776A62EF1]
+	(No symbol) [0x00007FF776AEE1A4]
+	(No symbol) [0x00007FF776B9608F]
+	(No symbol) [0x00007FF776AF1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF776FF81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C47191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C42484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF776C37546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Bet type: simple
+Database insertion error: can't adapt type 'WebElement'
+Failed data: {'bet_id': <selenium.webdriver.remote.webelement.WebElement (session="8baf4cd146cf7131009596755a711fb7", element="f.D3E90C4A80B7DC4B23BB5F2C4E6EE762.d.DBBADC3D502B64B19491480EA9404783.e.2826")>, 'bet_date': datetime.date(2025, 2, 7), 'bet_time': datetime.time(17, 34), 'odds': 1.95, 'stake': 111.0, 'win_amount': 216.0, 'bet_status': 1, 'sport_id': 1, 'league': 'Challenge League', 'team_1': 'FC Stade LS Ouchy', 'team_2': 'FC Aarau', 'selected_team': None, 'match_result': '2–4 (2–0, 0–4)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 14/1485
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Database insertion error: can't adapt type 'WebElement'
+Failed data: {'bet_id': <selenium.webdriver.remote.webelement.WebElement (session="8baf4cd146cf7131009596755a711fb7", element="f.D3E90C4A80B7DC4B23BB5F2C4E6EE762.d.DBBADC3D502B64B19491480EA9404783.e.2848")>, 'bet_date': datetime.date(2025, 2, 7), 'bet_time': datetime.time(17, 20), 'odds': 1.04, 'stake': 1000.0, 'win_amount': 1040.0, 'bet_status': 1, 'sport_id': 15, 'league': 'Czech Liga Pro', 'team_1': 'Sychra, Martin', 'team_2': 'Vondrak, Michal', 'selected_team': 'Sychra, Martin', 'match_result': '3–2 (11–7, 11–6, 3–11, 9–11, 11–6)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 15/1485
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Database insertion error: can't adapt type 'WebElement'
+Failed data: {'bet_id': <selenium.webdriver.remote.webelement.WebElement (session="8baf4cd146cf7131009596755a711fb7", element="f.D3E90C4A80B7DC4B23BB5F2C4E6EE762.d.DBBADC3D502B64B19491480EA9404783.e.2869")>, 'bet_date': datetime.date(2025, 2, 7), 'bet_time': datetime.time(17, 14), 'odds': 2.9, 'stake': 111.0, 'win_amount': 0.0, 'bet_status': 2, 'sport_id': 15, 'league': 'Czech Liga Pro', 'team_1': 'Sychra, Martin', 'team_2': 'Vondrak, Michal', 'selected_team': 'Vondrak, Michal', 'match_result': '3–2 (11–7, 11–6, 3–11, 9–11, 11–6)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 16/1485
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Database insertion error: can't adapt type 'WebElement'
+Failed data: {'bet_id': <selenium.webdriver.remote.webelement.WebElement (session="8baf4cd146cf7131009596755a711fb7", element="f.D3E90C4A80B7DC4B23BB5F2C4E6EE762.d.DBBADC3D502B64B19491480EA9404783.e.2889")>, 'bet_date': datetime.date(2025, 2, 7), 'bet_time': datetime.time(17, 13), 'odds': 3.3, 'stake': 111.0, 'win_amount': 0.0, 'bet_status': 2, 'sport_id': 15, 'league': 'TT Cup', 'team_1': 'Stusek, Martin', 'team_2': 'Cernota, Filip', 'selected_team': 'Cernota, Filip', 'match_result': '3–1 (11–6, 11–6, 7–11, 11–6)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 17/1485
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Database insertion error: can't adapt type 'WebElement'
+Failed data: {'bet_id': <selenium.webdriver.remote.webelement.WebElement (session="8baf4cd146cf7131009596755a711fb7", element="f.D3E90C4A80B7DC4B23BB5F2C4E6EE762.d.DBBADC3D502B64B19491480EA9404783.e.2908")>, 'bet_date': datetime.date(2025, 2, 7), 'bet_time': datetime.time(17, 10), 'odds': 1.02, 'stake': 3000.0, 'win_amount': 3060.0, 'bet_status': 1, 'sport_id': 15, 'league': 'TT Cup', 'team_1': 'Stusek, Martin', 'team_2': 'Cernota, Filip', 'selected_team': 'Stusek, Martin', 'match_result': '3–1 (11–6, 11–6, 7–11, 11–6)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 18/1485
+Bet type: simple
+Bet_type: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Database insertion error: can't adapt type 'WebElement'
+Failed data: {'bet_id': <selenium.webdriver.remote.webelement.WebElement (session="8baf4cd146cf7131009596755a711fb7", element="f.D3E90C4A80B7DC4B23BB5F2C4E6EE762.d.DBBADC3D502B64B19491480EA9404783.e.2927")>, 'bet_date': datetime.date(2025, 2, 7), 'bet_time': datetime.time(17, 6), 'odds': 1.04, 'stake': 1000.0, 'win_amount': 1040.0, 'bet_status': 1, 'sport_id': 15, 'league': 'TT Elite Series', 'team_1': 'Gluszek, Wojciech', 'team_2': 'Maruszak, Piotr', 'selected_team': 'Maruszak, Piotr', 'match_result': '0–3 (9–11, 10–12, 7–11)', 'point_score': None, 'set_score': None, 'bet_type': 1}
+
+
+-----------------------------------------------
+Expanded item 19/1485
+Bet type: simple
+Bet_type: 1

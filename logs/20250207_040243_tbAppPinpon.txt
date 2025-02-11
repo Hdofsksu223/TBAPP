@@ -1,0 +1,1143 @@
+Please enter your email: Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4976. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.75
+1.22
+2.35
+1.5
+1.65
+2.05
+2.15
+1.6
+1.2
+Game period text: 1er set
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Prokupek, Jaroslav, Team Score: 10, Set: 0
+Team Name: Smrcek, Milan, Team Score: 6, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 1er set because it's in the first or second set.
+3.9
+1.35
+2.9
+1.25
+3.5
+1.47
+2.6
+2.15
+1.6
+11
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4976. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+4.45
+1.16
+Game period text: 2do Set14:165:6
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 5, Set: 0
+Team Name: Slawinski, Kacper, Team Score: 6, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: 2do Set14:165:6 because it's in the first or second set.
+2.35
+1.5
+1.52
+2.3
+2.15
+1.6
+1.22
+3.65
+1.32
+3
+1.25
+3.45
+1.55
+2.25
+2.15
+1.6
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4976. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+5.4
+1.1
+Game period text: 2do Set14:166:8
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 6, Set: 0
+Team Name: Slawinski, Kacper, Team Score: 8, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: 2do Set14:166:8 because it's in the first or second set.
+2.35
+1.5
+1.45
+2.55
+2.15
+1.6
+1.18
+Game period text: 2do Set11:70:0
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Prokupek, Jaroslav, Team Score: 0, Set: 1
+Team Name: Smrcek, Milan, Team Score: 0, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:70:0 because it's in the first or second set.
+4.05
+1.32
+3
+1.18
+Game period text: 1er set
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Hajek, Miroslav, Team Score: 10, Set: 0
+Team Name: Koutnik, Josef, Team Score: 7, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 1er set because it's in the first or second set.
+4.05
+1.65
+2.1
+2.5
+1.45
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4976. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+6.75
+1.06
+Game period text: 2do Set14:166:9
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 6, Set: 0
+Team Name: Slawinski, Kacper, Team Score: 9, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: 2do Set14:166:9 because it's in the first or second set.
+2.35
+1.5
+2.4
+1.47
+1.45
+2.5
+2.15
+1.6
+1.47
+2.45
+1.18
+Game period text: 2do Set11:70:0
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Prokupek, Jaroslav, Team Score: 0, Set: 1
+Team Name: Smrcek, Milan, Team Score: 0, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:70:0 because it's in the first or second set.
+4.05
+1.27
+3.3
+1.15
+Game period text: 2do Set11:70:0
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Hajek, Miroslav, Team Score: 0, Set: 1
+Team Name: Koutnik, Josef, Team Score: 0, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:70:0 because it's in the first or second set.
+4.45
+2.15
+1.6
+2
+1.7
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4976. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+6.5
+1.07
+Game period text: 2do Set14:168:10
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 8, Set: 0
+Team Name: Slawinski, Kacper, Team Score: 10, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: 2do Set14:168:10 because it's in the first or second set.
+2.35
+1.5
+2.4
+1.47
+1.42
+2.55
+2.15
+1.6
+1.47
+2.45
+1.25
+3.45
+1.27
+3.3
+1.15
+Game period text: 2do Set11:70:0
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Hajek, Miroslav, Team Score: 0, Set: 1
+Team Name: Koutnik, Josef, Team Score: 0, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:70:0 because it's in the first or second set.
+4.45
+2.15
+1.6
+2.2
+1.57
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4976. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.7
+1.22
+2.35
+1.5
+2.4
+1.47
+1.55
+2.25
+2.15
+1.6
+1.47
+2.45
+1.27
+3.3
+1.27
+3.3
+1.15
+Game period text: 2do Set11:70:0
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Hajek, Miroslav, Team Score: 0, Set: 1
+Team Name: Koutnik, Josef, Team Score: 0, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:70:0 because it's in the first or second set.
+4.45
+1.8
+1.85
+2.6
+1.42
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5501. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+8.25
+1.03
+Game period text: Segundo break14:16
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 10, Set: 0
+Team Name: Slawinski, Kacper, Team Score: 12, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: Segundo break14:16 because it's in the first or second set.
+2.35
+1.5
+2.4
+1.47
+1.35
+2.85
+2.15
+1.6
+1.47
+2.45
+1.22
+3.75
+1.27
+3.35
+1.2
+Game period text: 2do Set11:70:1
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Hajek, Miroslav, Team Score: 0, Set: 1
+Team Name: Koutnik, Josef, Team Score: 1, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:70:1 because it's in the first or second set.
+3.95
+1.8
+1.85
+2.85
+1.35
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5501. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+8.25
+1.03
+Game period text: Segundo break14:16
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 10, Set: 0
+Team Name: Slawinski, Kacper, Team Score: 12, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: Segundo break14:16 because it's in the first or second set.
+2.35
+1.42
+2.4
+1.47
+1.42
+2.55
+2.15
+1.6
+1.47
+2.45
+1.32
+3
+1.2
+Game period text: 2do Set11:64:2
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Turek, Tomas, Team Score: 4, Set: 1
+Team Name: Smidt, Karel, Team Score: 2, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:64:2 because it's in the first or second set.
+3.8
+1.27
+3.3
+1.57
+2.25
+3.05
+1.32
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5501. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+8.25
+1.03
+Game period text: 3º set14:1610:120:0
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 0, Set: 0
+Team Name: Slawinski, Kacper, Team Score: 1, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: 3º set14:1610:120:0 because it's in the first or second set.
+2.35
+1.5
+2.4
+1.47
+1.32
+2.95
+2.15
+1.6
+1.47
+2.45
+1.3
+3.15
+1.2
+Game period text: 2do Set11:65:2
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Turek, Tomas, Team Score: 5, Set: 1
+Team Name: Smidt, Karel, Team Score: 2, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:65:2 because it's in the first or second set.
+3.85
+1.32
+3
+1.7
+2
+3.05
+1.32
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5501. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+8
+1.03
+Game period text: 3º set14:1610:121:1
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 1, Set: 0
+Team Name: Slawinski, Kacper, Team Score: 1, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: 3º set14:1610:121:1 because it's in the first or second set.
+3.1
+1.3
+2.4
+1.47
+1.32
+2.95
+2.15
+1.6
+1.47
+2.45
+1.18
+Game period text: 2do Set11:75:4
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Prokupek, Jaroslav, Team Score: 5, Set: 1
+Team Name: Smrcek, Milan, Team Score: 4, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:75:4 because it's in the first or second set.
+4.7
+1.2
+Game period text: 2do Set11:66:4
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Turek, Tomas, Team Score: 6, Set: 1
+Team Name: Smidt, Karel, Team Score: 4, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:66:4 because it's in the first or second set.
+4
+1.35
+2.9
+2
+1.7
+3.05
+1.32
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5501. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+6.5
+1.07
+Game period text: 3º set14:1610:123:1
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 3, Set: 0
+Team Name: Slawinski, Kacper, Team Score: 1, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: 3º set14:1610:123:1 because it's in the first or second set.
+2.85
+1.35
+2.4
+1.47
+1.32
+2.95
+2.2
+1.57
+1.47
+2.45
+1.2
+Game period text: 2do Set11:75:5
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Prokupek, Jaroslav, Team Score: 5, Set: 1
+Team Name: Smrcek, Milan, Team Score: 5, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:75:5 because it's in the first or second set.
+3.85
+1.18
+Game period text: 2do Set11:67:5
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Turek, Tomas, Team Score: 7, Set: 1
+Team Name: Smidt, Karel, Team Score: 5, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:67:5 because it's in the first or second set.
+4.2
+1.35
+3.1
+1.6
+2.15
+3.05
+1.32
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5501. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+5.3
+1.1
+Game period text: 3º set14:1610:125:1
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 5, Set: 0
+Team Name: Slawinski, Kacper, Team Score: 1, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: 3º set14:1610:125:1 because it's in the first or second set.
+2.35
+1.5
+2.4
+1.47
+1.3
+3.05
+2.6
+1.42
+1.47
+2.45
+1.16
+Game period text: 2do Set11:76:6
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Prokupek, Jaroslav, Team Score: 6, Set: 1
+Team Name: Smrcek, Milan, Team Score: 6, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:76:6 because it's in the first or second set.
+4.25
+1.25
+3.45
+1.3
+3.1
+1.95
+1.75
+3.05
+1.32
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5501. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+5.2
+1.12
+Game period text: 3º set14:1610:126:2
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 6, Set: 0
+Team Name: Slawinski, Kacper, Team Score: 2, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: 3º set14:1610:126:2 because it's in the first or second set.
+2.95
+1.35
+2.4
+1.47
+1.35
+2.95
+2.15
+1.6
+1.47
+2.45
+1.12
+Game period text: 2do Set11:78:6
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Prokupek, Jaroslav, Team Score: 8, Set: 1
+Team Name: Smrcek, Milan, Team Score: 6, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:78:6 because it's in the first or second set.
+5.3
+1.12
+Game period text: 2do Set11:69:6
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Turek, Tomas, Team Score: 9, Set: 1
+Team Name: Smidt, Karel, Team Score: 6, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:69:6 because it's in the first or second set.
+5.3
+1.3
+3.1
+1.6
+2.15
+3.05
+1.32
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5501. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+4.65
+1.14
+Game period text: 3º set14:1610:128:2
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 8, Set: 0
+Team Name: Slawinski, Kacper, Team Score: 2, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: 3º set14:1610:128:2 because it's in the first or second set.
+2.35
+1.52
+2.4
+1.47
+1.27
+3.35
+1.8
+1.85
+1.47
+2.45
+1.1
+Game period text: 2do Set11:79:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Prokupek, Jaroslav, Team Score: 9, Set: 1
+Team Name: Smrcek, Milan, Team Score: 7, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:79:7 because it's in the first or second set.
+5.6
+1.22
+3.6
+1.37
+2.8
+2
+1.7
+2.8
+1.37
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5501. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+4.65
+1.14
+Game period text: 3º set14:1610:129:4
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 9, Set: 0
+Team Name: Slawinski, Kacper, Team Score: 4, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: 3º set14:1610:129:4 because it's in the first or second set.
+2.05
+1.65
+2.4
+1.47
+1.18
+Game period text: 2do Set11:75:1
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Stapor, Dawid, Team Score: 5, Set: 1
+Team Name: Warpas, Blazej, Team Score: 1, Set: 0
+Skipping button click for league: TT CUP at timer: 2do Set11:75:1 because it's in the first or second set.
+4.05
+1.7
+2
+1.47
+2.45
+1.09
+Game period text: 2do Set11:710:8
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Prokupek, Jaroslav, Team Score: 10, Set: 1
+Team Name: Smrcek, Milan, Team Score: 8, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:710:8 because it's in the first or second set.
+5.8
+1.07
+Game period text: 3º set11:611:8
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Turek, Tomas, Team Score: 0, Set: 2
+Team Name: Smidt, Karel, Team Score: 0, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set11:611:8 because it's in the first or second set.
+6.25
+1.35
+2.85
+2
+1.7
+3.15
+1.3
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5501. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+4.45
+1.15
+Game period text: 3º set14:1610:1210:5
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 10, Set: 0
+Team Name: Slawinski, Kacper, Team Score: 5, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: 3º set14:1610:1210:5 because it's in the first or second set.
+1.8
+1.85
+2.4
+1.47
+1.22
+3.65
+1.95
+1.75
+1.47
+2.45
+1.12
+Game period text: 2do Set11:710:9
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Prokupek, Jaroslav, Team Score: 10, Set: 1
+Team Name: Smrcek, Milan, Team Score: 9, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:710:9 because it's in the first or second set.
+4.95
+1.07
+Game period text: 3º set11:611:8
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Turek, Tomas, Team Score: 0, Set: 2
+Team Name: Smidt, Karel, Team Score: 0, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set11:611:8 because it's in the first or second set.
+6.25
+1.22
+3.7
+2.25
+1.55
+3.55
+1.25
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5501. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+4.6
+1.15
+Game period text: 3º set14:1610:1210:6
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 10, Set: 0
+Team Name: Slawinski, Kacper, Team Score: 6, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: 3º set14:1610:1210:6 because it's in the first or second set.
+1.65
+2.05
+2.4
+1.47
+1.15
+Game period text: 2do Set11:76:2
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Stapor, Dawid, Team Score: 6, Set: 1
+Team Name: Warpas, Blazej, Team Score: 2, Set: 0
+Skipping button click for league: TT CUP at timer: 2do Set11:76:2 because it's in the first or second set.
+4.5
+1.75
+1.9
+1.47
+2.45
+1.22
+3.65
+1.07
+Game period text: 3º set11:611:8
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Turek, Tomas, Team Score: 0, Set: 2
+Team Name: Smidt, Karel, Team Score: 0, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set11:611:8 because it's in the first or second set.
+6.25
+1.22
+3.7
+2.25
+1.55
+2.95
+1.32
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5501. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+4.45
+1.16
+Game period text: Tercer break14:16
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 11, Set: 1
+Team Name: Slawinski, Kacper, Team Score: 6, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: Tercer break14:16 because it's in the first or second set.
+1.6
+2.15
+2.4
+1.47
+1.12
+Game period text: 2do Set11:78:2
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Stapor, Dawid, Team Score: 8, Set: 1
+Team Name: Warpas, Blazej, Team Score: 2, Set: 0
+Skipping button click for league: TT CUP at timer: 2do Set11:78:2 because it's in the first or second set.
+5.1
+1.95
+1.75
+1.47
+2.45
+1.12
+Game period text: 2do Set11:711:10
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Prokupek, Jaroslav, Team Score: 11, Set: 1
+Team Name: Smrcek, Milan, Team Score: 10, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:711:10 because it's in the first or second set.
+5.3
+1.08
+Game period text: 3º set11:611:8
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Turek, Tomas, Team Score: 1, Set: 2
+Team Name: Smidt, Karel, Team Score: 1, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set11:611:8 because it's in the first or second set.
+6
+1.22
+3.65
+2.5
+1.45
+3.95
+1.2
+Game period text: 4º set9:1111:5
+Associated alt value: 15
+League name: WTT SINGAPORE SMASH
+Scoreboard:
+Team Name: Qiu, Dang, Team Score: 2, Set: 1
+Team Name: U21 Lebrun, Alexis, Team Score: 4, Set: 2
+Skipping button click for league: WTT SINGAPORE SMASH at timer: 4º set9:1111:5 because it's in the first or second set.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5501. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No event table rows found.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5501. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+4.3
+1.16
+Game period text: 4º set14:1610:1211:6
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 1, Set: 1
+Team Name: Slawinski, Kacper, Team Score: 1, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: 4º set14:1610:1211:6 because it's in the first or second set.
+1.65
+2.1
+2.4
+1.47
+2.05
+1.65
+1.05
+Game period text: 2do Set11:710:3
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Stapor, Dawid, Team Score: 10, Set: 1
+Team Name: Warpas, Blazej, Team Score: 3, Set: 0
+Skipping button click for league: TT CUP at timer: 2do Set11:710:3 because it's in the first or second set.
+7
+2.1
+1.6
+1.47
+2.45
+1.1
+Game period text: 2do Set11:712:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Prokupek, Jaroslav, Team Score: 12, Set: 1
+Team Name: Smrcek, Milan, Team Score: 11, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:712:11 because it's in the first or second set.
+5.5
+1.06
+Game period text: 3º set11:611:8
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Turek, Tomas, Team Score: 1, Set: 2
+Team Name: Smidt, Karel, Team Score: 1, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set11:611:8 because it's in the first or second set.
+7
+1.25
+3.4
+2.9
+1.35
+3.35
+1.27
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5501. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+4.35
+1.16
+Game period text: 4º set14:1610:1211:6
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 2, Set: 1
+Team Name: Slawinski, Kacper, Team Score: 2, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: 4º set14:1610:1211:6 because it's in the first or second set.
+1.65
+2.1
+2.4
+1.47
+2.05
+1.65
+1.07
+Game period text: Segundo break11:7
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Stapor, Dawid, Team Score: 11, Set: 2
+Team Name: Warpas, Blazej, Team Score: 4, Set: 0
+Skipping button click for league: TT CUP at timer: Segundo break11:7 because it's in the first or second set.
+6.25
+1.85
+1.8
+1.47
+2.45
+1.05
+Game period text: 3º set11:713:110:0
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Prokupek, Jaroslav, Team Score: 0, Set: 2
+Team Name: Smrcek, Milan, Team Score: 0, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set11:713:110:0 because it's in the first or second set.
+7.25
+1.05
+Game period text: 3º set11:611:8
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Turek, Tomas, Team Score: 3, Set: 2
+Team Name: Smidt, Karel, Team Score: 2, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set11:611:8 because it's in the first or second set.
+7
+1.14
+Game period text: 2do Set11:79:9
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Hajek, Miroslav, Team Score: 9, Set: 1
+Team Name: Koutnik, Josef, Team Score: 9, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:79:9 because it's in the first or second set.
+4.7
+2.55
+1.42
+3
+1.32
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5501. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+5.2
+1.12
+Game period text: 4º set14:1610:1211:6
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 2, Set: 1
+Team Name: Slawinski, Kacper, Team Score: 3, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: 4º set14:1610:1211:6 because it's in the first or second set.
+1.75
+1.95
+2.4
+1.47
+2.05
+1.65
+1.1
+Game period text: Segundo break11:7
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Stapor, Dawid, Team Score: 11, Set: 2
+Team Name: Warpas, Blazej, Team Score: 4, Set: 0
+Skipping button click for league: TT CUP at timer: Segundo break11:7 because it's in the first or second set.
+5.5
+1.57
+2.2
+1.47
+2.45
+1.05
+Game period text: 3º set11:713:110:0
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Prokupek, Jaroslav, Team Score: 0, Set: 2
+Team Name: Smrcek, Milan, Team Score: 0, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set11:713:110:0 because it's in the first or second set.
+7.25
+1.04
+Game period text: 3º set11:611:8
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Turek, Tomas, Team Score: 4, Set: 2
+Team Name: Smidt, Karel, Team Score: 2, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set11:611:8 because it's in the first or second set.
+8
+1.18
+Game period text: 2do Set11:710:10
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Hajek, Miroslav, Team Score: 10, Set: 1
+Team Name: Koutnik, Josef, Team Score: 10, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:710:10 because it's in the first or second set.
+4.2
+2.9
+1.35
+2.8
+1.37
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5501. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+5.2
+1.12
+Game period text: 4º set14:1610:1211:6
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 3, Set: 1
+Team Name: Slawinski, Kacper, Team Score: 4, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: 4º set14:1610:1211:6 because it's in the first or second set.
+1.75
+1.9
+2.4
+1.47
+2.05
+1.65
+1.1
+Game period text: Segundo break11:7
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Stapor, Dawid, Team Score: 11, Set: 2
+Team Name: Warpas, Blazej, Team Score: 4, Set: 0
+Skipping button click for league: TT CUP at timer: Segundo break11:7 because it's in the first or second set.
+5.5
+1.75
+1.95
+1.47
+2.45
+1.05
+Game period text: 3º set11:713:110:0
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Prokupek, Jaroslav, Team Score: 0, Set: 2
+Team Name: Smrcek, Milan, Team Score: 0, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set11:713:110:0 because it's in the first or second set.
+7.25
+1.02
+Game period text: 3º set11:611:8
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Turek, Tomas, Team Score: 5, Set: 2
+Team Name: Smidt, Karel, Team Score: 2, Set: 0
+Button clicked for league: CZECH LIGA PRO
+SELECTED BUTTON:  1.02
+Bet amount set to: 500
+Possible win amount (510.0) is not sufficient compared to input amount (500).
+Unclicked selected outcome button due to insufficient bet amount.
+7.75
+1.08
+Game period text: 2do Set11:711:10
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Hajek, Miroslav, Team Score: 11, Set: 1
+Team Name: Koutnik, Josef, Team Score: 10, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:711:10 because it's in the first or second set.
+6.25
+3.3
+1.27
+3.85
+1.2
+Game period text: 4º set9:1111:5
+Associated alt value: 15
+League name: WTT SINGAPORE SMASH
+Scoreboard:
+Team Name: Qiu, Dang, Team Score: 5, Set: 1
+Team Name: U21 Lebrun, Alexis, Team Score: 6, Set: 2
+Skipping button click for league: WTT SINGAPORE SMASH at timer: 4º set9:1111:5 because it's in the first or second set.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5501. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.5
+1.25
+2
+1.7
+2.4
+1.47
+2.05
+1.65
+1.08
+Game period text: 3º set11:711:41:1
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Stapor, Dawid, Team Score: 1, Set: 2
+Team Name: Warpas, Blazej, Team Score: 1, Set: 0
+Skipping button click for league: TT CUP at timer: 3º set11:711:41:1 because it's in the first or second set.
+6
+2.15
+1.6
+1.47
+2.45
+1.06
+Game period text: 3º set11:713:111:1
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Prokupek, Jaroslav, Team Score: 1, Set: 2
+Team Name: Smrcek, Milan, Team Score: 1, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set11:713:111:1 because it's in the first or second set.
+6.75
+1.03
+Game period text: 3º set11:611:8
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Turek, Tomas, Team Score: 6, Set: 2
+Team Name: Smidt, Karel, Team Score: 4, Set: 0
+Button clicked for league: CZECH LIGA PRO
+SELECTED BUTTON:  1.06
+Bet amount set to: 500
+Possible win amount (530.0) is sufficient compared to input amount (500).
+Looking for after-bet errors
+Looking for after-bet errors
+Bet placed successfully.
+Scoreboard:
+Team Name: Turek, Tomas, Team Score: 6, Set: 2
+Team Name: Smidt, Karel, Team Score: 5, Set: 0
+7
+1.02
+Game period text: 3º set11:712:10
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Hajek, Miroslav, Team Score: 0, Set: 2
+Team Name: Koutnik, Josef, Team Score: 0, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set11:712:10 because it's in the first or second set.
+8.75
+2.55
+1.45
+4.7
+1.14
+Game period text: 4º set9:1111:5
+Associated alt value: 15
+League name: WTT SINGAPORE SMASH
+Scoreboard:
+Team Name: Qiu, Dang, Team Score: 5, Set: 1
+Team Name: U21 Lebrun, Alexis, Team Score: 7, Set: 2
+Button clicked for league: WTT SINGAPORE SMASH
+SELECTED BUTTON:  1.14
+Bet amount set to: 500
+Possible win amount (570.0) is sufficient compared to input amount (500).
+Looking for after-bet errors
+Looking for after-bet errors
+Bet placed successfully.
+Scoreboard:
+Team Name: Qiu, Dang, Team Score: 5, Set: 1
+Team Name: U21 Lebrun, Alexis, Team Score: 7, Set: 2

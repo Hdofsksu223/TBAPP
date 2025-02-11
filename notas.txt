@@ -119,3 +119,993 @@ deportes assets/sport/
 <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 13" id="svg-arrow">
   <path d="m7.712 7.128-6.038 5.58a1.041 1.041 0 0 1-1.39 0 .86.86 0 0 1 0-1.286l5.342-4.936L.284 1.549a.861.861 0 0 1 0-1.285 1.041 1.041 0 0 1 1.39 0l6.038 5.58c.192.177.288.41.288.642a.872.872 0 0 1-.288.642z"></path>
 </symbol>
+
+<tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-bet_id">#5694189</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-ts"><span class="date-formatter-date" data-test="eventDate">24.01.2025</span>,<span class="date-formatter-time" data-test="eventTime">&nbsp;16:51</span></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-mode">Apuesta simple</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-odds">1.04</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-stake"><div class="stake-module_amount__HLIXPmqj__platform-desktop-ui"><span class="">$</span><span data-test="bet-stake-fullAmount">500</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-winAmount"><div class="win-amount-module_amount__RJNZ96oM__platform-desktop-ui win-amount-module_pending__ROE-S2jD__platform-desktop-ui"><span class="">$</span><span>520</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-status"><div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusPending__GIbJPc4H__platform-common" data-test="bet-status"><span>pendiente</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui betting-history-row-module_buttonsContainer__wHyd34NF__platform-desktop-ui"><div class="dropdown-button-module_wrapper__41jw5b70__platform-desktop-ui" role="presentation" data-test="three-dots"><button title="Actions" aria-label="Actions" type="button" class="actions-module_threeDotsBtn__U2l-PGVF__platform-desktop-ui" id="dropdown-button" aria-haspopup="true" aria-expanded="false"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 16 16"><use href="#svg-three-dots"></use></svg></button></div><button type="button" class="actions-module_expandBtn__Yk1wzyzI__platform-desktop-ui" title="Detalles" aria-label="Detalles" data-test="expand"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 8 13"><use href="#svg-arrow"></use></svg></button></td></tr>
+
+
+
+
+<a class="events-table-module_teamsWrapper__iCaVNQut__platform-desktop-ui" data-test="eventLink" href="/cl/live/table-tennis/1034019-tt-elite-series/5327500-kasperski-adam-slawinski-kacper"><div class="event-teams-module_wrapper__8Io1F988__platform-desktop-ui" data-test="eventContainer"><div class="event-teams-module_infoSection__HuxG-ajM__platform-desktop-ui"><div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui"><div class="top-events__event-body-status top-events-module_eventBodyStatus__cnklMF9Z__platform-desktop-ui"><div><div class="ui-icon-live-module_icon__-56sDuS6__platform-common ui-icon-live-module_middle__1mXD3ON5__platform-common"><svg width="23" height="16" viewBox="0 0 23 16" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 3.33337H20.5V12.6667H1.5V3.33337Z" fill="white" class="ui-icon-live-module_transparent__fF-Mu-WL__platform-common"></path><path d="M23 3.333c0-.619-.263-1.212-.732-1.65A2.594 2.594 0 0 0 20.5 1h-18c-.328 0-.653.06-.957.178a2.52 2.52 0 0 0-.81.505A2.257 2.257 0 0 0 0 3.333v9.334c0 .619.263 1.212.732 1.65.232.216.508.388.811.505.304.118.629.178.957.178h18c.663 0 1.299-.246 1.768-.683a2.257 2.257 0 0 0 .732-1.65V3.333ZM5.5 11.05h-1c-.464 0-.909-.172-1.237-.479a1.582 1.582 0 0 1-.513-1.154V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v3.733c0 .062.027.12.074.165a.26.26 0 0 0 .176.068h1c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205Zm3.75-.7a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205.778.778 0 0 1-.53-.205.677.677 0 0 1-.22-.495V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v4.666Zm5.5-3.08a5.274 5.274 0 0 1-1.424 3.531.745.745 0 0 1-.258.186.793.793 0 0 1-.894-.186 5.274 5.274 0 0 1-1.424-3.53V5.682c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v1.586c0 .462.09.92.266 1.352.018.044.05.083.091.11a.261.261 0 0 0 .286 0 .235.235 0 0 0 .091-.11c.175-.432.265-.89.266-1.352V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v1.586Zm3.867.126c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205H18a.26.26 0 0 0-.177.069.226.226 0 0 0-.073.165c0 .062-.02.51.027.555.047.043.157.068.223.068h1c.199 0 .39.074.53.205.141.131.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205h-1c-.464 0-.909-.173-1.237-.479a1.582 1.582 0 0 1-.513-1.154v-2.8c0-.433.185-.849.513-1.155A1.818 1.818 0 0 1 18 4.985h1c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205h-1a.26.26 0 0 0-.177.069.226.226 0 0 0-.073.165v.543c0 .062.026.121.073.165a.26.26 0 0 0 .177.068h.617Z" fill="#eb5e58"></path><defs><radialGradient cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(22.365 0.999999) rotate(147.954) scale(26.3855 30.9161)"><stop offset="1" stop-color="#EB5E58"></stop></radialGradient></defs></svg></div></div><div class="event-table-body-status-modern-module_infoText__TrZfFu1-__platform-common"><div><span class="date-formatter-time" data-test="eventTime">22:35</span></div></div><div class="event-tooltip-module_bestOf__Elpq8Axn__platform-common event-tooltip-module_marginLeft__Cz2w-eOj__platform-common event-tooltip-module_tooltipTrigger__NuAum-UK__platform-common" data-test="reduced-periods">5<div class="event-tooltip-module_eventTooltip__5qeaHORH__platform-common" data-test="event-tooltip"><div class="event-tooltip-module_tooltipContainer__uQmS53-P__platform-common"><div>5&nbsp;sets</div></div></div></div></div><div class="event-table-periods-history-module_resultRow__aaT6c6nm__platform-desktop-ui event-table-periods-history-module_overflowed__6DfbA56l__platform-desktop-ui event-table-periods-history-module_tooltipTrigger__6Ew1nhXr__platform-desktop-ui event-table-periods-history-module_limitedWidth__5xjKKb8i__platform-desktop-ui" data-test="eventPeriodAndScore"><span class="event-table-periods-history-module_statusName__65Na3gKE__platform-desktop-ui">3º set</span><span>11:8</span><span>11:5</span><span>6:6</span></div><div class="event-table-periods-history-module_eventMoreOnePeriod__NwUWJsVc__platform-desktop-ui"><span>11:8 | 11:5 | 6:6</span></div></div></div><div class="event-teams-module_teams__lT1oaCVK__platform-desktop-ui"><div data-test="teamSeoTitles"><div class="event-teams-module_row__Ti80agIg__platform-desktop-ui"><div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui event-teams-module_overflowed__UFrCmYJN__platform-desktop-ui"><div class="event-teams-module_teamName__Ge61BM3n__platform-desktop-ui" data-test="teamName"><div class=""><span>Kasperski, Adam</span></div></div></div><div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui"><div class="event-table-additional-results-module_result__cfdrGbVy__platform-common" data-test="additional-results"><div class="event-table-additional-results-module_base__ZlPakjl1__platform-common event-table-additional-results-module_resultCol__8vqI2sEK__platform-common event-table-additional-results-module_resultMain__1RQgfvVA__platform-common">6</div><div class="event-table-additional-results-module_green__Yi0oamxh__platform-common event-table-additional-results-module_resultCol__8vqI2sEK__platform-common" data-test="teamScore">2</div></div></div></div><div class="event-teams-module_row__Ti80agIg__platform-desktop-ui"><div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui event-teams-module_overflowed__UFrCmYJN__platform-desktop-ui"><div class="event-teams-module_teamName__Ge61BM3n__platform-desktop-ui" data-test="teamName"><div class=""><span>Slawinski, Kacper</span></div></div></div><div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui"><div class="event-table-additional-results-module_result__cfdrGbVy__platform-common" data-test="additional-results"><div class="event-table-additional-results-module_server__k-YApFbS__platform-common"></div><div class="event-table-additional-results-module_base__ZlPakjl1__platform-common event-table-additional-results-module_resultCol__8vqI2sEK__platform-common event-table-additional-results-module_resultMain__1RQgfvVA__platform-common">6</div><div class="event-table-additional-results-module_green__Yi0oamxh__platform-common event-table-additional-results-module_resultCol__8vqI2sEK__platform-common" data-test="teamScore">0</div></div></div></div></div></div></div></a>
+
+
+<a class="events-table-module_teamsWrapper__iCaVNQut__platform-desktop-ui" 
+   data-test="eventLink" 
+   href="/cl/live/table-tennis/1034019-tt-elite-series/5327500-kasperski-adam-slawinski-kacper">
+    <div class="event-teams-module_wrapper__8Io1F988__platform-desktop-ui" 
+         data-test="eventContainer">
+        <div class="event-teams-module_infoSection__HuxG-ajM__platform-desktop-ui">
+            <div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui">
+                <div class="top-events__event-body-status 
+                     top-events-module_eventBodyStatus__cnklMF9Z__platform-desktop-ui">
+                    <div>
+                        <div class="ui-icon-live-module_icon__-56sDuS6__platform-common 
+                             ui-icon-live-module_middle__1mXD3ON5__platform-common">
+                            <svg width="23" height="16" viewBox="0 0 23 16" 
+                                 xmlns="http://www.w3.org/2000/svg">
+                                <path d="M1.5 3.33337H20.5V12.6667H1.5V3.33337Z" 
+                                      fill="white" 
+                                      class="ui-icon-live-module_transparent__fF-Mu-WL__platform-common"></path>
+                                <path d="M23 3.333c0-.619-.263-1.212-.732-1.65A2.594 2.594 0 0 0 20.5 1h-18c-.328 0-.653.06-.957.178a2.52 2.52 0 0 0-.81.505A2.257 2.257 0 0 0 0 3.333v9.334c0 .619.263 1.212.732 1.65.232.216.508.388.811.505.304.118.629.178.957.178h18c.663 0 1.299-.246 1.768-.683a2.257 2.257 0 0 0 .732-1.65V3.333ZM5.5 11.05h-1c-.464 0-.909-.172-1.237-.479a1.582 1.582 0 0 1-.513-1.154V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v3.733c0 .062.027.12.074.165a.26.26 0 0 0 .176.068h1c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205Zm3.75-.7a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205.778.778 0 0 1-.53-.205.677.677 0 0 1-.22-.495V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v4.666Zm5.5-3.08a5.274 5.274 0 0 1-1.424 3.531.745.745 0 0 1-.258.186.793.793 0 0 1-.894-.186 5.274 5.274 0 0 1-1.424-3.53V5.682c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v1.586c0 .462.09.92.266 1.352.018.044.05.083.091.11a.261.261 0 0 0 .286 0 .235.235 0 0 0 .091-.11c.175-.432.265-.89.266-1.352V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v1.586Zm3.867.126c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205H18a.26.26 0 0 0-.177.069.226.226 0 0 0-.073.165c0 .062-.02.51.027.555.047.043.157.068.223.068h1c.199 0 .39.074.53.205.141.131.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205h-1c-.464 0-.909-.173-1.237-.479a1.582 1.582 0 0 1-.513-1.154v-2.8c0-.433.185-.849.513-1.155A1.818 1.818 0 0 1 18 4.985h1c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205h-1a.26.26 0 0 0-.177.069.226.226 0 0 0-.073.165v.543c0 .062.026.121.073.165a.26.26 0 0 0 .177.068h.617Z" 
+                                      fill="#eb5e58"></path>
+                                <defs>
+                                    <radialGradient cx="0" cy="0" r="1" 
+                                                    gradientUnits="userSpaceOnUse" 
+                                                    gradientTransform="translate(22.365 0.999999) rotate(147.954) scale(26.3855 30.9161)">
+                                        <stop offset="1" stop-color="#EB5E58"></stop>
+                                    </radialGradient>
+                                </defs>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="event-table-body-status-modern-module_infoText__TrZfFu1-__platform-common">
+                        <div>
+                            <span class="date-formatter-time" data-test="eventTime">22:35</span>
+                        </div>
+                    </div>
+                    <div class="event-tooltip-module_bestOf__Elpq8Axn__platform-common 
+                         event-tooltip-module_marginLeft__Cz2w-eOj__platform-common 
+                         event-tooltip-module_tooltipTrigger__NuAum-UK__platform-common" 
+                         data-test="reduced-periods">
+                        5
+                        <div class="event-tooltip-module_eventTooltip__5qeaHORH__platform-common" 
+                             data-test="event-tooltip">
+                            <div class="event-tooltip-module_tooltipContainer__uQmS53-P__platform-common">
+                                <div>5&nbsp;sets</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="event-table-periods-history-module_resultRow__aaT6c6nm__platform-desktop-ui 
+                     event-table-periods-history-module_overflowed__6DfbA56l__platform-desktop-ui 
+                     event-table-periods-history-module_tooltipTrigger__6Ew1nhXr__platform-desktop-ui 
+                     event-table-periods-history-module_limitedWidth__5xjKKb8i__platform-desktop-ui" 
+                     data-test="eventPeriodAndScore">
+                    <span class="event-table-periods-history-module_statusName__65Na3gKE__platform-desktop-ui">3º set</span>
+                    <span>11:8</span>
+                    <span>11:5</span>
+                    <span>6:6</span>
+                </div>
+                <div class="event-table-periods-history-module_eventMoreOnePeriod__NwUWJsVc__platform-desktop-ui">
+                    <span>11:8 | 11:5 | 6:6</span>
+                </div>
+            </div>
+            <div class="event-teams-module_teams__lT1oaCVK__platform-desktop-ui">
+                <div data-test="teamSeoTitles">
+                    <div class="event-teams-module_row__Ti80agIg__platform-desktop-ui">
+                        <div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui 
+                             event-teams-module_overflowed__UFrCmYJN__platform-desktop-ui">
+                            <div class="event-teams-module_teamName__Ge61BM3n__platform-desktop-ui" 
+                                 data-test="teamName">
+                                <div class="">
+                                    <span>Kasperski, Adam</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui">
+                            <div class="event-table-additional-results-module_result__cfdrGbVy__platform-common" 
+                                 data-test="additional-results">
+                                <div class="event-table-additional-results-module_base__ZlPakjl1__platform-common 
+                                     event-table-additional-results-module_resultCol__8vqI2sEK__platform-common 
+                                     event-table-additional-results-module_resultMain__1RQgfvVA__platform-common">6
+                                </div>
+                                <div class="event-table-additional-results-module_green__Yi0oamxh__platform-common 
+                                     event-table-additional-results-module_resultCol__8vqI2sEK__platform-common" 
+                                     data-test="teamScore">2</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="event-teams-module_row__Ti80agIg__platform-desktop-ui">
+                        <div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui 
+                             event-teams-module_overflowed__UFrCmYJN__platform-desktop-ui">
+                            <div class="event-teams-module_teamName__Ge61BM3n__platform-desktop-ui" 
+                                 data-test="teamName">
+                                <div class="">
+                                    <span>Slawinski, Kacper</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui">
+                            <div class="event-table-additional-results-module_result__cfdrGbVy__platform-common" 
+                                 data-test="additional-results">
+                                <div class="event-table-additional-results-module_server__k-YApFbS__platform-common"></div>
+                                <div class="event-table-additional-results-module_base__ZlPakjl1__platform-common 
+                                     event-table-additional-results-module_resultCol__8vqI2sEK__platform-common 
+                                     event-table-additional-results-module_resultMain__1RQgfvVA__platform-common">6
+                                </div>
+                                <div class="event-table-additional-results-module_green__Yi0oamxh__platform-common 
+                                     event-table-additional-results-module_resultCol__8vqI2sEK__platform-common" 
+                                     data-test="teamScore">0</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</a>
+
+
+
+<div class="coupon-bet-market-module_Wrapper__3943a5BB__platform-common"><span>Ganador:&nbsp;Bernacki, Lukasz</span></div>
+
+
+<div class="event-table-additional-results-module_base__ZlPakjl1__platform-common event-table-additional-results-module_resultCol__8vqI2sEK__platform-common event-table-additional-results-module_resultMain__1RQgfvVA__platform-common">10</div>
+
+
+<div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common coupon-bet-event-module_Event__gF--HsX0__platform-common coupon-bet-event-module_EventMulti__Z5Q4Nr3o__platform-common coupon-bet-event-module_couponEventSelected__luvxfF7X__platform-common"><div class="coupon-bet-event-module_EventHeader__QzzMhv5a__platform-common" data-test="couponBetEvent"><div class="coupon-bet-event-module_EventInfo__LH2kcV9V__platform-common"><img src="/assets/sport/15.svg" title="Fomin, Yurij - Gumulinski, Piotr" alt="image/svg+xml" class="coupon-bet-event-module_SportImage__S-4df41Z__platform-common" loading="lazy" decoding="async" draggable="false" data-test=""><div class="coupon-bet-time-module_AliveContainer__9XiepLnz__platform-common"><div class="ui-icon-live-module_icon__-56sDuS6__platform-common"><svg width="23" height="16" viewBox="0 0 23 16" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 3.33337H20.5V12.6667H1.5V3.33337Z" fill="white" class=""></path><path d="M23 3.333c0-.619-.263-1.212-.732-1.65A2.594 2.594 0 0 0 20.5 1h-18c-.328 0-.653.06-.957.178a2.52 2.52 0 0 0-.81.505A2.257 2.257 0 0 0 0 3.333v9.334c0 .619.263 1.212.732 1.65.232.216.508.388.811.505.304.118.629.178.957.178h18c.663 0 1.299-.246 1.768-.683a2.257 2.257 0 0 0 .732-1.65V3.333ZM5.5 11.05h-1c-.464 0-.909-.172-1.237-.479a1.582 1.582 0 0 1-.513-1.154V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v3.733c0 .062.027.12.074.165a.26.26 0 0 0 .176.068h1c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205Zm3.75-.7a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205.778.778 0 0 1-.53-.205.677.677 0 0 1-.22-.495V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v4.666Zm5.5-3.08a5.274 5.274 0 0 1-1.424 3.531.745.745 0 0 1-.258.186.793.793 0 0 1-.894-.186 5.274 5.274 0 0 1-1.424-3.53V5.682c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v1.586c0 .462.09.92.266 1.352.018.044.05.083.091.11a.261.261 0 0 0 .286 0 .235.235 0 0 0 .091-.11c.175-.432.265-.89.266-1.352V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v1.586Zm3.867.126c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205H18a.26.26 0 0 0-.177.069.226.226 0 0 0-.073.165c0 .062-.02.51.027.555.047.043.157.068.223.068h1c.199 0 .39.074.53.205.141.131.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205h-1c-.464 0-.909-.173-1.237-.479a1.582 1.582 0 0 1-.513-1.154v-2.8c0-.433.185-.849.513-1.155A1.818 1.818 0 0 1 18 4.985h1c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205h-1a.26.26 0 0 0-.177.069.226.226 0 0 0-.073.165v.543c0 .062.026.121.073.165a.26.26 0 0 0 .177.068h.617Z" fill="#eb5e58"></path><defs><radialGradient cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(22.365 0.999999) rotate(147.954) scale(26.3855 30.9161)"><stop offset="1" stop-color="#EB5E58"></stop></radialGradient></defs></svg></div><div class="coupon-bet-time-module_Text__2hRTnE-y__platform-common"><span>Tercer break</span></div></div></div><div class="coupon-bet-event-module_Actions__CfVYiqGs__platform-common"><div class="coupon-bet-event-module_coefficientWrapper__2jxG5wJx__platform-common"><div class="coupon-bet-coefficient-module_Wrapper__TRzNZH18__platform-common" data-test="couponOddValue"><div class="coupon-bet-coefficient-module_OldValueWrapper__sSE2O3zb__platform-common"></div><span class="coupon-bet-coefficient-module_Value__ofTARQxh__platform-common">1.27</span></div></div><div class="coupon-bet-remove-module_Holder__5ySaiPzy__platform-common"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" data-test="betslip-remove-event" viewBox="0 0 15 18"><use href="#svg-trashbin"></use></svg></div></div></div><div class="coupon-bet-teams-module_Wrapper__EEK-XctL__platform-common"><div class="coupon-bet-teams-module_Score__dqrFrH4t__platform-common"><span>2:1</span></div><a class="coupon-bet-teams-module_Teams__pywcW6Gp__platform-common" href="/cl/live/table-tennis/1034019-tt-elite-series/5334309-fomin-yurij-gumulinski-piotr">Fomin, Yurij&nbsp;–&nbsp;Gumulinski, Piotr</a></div><div class="coupon-bet-market-module_Wrapper__3943a5BB__platform-common"><span>Ganador:&nbsp;Fomin, Yurij</span></div></div>
+
+
+<div class="coupon-actions-module_couponBetWrapper__Av3vRXzM__platform-common" style="max-height: calc(-431px + 100vh);"><div class="coupon-item-module_Item__FH0wRFOo__platform-common"><div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common coupon-item-module_Loader__S5nYAySK__platform-common"><div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common coupon-bet-event-module_Event__gF--HsX0__platform-common coupon-bet-event-module_EventMulti__Z5Q4Nr3o__platform-common coupon-bet-event-module_couponEventSelected__luvxfF7X__platform-common"><div class="coupon-bet-event-module_EventHeader__QzzMhv5a__platform-common" data-test="couponBetEvent"><div class="coupon-bet-event-module_EventInfo__LH2kcV9V__platform-common"><img src="/assets/sport/15.svg" title="Wisniewski, Karol - Wloczko, Krzysztof" alt="image/svg+xml" class="coupon-bet-event-module_SportImage__S-4df41Z__platform-common" loading="lazy" decoding="async" draggable="false" data-test=""><div class="coupon-bet-time-module_AliveContainer__9XiepLnz__platform-common"><div class="ui-icon-live-module_icon__-56sDuS6__platform-common"><svg width="23" height="16" viewBox="0 0 23 16" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 3.33337H20.5V12.6667H1.5V3.33337Z" fill="white" class=""></path><path d="M23 3.333c0-.619-.263-1.212-.732-1.65A2.594 2.594 0 0 0 20.5 1h-18c-.328 0-.653.06-.957.178a2.52 2.52 0 0 0-.81.505A2.257 2.257 0 0 0 0 3.333v9.334c0 .619.263 1.212.732 1.65.232.216.508.388.811.505.304.118.629.178.957.178h18c.663 0 1.299-.246 1.768-.683a2.257 2.257 0 0 0 .732-1.65V3.333ZM5.5 11.05h-1c-.464 0-.909-.172-1.237-.479a1.582 1.582 0 0 1-.513-1.154V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v3.733c0 .062.027.12.074.165a.26.26 0 0 0 .176.068h1c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205Zm3.75-.7a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205.778.778 0 0 1-.53-.205.677.677 0 0 1-.22-.495V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v4.666Zm5.5-3.08a5.274 5.274 0 0 1-1.424 3.531.745.745 0 0 1-.258.186.793.793 0 0 1-.894-.186 5.274 5.274 0 0 1-1.424-3.53V5.682c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v1.586c0 .462.09.92.266 1.352.018.044.05.083.091.11a.261.261 0 0 0 .286 0 .235.235 0 0 0 .091-.11c.175-.432.265-.89.266-1.352V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v1.586Zm3.867.126c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205H18a.26.26 0 0 0-.177.069.226.226 0 0 0-.073.165c0 .062-.02.51.027.555.047.043.157.068.223.068h1c.199 0 .39.074.53.205.141.131.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205h-1c-.464 0-.909-.173-1.237-.479a1.582 1.582 0 0 1-.513-1.154v-2.8c0-.433.185-.849.513-1.155A1.818 1.818 0 0 1 18 4.985h1c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205h-1a.26.26 0 0 0-.177.069.226.226 0 0 0-.073.165v.543c0 .062.026.121.073.165a.26.26 0 0 0 .177.068h.617Z" fill="#eb5e58"></path><defs><radialGradient cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(22.365 0.999999) rotate(147.954) scale(26.3855 30.9161)"><stop offset="1" stop-color="#EB5E58"></stop></radialGradient></defs></svg></div><div class="coupon-bet-time-module_Text__2hRTnE-y__platform-common"><span>No Iniciado</span></div></div></div><div class="coupon-bet-event-module_Actions__CfVYiqGs__platform-common"><div class="coupon-bet-event-module_coefficientWrapper__2jxG5wJx__platform-common"><div class="coupon-bet-coefficient-module_Wrapper__TRzNZH18__platform-common" data-test="couponOddValue"><div class="coupon-bet-coefficient-module_OldValueWrapper__sSE2O3zb__platform-common"></div><span class="coupon-bet-coefficient-module_Value__ofTARQxh__platform-common">1.7</span></div></div><div class="coupon-bet-remove-module_Holder__5ySaiPzy__platform-common"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" data-test="betslip-remove-event" viewBox="0 0 15 18"><use href="#svg-trashbin"></use></svg></div></div></div><div class="coupon-bet-teams-module_Wrapper__EEK-XctL__platform-common"><div class="coupon-bet-teams-module_Score__dqrFrH4t__platform-common"><span>0:0</span></div><a class="coupon-bet-teams-module_Teams__pywcW6Gp__platform-common" href="/cl/live/table-tennis/1034019-tt-elite-series/5334459-wisniewski-karol-wloczko-krzysztof">Wisniewski, Karol&nbsp;–&nbsp;Wloczko, Krzysztof</a></div><div class="coupon-bet-market-module_Wrapper__3943a5BB__platform-common"><span>Ganador:&nbsp;Wisniewski, Karol</span></div></div><div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common coupon-bet-event-module_Event__gF--HsX0__platform-common coupon-bet-event-module_EventMulti__Z5Q4Nr3o__platform-common"><div class="coupon-bet-event-module_EventHeader__QzzMhv5a__platform-common" data-test="couponBetEvent"><div class="coupon-bet-event-module_EventInfo__LH2kcV9V__platform-common"><img src="/assets/sport/15.svg" title="Fomin, Yurij - Idaczyk, Rafal" alt="image/svg+xml" class="coupon-bet-event-module_SportImage__S-4df41Z__platform-common" loading="lazy" decoding="async" draggable="false" data-test=""><div class="coupon-bet-time-module_AliveContainer__9XiepLnz__platform-common"><div class="ui-icon-live-module_icon__-56sDuS6__platform-common"><svg width="23" height="16" viewBox="0 0 23 16" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 3.33337H20.5V12.6667H1.5V3.33337Z" fill="white" class=""></path><path d="M23 3.333c0-.619-.263-1.212-.732-1.65A2.594 2.594 0 0 0 20.5 1h-18c-.328 0-.653.06-.957.178a2.52 2.52 0 0 0-.81.505A2.257 2.257 0 0 0 0 3.333v9.334c0 .619.263 1.212.732 1.65.232.216.508.388.811.505.304.118.629.178.957.178h18c.663 0 1.299-.246 1.768-.683a2.257 2.257 0 0 0 .732-1.65V3.333ZM5.5 11.05h-1c-.464 0-.909-.172-1.237-.479a1.582 1.582 0 0 1-.513-1.154V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v3.733c0 .062.027.12.074.165a.26.26 0 0 0 .176.068h1c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205Zm3.75-.7a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205.778.778 0 0 1-.53-.205.677.677 0 0 1-.22-.495V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v4.666Zm5.5-3.08a5.274 5.274 0 0 1-1.424 3.531.745.745 0 0 1-.258.186.793.793 0 0 1-.894-.186 5.274 5.274 0 0 1-1.424-3.53V5.682c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v1.586c0 .462.09.92.266 1.352.018.044.05.083.091.11a.261.261 0 0 0 .286 0 .235.235 0 0 0 .091-.11c.175-.432.265-.89.266-1.352V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v1.586Zm3.867.126c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205H18a.26.26 0 0 0-.177.069.226.226 0 0 0-.073.165c0 .062-.02.51.027.555.047.043.157.068.223.068h1c.199 0 .39.074.53.205.141.131.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205h-1c-.464 0-.909-.173-1.237-.479a1.582 1.582 0 0 1-.513-1.154v-2.8c0-.433.185-.849.513-1.155A1.818 1.818 0 0 1 18 4.985h1c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205h-1a.26.26 0 0 0-.177.069.226.226 0 0 0-.073.165v.543c0 .062.026.121.073.165a.26.26 0 0 0 .177.068h.617Z" fill="#eb5e58"></path><defs><radialGradient cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(22.365 0.999999) rotate(147.954) scale(26.3855 30.9161)"><stop offset="1" stop-color="#EB5E58"></stop></radialGradient></defs></svg></div><div class="coupon-bet-time-module_Text__2hRTnE-y__platform-common"><span>No Iniciado</span></div></div></div><div class="coupon-bet-event-module_Actions__CfVYiqGs__platform-common"><div class="coupon-bet-event-module_coefficientWrapper__2jxG5wJx__platform-common"><div class="coupon-bet-coefficient-module_Wrapper__TRzNZH18__platform-common" data-test="couponOddValue"><div class="coupon-bet-coefficient-module_OldValueWrapper__sSE2O3zb__platform-common"></div><span class="coupon-bet-coefficient-module_Value__ofTARQxh__platform-common">1.5</span></div></div><div class="coupon-bet-remove-module_Holder__5ySaiPzy__platform-common"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" data-test="betslip-remove-event" viewBox="0 0 15 18"><use href="#svg-trashbin"></use></svg></div></div></div><div class="coupon-bet-teams-module_Wrapper__EEK-XctL__platform-common"><div class="coupon-bet-teams-module_Score__dqrFrH4t__platform-common"><span>0:0</span></div><a class="coupon-bet-teams-module_Teams__pywcW6Gp__platform-common" href="/cl/live/table-tennis/1034019-tt-elite-series/5334315-fomin-yurij-idaczyk-rafal">Fomin, Yurij&nbsp;–&nbsp;Idaczyk, Rafal</a></div><div class="coupon-bet-market-module_Wrapper__3943a5BB__platform-common"><span>Ganador:&nbsp;Fomin, Yurij</span></div></div></div></div></div>
+
+<div class="coupon-actions-module_couponBetWrapper__Av3vRXzM__platform-common" style="max-height: calc(-431px + 100vh);">
+    <div class="coupon-item-module_Item__FH0wRFOo__platform-common">
+        <div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common 
+             coupon-item-module_Loader__S5nYAySK__platform-common">
+             
+            <div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common 
+                 coupon-bet-event-module_Event__gF--HsX0__platform-common 
+                 coupon-bet-event-module_EventMulti__Z5Q4Nr3o__platform-common 
+                 coupon-bet-event-module_couponEventSelected__luvxfF7X__platform-common">
+                 
+                <div class="coupon-bet-event-module_EventHeader__QzzMhv5a__platform-common" data-test="couponBetEvent">
+                    <div class="coupon-bet-event-module_EventInfo__LH2kcV9V__platform-common">
+                        <img src="/assets/sport/15.svg" 
+                             title="Wisniewski, Karol - Wloczko, Krzysztof" 
+                             alt="image/svg+xml" 
+                             class="coupon-bet-event-module_SportImage__S-4df41Z__platform-common" 
+                             loading="lazy" 
+                             decoding="async" 
+                             draggable="false" 
+                             data-test="">
+                             
+                        <div class="coupon-bet-time-module_AliveContainer__9XiepLnz__platform-common">
+                            <div class="ui-icon-live-module_icon__-56sDuS6__platform-common">
+                                <svg width="23" height="16" viewBox="0 0 23 16" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1.5 3.33337H20.5V12.6667H1.5V3.33337Z" fill="white" class=""></path>
+                                    <path d="M23 3.333c0-.619-.263-1.212-.732-1.65A2.594 2.594 0 0 0 20.5 1h-18c-.328 0-.653.06-.957.178a2.52 2.52 0 0 0-.81.505A2.257 2.257 0 0 0 0 3.333v9.334c0 .619.263 1.212.732 1.65.232.216.508.388.811.505.304.118.629.178.957.178h18c.663 0 1.299-.246 1.768-.683a2.257 2.257 0 0 0 .732-1.65V3.333ZM5.5 11.05h-1c-.464 0-.909-.172-1.237-.479a1.582 1.582 0 0 1-.513-1.154V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v3.733c0 .062.027.12.074.165a.26.26 0 0 0 .176.068h1c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205Zm3.75-.7a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205.778.778 0 0 1-.53-.205.677.677 0 0 1-.22-.495V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v4.666Zm5.5-3.08a5.274 5.274 0 0 1-1.424 3.531.745.745 0 0 1-.258.186.793.793 0 0 1-.894-.186 5.274 5.274 0 0 1-1.424-3.53V5.682c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v1.586c0 .462.09.92.266 1.352.018.044.05.083.091.11a.261.261 0 0 0 .286 0 .235.235 0 0 0 .091-.11c.175-.432.265-.89.266-1.352V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v1.586Zm3.867.126c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205H18a.26.26 0 0 0-.177.069.226.226 0 0 0-.073.165c0 .062-.02.51.027.555.047.043.157.068.223.068h1c.199 0 .39.074.53.205.141.131.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205h-1c-.464 0-.909-.173-1.237-.479a1.582 1.582 0 0 1-.513-1.154v-2.8c0-.433.185-.849.513-1.155A1.818 1.818 0 0 1 18 4.985h1c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205h-1a.26.26 0 0 0-.177.069.226.226 0 0 0-.073.165v.543c0 .062.026.121.073.165a.26.26 0 0 0 .177.068h.617Z" fill="#eb5e58"></path>
+                                    <defs>
+                                        <radialGradient cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(22.365 0.999999) rotate(147.954) scale(26.3855 30.9161)">
+                                            <stop offset="1" stop-color="#EB5E58"></stop>
+                                        </radialGradient>
+                                    </defs>
+                                </svg>
+                            </div>
+                            <div class="coupon-bet-time-module_Text__2hRTnE-y__platform-common">
+                                <span>No Iniciado</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="coupon-bet-event-module_Actions__CfVYiqGs__platform-common">
+                        <div class="coupon-bet-event-module_coefficientWrapper__2jxG5wJx__platform-common">
+                            <div class="coupon-bet-coefficient-module_Wrapper__TRzNZH18__platform-common" data-test="couponOddValue">
+                                <div class="coupon-bet-coefficient-module_OldValueWrapper__sSE2O3zb__platform-common"></div>
+                                <span class="coupon-bet-coefficient-module_Value__ofTARQxh__platform-common">1.7</span>
+                            </div>
+                        </div>
+                        <div class="coupon-bet-remove-module_Holder__5ySaiPzy__platform-common">
+                            <svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" data-test="betslip-remove-event" viewBox="0 0 15 18">
+                                <use href="#svg-trashbin"></use>
+                            </svg>
+                        </div>
+                    </div>
+                    
+                    <div class="coupon-bet-teams-module_Wrapper__EEK-XctL__platform-common">
+                        <div class="coupon-bet-teams-module_Score__dqrFrH4t__platform-common">
+                            <span>0:0</span>
+                        </div>
+                        <a class="coupon-bet-teams-module_Teams__pywcW6Gp__platform-common" href="/cl/live/table-tennis/1034019-tt-elite-series/5334459-wisniewski-karol-wloczko-krzysztof">
+                            Wisniewski, Karol&nbsp;–&nbsp;Wloczko, Krzysztof
+                        </a>
+                    </div>
+                    
+                    <div class="coupon-bet-market-module_Wrapper__3943a5BB__platform-common">
+                        <span>Ganador:&nbsp;Wisniewski, Karol</span>
+                    </div>
+                </div>
+                
+                <div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common 
+                     coupon-bet-event-module_Event__gF--HsX0__platform-common 
+                     coupon-bet-event-module_EventMulti__Z5Q4Nr3o__platform-common">
+                     
+                    <div class="coupon-bet-event-module_EventHeader__QzzMhv5a__platform-common" data-test="couponBetEvent">
+                        <div class="coupon-bet-event-module_EventInfo__LH2kcV9V__platform-common">
+                            <img src="/assets/sport/15.svg" 
+                                 title="Fomin, Yurij - Idaczyk, Rafal" 
+                                 alt="image/svg+xml" 
+                                 class="coupon-bet-event-module_SportImage__S-4df41Z__platform-common" 
+                                 loading="lazy" 
+                                 decoding="async" 
+                                 draggable="false" 
+                                 data-test="">
+                             
+                            <div class="coupon-bet-time-module_AliveContainer__9XiepLnz__platform-common">
+                                <div class="ui-icon-live-module_icon__-56sDuS6__platform-common">
+                                    <svg width="23" height="16" viewBox="0 0 23 16" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M1.5 3.33337H20.5V12.6667H1.5V3.33337Z" fill="white" class=""></path>
+                                        <path d="M23 3.333c0-.619-.263-1.212-.732-1.65A2.594 2.594 0 0 0 20.5 1h-18c-.328 0-.653.06-.957.178a2.52 2.52 0 0 0-.81.505A2.257 2.257 0 0 0 0 3.333v9.334c0 .619.263 1.212.732 1.65.232.216.508.388.811.505.304.118.629.178.957.178h18c.663 0 1.299-.246 1.768-.683a2.257 2.257 0 0 0 .732-1.65V3.333ZM5.5 11.05h-1c-.464 0-.909-.172-1.237-.479a1.582 1.582 0 0 1-.513-1.154V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v3.733c0 .062.027.12.074.165a.26.26 0 0 0 .176.068h1c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205Zm3.75-.7a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205.778.778 0 0 1-.53-.205.677.677 0 0 1-.22-.495V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v4.666Zm5.5-3.08a5.274 5.274 0 0 1-1.424 3.531.745.745 0 0 1-.258.186.793.793 0 0 1-.894-.186 5.274 5.274 0 0 1-1.424-3.53V5.682c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v1.586c0 .462.09.92.266 1.352.018.044.05.083.091.11a.261.261 0 0 0 .286 0 .235.235 0 0 0 .091-.11c.175-.432.265-.89.266-1.352V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v1.586Zm3.867.126c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205H18a.26.26 0 0 0-.177.069.226.226 0 0 0-.073.165c0 .062-.02.51.027.555.047.043.157.068.223.068h1c.199 0 .39.074.53.205.141.131.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205h-1c-.464 0-.909-.173-1.237-.479a1.582 1.582 0 0 1-.513-1.154v-2.8c0-.433.185-.849.513-1.155A1.818 1.818 0 0 1 18 4.985h1c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205h-1a.26.26 0 0 0-.177.069.226.226 0 0 0-.073.165v.543c0 .062.026.121.073.165a.26.26 0 0 0 .177.068h.617Z" fill="#eb5e58"></path>
+                                    <defs>
+                                        <radialGradient cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(22.365 0.999999) rotate(147.954) scale(26.3855 30.9161)">
+                                            <stop offset="1" stop-color="#EB5E58"></stop>
+                                        </radialGradient>
+                                    </defs>
+                                </svg>
+                            </div>
+                            <div class="coupon-bet-time-module_Text__2hRTnE-y__platform-common">
+                                <span>No Iniciado</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="coupon-bet-event-module_Actions__CfVYiqGs__platform-common">
+                        <div class="coupon-bet-event-module_coefficientWrapper__2jxG5wJx__platform-common">
+                            <div class="coupon-bet-coefficient-module_Wrapper__TRzNZH18__platform-common" data-test="couponOddValue">
+                                <div class="coupon-bet-coefficient-module_OldValueWrapper__sSE2O3zb__platform-common"></div>
+                                <span class="coupon-bet-coefficient-module_Value__ofTARQxh__platform-common">1.5</span>
+                            </div>
+                        </div>
+                        <div class="coupon-bet-remove-module_Holder__5ySaiPzy__platform-common">
+                            <svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" data-test="betslip-remove-event" viewBox="0 0 15 18">
+                                <use href="#svg-trashbin"></use>
+                            </svg>
+                        </div>
+                    </div>
+                    
+                    <div class="coupon-bet-teams-module_Wrapper__EEK-XctL__platform-common">
+                        <div class="coupon-bet-teams-module_Score__dqrFrH4t__platform-common">
+                            <span>0:0</span>
+                        </div>
+                        <a class="coupon-bet-teams-module_Teams__pywcW6Gp__platform-common" href="/cl/live/table-tennis/1034019-tt-elite-series/5334315-fomin-yurij-idaczyk-rafal">
+                            Fomin, Yurij&nbsp;–&nbsp;Idaczyk, Rafal
+                        </a>
+                    </div>
+                    
+                    <div class="coupon-bet-market-module_Wrapper__3943a5BB__platform-common">
+                        <span>Ganador:&nbsp;Fomin, Yurij</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div class="coupon-actions-module_couponActions__WtNu6sVp__platform-common coupon-actions-module_desktopMode__927lpriD__platform-common"><div class="coupon-actions-tabs-module_Wrapper__mbNgxEml__platform-common coupon-actions-tabs-module_WrapperDesktop__VKqNeq5p__platform-common"><button type="button" class="coupon-actions-tabs-module_Button__9Lv-KoTp__platform-common coupon-actions-tabs-module_ButtonActive__DWBnW6Rq__platform-common" data-text="Singles" data-test="betslip-singlebet-tab" data-active="true"><span>Simples</span></button><button type="button" class="coupon-actions-tabs-module_Button__9Lv-KoTp__platform-common" data-text="Multi bet" data-test="betslip-multibet-tab" data-active="false"><span>Apuesta múltiple</span></button></div><div class="coupon-actions-module_couponBetWrapper__Av3vRXzM__platform-common" style="max-height: calc(-358px + 100vh);"><div class="coupon-no-bid-module_couponBids__jnyAzF6g__platform-common" data-test="noOutcomePlaceHolder"><div class="coupon-no-bid-module_couponBidsImage__ApK8Ntvx__platform-common"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAAAuCAYAAABUDiUfAAAEQ0lEQVRoQ+2bS28TMRDHx0422TwoLU9xQS1naEGCE6VFnBEXXp+GE5+G1wVxRtCWE0jQwplGXBBFLX0l6WaTNfrvZpMoSuJ9urvV+hbt+JGfx/bMeMxWN2qCElQ4FzduX537JhvSpx+b1y2LfZXJqfzOkgaTMX5r8drlLzIIa99/3RTC+iyTU/m9B5MzRvkcV9l3r6+OJahjWfZvIejR0sLsG9lAVtZrDxmj15DLcU45zmRVYvne7lhkCWdx92AWtTzNVPVYOpQ12jI7tHPY7IqJl3fm557K6qxubL4gYk8gd6ZaooKWk1WJ5fu/wyMyzHZyYGIkW3t1six7hoVF1t3l+Ssr4/79x42fS5z4BygD54zOn67Q8eglUSJhNgyT9huGy2/HEvR4eWH2/TDQj+u1e5zRKygkvk2Vi1QuaoSt4rDZqx+LFrqNavmc3SdKImE6A2uSYXb6IAS9E4y9ZYx+C0GXmBAPiNF9V6Co5WimWrJ/mh2LtvcbsULs99vfEhMLUwhBu3XsQQNAx+AByOmKTow5CzyDOQYUlnz9qGUv3eGCU7uiF3rLzP3uwlx8Phubdq49q9ltDx7WidXMYQpmu2PvSTA9YLrB2sB+NapkMD3o0N+9uq2h0Eic2uNKBjOD6YFAhCLwMLBz4piZ5KFlmhkh9AxmDDAjbHJsU6k8zf2AyexMP7QksjD4AVRFGYywpcbOBJijVpsECWLESC/kVbDy1YcUJmZZVfgdszypeLUz0YYbV/RFI4AwRuy6sVKYgwIB+vJV5exUmbQJQWmvMBO7ZyYJJoIe7jJHcEPmAfmayYDCvk5zF6aKoIFMM73+X1x77DdaXsVDyRXy3A62oHhe5mmCGYpOiMoZzBDwhqueSJhhlzmMCgSbUXBB1jCcS7KqrtlhPydw7VyLpHaZqzqAYOpcnHZCfHXDpIPufdR0VSddy9tm19Zu3f6e2gNIlWkUO8wIt5axTclOc68wwxrtg4Y4HBYsa5RBp6KXbJBWo71pmASPG7kmpe71qopJ9tqH9ADCfmG05TeEXjucJIdNP4q0nCzQEcVsdNtIrDsZ4X9U1lRiYWKfUhUbhFsWRQYb8pRw366iYFtyw4HSPTNJgQ6vF2oqII7qI1Uw/ZhGxwFUChOu2YjMlFjGmuecJsWHvcKEBiPxS0WBB4TsOxQpTBUD8tJHkPQYL+2GlfHlTsLSdz2AIB3Da3DD+k7ylXOHg8RU11PpeRjQzKFOgiRuQTO3D1RpppOB50kzwx5Ap8pFqnS9lT+7dXticAKemyrbA0BSq3vyDrqTYVIKg0x6FHWky/y4YIZJdo0CTJA2pDChNdivgha9oJF7XwMthMbhRUS15IT6cX3rJtVXS0Xbzgybhh10rGHrSWGG7SBI/TAPBC5MSDUMMhY/dRIH88Q9XckeVfnRx77syEdVwZqKvtaJeO4XPZZgLab5Iep/Gx5SQ5koadkAAAAASUVORK5CYII=" title="No hay apuestas" alt="No hay apuestas" class="" loading="lazy" decoding="async" draggable="false" data-test=""></div><div class="coupon-no-bid-module_couponBidsNoData__1nM7T81F__platform-common"><strong data-test="emptyCouponText"><span>Su cartilla de apuestas está actualmente vacía</span></strong><span class="coupon-no-bid-module_couponBidsNoDataSubtext__PeWqYi9a__platform-common">Haga clic en las cuotas para realizar apuestas</span><div class="form-input-wrap" data-test="form-input-wrap"><div class="form-input"><label class="form-input__container" for="17qefigabo9h"><input id="17qefigabo9h" formnovalidate="" autocomplete="false" minlength="6" maxlength="6" placeholder="Introduce un código" type="text" class="form-input__input coupon-no-bid-module_codeInput__juEJdnTF__platform-common" tabindex="0" data-test="limitAmountInput" value=""></label></div></div></div></div></div><div class="coupon-notifications-module_Wrapper__vFLsUceE__platform-common" style="bottom: 0px;" data-test="couponNotification"></div><div class="coupon-actions-module_couponFooter__BXyYPnE-__platform-common"><div class="coupon-footer-module_flexColumn__GE5ovTEo__platform-common"><div class="coupon-footer-main-module_Wrapper__tKweo5Ah__platform-common"><div class="coupon-footer-main-module_ActionsWrapper__vAu1wij-__platform-common"><div class="coupon-footer-main-module_Entry__lPyoHNea__platform-common"><span class="coupon-footer-main-module_Symbol__Z4H-W-Mv__platform-common">&nbsp;<span class="coupon-footer-main-module_CurrencySymbolDisabled__1OLOrpXi__platform-common">$</span></span><input type="text" data-test="betslip-amount" inputmode="decimal" min="0" maxlength="15" step="0.01" class="coupon-footer-main-module_Input__9A0m4E1D__platform-common" value="" disabled=""></div><button type="button" class="app-button app-button--default  app-button--disabled  coupon-footer-main-module_ConfirmBtnDisabled__vE-NbwyM__platform-common coupon-footer-main-module_ConfirmBtn__XiI5QPX9__platform-common" data-test="betslip-place-bet" data-gtm-bet="single"><span>Apostar</span></button></div></div><section class="coupon-footer-module_footerSection__sIqLEl-7__platform-common"><div class="coupon-footer-fast-stake-module_fastStake__OtI-0N3w__platform-common"><div class="horizontal-menu" data-test="horizontalSportMenu"><div class="scroll-container__wrapper menu-wrapper"><div class="react-horizontal-scrolling-menu--wrapper dragger-scroll-module_wrapper__sI4ZH5CH__platform-common coupon-footer-fast-stake-module_flexGrow__KKvMcbyH__platform-common"><div class="react-horizontal-scrolling-menu--scroll-container "><div class="react-horizontal-scrolling-menu--item " data-key=".$depositBtn" data-index="0"><div class="" style="pointer-events: auto;"><div class="coupon-footer-fast-stake-module_Item__l5-uUdLk__platform-common coupon-footer-fast-stake-module_BtnSecondary__lyfEQrCp__platform-common coupon-footer-fast-stake-module_ButtonDeposit__Z2EM8vap__platform-common coupon-footer-fast-stake-module_DepositBtn__yDmXj4Hm__platform-common" data-test="betslipDepositPlusButton"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 16 16"><use href="#svg-plus-deposit"></use></svg></div></div></div><div class="react-horizontal-scrolling-menu--separator " data-key=".$depositBtn-separator" data-index="0.1"></div><div class="react-horizontal-scrolling-menu--item " data-key=".$balanceInfo" data-index="1"><div class="" style="pointer-events: auto;"><div class="coupon-footer-fast-stake-module_Item__l5-uUdLk__platform-common coupon-footer-fast-stake-module_Disabled__o6kUP8r-__platform-common" data-test="betslip-bet-balance"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder coupon-footer-fast-stake-module_iconSpacing__bfSB3C7I__platform-common" viewBox="0 0 16 16"><use href="#svg-wallet"></use></svg><div class="coupon-footer-fast-stake-module_wrapperAmount__DI4-6ncR__platform-common"><span>2297</span><span class="coupon-footer-fast-stake-module_amountSymbol__XRqXwTci__platform-common"><span class="">$</span></span></div></div></div></div><div class="react-horizontal-scrolling-menu--separator " data-key=".$balanceInfo-separator" data-index="1.1"></div><div class="react-horizontal-scrolling-menu--item " data-key=".4:$500" data-index="2"><div class="" style="pointer-events: auto;"><div class="coupon-footer-fast-stake-module_Item__l5-uUdLk__platform-common coupon-footer-fast-stake-module_Disabled__o6kUP8r-__platform-common" data-test="fast-stake"><span><span class="">$</span></span><span>500</span></div></div></div><div class="react-horizontal-scrolling-menu--separator " data-key=".4:$500-separator" data-index="2.1"></div><div class="react-horizontal-scrolling-menu--item " data-key=".4:$1000" data-index="3"><div class="" style="pointer-events: auto;"><div class="coupon-footer-fast-stake-module_Item__l5-uUdLk__platform-common coupon-footer-fast-stake-module_Disabled__o6kUP8r-__platform-common" data-test="fast-stake"><span><span class="">$</span></span><span>1000</span></div></div></div><div class="react-horizontal-scrolling-menu--separator " data-key=".4:$1000-separator" data-index="3.1"></div><div class="react-horizontal-scrolling-menu--item " data-key=".4:$5000" data-index="4"><div class="" style="pointer-events: auto;"><div class="coupon-footer-fast-stake-module_Item__l5-uUdLk__platform-common coupon-footer-fast-stake-module_Disabled__o6kUP8r-__platform-common" data-test="fast-stake"><span><span class="">$</span></span><span>5000</span></div></div></div><div class="react-horizontal-scrolling-menu--separator " data-key=".4:$5000-separator" data-index="4.1"></div><div class="react-horizontal-scrolling-menu--item " data-key=".4:$10000" data-index="5"><div class="" style="pointer-events: auto;"><div class="coupon-footer-fast-stake-module_Item__l5-uUdLk__platform-common coupon-footer-fast-stake-module_Disabled__o6kUP8r-__platform-common" data-test="fast-stake"><span><span class="">$</span></span><span>10000</span></div></div></div><div class="react-horizontal-scrolling-menu--separator " data-key=".4:$10000-separator" data-index="5.1"></div><div class="react-horizontal-scrolling-menu--item " data-key=".4:$50000" data-index="6"><div class="" style="pointer-events: auto;"><div class="coupon-footer-fast-stake-module_Item__l5-uUdLk__platform-common coupon-footer-fast-stake-module_Disabled__o6kUP8r-__platform-common" data-test="fast-stake"><span><span class="">$</span></span><span>50000</span></div></div></div></div></div></div></div></div></section></div></div></div>
+
+<div class="coupon-actions-module_couponActions__WtNu6sVp__platform-common coupon-actions-module_desktopMode__927lpriD__platform-common">
+    <div class="coupon-actions-tabs-module_Wrapper__mbNgxEml__platform-common coupon-actions-tabs-module_WrapperDesktop__VKqNeq5p__platform-common">
+        <button type="button" class="coupon-actions-tabs-module_Button__9Lv-KoTp__platform-common coupon-actions-tabs-module_ButtonActive__DWBnW6Rq__platform-common" data-text="Singles" data-test="betslip-singlebet-tab" data-active="true">
+            <span>Simples</span>
+        </button>
+        <button type="button" class="coupon-actions-tabs-module_Button__9Lv-KoTp__platform-common" data-text="Multi bet" data-test="betslip-multibet-tab" data-active="false">
+            <span>Apuesta múltiple</span>
+        </button>
+    </div>
+    <div class="coupon-actions-module_couponBetWrapper__Av3vRXzM__platform-common" style="max-height: calc(-358px + 100vh);">
+        <div class="coupon-no-bid-module_couponBids__jnyAzF6g__platform-common" data-test="noOutcomePlaceHolder">
+            <div class="coupon-no-bid-module_couponBidsImage__ApK8Ntvx__platform-common">
+                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAAAuCAYAAABUDiUfAAAEQ0lEQVRoQ+2bS28TMRDHx0422TwoLU9xQS1naEGCE6VFnBEXXp+GE5+G1wVxRtC...(line too long; chars omitted)">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+# New code to check the selected team name and scores
+                try:
+                    # Locate the selected team name
+                    selected_team_element = driver.find_element(By.XPATH, "//div[contains(@class, 'coupon-bet-market-module_Wrapper__3943a5BB__platform-common')]")
+                    selected_team_name = selected_team_element.text.replace("Ganador:", "").strip()  # Extract the team name
+                    print(f"Selected Team Name: {selected_team_name}")  # Debugging statement
+
+                    # Get the scores for the teams
+                    #team_sets = row.find_elements(By.XPATH, ".//div[@data-test='teamScore']")
+                    team_scores = row.find_elements(By.XPATH, ".//div[contains(@class, 'event-table-additional-results-module_base__ZlPakjl1__platform-common')]")
+                    team_names = row.find_elements(By.XPATH, ".//div[@data-test='teamName']")
+
+                    # Create a dictionary to map team names to their scores
+                    score_dict = {}
+                    for name, score in zip(team_names, team_scores):
+                        score_dict[name.text.strip()] = int(score.text.strip())
+
+                    # Check if the selected team score is greater than the other by 3 or more
+                    selected_team_score = score_dict.get(selected_team_name)
+                    if selected_team_score is not None:
+                        for name, score in score_dict.items():
+                            if name != selected_team_name and (selected_team_score - score) >= 2:
+                                
+                                
+                                # New code to print the scoreboard
+                                print("Scoreboard:")
+                                for team_name, score in score_dict.items():
+                                    print(f"{team_name}: {score}")
+                                
+                                return  # Exit after placing the bet
+                        print(f"Selected team score ({selected_team_score}) is not greater than the other score by 3 or more.")
+                        button.click()
+                        return  # Exit without placing the bet
+
+                except Exception as e:
+                    print(f"Error processing selected team name or scores: {e}")
+                    return  # Exit if there's an error
+
+
+
+
+
+
+
+
+<div class="events-table-module_rowWrapper__0VIejx97__platform-desktop-ui events-table-bonus-module_desktop__eh9ml5FI__platform-common"><div class="events-table-module_row__r4ODydMh__platform-desktop-ui" data-test="eventTableRow"><div class="events-table-module_eventInfo__1vzG-zJw__platform-desktop-ui"><div class="favorites-block-module_wrapper__mMKKCwi9__platform-common events-table-module_favoritesBlockWrapper__zk7bQXuM__platform-desktop-ui"><div><button type="button" class="pin-button-module_button__AjW3Vb1u__platform-common" data-test="pin-button"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 20 20"><use href="#pin"></use></svg></button></div><div><button type="button" class="favorite-button-module_button__RVRj6rJP__platform-common" data-test="favorite-button"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" data-test="StarHollow"><use href="#star"></use></svg></button></div></div><div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_colTeam__gkLln3ig__platform-desktop-ui"><a class="events-table-module_teamsWrapper__iCaVNQut__platform-desktop-ui" data-test="eventLink" href="/cl/live/football/1008027-bundesliga/3560143-werder-bremen-fsv-mainz"><div class="event-teams-module_wrapper__8Io1F988__platform-desktop-ui" data-test="eventContainer"><div class="event-teams-module_infoSection__HuxG-ajM__platform-desktop-ui"><div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui"><div class="top-events__event-body-status top-events-module_eventBodyStatus__cnklMF9Z__platform-desktop-ui"><div class="ui-icon-analytics-module_icon__zB-pz-iD__platform-common ui-icon-analytics-module_tooltipTrigger__at2wa7w-__platform-common" data-test="analyticsIcon"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><rect y=".825" width="14.35" height="14.35" rx="3" fill="#F2C94C"></rect><path d="M9.563 6.073a1.034 1.034 0 0 1-.131-.504.053.053 0 0 0-.02-.042.054.054 0 0 0-.047-.008l-1.736.486a.088.088 0 0 0-.064.087c.001.013.004.025.01.037.08.148.12.314.12.482a.072.072 0 0 0 .092.07l1.723-.482a.087.087 0 0 0 .053-.126ZM9.542 9.37a.086.086 0 0 0-.059-.047l-1.68-.391a.086.086 0 0 0-.108.086v.024c0 .154-.034.307-.1.446a.087.087 0 0 0 .059.122l1.671.39a.089.089 0 0 0 .098-.049.086.086 0 0 0 .009-.038V9.91c0-.161.037-.32.109-.464a.088.088 0 0 0 .001-.076Z" fill="#3E4049"></path><path d="M3.356 3.833a.347.347 0 0 0-.348.348v7.472a.516.516 0 0 0 .517.514h7.47a.347.347 0 0 0 0-.695H3.79a.084.084 0 0 1-.062-.025.087.087 0 0 1-.025-.062v-.017a.086.086 0 0 1 .041-.074l2.192-1.347a.087.087 0 0 0 .014-.14 1.042 1.042 0 0 1-.27-.398.087.087 0 0 0-.127-.043l-1.718 1.057a.087.087 0 0 1-.132-.074v-.92a.086.086 0 0 1 .034-.07l2.305-1.77a.086.086 0 0 0 0-.139 1.05 1.05 0 0 1-.313-.367.087.087 0 0 0-.13-.029l-1.757 1.35a.087.087 0 0 1-.14-.07V4.181a.347.347 0 0 0-.346-.348Z" fill="#3E4049"></path><path d="M6.654 7.306a.694.694 0 1 0 0-1.39.694.694 0 0 0 0 1.39ZM10.474 6.264a.694.694 0 1 0 0-1.389.694.694 0 0 0 0 1.389ZM10.474 10.604a.694.694 0 1 0 0-1.389.694.694 0 0 0 0 1.39ZM6.654 9.736a.694.694 0 1 0 0-1.389.694.694 0 0 0 0 1.39Z" fill="#3E4049"></path></svg><div class="ui-icon-analytics-module_eventTooltip__M09W9oyc__platform-common"><div class="ui-icon-analytics-module_tooltipContainer__8dqDAPda__platform-common"><span>Analytics</span></div></div></div><div class="ui-icon-live-module_icon__-56sDuS6__platform-common ui-icon-live-module_middle__1mXD3ON5__platform-common"><svg width="23" height="16" viewBox="0 0 23 16" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 3.33337H20.5V12.6667H1.5V3.33337Z" fill="white" class="ui-icon-live-module_transparent__fF-Mu-WL__platform-common"></path><path d="M23 3.333c0-.619-.263-1.212-.732-1.65A2.594 2.594 0 0 0 20.5 1h-18c-.328 0-.653.06-.957.178a2.52 2.52 0 0 0-.81.505A2.257 2.257 0 0 0 0 3.333v9.334c0 .619.263 1.212.732 1.65.232.216.508.388.811.505.304.118.629.178.957.178h18c.663 0 1.299-.246 1.768-.683a2.257 2.257 0 0 0 .732-1.65V3.333ZM5.5 11.05h-1c-.464 0-.909-.172-1.237-.479a1.582 1.582 0 0 1-.513-1.154V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v3.733c0 .062.027.12.074.165a.26.26 0 0 0 .176.068h1c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205Zm3.75-.7a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205.778.778 0 0 1-.53-.205.677.677 0 0 1-.22-.495V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v4.666Zm5.5-3.08a5.274 5.274 0 0 1-1.424 3.531.745.745 0 0 1-.258.186.793.793 0 0 1-.894-.186 5.274 5.274 0 0 1-1.424-3.53V5.682c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v1.586c0 .462.09.92.266 1.352.018.044.05.083.091.11a.261.261 0 0 0 .286 0 .235.235 0 0 0 .091-.11c.175-.432.265-.89.266-1.352V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v1.586Zm3.867.126c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205H18a.26.26 0 0 0-.177.069.226.226 0 0 0-.073.165c0 .062-.02.51.027.555.047.043.157.068.223.068h1c.199 0 .39.074.53.205.141.131.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205h-1c-.464 0-.909-.173-1.237-.479a1.582 1.582 0 0 1-.513-1.154v-2.8c0-.433.185-.849.513-1.155A1.818 1.818 0 0 1 18 4.985h1c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205h-1a.26.26 0 0 0-.177.069.226.226 0 0 0-.073.165v.543c0 .062.026.121.073.165a.26.26 0 0 0 .177.068h.617Z" fill="#eb5e58"></path><defs><radialGradient cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(22.365 0.999999) rotate(147.954) scale(26.3855 30.9161)"><stop offset="1" stop-color="#EB5E58"></stop></radialGradient></defs></svg></div><div class="event-table-timer-module_timerIcon__dJg1IlaS__platform-common event-table-timer-module_modern__298-WscS__platform-common event-table-timer-module_black__gvgdEqt0__platform-common black" data-test="timerIcon"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 14 14"><use href="#live-timer"></use></svg></div><div class="event-table-body-status-module_infoText__wAbmQwEH__platform-common event-table-body-status-module_isModern__42mQRQMU__platform-common event-table-body-status-module_black__teTmAHfB__platform-common black"><div data-test="liveTimer">0:33</div></div></div><div class="event-table-periods-history-module_resultRow__aaT6c6nm__platform-desktop-ui event-table-periods-history-module_overflowed__6DfbA56l__platform-desktop-ui event-table-periods-history-module_tooltipTrigger__6Ew1nhXr__platform-desktop-ui event-table-periods-history-module_limitedWidth__5xjKKb8i__platform-desktop-ui" data-test="eventPeriodAndScore"><span class="event-table-periods-history-module_statusName__65Na3gKE__platform-desktop-ui">1era Mitad</span></div></div></div><div class="event-teams-module_teams__lT1oaCVK__platform-desktop-ui"><div data-test="teamSeoTitles"><div class="event-teams-module_row__Ti80agIg__platform-desktop-ui"><div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui event-teams-module_overflowed__UFrCmYJN__platform-desktop-ui"><div class="event-teams-module_teamName__Ge61BM3n__platform-desktop-ui" data-test="teamName"><div class=""><span>Werder Bremen</span></div></div></div><div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui"><div class="event-table-additional-results-module_result__cfdrGbVy__platform-common" data-test="additional-results"><div class="event-table-additional-results-module_green__Yi0oamxh__platform-common event-table-additional-results-module_resultCol__8vqI2sEK__platform-common" data-test="teamScore">0</div></div></div></div><div class="event-teams-module_row__Ti80agIg__platform-desktop-ui"><div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui event-teams-module_overflowed__UFrCmYJN__platform-desktop-ui"><div class="event-teams-module_teamName__Ge61BM3n__platform-desktop-ui" data-test="teamName"><div class=""><span>FSV Mainz</span></div></div></div><div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui"><div class="event-table-additional-results-module_result__cfdrGbVy__platform-common" data-test="additional-results"><div class="event-table-additional-results-module_green__Yi0oamxh__platform-common event-table-additional-results-module_resultCol__8vqI2sEK__platform-common" data-test="teamScore">0</div></div></div></div></div></div></div></a></div></div><div class="events-table-module_marketsList__Bb9qyYnU__platform-desktop-ui"><div class="events-table-module_marketItem__4SO-vroB__platform-desktop-ui" data-test="marketItem"><div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_factor__D7JXUXxU__platform-desktop-ui"><div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common events-table-outcome-module_outcome__Zi5Wb5-V__platform-desktop-ui events-table-outcome-module_defaultOutcome__aJ-g-nan__platform-desktop-ui events-table-outcome-module_active__Ld7D13kH__platform-desktop-ui"><div class="events-table-outcome-module_content__SljIGDbo__platform-desktop-ui"><div class="events-table-outcome-module_textBase__uq-Dy25Y__platform-desktop-ui events-table-outcome-module_decimalText__TPRbjiWm__platform-desktop-ui"><div data-test="outcome"><span>2.35</span></div></div></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateUp__h-rR0AzU__platform-desktop-ui"></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateDown__ghumPEb8__platform-desktop-ui"></div></div></div><div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_factor__D7JXUXxU__platform-desktop-ui"><div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common events-table-outcome-module_outcome__Zi5Wb5-V__platform-desktop-ui events-table-outcome-module_defaultOutcome__aJ-g-nan__platform-desktop-ui"><div class="events-table-outcome-module_content__SljIGDbo__platform-desktop-ui"><div class="events-table-outcome-module_textBase__uq-Dy25Y__platform-desktop-ui events-table-outcome-module_decimalText__TPRbjiWm__platform-desktop-ui"><div data-test="outcome"><span>3.55</span></div></div></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateUp__h-rR0AzU__platform-desktop-ui"></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateDown__ghumPEb8__platform-desktop-ui"></div></div></div><div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_factor__D7JXUXxU__platform-desktop-ui"><div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common events-table-outcome-module_outcome__Zi5Wb5-V__platform-desktop-ui events-table-outcome-module_defaultOutcome__aJ-g-nan__platform-desktop-ui"><div class="events-table-outcome-module_content__SljIGDbo__platform-desktop-ui"><div class="events-table-outcome-module_textBase__uq-Dy25Y__platform-desktop-ui events-table-outcome-module_decimalText__TPRbjiWm__platform-desktop-ui"><div data-test="outcome"><span>3</span></div></div></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateUp__h-rR0AzU__platform-desktop-ui"></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateDown__ghumPEb8__platform-desktop-ui"></div></div></div></div><div class="events-table-module_marketItem__4SO-vroB__platform-desktop-ui" data-test="marketItem"><div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_factor__D7JXUXxU__platform-desktop-ui"><div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common events-table-outcome-module_outcome__Zi5Wb5-V__platform-desktop-ui events-table-outcome-module_defaultOutcome__aJ-g-nan__platform-desktop-ui"><div class="events-table-outcome-module_content__SljIGDbo__platform-desktop-ui"><div class="events-table-outcome-module_textBase__uq-Dy25Y__platform-desktop-ui events-table-outcome-module_decimalText__TPRbjiWm__platform-desktop-ui"><div data-test="outcome"><span>2.05</span></div></div></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateUp__h-rR0AzU__platform-desktop-ui"></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateDown__ghumPEb8__platform-desktop-ui"></div></div></div><div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_factor__D7JXUXxU__platform-desktop-ui"><div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common events-table-outcome-module_outcome__Zi5Wb5-V__platform-desktop-ui events-table-outcome-module_outcomeLocked__Qqh1FX1u__platform-desktop-ui"><div class="events-table-outcome-module_content__SljIGDbo__platform-desktop-ui"><div class="events-table-outcome-module_dataField__KS0XKPnq__platform-desktop-ui" data-test="outcome">2.5</div></div></div></div><div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_factor__D7JXUXxU__platform-desktop-ui"><div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common events-table-outcome-module_outcome__Zi5Wb5-V__platform-desktop-ui events-table-outcome-module_defaultOutcome__aJ-g-nan__platform-desktop-ui"><div class="events-table-outcome-module_content__SljIGDbo__platform-desktop-ui"><div class="events-table-outcome-module_textBase__uq-Dy25Y__platform-desktop-ui events-table-outcome-module_decimalText__TPRbjiWm__platform-desktop-ui"><div data-test="outcome"><span>1.75</span></div></div></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateUp__h-rR0AzU__platform-desktop-ui"></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateDown__ghumPEb8__platform-desktop-ui"></div></div></div></div><div aria-controls="markets" class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_more__zwVJpM0d__platform-desktop-ui events-table-module_allOddsOpener__PUcvCJnC__platform-desktop-ui" data-test="additionalMarketsButton"><span data-test="sport-event-table-amount">1158</span><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 -1.5 13 13"><use href="#base-arrow"></use></svg></div></div></div></div>
+
+
+
+<div class="events-table-module_rowWrapper__0VIejx97__platform-desktop-ui events-table-bonus-module_desktop__eh9ml5FI__platform-common">
+    <div class="events-table-module_row__r4ODydMh__platform-desktop-ui" data-test="eventTableRow">
+        <div class="events-table-module_eventInfo__1vzG-zJw__platform-desktop-ui">
+            <div class="favorites-block-module_wrapper__mMKKCwi9__platform-common events-table-module_favoritesBlockWrapper__zk7bQXuM__platform-desktop-ui">
+                <div>
+                    <button type="button" class="pin-button-module_button__AjW3Vb1u__platform-common" data-test="pin-button">
+                        <svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 20 20">
+                            <use href="#pin"></use>
+                        </svg>
+                    </button>
+                </div>
+                <div>
+                    <button type="button" class="favorite-button-module_button__RVRj6rJP__platform-common" data-test="favorite-button">
+                        <svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" data-test="StarHollow">
+                            <use href="#star"></use>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+            <div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_colTeam__gkLln3ig__platform-desktop-ui">
+                <a class="events-table-module_teamsWrapper__iCaVNQut__platform-desktop-ui" href="/cl/live/table-tennis/1034019-tt-elite-series/5334459-wisniewski-karol-wloczko-krzysztof">
+                    <div class="events-table-module_teams__Y3JhN3Vt__platform-desktop-ui">
+                        <div class="events-table-module_team__J4JdN3Vt__platform-desktop-ui" data-test="teamName">Wisniewski, Karol</div>
+                        <div class="events-table-module_team__J4JdN3Vt__platform-desktop-ui" data-test="teamName">Wloczko, Krzysztof</div>
+                    </div>
+                    <div class="events-table-module_score__dqrFrH4t__platform-desktop-ui" data-test="eventPeriodAndScore">
+                        <span>0:0</span>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="events-table-module_row__r4ODydMh__platform-desktop-ui" data-test="eventTableRow"><div class="events-table-module_eventInfo__1vzG-zJw__platform-desktop-ui"><div class="favorites-block-module_wrapper__mMKKCwi9__platform-common events-table-module_favoritesBlockWrapper__zk7bQXuM__platform-desktop-ui"><div><button type="button" class="pin-button-module_button__AjW3Vb1u__platform-common" data-test="pin-button"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 20 20"><use href="#pin"></use></svg></button></div><div><button type="button" class="favorite-button-module_button__RVRj6rJP__platform-common" data-test="favorite-button"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" data-test="StarHollow"><use href="#star"></use></svg></button></div></div><div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_colTeam__gkLln3ig__platform-desktop-ui"><a class="events-table-module_teamsWrapper__iCaVNQut__platform-desktop-ui" data-test="eventLink" href="/cl/live/football/1008027-bundesliga/3560143-werder-bremen-fsv-mainz"><div class="event-teams-module_wrapper__8Io1F988__platform-desktop-ui" data-test="eventContainer"><div class="event-teams-module_infoSection__HuxG-ajM__platform-desktop-ui"><div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui"><div class="top-events__event-body-status top-events-module_eventBodyStatus__cnklMF9Z__platform-desktop-ui"><div class="ui-icon-analytics-module_icon__zB-pz-iD__platform-common ui-icon-analytics-module_tooltipTrigger__at2wa7w-__platform-common" data-test="analyticsIcon"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><rect y=".825" width="14.35" height="14.35" rx="3" fill="#F2C94C"></rect><path d="M9.563 6.073a1.034 1.034 0 0 1-.131-.504.053.053 0 0 0-.02-.042.054.054 0 0 0-.047-.008l-1.736.486a.088.088 0 0 0-.064.087c.001.013.004.025.01.037.08.148.12.314.12.482a.072.072 0 0 0 .092.07l1.723-.482a.087.087 0 0 0 .053-.126ZM9.542 9.37a.086.086 0 0 0-.059-.047l-1.68-.391a.086.086 0 0 0-.108.086v.024c0 .154-.034.307-.1.446a.087.087 0 0 0 .059.122l1.671.39a.089.089 0 0 0 .098-.049.086.086 0 0 0 .009-.038V9.91c0-.161.037-.32.109-.464a.088.088 0 0 0 .001-.076Z" fill="#3E4049"></path><path d="M3.356 3.833a.347.347 0 0 0-.348.348v7.472a.516.516 0 0 0 .517.514h7.47a.347.347 0 0 0 0-.695H3.79a.084.084 0 0 1-.062-.025.087.087 0 0 1-.025-.062v-.017a.086.086 0 0 1 .041-.074l2.192-1.347a.087.087 0 0 0 .014-.14 1.042 1.042 0 0 1-.27-.398.087.087 0 0 0-.127-.043l-1.718 1.057a.087.087 0 0 1-.132-.074v-.92a.086.086 0 0 1 .034-.07l2.305-1.77a.086.086 0 0 0 0-.139 1.05 1.05 0 0 1-.313-.367.087.087 0 0 0-.13-.029l-1.757 1.35a.087.087 0 0 1-.14-.07V4.181a.347.347 0 0 0-.346-.348Z" fill="#3E4049"></path><path d="M6.654 7.306a.694.694 0 1 0 0-1.39.694.694 0 0 0 0 1.39ZM10.474 6.264a.694.694 0 1 0 0-1.389.694.694 0 0 0 0 1.389ZM10.474 10.604a.694.694 0 1 0 0-1.389.694.694 0 0 0 0 1.39ZM6.654 9.736a.694.694 0 1 0 0-1.389.694.694 0 0 0 0 1.39Z" fill="#3E4049"></path></svg><div class="ui-icon-analytics-module_eventTooltip__M09W9oyc__platform-common"><div class="ui-icon-analytics-module_tooltipContainer__8dqDAPda__platform-common"><span>Analytics</span></div></div></div><div class="ui-icon-live-module_icon__-56sDuS6__platform-common ui-icon-live-module_middle__1mXD3ON5__platform-common"><svg width="23" height="16" viewBox="0 0 23 16" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 3.33337H20.5V12.6667H1.5V3.33337Z" fill="white" class="ui-icon-live-module_transparent__fF-Mu-WL__platform-common"></path><path d="M23 3.333c0-.619-.263-1.212-.732-1.65A2.594 2.594 0 0 0 20.5 1h-18c-.328 0-.653.06-.957.178a2.52 2.52 0 0 0-.81.505A2.257 2.257 0 0 0 0 3.333v9.334c0 .619.263 1.212.732 1.65.232.216.508.388.811.505.304.118.629.178.957.178h18c.663 0 1.299-.246 1.768-.683a2.257 2.257 0 0 0 .732-1.65V3.333ZM5.5 11.05h-1c-.464 0-.909-.172-1.237-.479a1.582 1.582 0 0 1-.513-1.154V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v3.733c0 .062.027.12.074.165a.26.26 0 0 0 .176.068h1c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205Zm3.75-.7a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205.778.778 0 0 1-.53-.205.677.677 0 0 1-.22-.495V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v4.666Zm5.5-3.08a5.274 5.274 0 0 1-1.424 3.531.745.745 0 0 1-.258.186.793.793 0 0 1-.894-.186 5.274 5.274 0 0 1-1.424-3.53V5.682c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v1.586c0 .462.09.92.266 1.352.018.044.05.083.091.11a.261.261 0 0 0 .286 0 .235.235 0 0 0 .091-.11c.175-.432.265-.89.266-1.352V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v1.586Zm3.867.126c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205H18a.26.26 0 0 0-.177.069.226.226 0 0 0-.073.165c0 .062-.02.51.027.555.047.043.157.068.223.068h1c.199 0 .39.074.53.205.141.131.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205h-1c-.464 0-.909-.173-1.237-.479a1.582 1.582 0 0 1-.513-1.154v-2.8c0-.433.185-.849.513-1.155A1.818 1.818 0 0 1 18 4.985h1c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205h-1a.26.26 0 0 0-.177.069.226.226 0 0 0-.073.165v.543c0 .062.026.121.073.165a.26.26 0 0 0 .177.068h.617Z" fill="#eb5e58"></path><defs><radialGradient cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(22.365 0.999999) rotate(147.954) scale(26.3855 30.9161)"><stop offset="1" stop-color="#EB5E58"></stop></radialGradient></defs></svg></div><div class="event-table-timer-module_timerIcon__dJg1IlaS__platform-common event-table-timer-module_modern__298-WscS__platform-common event-table-timer-module_black__gvgdEqt0__platform-common black" data-test="timerIcon"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 14 14"><use href="#live-timer"></use></svg></div><div class="event-table-body-status-module_infoText__wAbmQwEH__platform-common event-table-body-status-module_isModern__42mQRQMU__platform-common event-table-body-status-module_black__teTmAHfB__platform-common black"><div data-test="liveTimer">6:56</div></div></div><div class="event-table-periods-history-module_resultRow__aaT6c6nm__platform-desktop-ui event-table-periods-history-module_overflowed__6DfbA56l__platform-desktop-ui event-table-periods-history-module_tooltipTrigger__6Ew1nhXr__platform-desktop-ui event-table-periods-history-module_limitedWidth__5xjKKb8i__platform-desktop-ui" data-test="eventPeriodAndScore"><span class="event-table-periods-history-module_statusName__65Na3gKE__platform-desktop-ui">1era Mitad</span></div></div></div><div class="event-teams-module_teams__lT1oaCVK__platform-desktop-ui"><div data-test="teamSeoTitles"><div class="event-teams-module_row__Ti80agIg__platform-desktop-ui"><div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui event-teams-module_overflowed__UFrCmYJN__platform-desktop-ui"><div class="event-teams-module_teamName__Ge61BM3n__platform-desktop-ui" data-test="teamName"><div class=""><span>Werder Bremen</span></div></div></div><div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui"><div class="event-table-additional-results-module_result__cfdrGbVy__platform-common" data-test="additional-results"><div class="event-table-additional-results-module_green__Yi0oamxh__platform-common event-table-additional-results-module_resultCol__8vqI2sEK__platform-common" data-test="teamScore">0</div></div></div></div><div class="event-teams-module_row__Ti80agIg__platform-desktop-ui"><div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui event-teams-module_overflowed__UFrCmYJN__platform-desktop-ui"><div class="event-teams-module_teamName__Ge61BM3n__platform-desktop-ui" data-test="teamName"><div class=""><span>FSV Mainz</span></div></div></div><div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui"><div class="event-table-additional-results-module_result__cfdrGbVy__platform-common" data-test="additional-results"><div class="event-table-additional-results-module_green__Yi0oamxh__platform-common event-table-additional-results-module_resultCol__8vqI2sEK__platform-common" data-test="teamScore">0</div></div></div></div></div></div></div></a></div></div><div class="events-table-module_marketsList__Bb9qyYnU__platform-desktop-ui"><div class="events-table-module_marketItem__4SO-vroB__platform-desktop-ui" data-test="marketItem"><div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_factor__D7JXUXxU__platform-desktop-ui"><div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common events-table-outcome-module_outcome__Zi5Wb5-V__platform-desktop-ui events-table-outcome-module_defaultOutcome__aJ-g-nan__platform-desktop-ui events-table-outcome-module_active__Ld7D13kH__platform-desktop-ui"><div class="events-table-outcome-module_content__SljIGDbo__platform-desktop-ui"><div class="events-table-outcome-module_textBase__uq-Dy25Y__platform-desktop-ui events-table-outcome-module_decimalText__TPRbjiWm__platform-desktop-ui"><div data-test="outcome"><span>2.25</span></div></div></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateUp__h-rR0AzU__platform-desktop-ui"></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateDown__ghumPEb8__platform-desktop-ui"></div></div></div><div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_factor__D7JXUXxU__platform-desktop-ui"><div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common events-table-outcome-module_outcome__Zi5Wb5-V__platform-desktop-ui events-table-outcome-module_defaultOutcome__aJ-g-nan__platform-desktop-ui"><div class="events-table-outcome-module_content__SljIGDbo__platform-desktop-ui"><div class="events-table-outcome-module_textBase__uq-Dy25Y__platform-desktop-ui events-table-outcome-module_decimalText__TPRbjiWm__platform-desktop-ui"><div data-test="outcome"><span>3.5</span></div></div></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateUp__h-rR0AzU__platform-desktop-ui"></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateDown__ghumPEb8__platform-desktop-ui"></div></div></div><div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_factor__D7JXUXxU__platform-desktop-ui"><div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common events-table-outcome-module_outcome__Zi5Wb5-V__platform-desktop-ui events-table-outcome-module_defaultOutcome__aJ-g-nan__platform-desktop-ui"><div class="events-table-outcome-module_content__SljIGDbo__platform-desktop-ui"><div class="events-table-outcome-module_textBase__uq-Dy25Y__platform-desktop-ui events-table-outcome-module_decimalText__TPRbjiWm__platform-desktop-ui"><div data-test="outcome"><span>3.25</span></div></div></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateUp__h-rR0AzU__platform-desktop-ui"></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateDown__ghumPEb8__platform-desktop-ui"></div></div></div></div><div class="events-table-module_marketItem__4SO-vroB__platform-desktop-ui" data-test="marketItem"><div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_factor__D7JXUXxU__platform-desktop-ui"><div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common events-table-outcome-module_outcome__Zi5Wb5-V__platform-desktop-ui events-table-outcome-module_defaultOutcome__aJ-g-nan__platform-desktop-ui"><div class="events-table-outcome-module_content__SljIGDbo__platform-desktop-ui"><div class="events-table-outcome-module_textBase__uq-Dy25Y__platform-desktop-ui events-table-outcome-module_decimalText__TPRbjiWm__platform-desktop-ui"><div data-test="outcome"><span>1.9</span></div></div></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateUp__h-rR0AzU__platform-desktop-ui"></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateDown__ghumPEb8__platform-desktop-ui"></div></div></div><div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_factor__D7JXUXxU__platform-desktop-ui"><div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common events-table-outcome-module_outcome__Zi5Wb5-V__platform-desktop-ui events-table-outcome-module_outcomeLocked__Qqh1FX1u__platform-desktop-ui"><div class="events-table-outcome-module_content__SljIGDbo__platform-desktop-ui"><div class="events-table-outcome-module_dataField__KS0XKPnq__platform-desktop-ui" data-test="outcome">2.5</div></div></div></div><div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_factor__D7JXUXxU__platform-desktop-ui"><div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common events-table-outcome-module_outcome__Zi5Wb5-V__platform-desktop-ui events-table-outcome-module_defaultOutcome__aJ-g-nan__platform-desktop-ui"><div class="events-table-outcome-module_content__SljIGDbo__platform-desktop-ui"><div class="events-table-outcome-module_textBase__uq-Dy25Y__platform-desktop-ui events-table-outcome-module_decimalText__TPRbjiWm__platform-desktop-ui"><div data-test="outcome"><span>1.9</span></div></div></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateUp__h-rR0AzU__platform-desktop-ui"></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateDown__ghumPEb8__platform-desktop-ui"></div></div></div></div><div aria-controls="markets" class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_more__zwVJpM0d__platform-desktop-ui events-table-module_allOddsOpener__PUcvCJnC__platform-desktop-ui" data-test="additionalMarketsButton"><span data-test="sport-event-table-amount">1160</span><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 -1.5 13 13"><use href="#base-arrow"></use></svg></div></div></div>
+
+
+
+<div class="events-table-module_row__r4ODydMh__platform-desktop-ui" data-test="eventTableRow"><div class="events-table-module_eventInfo__1vzG-zJw__platform-desktop-ui"><div class="favorites-block-module_wrapper__mMKKCwi9__platform-common events-table-module_favoritesBlockWrapper__zk7bQXuM__platform-desktop-ui"><div><button type="button" class="pin-button-module_button__AjW3Vb1u__platform-common" data-test="pin-button"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 20 20"><use href="#pin"></use></svg></button></div><div><button type="button" class="favorite-button-module_button__RVRj6rJP__platform-common" data-test="favorite-button"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" data-test="StarHollow"><use href="#star"></use></svg></button></div></div><div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_colTeam__gkLln3ig__platform-desktop-ui"><a class="events-table-module_teamsWrapper__iCaVNQut__platform-desktop-ui" data-test="eventLink" href="/cl/live/table-tennis/1034019-tt-elite-series/5366144-fira-damian-wiza-roman"><div class="event-teams-module_wrapper__8Io1F988__platform-desktop-ui" data-test="eventContainer"><div class="event-teams-module_infoSection__HuxG-ajM__platform-desktop-ui"><div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui"><div class="top-events__event-body-status top-events-module_eventBodyStatus__cnklMF9Z__platform-desktop-ui"><div><div class="ui-icon-live-module_icon__-56sDuS6__platform-common ui-icon-live-module_middle__1mXD3ON5__platform-common"><svg width="23" height="16" viewBox="0 0 23 16" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 3.33337H20.5V12.6667H1.5V3.33337Z" fill="white" class="ui-icon-live-module_transparent__fF-Mu-WL__platform-common"></path><path d="M23 3.333c0-.619-.263-1.212-.732-1.65A2.594 2.594 0 0 0 20.5 1h-18c-.328 0-.653.06-.957.178a2.52 2.52 0 0 0-.81.505A2.257 2.257 0 0 0 0 3.333v9.334c0 .619.263 1.212.732 1.65.232.216.508.388.811.505.304.118.629.178.957.178h18c.663 0 1.299-.246 1.768-.683a2.257 2.257 0 0 0 .732-1.65V3.333ZM5.5 11.05h-1c-.464 0-.909-.172-1.237-.479a1.582 1.582 0 0 1-.513-1.154V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v3.733c0 .062.027.12.074.165a.26.26 0 0 0 .176.068h1c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205Zm3.75-.7a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205.778.778 0 0 1-.53-.205.677.677 0 0 1-.22-.495V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v4.666Zm5.5-3.08a5.274 5.274 0 0 1-1.424 3.531.745.745 0 0 1-.258.186.793.793 0 0 1-.894-.186 5.274 5.274 0 0 1-1.424-3.53V5.682c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v1.586c0 .462.09.92.266 1.352.018.044.05.083.091.11a.261.261 0 0 0 .286 0 .235.235 0 0 0 .091-.11c.175-.432.265-.89.266-1.352V5.683c0-.186.079-.364.22-.495a.778.778 0 0 1 .53-.205c.199 0 .39.073.53.205.141.13.22.309.22.495v1.586Zm3.867.126c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205H18a.26.26 0 0 0-.177.069.226.226 0 0 0-.073.165c0 .062-.02.51.027.555.047.043.157.068.223.068h1c.199 0 .39.074.53.205.141.131.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205h-1c-.464 0-.909-.173-1.237-.479a1.582 1.582 0 0 1-.513-1.154v-2.8c0-.433.185-.849.513-1.155A1.818 1.818 0 0 1 18 4.985h1c.199 0 .39.074.53.205.141.132.22.31.22.495a.677.677 0 0 1-.22.495.778.778 0 0 1-.53.205h-1a.26.26 0 0 0-.177.069.226.226 0 0 0-.073.165v.543c0 .062.026.121.073.165a.26.26 0 0 0 .177.068h.617Z" fill="#eb5e58"></path><defs><radialGradient cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(22.365 0.999999) rotate(147.954) scale(26.3855 30.9161)"><stop offset="1" stop-color="#EB5E58"></stop></radialGradient></defs></svg></div></div><div class="event-table-body-status-modern-module_infoText__TrZfFu1-__platform-common"><div><span class="date-formatter-time" data-test="eventTime">16:45</span></div></div><div class="event-tooltip-module_bestOf__Elpq8Axn__platform-common event-tooltip-module_marginLeft__Cz2w-eOj__platform-common event-tooltip-module_tooltipTrigger__NuAum-UK__platform-common" data-test="reduced-periods">5<div class="event-tooltip-module_eventTooltip__5qeaHORH__platform-common" data-test="event-tooltip"><div class="event-tooltip-module_tooltipContainer__uQmS53-P__platform-common"><div>5&nbsp;sets</div></div></div></div></div><div class="event-table-periods-history-module_resultRow__aaT6c6nm__platform-desktop-ui event-table-periods-history-module_overflowed__6DfbA56l__platform-desktop-ui event-table-periods-history-module_tooltipTrigger__6Ew1nhXr__platform-desktop-ui event-table-periods-history-module_limitedWidth__5xjKKb8i__platform-desktop-ui" data-test="eventPeriodAndScore"><span class="event-table-periods-history-module_statusName__65Na3gKE__platform-desktop-ui">No Iniciado</span></div></div></div><div class="event-teams-module_teams__lT1oaCVK__platform-desktop-ui"><div data-test="teamSeoTitles"><div class="event-teams-module_row__Ti80agIg__platform-desktop-ui"><div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui event-teams-module_overflowed__UFrCmYJN__platform-desktop-ui"><div class="event-teams-module_teamName__Ge61BM3n__platform-desktop-ui" data-test="teamName"><div class=""><span>Fira, Damian</span></div></div></div><div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui"><div class="event-table-additional-results-module_result__cfdrGbVy__platform-common" data-test="additional-results"><div class="event-table-additional-results-module_green__Yi0oamxh__platform-common event-table-additional-results-module_resultCol__8vqI2sEK__platform-common" data-test="teamScore">0</div></div></div></div><div class="event-teams-module_row__Ti80agIg__platform-desktop-ui"><div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui event-teams-module_overflowed__UFrCmYJN__platform-desktop-ui"><div class="event-teams-module_teamName__Ge61BM3n__platform-desktop-ui" data-test="teamName"><div class=""><span>Wiza, Roman</span></div></div></div><div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui"><div class="event-table-additional-results-module_result__cfdrGbVy__platform-common" data-test="additional-results"><div class="event-table-additional-results-module_green__Yi0oamxh__platform-common event-table-additional-results-module_resultCol__8vqI2sEK__platform-common" data-test="teamScore">0</div></div></div></div></div></div></div></a></div></div><div class="events-table-module_marketsList__Bb9qyYnU__platform-desktop-ui"><div class="events-table-module_marketItem__4SO-vroB__platform-desktop-ui" data-test="marketItem"><div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_factor__D7JXUXxU__platform-desktop-ui"><div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common events-table-outcome-module_outcome__Zi5Wb5-V__platform-desktop-ui events-table-outcome-module_defaultOutcome__aJ-g-nan__platform-desktop-ui"><div class="events-table-outcome-module_content__SljIGDbo__platform-desktop-ui"><div class="events-table-outcome-module_textBase__uq-Dy25Y__platform-desktop-ui events-table-outcome-module_decimalText__TPRbjiWm__platform-desktop-ui"><div data-test="outcome"><span>2.5</span></div></div></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateUp__h-rR0AzU__platform-desktop-ui"></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateDown__ghumPEb8__platform-desktop-ui"></div></div></div><div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_factor__D7JXUXxU__platform-desktop-ui"><div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common events-table-outcome-module_outcome__Zi5Wb5-V__platform-desktop-ui events-table-outcome-module_defaultOutcome__aJ-g-nan__platform-desktop-ui"><div class="events-table-outcome-module_content__SljIGDbo__platform-desktop-ui"><div class="events-table-outcome-module_textBase__uq-Dy25Y__platform-desktop-ui events-table-outcome-module_decimalText__TPRbjiWm__platform-desktop-ui"><div data-test="outcome"><span>1.45</span></div></div></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateUp__h-rR0AzU__platform-desktop-ui"></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateDown__ghumPEb8__platform-desktop-ui"></div></div></div></div><div class="events-table-module_marketItem__4SO-vroB__platform-desktop-ui" data-test="marketItem"><div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_factor__D7JXUXxU__platform-desktop-ui"><div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common events-table-outcome-module_outcome__Zi5Wb5-V__platform-desktop-ui events-table-outcome-module_outcomeLocked__Qqh1FX1u__platform-desktop-ui events-table-outcome-module_defaultOutcome__aJ-g-nan__platform-desktop-ui"><div class="events-table-outcome-module_content__SljIGDbo__platform-desktop-ui"><div class="modal-info">No disponible</div><div class="events-table-outcome-module_icon__L-fw78VW__platform-desktop-ui"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 18 18"><use href="#svg-coeff-disabled"></use></svg></div></div></div></div><div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_factor__D7JXUXxU__platform-desktop-ui"><div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common events-table-outcome-module_outcome__Zi5Wb5-V__platform-desktop-ui events-table-outcome-module_outcomeLocked__Qqh1FX1u__platform-desktop-ui events-table-outcome-module_defaultOutcome__aJ-g-nan__platform-desktop-ui"><div class="events-table-outcome-module_content__SljIGDbo__platform-desktop-ui"><div class="modal-info">No disponible</div><div class="events-table-outcome-module_icon__L-fw78VW__platform-desktop-ui"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 18 18"><use href="#svg-coeff-disabled"></use></svg></div></div></div></div><div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_factor__D7JXUXxU__platform-desktop-ui"><div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common events-table-outcome-module_outcome__Zi5Wb5-V__platform-desktop-ui events-table-outcome-module_outcomeLocked__Qqh1FX1u__platform-desktop-ui events-table-outcome-module_defaultOutcome__aJ-g-nan__platform-desktop-ui"><div class="events-table-outcome-module_content__SljIGDbo__platform-desktop-ui"><div class="modal-info">No disponible</div><div class="events-table-outcome-module_icon__L-fw78VW__platform-desktop-ui"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 18 18"><use href="#svg-coeff-disabled"></use></svg></div></div></div></div></div><div aria-controls="markets" class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_more__zwVJpM0d__platform-desktop-ui events-table-module_allOddsOpener__PUcvCJnC__platform-desktop-ui" data-test="additionalMarketsButton"><span data-test="sport-event-table-amount">41</span><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 -1.5 13 13"><use href="#base-arrow"></use></svg></div></div></div>
+
+
+<div class="events-table-module_row__r4ODydMh__platform-desktop-ui" data-test="eventTableRow">
+    <div class="events-table-module_eventInfo__1vzG-zJw__platform-desktop-ui">
+        <div class="favorites-block-module_wrapper__mMKKCwi9__platform-common events-table-module_favoritesBlockWrapper__zk7bQXuM__platform-desktop-ui">
+            <div>
+                <button type="button" class="pin-button-module_button__AjW3Vb1u__platform-common" data-test="pin-button">
+                    <svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 20 20">
+                        <use href="#pin"></use>
+                    </svg>
+                </button>
+            </div>
+            <div>
+                <button type="button" class="favorite-button-module_button__RVRj6rJP__platform-common" data-test="favorite-button">
+                    <svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" data-test="StarHollow">
+                        <use href="#star"></use>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_colTeam__gkLln3ig__platform-desktop-ui">
+            <a class="events-table-module_teamsWrapper__iCaVNQut__platform-desktop-ui" data-test="eventLink" href="/cl/live/table-tennis/1034019-tt-elite-series/5366144-fira-damian-wiza-roman">
+                <div class="event-teams-module_wrapper__8Io1F988__platform-desktop-ui" data-test="eventContainer">
+                    <div class="event-teams-module_infoSection__HuxG-ajM__platform-desktop-ui">
+                        <div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui">
+                            <div class="top-events__event-body-status top-events-module_eventBodyStatus__cnklMF9Z__platform-desktop-ui">
+                                <div>
+                                    <div class="ui-icon-live-module_icon__-56sDuS6__platform-common ui-icon-live-module_middle__1mXD3ON5__platform-common">
+                                        <svg width="23" height="16" viewBox="0 0 23 16" xmlns="http://www.w3.org/2000/svg">
+                                            <!-- SVG paths omitted for brevity -->
+                                        </svg>
+                                    </div>
+                                </div>
+                                <div class="event-table-body-status-modern-module_infoText__TrZfFu1-__platform-common">
+                                    <div><span class="date-formatter-time" data-test="eventTime">16:45</span></div>
+                                </div>
+                                <div class="event-tooltip-module_bestOf__Elpq8Axn__platform-common event-tooltip-module_marginLeft__Cz2w-eOj__platform-common event-tooltip-module_tooltipTrigger__NuAum-UK__platform-common" data-test="reduced-periods">
+                                    5
+                                    <div class="event-tooltip-module_eventTooltip__5qeaHORH__platform-common" data-test="event-tooltip">
+                                        <div class="event-tooltip-module_tooltipContainer__uQmS53-P__platform-common">
+                                            <div>5&nbsp;sets</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="event-table-periods-history-module_resultRow__aaT6c6nm__platform-desktop-ui event-table-periods-history-module_overflowed__6DfbA56l__platform-desktop-ui event-table-periods-history-module_tooltipTrigger__6Ew1nhXr__platform-desktop-ui event-table-periods-history-module_limitedWidth__5xjKKb8i__platform-desktop-ui" data-test="eventPeriodAndScore">
+                                <span class="event-table-periods-history-module_statusName__65Na3gKE__platform-desktop-ui">No Iniciado</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="event-teams-module_teams__lT1oaCVK__platform-desktop-ui">
+                        <div data-test="teamSeoTitles">
+                            <div class="event-teams-module_row__Ti80agIg__platform-desktop-ui">
+                                <div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui event-teams-module_overflowed__UFrCmYJN__platform-desktop-ui">
+                                    <div class="event-teams-module_teamName__Ge61BM3n__platform-desktop-ui" data-test="teamName">
+                                        <div><span>Fira, Damian</span></div>
+                                    </div>
+                                </div>
+                                <div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui">
+                                    <div class="event-table-additional-results-module_result__cfdrGbVy__platform-common" data-test="additional-results">
+                                        <div class="event-table-additional-results-module_green__Yi0oamxh__platform-common event-table-additional-results-module_resultCol__8vqI2sEK__platform-common" data-test="teamScore">0</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="event-teams-module_row__Ti80agIg__platform-desktop-ui">
+                                <div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui event-teams-module_overflowed__UFrCmYJN__platform-desktop-ui">
+                                    <div class="event-teams-module_teamName__Ge61BM3n__platform-desktop-ui" data-test="teamName">
+                                        <div><span>Wiza, Roman</span></div>
+                                    </div>
+                                </div>
+                                <div class="event-teams-module_col__Vd2bDJSC__platform-desktop-ui">
+                                    <div class="event-table-additional-results-module_result__cfdrGbVy__platform-common" data-test="additional-results">
+                                        <div class="event-table-additional-results-module_green__Yi0oamxh__platform-common event-table-additional-results-module_resultCol__8vqI2sEK__platform-common" data-test="teamScore">0</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="events-table-module_marketsList__Bb9qyYnU__platform-desktop-ui">
+        <div class="events-table-module_marketItem__4SO-vroB__platform-desktop-ui" data-test="marketItem">
+            <div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_factor__D7JXUXxU__platform-desktop-ui">
+                <div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common events-table-outcome-module_outcome__Zi5Wb5-V__platform-desktop-ui events-table-outcome-module_defaultOutcome__aJ-g-nan__platform-desktop-ui">
+                    <div class="events-table-outcome-module_content__SljIGDbo__platform-desktop-ui">
+                        <div class="events-table-outcome-module_textBase__uq-Dy25Y__platform-desktop-ui events-table-outcome-module_decimalText__TPRbjiWm__platform-desktop-ui">
+                            <div data-test="outcome"><span>2.5</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_factor__D7JXUXxU__platform-desktop-ui">
+                <div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common events-table-outcome-module_outcome__Zi5Wb5-V__platform-desktop-ui events-table-outcome-module_defaultOutcome__aJ-g-nan__platform-desktop-ui">
+                    <div class="events-table-outcome-module_content__SljIGDbo__platform-desktop-ui">
+                        <div class="events-table-outcome-module_textBase__uq-Dy25Y__platform-desktop-ui events-table-outcome-module_decimalText__TPRbjiWm__platform-desktop-ui">
+                            <div data-test="outcome"><span>1.45</span></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="events-table-module_marketItem__4SO-vroB__platform-desktop-ui" data-test="marketItem">
+            <!-- Additional market items with "No disponible" status -->
+        </div>
+        <div aria-controls="markets" class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_more__zwVJpM0d__platform-desktop-ui events-table-module_allOddsOpener__PUcvCJnC__platform-desktop-ui" data-test="additionalMarketsButton">
+            <span data-test="sport-event-table-amount">41</span>
+            <svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 -1.5 13 13">
+                <use href="#base-arrow"></use>
+            </svg>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_factor__D7JXUXxU__platform-desktop-ui"><div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common events-table-outcome-module_outcome__Zi5Wb5-V__platform-desktop-ui events-table-outcome-module_defaultOutcome__aJ-g-nan__platform-desktop-ui events-table-outcome-module_active__Ld7D13kH__platform-desktop-ui"><div class="events-table-outcome-module_content__SljIGDbo__platform-desktop-ui"><div class="events-table-outcome-module_textBase__uq-Dy25Y__platform-desktop-ui events-table-outcome-module_decimalText__TPRbjiWm__platform-desktop-ui"><div data-test="outcome"><span>1.85</span></div></div></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateUp__h-rR0AzU__platform-desktop-ui"></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateDown__ghumPEb8__platform-desktop-ui"></div></div></div>
+
+<div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common events-table-outcome-module_outcome__Zi5Wb5-V__platform-desktop-ui events-table-outcome-module_defaultOutcome__aJ-g-nan__platform-desktop-ui"><div class="events-table-outcome-module_content__SljIGDbo__platform-desktop-ui"><div class="events-table-outcome-module_textBase__uq-Dy25Y__platform-desktop-ui events-table-outcome-module_decimalText__TPRbjiWm__platform-desktop-ui"><div data-test="outcome"><span>1.85</span></div></div></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateUp__h-rR0AzU__platform-desktop-ui"></div><div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateDown__ghumPEb8__platform-desktop-ui"></div></div>
+
+
+
+<div class="events-table-module_col__tqtZgJad__platform-desktop-ui events-table-module_factor__D7JXUXxU__platform-desktop-ui">
+    <div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common events-table-outcome-module_outcome__Zi5Wb5-V__platform-desktop-ui events-table-outcome-module_defaultOutcome__aJ-g-nan__platform-desktop-ui events-table-outcome-module_active__Ld7D13kH__platform-desktop-ui">
+        <div class="events-table-outcome-module_content__SljIGDbo__platform-desktop-ui">
+            <div class="events-table-outcome-module_textBase__uq-Dy25Y__platform-desktop-ui events-table-outcome-module_decimalText__TPRbjiWm__platform-desktop-ui">
+                <div data-test="outcome">
+                    <span>1.85</span>
+                </div>
+            </div>
+        </div>
+        <div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateUp__h-rR0AzU__platform-desktop-ui"></div>
+        <div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateDown__ghumPEb8__platform-desktop-ui"></div>
+    </div>
+</div>
+
+
+<div class="snake-loader-module_Wrapper__E2wLbJI3__platform-common events-table-outcome-module_outcome__Zi5Wb5-V__platform-desktop-ui events-table-outcome-module_defaultOutcome__aJ-g-nan__platform-desktop-ui">
+    <div class="events-table-outcome-module_content__SljIGDbo__platform-desktop-ui">
+        <div class="events-table-outcome-module_textBase__uq-Dy25Y__platform-desktop-ui events-table-outcome-module_decimalText__TPRbjiWm__platform-desktop-ui">
+            <div data-test="outcome">
+                <span>1.85</span>
+            </div>
+        </div>
+    </div>
+    <div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateUp__h-rR0AzU__platform-desktop-ui"></div>
+    <div class="outcome-animation-module_animate__Na5G146J__platform-desktop-ui outcome-animation-module_animateDown__ghumPEb8__platform-desktop-ui"></div>
+</div>
+
+
+
+
+<tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-bet_id">#5757327</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-ts"><span class="date-formatter-date" data-test="eventDate">03.02.2025</span>,<span class="date-formatter-time" data-test="eventTime">&nbsp;00:59</span></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-mode">Apuesta simple</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-odds">1.06</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-stake"><div class="stake-module_amount__HLIXPmqj__platform-desktop-ui"><span class="">$</span><span data-test="bet-stake-fullAmount">500</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-winAmount"><div class="win-amount-module_amount__RJNZ96oM__platform-desktop-ui win-amount-module_win__iKOPGyOw__platform-desktop-ui"><span class="">$</span><span>530</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-status"><div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusWon__aXIX2O0B__platform-common" data-test="bet-status"><span>ganó (-ados)</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui betting-history-row-module_buttonsContainer__wHyd34NF__platform-desktop-ui"><button type="button" class="actions-module_expandBtn__Yk1wzyzI__platform-desktop-ui" title="Detalles" aria-label="Detalles" data-test="expand"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 8 13"><use href="#svg-arrow"></use></svg></button></td></tr>
+
+
+<tbody class="rounded-table-module_tbody__Ei-IQ6ru__platform-desktop-ui" data-test="bet-history-item"><tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-bet_id">#5757327</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-ts"><span class="date-formatter-date" data-test="eventDate">03.02.2025</span>,<span class="date-formatter-time" data-test="eventTime">&nbsp;00:59</span></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-mode">Apuesta simple</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-odds">1.06</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-stake"><div class="stake-module_amount__HLIXPmqj__platform-desktop-ui"><span class="">$</span><span data-test="bet-stake-fullAmount">500</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-winAmount"><div class="win-amount-module_amount__RJNZ96oM__platform-desktop-ui win-amount-module_win__iKOPGyOw__platform-desktop-ui"><span class="">$</span><span>530</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-status"><div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusWon__aXIX2O0B__platform-common" data-test="bet-status"><span>ganó (-ados)</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui betting-history-row-module_buttonsContainer__wHyd34NF__platform-desktop-ui"><button type="button" class="actions-module_expandBtn__Yk1wzyzI__platform-desktop-ui" title="Detalles" aria-label="Detalles" data-test="expand"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 8 13"><use href="#svg-arrow"></use></svg></button></td></tr></tbody>
+
+<tbody class="rounded-table-module_tbody__Ei-IQ6ru__platform-desktop-ui" data-test="bet-history-item">
+    <tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui">
+        <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-bet_id">#5757327</td>
+        <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-ts">
+            <span class="date-formatter-date" data-test="eventDate">03.02.2025</span>,
+            <span class="date-formatter-time" data-test="eventTime">&nbsp;00:59</span>
+        </td>
+        <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-mode">Apuesta simple</td>
+        <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-odds">1.06</td>
+        <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-stake">
+            <div class="stake-module_amount__HLIXPmqj__platform-desktop-ui">
+                <span class="">$</span>
+                <span data-test="bet-stake-fullAmount">500</span>
+            </div>
+        </td>
+        <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-winAmount">
+            <div class="win-amount-module_amount__RJNZ96oM__platform-desktop-ui win-amount-module_win__iKOPGyOw__platform-desktop-ui">
+                <span class="">$</span>
+                <span>530</span>
+            </div>
+        </td>
+        <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-status">
+            <div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusWon__aXIX2O0B__platform-common" data-test="bet-status">
+                <span>ganó (-ados)</span>
+            </div>
+        </td>
+        <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui betting-history-row-module_buttonsContainer__wHyd34NF__platform-desktop-ui">
+            <button type="button" class="actions-module_expandBtn__Yk1wzyzI__platform-desktop-ui" title="Detalles" aria-label="Detalles" data-test="expand">
+                <svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 8 13">
+                    <use href="#svg-arrow"></use>
+                </svg>
+            </button>
+        </td>
+    </tr>
+</tbody>
+
+
+
+
+
+
+
+
+
+
+<tbody class="rounded-table-module_tbody__Ei-IQ6ru__platform-desktop-ui betting-history-row-module_expanded__-GduWCaI__platform-desktop-ui" data-test="bet-history-item"><tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-bet_id">#5757327</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-ts"><span class="date-formatter-date" data-test="eventDate">03.02.2025</span>,<span class="date-formatter-time" data-test="eventTime">&nbsp;00:59</span></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-mode">Apuesta simple</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-odds">1.06</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-stake"><div class="stake-module_amount__HLIXPmqj__platform-desktop-ui"><span class="">$</span><span data-test="bet-stake-fullAmount">500</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-winAmount"><div class="win-amount-module_amount__RJNZ96oM__platform-desktop-ui win-amount-module_win__iKOPGyOw__platform-desktop-ui"><span class="">$</span><span>530</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-status"><div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusWon__aXIX2O0B__platform-common" data-test="bet-status"><span>ganó (-ados)</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui betting-history-row-module_buttonsContainer__wHyd34NF__platform-desktop-ui"><button type="button" class="actions-module_expandBtn__Yk1wzyzI__platform-desktop-ui actions-module_expanded__saZ3HoR5__platform-desktop-ui" title="Detalles" aria-label="Detalles" data-test="expand"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 8 13"><use href="#svg-arrow"></use></svg></button></td></tr><tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui details-module_leagueTd__phSwUMvX__platform-desktop-ui" colspan="8"><div class="details-module_league__CSGMiNgP__platform-desktop-ui"><img src="/assets/sport/15.svg" class="details-module_sportIcon__CPM6bV9E__platform-desktop-ui" loading="lazy" decoding="async" draggable="false" data-test=""><div class="holder league-icon-module_holder__Qjf0X9PJ__platform-common league-icon-module_small__I0ybaPNv__platform-common league-icon-module_modern__1xJwTjn8__platform-common"><img src="/assets/country/ic_cup.svg" title="" alt="image/svg+xml" class="" loading="lazy" decoding="async" draggable="false" data-test=""></div>TT Cup</div></td></tr><tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><td colspan="6" class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui details-module_tableContainer__oXBsXcv4__platform-desktop-ui" data-test="bet-details"><table class="details-module_table__GYO-kfL0__platform-desktop-ui"><tbody><tr class="details-module_headers__2yXFAFNK__platform-desktop-ui"><td class="details-module_w300__ac4iw2KF__platform-desktop-ui"><div class="details-module_eventTime__moFb1o5K__platform-desktop-ui"><div class="event-status__live details-module_live__IsxSggoI__platform-desktop-ui">en vivo</div><span class="date-formatter-date" data-test="eventDate">03.02.2025</span>,<span class="date-formatter-time" data-test="eventTime">&nbsp;00:40</span></div></td><th class="details-module_w300__ac4iw2KF__platform-desktop-ui">SELECCIÓN</th><th class="details-module_w300__ac4iw2KF__platform-desktop-ui">Resultado</th></tr><tr><td class="details-module_competitors__DxkUwVvU__platform-desktop-ui"><div class="competitor-module_competitor__2E35f54l__platform-common"><div class="competitor-module_logo__L6OKzkw8__platform-common"><img src="/assets/teams/ts_hz.webp" class="" loading="lazy" decoding="async" draggable="false" data-test=""></div><span class="competitor-module_ellipsis__-J9V8NaG__platform-common" title="Domagala, Pawel">Domagala, Pawel</span></div><div class="competitor-module_competitor__2E35f54l__platform-common"><div class="competitor-module_logo__L6OKzkw8__platform-common"><img src="/assets/teams/ts_rose.webp" class="" loading="lazy" decoding="async" draggable="false" data-test=""></div><span class="competitor-module_ellipsis__-J9V8NaG__platform-common" title="Latala, Lukasz">Latala, Lukasz</span></div></td><td>Ganador:<br>Latala, Lukasz</td><td><span>2–3 (11–7, 7–11, 9–11, 11–8, 9–10)</span></td></tr></tbody></table></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui"><div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusWon__aXIX2O0B__platform-common" data-test="bet-status"><span>ganó (-ados)</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui betting-history-row-module_buttonsContainer__wHyd34NF__platform-desktop-ui"></td></tr></tbody>
+
+<tbody class="rounded-table-module_tbody__Ei-IQ6ru__platform-desktop-ui betting-history-row-module_expanded__-GduWCaI__platform-desktop-ui" data-test="bet-history-item">
+    <tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui">
+        <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-bet_id">#5757327</td>
+        <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-ts">
+            <span class="date-formatter-date" data-test="eventDate">03.02.2025</span>,
+            <span class="date-formatter-time" data-test="eventTime">&nbsp;00:59</span>
+        </td>
+        <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-mode">Apuesta simple</td>
+        <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-odds">1.06</td>
+        <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-stake">
+            <div class="stake-module_amount__HLIXPmqj__platform-desktop-ui">
+                <span class="">$</span>
+                <span data-test="bet-stake-fullAmount">500</span>
+            </div>
+        </td>
+        <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-winAmount">
+            <div class="win-amount-module_amount__RJNZ96oM__platform-desktop-ui win-amount-module_win__iKOPGyOw__platform-desktop-ui">
+                <span class="">$</span>
+                <span>530</span>
+            </div>
+        </td>
+        <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-status">
+            <div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusWon__aXIX2O0B__platform-common" data-test="bet-status">
+                <span>ganó (-ados)</span>
+            </div>
+        </td>
+        <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui betting-history-row-module_buttonsContainer__wHyd34NF__platform-desktop-ui">
+            <button type="button" class="actions-module_expandBtn__Yk1wzyzI__platform-desktop-ui actions-module_expanded__saZ3HoR5__platform-desktop-ui" title="Detalles" aria-label="Detalles" data-test="expand">
+                <svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 8 13">
+                    <use href="#svg-arrow"></use>
+                </svg>
+            </button>
+        </td>
+    </tr>
+    
+    <tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui">
+        <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui details-module_leagueTd__phSwUMvX__platform-desktop-ui" colspan="8">
+            <div class="details-module_league__CSGMiNgP__platform-desktop-ui">
+                <img src="/assets/sport/15.svg" class="details-module_sportIcon__CPM6bV9E__platform-desktop-ui" loading="lazy" decoding="async" draggable="false" data-test="">
+                <div class="holder league-icon-module_holder__Qjf0X9PJ__platform-common league-icon-module_small__I0ybaPNv__platform-common league-icon-module_modern__1xJwTjn8__platform-common">
+                    <img src="/assets/country/ic_cup.svg" title="" alt="image/svg+xml" class="" loading="lazy" decoding="async" draggable="false" data-test="">
+                </div>
+                TT Cup
+            </div>
+        </td>
+    </tr>
+
+    <tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui">
+        <td colspan="6" class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui details-module_tableContainer__oXBsXcv4__platform-desktop-ui" data-test="bet-details">
+            <table class="details-module_table__GYO-kfL0__platform-desktop-ui">
+                <tbody>
+                    <tr class="details-module_headers__2yXFAFNK__platform-desktop-ui">
+                        <td class="details-module_w300__ac4iw2KF__platform-desktop-ui">
+                            <div class="details-module_eventTime__moFb1o5K__platform-desktop-ui">
+                                <div class="event-status__live details-module_live__IsxSggoI__platform-desktop-ui">en vivo</div>
+                                <span class="date-formatter-date" data-test="eventDate">03.02.2025</span>,
+                                <span class="date-formatter-time" data-test="eventTime">&nbsp;00:40</span>
+                            </div>
+                        </td>
+                        <th class="details-module_w300__ac4iw2KF__platform-desktop-ui">SELECCIÓN</th>
+                        <th class="details-module_w300__ac4iw2KF__platform-desktop-ui">Resultado</th>
+                    </tr>
+                    <tr>
+                        <td class="details-module_competitors__DxkUwVvU__platform-desktop-ui">
+                            <div class="competitor-module_competitor__2E35f54l__platform-common">
+                                <div class="competitor-module_logo__L6OKzkw8__platform-common">
+                                    <img src="/assets/teams/ts_hz.webp" class="" loading="lazy" decoding="async" draggable="false" data-test="">
+                                </div>
+                                <span class="competitor-module_ellipsis__-J9V8NaG__platform-common" title="Domagala, Pawel">Domagala, Pawel</span>
+                            </div>
+                            <div class="competitor-module_competitor__2E35f54l__platform-common">
+                                <div class="competitor-module_logo__L6OKzkw8__platform-common">
+                                    <img src="/assets/teams/ts_rose.webp" class="" loading="lazy" decoding="async" draggable="false" data-test="">
+                                </div>
+                                <span class="competitor-module_ellipsis__-J9V8NaG__platform-common" title="Latala, Lukasz">Latala, Lukasz</span>
+                            </div>
+                        </td>
+                        <td>Ganador:<br>Latala, Lukasz</td>
+                        <td><span>2–3 (11–7, 7–11, 9–11, 11–8, 9–10)</span></td>
+                    </tr>
+                </tbody>
+            </table>
+        </td>
+        <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui">
+            <div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusWon__aXIX2O0B__platform-common" data-test="bet-status">
+                <span>ganó (-ados)</span>
+            </div>
+        </td>
+        <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui betting-history-row-module_buttonsContainer__wHyd34NF__platform-desktop-ui"></td>
+    </tr>
+</tbody>
+
+
+
+
+
+
+
+
+<table class="rounded-table-module_table__2WKs12PW__platform-desktop-ui"><thead class="rounded-table-module_thead__MwkQxkdw__platform-desktop-ui"><tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><th class="rounded-table-module_th__vP-hqa1-__platform-desktop-ui">bet</th><th class="rounded-table-module_th__vP-hqa1-__platform-desktop-ui">Fecha</th><th class="rounded-table-module_th__vP-hqa1-__platform-desktop-ui">Type</th><th class="rounded-table-module_th__vP-hqa1-__platform-desktop-ui">odds</th><th class="rounded-table-module_th__vP-hqa1-__platform-desktop-ui">stake</th><th class="rounded-table-module_th__vP-hqa1-__platform-desktop-ui">win amount</th><th class="rounded-table-module_th__vP-hqa1-__platform-desktop-ui" style="width: 100px;">status</th><th class="rounded-table-module_th__vP-hqa1-__platform-desktop-ui" style="width: 85px;"></th></tr></thead><tbody class="rounded-table-module_separator__w8CBm-Vr__platform-desktop-ui" aria-hidden="true"><tr><td></td></tr></tbody><tbody class="rounded-table-module_tbody__Ei-IQ6ru__platform-desktop-ui" data-test="bet-history-item"><tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-bet_id">#5757327</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-ts"><span class="date-formatter-date" data-test="eventDate">03.02.2025</span>,<span class="date-formatter-time" data-test="eventTime">&nbsp;00:59</span></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-mode">Apuesta simple</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-odds">1.06</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-stake"><div class="stake-module_amount__HLIXPmqj__platform-desktop-ui"><span class="">$</span><span data-test="bet-stake-fullAmount">500</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-winAmount"><div class="win-amount-module_amount__RJNZ96oM__platform-desktop-ui win-amount-module_win__iKOPGyOw__platform-desktop-ui"><span class="">$</span><span>530</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-status"><div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusWon__aXIX2O0B__platform-common" data-test="bet-status"><span>ganó (-ados)</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui betting-history-row-module_buttonsContainer__wHyd34NF__platform-desktop-ui"><button type="button" class="actions-module_expandBtn__Yk1wzyzI__platform-desktop-ui" title="Detalles" aria-label="Detalles" data-test="expand"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 8 13"><use href="#svg-arrow"></use></svg></button></td></tr></tbody><tbody class="rounded-table-module_separator__w8CBm-Vr__platform-desktop-ui" aria-hidden="true"><tr><td></td></tr></tbody><tbody class="rounded-table-module_tbody__Ei-IQ6ru__platform-desktop-ui" data-test="bet-history-item"><tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-bet_id">#5757301</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-ts"><span class="date-formatter-date" data-test="eventDate">03.02.2025</span>,<span class="date-formatter-time" data-test="eventTime">&nbsp;00:48</span></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-mode">Apuesta simple</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-odds">1.06</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-stake"><div class="stake-module_amount__HLIXPmqj__platform-desktop-ui"><span class="">$</span><span data-test="bet-stake-fullAmount">500</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-winAmount"><div class="win-amount-module_amount__RJNZ96oM__platform-desktop-ui win-amount-module_win__iKOPGyOw__platform-desktop-ui"><span class="">$</span><span>530</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-status"><div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusWon__aXIX2O0B__platform-common" data-test="bet-status"><span>ganó (-ados)</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui betting-history-row-module_buttonsContainer__wHyd34NF__platform-desktop-ui"><button type="button" class="actions-module_expandBtn__Yk1wzyzI__platform-desktop-ui" title="Detalles" aria-label="Detalles" data-test="expand"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 8 13"><use href="#svg-arrow"></use></svg></button></td></tr></tbody><tbody class="rounded-table-module_separator__w8CBm-Vr__platform-desktop-ui" aria-hidden="true"><tr><td></td></tr></tbody><tbody class="rounded-table-module_tbody__Ei-IQ6ru__platform-desktop-ui" data-test="bet-history-item"><tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-bet_id">#5757288</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-ts"><span class="date-formatter-date" data-test="eventDate">03.02.2025</span>,<span class="date-formatter-time" data-test="eventTime">&nbsp;00:43</span></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-mode">Apuesta simple</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-odds">1.06</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-stake"><div class="stake-module_amount__HLIXPmqj__platform-desktop-ui"><span class="">$</span><span data-test="bet-stake-fullAmount">500</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-winAmount"><div class="win-amount-module_amount__RJNZ96oM__platform-desktop-ui win-amount-module_win__iKOPGyOw__platform-desktop-ui"><span class="">$</span><span>530</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-status"><div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusWon__aXIX2O0B__platform-common" data-test="bet-status"><span>ganó (-ados)</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui betting-history-row-module_buttonsContainer__wHyd34NF__platform-desktop-ui"><button type="button" class="actions-module_expandBtn__Yk1wzyzI__platform-desktop-ui" title="Detalles" aria-label="Detalles" data-test="expand"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 8 13"><use href="#svg-arrow"></use></svg></button></td></tr></tbody><tbody class="rounded-table-module_separator__w8CBm-Vr__platform-desktop-ui" aria-hidden="true"><tr><td></td></tr></tbody><tbody class="rounded-table-module_tbody__Ei-IQ6ru__platform-desktop-ui" data-test="bet-history-item"><tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-bet_id">#5757203</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-ts"><span class="date-formatter-date" data-test="eventDate">03.02.2025</span>,<span class="date-formatter-time" data-test="eventTime">&nbsp;00:18</span></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-mode">Apuesta simple</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-odds">1.18</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-stake"><div class="stake-module_amount__HLIXPmqj__platform-desktop-ui"><span class="">$</span><span data-test="bet-stake-fullAmount">500</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-winAmount"><div class="win-amount-module_amount__RJNZ96oM__platform-desktop-ui win-amount-module_win__iKOPGyOw__platform-desktop-ui"><span class="">$</span><span>590</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-status"><div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusWon__aXIX2O0B__platform-common" data-test="bet-status"><span>ganó (-ados)</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui betting-history-row-module_buttonsContainer__wHyd34NF__platform-desktop-ui"><button type="button" class="actions-module_expandBtn__Yk1wzyzI__platform-desktop-ui" title="Detalles" aria-label="Detalles" data-test="expand"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 8 13"><use href="#svg-arrow"></use></svg></button></td></tr></tbody><tbody class="rounded-table-module_separator__w8CBm-Vr__platform-desktop-ui" aria-hidden="true"><tr><td></td></tr></tbody><tbody class="rounded-table-module_tbody__Ei-IQ6ru__platform-desktop-ui" data-test="bet-history-item"><tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-bet_id">#5757189</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-ts"><span class="date-formatter-date" data-test="eventDate">03.02.2025</span>,<span class="date-formatter-time" data-test="eventTime">&nbsp;00:13</span></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-mode">Apuesta múltiple</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-odds">1.1</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-stake"><div class="stake-module_amount__HLIXPmqj__platform-desktop-ui"><span class="">$</span><span data-test="bet-stake-fullAmount">500</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-winAmount"><div class="win-amount-module_amount__RJNZ96oM__platform-desktop-ui win-amount-module_win__iKOPGyOw__platform-desktop-ui"><span class="">$</span><span>550</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-status"><div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusWon__aXIX2O0B__platform-common" data-test="bet-status"><span>ganó (-ados)</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui betting-history-row-module_buttonsContainer__wHyd34NF__platform-desktop-ui"><button type="button" class="actions-module_expandBtn__Yk1wzyzI__platform-desktop-ui" title="Detalles" aria-label="Detalles" data-test="expand"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 8 13"><use href="#svg-arrow"></use></svg></button></td></tr></tbody><tbody class="rounded-table-module_separator__w8CBm-Vr__platform-desktop-ui" aria-hidden="true"><tr><td></td></tr></tbody><tbody class="rounded-table-module_tbody__Ei-IQ6ru__platform-desktop-ui" data-test="bet-history-item"><tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-bet_id">#5757180</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-ts"><span class="date-formatter-date" data-test="eventDate">03.02.2025</span>,<span class="date-formatter-time" data-test="eventTime">&nbsp;00:10</span></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-mode">Apuesta simple</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-odds">1.07</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-stake"><div class="stake-module_amount__HLIXPmqj__platform-desktop-ui"><span class="">$</span><span data-test="bet-stake-fullAmount">500</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-winAmount"><div class="win-amount-module_amount__RJNZ96oM__platform-desktop-ui win-amount-module_win__iKOPGyOw__platform-desktop-ui"><span class="">$</span><span>535</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-status"><div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusWon__aXIX2O0B__platform-common" data-test="bet-status"><span>ganó (-ados)</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui betting-history-row-module_buttonsContainer__wHyd34NF__platform-desktop-ui"><button type="button" class="actions-module_expandBtn__Yk1wzyzI__platform-desktop-ui" title="Detalles" aria-label="Detalles" data-test="expand"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 8 13"><use href="#svg-arrow"></use></svg></button></td></tr></tbody><tbody class="rounded-table-module_separator__w8CBm-Vr__platform-desktop-ui" aria-hidden="true"><tr><td></td></tr></tbody><tbody class="rounded-table-module_tbody__Ei-IQ6ru__platform-desktop-ui" data-test="bet-history-item"><tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-bet_id">#5757129</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-ts"><span class="date-formatter-date" data-test="eventDate">02.02.2025</span>,<span class="date-formatter-time" data-test="eventTime">&nbsp;23:52</span></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-mode">Apuesta simple</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-odds">1.25</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-stake"><div class="stake-module_amount__HLIXPmqj__platform-desktop-ui"><span class="">$</span><span data-test="bet-stake-fullAmount">500</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-winAmount"><div class="win-amount-module_amount__RJNZ96oM__platform-desktop-ui win-amount-module_win__iKOPGyOw__platform-desktop-ui"><span class="">$</span><span>625</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-status"><div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusWon__aXIX2O0B__platform-common" data-test="bet-status"><span>ganó (-ados)</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui betting-history-row-module_buttonsContainer__wHyd34NF__platform-desktop-ui"><button type="button" class="actions-module_expandBtn__Yk1wzyzI__platform-desktop-ui" title="Detalles" aria-label="Detalles" data-test="expand"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 8 13"><use href="#svg-arrow"></use></svg></button></td></tr></tbody><tbody class="rounded-table-module_separator__w8CBm-Vr__platform-desktop-ui" aria-hidden="true"><tr><td></td></tr></tbody><tbody class="rounded-table-module_tbody__Ei-IQ6ru__platform-desktop-ui" data-test="bet-history-item"><tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-bet_id">#5757113</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-ts"><span class="date-formatter-date" data-test="eventDate">02.02.2025</span>,<span class="date-formatter-time" data-test="eventTime">&nbsp;23:45</span></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-mode">Apuesta simple</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-odds">1.06</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-stake"><div class="stake-module_amount__HLIXPmqj__platform-desktop-ui"><span class="">$</span><span data-test="bet-stake-fullAmount">500</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-winAmount"><div class="win-amount-module_amount__RJNZ96oM__platform-desktop-ui win-amount-module_win__iKOPGyOw__platform-desktop-ui"><span class="">$</span><span>530</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-status"><div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusWon__aXIX2O0B__platform-common" data-test="bet-status"><span>ganó (-ados)</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui betting-history-row-module_buttonsContainer__wHyd34NF__platform-desktop-ui"><button type="button" class="actions-module_expandBtn__Yk1wzyzI__platform-desktop-ui" title="Detalles" aria-label="Detalles" data-test="expand"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 8 13"><use href="#svg-arrow"></use></svg></button></td></tr></tbody><tbody class="rounded-table-module_separator__w8CBm-Vr__platform-desktop-ui" aria-hidden="true"><tr><td></td></tr></tbody><tbody class="rounded-table-module_tbody__Ei-IQ6ru__platform-desktop-ui" data-test="bet-history-item"><tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-bet_id">#5757102</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-ts"><span class="date-formatter-date" data-test="eventDate">02.02.2025</span>,<span class="date-formatter-time" data-test="eventTime">&nbsp;23:40</span></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-mode">Apuesta múltiple</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-odds">1.08</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-stake"><div class="stake-module_amount__HLIXPmqj__platform-desktop-ui"><span class="">$</span><span data-test="bet-stake-fullAmount">500</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-winAmount"><div class="win-amount-module_amount__RJNZ96oM__platform-desktop-ui win-amount-module_win__iKOPGyOw__platform-desktop-ui"><span class="">$</span><span>540</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-status"><div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusWon__aXIX2O0B__platform-common" data-test="bet-status"><span>ganó (-ados)</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui betting-history-row-module_buttonsContainer__wHyd34NF__platform-desktop-ui"><button type="button" class="actions-module_expandBtn__Yk1wzyzI__platform-desktop-ui" title="Detalles" aria-label="Detalles" data-test="expand"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 8 13"><use href="#svg-arrow"></use></svg></button></td></tr></tbody><tbody class="rounded-table-module_separator__w8CBm-Vr__platform-desktop-ui" aria-hidden="true"><tr><td></td></tr></tbody><tbody class="rounded-table-module_tbody__Ei-IQ6ru__platform-desktop-ui" data-test="bet-history-item"><tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-bet_id">#5757069</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-ts"><span class="date-formatter-date" data-test="eventDate">02.02.2025</span>,<span class="date-formatter-time" data-test="eventTime">&nbsp;23:31</span></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-mode">Apuesta simple</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-odds">1.02</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-stake"><div class="stake-module_amount__HLIXPmqj__platform-desktop-ui"><span class="">$</span><span data-test="bet-stake-fullAmount">500</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-winAmount"><div class="win-amount-module_amount__RJNZ96oM__platform-desktop-ui win-amount-module_win__iKOPGyOw__platform-desktop-ui"><span class="">$</span><span>510</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-status"><div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusWon__aXIX2O0B__platform-common" data-test="bet-status"><span>ganó (-ados)</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui betting-history-row-module_buttonsContainer__wHyd34NF__platform-desktop-ui"><button type="button" class="actions-module_expandBtn__Yk1wzyzI__platform-desktop-ui" title="Detalles" aria-label="Detalles" data-test="expand"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 8 13"><use href="#svg-arrow"></use></svg></button></td></tr></tbody></table>
+
+
+
+
+
+
+int_id
+bet_id = <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-bet_id">#5757327</td>
+datetime = <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-ts">
+            <span class="date-formatter-date" data-test="eventDate">03.02.2025</span>,
+            <span class="date-formatter-time" data-test="eventTime">&nbsp;00:59</span>
+        </td>
+type = <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-mode">Apuesta simple</td>
+odds (sacar este de la pestaña de apuestas) <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-odds">1.04</td>
+stake = <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-stake">
+            <div class="stake-module_amount__HLIXPmqj__platform-desktop-ui">
+                <span class="">$</span>
+                <span data-test="bet-stake-fullAmount">500</span>
+            </div>
+        </td>
+win_amount = <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-winAmount">
+            <div class="win-amount-module_amount__RJNZ96oM__platform-desktop-ui win-amount-module_win__iKOPGyOw__platform-desktop-ui">
+                <span class="">$</span>
+                <span>530</span>
+            </div>
+        </td>
+status = <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-status">
+            <div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusWon__aXIX2O0B__platform-common" data-test="bet-status">
+                <span>ganó (-ados)</span>
+            </div>
+        </td>
+sport_id = <img src="/assets/sport/15.svg" class="details-module_sportIcon__CPM6bV9E__platform-desktop-ui" loading="lazy" decoding="async" draggable="false" data-test="">
+league = <div class="details-module_league__CSGMiNgP__platform-desktop-ui">
+                <img src="/assets/sport/15.svg" class="details-module_sportIcon__CPM6bV9E__platform-desktop-ui" loading="lazy" decoding="async" draggable="false" data-test="">
+                <div class="holder league-icon-module_holder__Qjf0X9PJ__platform-common league-icon-module_small__I0ybaPNv__platform-common league-icon-module_modern__1xJwTjn8__platform-common">
+                    <img src="/assets/country/ic_cup.svg" title="" alt="image/svg+xml" class="" loading="lazy" decoding="async" draggable="false" data-test="">
+                </div>
+                TT Cup
+            </div>
+team_1 = <td class="details-module_competitors__DxkUwVvU__platform-desktop-ui">
+                            <div class="competitor-module_competitor__2E35f54l__platform-common">
+                                <div class="competitor-module_logo__L6OKzkw8__platform-common">
+                                    <img src="/assets/teams/ts_hz.webp" class="" loading="lazy" decoding="async" draggable="false" data-test="">
+                                </div>
+                                <span class="competitor-module_ellipsis__-J9V8NaG__platform-common" title="Domagala, Pawel">Domagala, Pawel</span>
+                            </div>
+                            <div class="competitor-module_competitor__2E35f54l__platform-common">
+                                <div class="competitor-module_logo__L6OKzkw8__platform-common">
+                                    <img src="/assets/teams/ts_rose.webp" class="" loading="lazy" decoding="async" draggable="false" data-test="">
+                                </div>
+                                <span class="competitor-module_ellipsis__-J9V8NaG__platform-common" title="Latala, Lukasz">Latala, Lukasz</span>
+                            </div>
+                        </td>
+team_2 = <td class="details-module_competitors__DxkUwVvU__platform-desktop-ui">
+                            <div class="competitor-module_competitor__2E35f54l__platform-common">
+                                <div class="competitor-module_logo__L6OKzkw8__platform-common">
+                                    <img src="/assets/teams/ts_hz.webp" class="" loading="lazy" decoding="async" draggable="false" data-test="">
+                                </div>
+                                <span class="competitor-module_ellipsis__-J9V8NaG__platform-common" title="Domagala, Pawel">Domagala, Pawel</span>
+                            </div>
+                            <div class="competitor-module_competitor__2E35f54l__platform-common">
+                                <div class="competitor-module_logo__L6OKzkw8__platform-common">
+                                    <img src="/assets/teams/ts_rose.webp" class="" loading="lazy" decoding="async" draggable="false" data-test="">
+                                </div>
+                                <span class="competitor-module_ellipsis__-J9V8NaG__platform-common" title="Latala, Lukasz">Latala, Lukasz</span>
+                            </div>
+                        </td>
+
+point_score
+set_score
+sel_team = <td>Ganador:<br>Latala, Lukasz</td>
+match_result = <td><span>2–3 (11–7, 7–11, 9–11, 11–8, 9–10)</span></td>
+
+
+
+---------------<input type="text" class="" readonly="" value="05.01.2025">
+<div class="history-filters-module_optionsColumn__i1sPiuS-__platform-desktop-ui"><div class="history-filters-module_datepickerItem__HBgD1SWm__platform-desktop-ui"><div data-test="datePicker" class="my-date-input-picker my-date-input__no-month"><div class="react-datepicker-wrapper"><div class="react-datepicker__input-container"><input type="text" class="" readonly="" value="05.01.2025"></div></div><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 24 23"><use href="#svg-calendar"></use></svg></div></div><div class="history-filters-module_datepickerItem__HBgD1SWm__platform-desktop-ui"><div data-test="datePicker" class="my-date-input-picker my-date-input__no-month"><div class="react-datepicker-wrapper"><div class="react-datepicker__input-container"><input type="text" class="" readonly="" value="04.02.2025"></div></div><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 24 23"><use href="#svg-calendar"></use></svg></div></div></div>
+
+<div class="history-filters-module_optionsColumn__i1sPiuS-__platform-desktop-ui">
+  <div class="history-filters-module_datepickerItem__HBgD1SWm__platform-desktop-ui">
+    <div data-test="datePicker" class="my-date-input-picker my-date-input__no-month">
+      <div class="react-datepicker-wrapper">
+        <div class="react-datepicker__input-container">
+          <input type="text" class="" readonly="" value="05.01.2025">
+        </div>
+      </div>
+      <svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 24 23">
+        <use href="#svg-calendar"></use>
+      </svg>
+    </div>
+  </div>
+  
+  <div class="history-filters-module_datepickerItem__HBgD1SWm__platform-desktop-ui">
+    <div data-test="datePicker" class="my-date-input-picker my-date-input__no-month">
+      <div class="react-datepicker-wrapper">
+        <div class="react-datepicker__input-container">
+          <input type="text" class="" readonly="" value="04.02.2025">
+        </div>
+      </div>
+      <svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 24 23">
+        <use href="#svg-calendar"></use>
+      </svg>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+<div class="react-datepicker"><div class="react-datepicker__triangle" style="left: 63px;"></div><button type="button" class="react-datepicker__navigation react-datepicker__navigation--previous" aria-label="Previous Month">Previous Month</button><button type="button" class="react-datepicker__navigation react-datepicker__navigation--next" aria-label="Next Month">Next Month</button><div class="react-datepicker__month-container"><div class="react-datepicker__header "><div class="react-datepicker__current-month react-datepicker__current-month--hasYearDropdown">enero 2025</div><div class="react-datepicker__header__dropdown react-datepicker__header__dropdown--select"><div class="react-datepicker__year-dropdown-container react-datepicker__year-dropdown-container--select"><select class="react-datepicker__year-select"><option value="1900">1900</option><option value="1901">1901</option><option value="1902">1902</option><option value="1903">1903</option><option value="1904">1904</option><option value="1905">1905</option><option value="1906">1906</option><option value="1907">1907</option><option value="1908">1908</option><option value="1909">1909</option><option value="1910">1910</option><option value="1911">1911</option><option value="1912">1912</option><option value="1913">1913</option><option value="1914">1914</option><option value="1915">1915</option><option value="1916">1916</option><option value="1917">1917</option><option value="1918">1918</option><option value="1919">1919</option><option value="1920">1920</option><option value="1921">1921</option><option value="1922">1922</option><option value="1923">1923</option><option value="1924">1924</option><option value="1925">1925</option><option value="1926">1926</option><option value="1927">1927</option><option value="1928">1928</option><option value="1929">1929</option><option value="1930">1930</option><option value="1931">1931</option><option value="1932">1932</option><option value="1933">1933</option><option value="1934">1934</option><option value="1935">1935</option><option value="1936">1936</option><option value="1937">1937</option><option value="1938">1938</option><option value="1939">1939</option><option value="1940">1940</option><option value="1941">1941</option><option value="1942">1942</option><option value="1943">1943</option><option value="1944">1944</option><option value="1945">1945</option><option value="1946">1946</option><option value="1947">1947</option><option value="1948">1948</option><option value="1949">1949</option><option value="1950">1950</option><option value="1951">1951</option><option value="1952">1952</option><option value="1953">1953</option><option value="1954">1954</option><option value="1955">1955</option><option value="1956">1956</option><option value="1957">1957</option><option value="1958">1958</option><option value="1959">1959</option><option value="1960">1960</option><option value="1961">1961</option><option value="1962">1962</option><option value="1963">1963</option><option value="1964">1964</option><option value="1965">1965</option><option value="1966">1966</option><option value="1967">1967</option><option value="1968">1968</option><option value="1969">1969</option><option value="1970">1970</option><option value="1971">1971</option><option value="1972">1972</option><option value="1973">1973</option><option value="1974">1974</option><option value="1975">1975</option><option value="1976">1976</option><option value="1977">1977</option><option value="1978">1978</option><option value="1979">1979</option><option value="1980">1980</option><option value="1981">1981</option><option value="1982">1982</option><option value="1983">1983</option><option value="1984">1984</option><option value="1985">1985</option><option value="1986">1986</option><option value="1987">1987</option><option value="1988">1988</option><option value="1989">1989</option><option value="1990">1990</option><option value="1991">1991</option><option value="1992">1992</option><option value="1993">1993</option><option value="1994">1994</option><option value="1995">1995</option><option value="1996">1996</option><option value="1997">1997</option><option value="1998">1998</option><option value="1999">1999</option><option value="2000">2000</option><option value="2001">2001</option><option value="2002">2002</option><option value="2003">2003</option><option value="2004">2004</option><option value="2005">2005</option><option value="2006">2006</option><option value="2007">2007</option><option value="2008">2008</option><option value="2009">2009</option><option value="2010">2010</option><option value="2011">2011</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option><option value="2022">2022</option><option value="2023">2023</option><option value="2024">2024</option><option value="2025">2025</option></select></div></div><div class="react-datepicker__day-names"><div class="react-datepicker__day-name">lu</div><div class="react-datepicker__day-name">ma</div><div class="react-datepicker__day-name">mi</div><div class="react-datepicker__day-name">ju</div><div class="react-datepicker__day-name">vi</div><div class="react-datepicker__day-name">sá</div><div class="react-datepicker__day-name">do</div></div></div><div class="react-datepicker__month" aria-label="month  2025-01"><div class="react-datepicker__week"><div class="react-datepicker__day react-datepicker__day--030 react-datepicker__day--outside-month" tabindex="-1" aria-label="Choose Monday, December 30th, 2024" role="button" aria-disabled="false">30</div><div class="react-datepicker__day react-datepicker__day--031 react-datepicker__day--outside-month" tabindex="-1" aria-label="Choose Tuesday, December 31st, 2024" role="button" aria-disabled="false">31</div><div class="react-datepicker__day react-datepicker__day--001" tabindex="-1" aria-label="Choose Wednesday, January 1st, 2025" role="button" aria-disabled="false">1</div><div class="react-datepicker__day react-datepicker__day--002" tabindex="-1" aria-label="Choose Thursday, January 2nd, 2025" role="button" aria-disabled="false">2</div><div class="react-datepicker__day react-datepicker__day--003" tabindex="-1" aria-label="Choose Friday, January 3rd, 2025" role="button" aria-disabled="false">3</div><div class="react-datepicker__day react-datepicker__day--004 react-datepicker__day--weekend" tabindex="-1" aria-label="Choose Saturday, January 4th, 2025" role="button" aria-disabled="false">4</div><div class="react-datepicker__day react-datepicker__day--005 react-datepicker__day--selected react-datepicker__day--weekend" tabindex="0" aria-label="Choose Sunday, January 5th, 2025" role="button" aria-disabled="false">5</div></div><div class="react-datepicker__week"><div class="react-datepicker__day react-datepicker__day--006" tabindex="-1" aria-label="Choose Monday, January 6th, 2025" role="button" aria-disabled="false">6</div><div class="react-datepicker__day react-datepicker__day--007" tabindex="-1" aria-label="Choose Tuesday, January 7th, 2025" role="button" aria-disabled="false">7</div><div class="react-datepicker__day react-datepicker__day--008" tabindex="-1" aria-label="Choose Wednesday, January 8th, 2025" role="button" aria-disabled="false">8</div><div class="react-datepicker__day react-datepicker__day--009" tabindex="-1" aria-label="Choose Thursday, January 9th, 2025" role="button" aria-disabled="false">9</div><div class="react-datepicker__day react-datepicker__day--010" tabindex="-1" aria-label="Choose Friday, January 10th, 2025" role="button" aria-disabled="false">10</div><div class="react-datepicker__day react-datepicker__day--011 react-datepicker__day--weekend" tabindex="-1" aria-label="Choose Saturday, January 11th, 2025" role="button" aria-disabled="false">11</div><div class="react-datepicker__day react-datepicker__day--012 react-datepicker__day--weekend" tabindex="-1" aria-label="Choose Sunday, January 12th, 2025" role="button" aria-disabled="false">12</div></div><div class="react-datepicker__week"><div class="react-datepicker__day react-datepicker__day--013" tabindex="-1" aria-label="Choose Monday, January 13th, 2025" role="button" aria-disabled="false">13</div><div class="react-datepicker__day react-datepicker__day--014" tabindex="-1" aria-label="Choose Tuesday, January 14th, 2025" role="button" aria-disabled="false">14</div><div class="react-datepicker__day react-datepicker__day--015" tabindex="-1" aria-label="Choose Wednesday, January 15th, 2025" role="button" aria-disabled="false">15</div><div class="react-datepicker__day react-datepicker__day--016" tabindex="-1" aria-label="Choose Thursday, January 16th, 2025" role="button" aria-disabled="false">16</div><div class="react-datepicker__day react-datepicker__day--017" tabindex="-1" aria-label="Choose Friday, January 17th, 2025" role="button" aria-disabled="false">17</div><div class="react-datepicker__day react-datepicker__day--018 react-datepicker__day--weekend" tabindex="-1" aria-label="Choose Saturday, January 18th, 2025" role="button" aria-disabled="false">18</div><div class="react-datepicker__day react-datepicker__day--019 react-datepicker__day--weekend" tabindex="-1" aria-label="Choose Sunday, January 19th, 2025" role="button" aria-disabled="false">19</div></div><div class="react-datepicker__week"><div class="react-datepicker__day react-datepicker__day--020" tabindex="-1" aria-label="Choose Monday, January 20th, 2025" role="button" aria-disabled="false">20</div><div class="react-datepicker__day react-datepicker__day--021" tabindex="-1" aria-label="Choose Tuesday, January 21st, 2025" role="button" aria-disabled="false">21</div><div class="react-datepicker__day react-datepicker__day--022" tabindex="-1" aria-label="Choose Wednesday, January 22nd, 2025" role="button" aria-disabled="false">22</div><div class="react-datepicker__day react-datepicker__day--023" tabindex="-1" aria-label="Choose Thursday, January 23rd, 2025" role="button" aria-disabled="false">23</div><div class="react-datepicker__day react-datepicker__day--024" tabindex="-1" aria-label="Choose Friday, January 24th, 2025" role="button" aria-disabled="false">24</div><div class="react-datepicker__day react-datepicker__day--025 react-datepicker__day--weekend" tabindex="-1" aria-label="Choose Saturday, January 25th, 2025" role="button" aria-disabled="false">25</div><div class="react-datepicker__day react-datepicker__day--026 react-datepicker__day--weekend" tabindex="-1" aria-label="Choose Sunday, January 26th, 2025" role="button" aria-disabled="false">26</div></div><div class="react-datepicker__week"><div class="react-datepicker__day react-datepicker__day--027" tabindex="-1" aria-label="Choose Monday, January 27th, 2025" role="button" aria-disabled="false">27</div><div class="react-datepicker__day react-datepicker__day--028" tabindex="-1" aria-label="Choose Tuesday, January 28th, 2025" role="button" aria-disabled="false">28</div><div class="react-datepicker__day react-datepicker__day--029" tabindex="-1" aria-label="Choose Wednesday, January 29th, 2025" role="button" aria-disabled="false">29</div><div class="react-datepicker__day react-datepicker__day--030" tabindex="-1" aria-label="Choose Thursday, January 30th, 2025" role="button" aria-disabled="false">30</div><div class="react-datepicker__day react-datepicker__day--031" tabindex="-1" aria-label="Choose Friday, January 31st, 2025" role="button" aria-disabled="false">31</div><div class="react-datepicker__day react-datepicker__day--001 react-datepicker__day--weekend react-datepicker__day--outside-month" tabindex="-1" aria-label="Choose Saturday, February 1st, 2025" role="button" aria-disabled="false">1</div><div class="react-datepicker__day react-datepicker__day--002 react-datepicker__day--weekend react-datepicker__day--outside-month" tabindex="-1" aria-label="Choose Sunday, February 2nd, 2025" role="button" aria-disabled="false">2</div></div></div></div></div>
+
+<div class="react-datepicker">
+  <div class="react-datepicker__triangle" style="left: 63px;"></div>
+  
+  <button type="button" class="react-datepicker__navigation react-datepicker__navigation--previous" aria-label="Previous Month">
+    Previous Month
+  </button>
+  
+  <button type="button" class="react-datepicker__navigation react-datepicker__navigation--next" aria-label="Next Month">
+    Next Month
+  </button>
+
+  <div class="react-datepicker__month-container">
+    <div class="react-datepicker__header">
+      <div class="react-datepicker__current-month react-datepicker__current-month--hasYearDropdown">
+        enero 2025
+      </div>
+      
+      <div class="react-datepicker__header__dropdown react-datepicker__header__dropdown--select">
+        <div class="react-datepicker__year-dropdown-container react-datepicker__year-dropdown-container--select">
+          <select class="react-datepicker__year-select">
+            <option value="1900">1900</option>
+            <option value="1901">1901</option>
+            <!-- ... (truncated for brevity) ... -->
+            <option value="2023">2023</option>
+            <option value="2024">2024</option>
+            <option value="2025">2025</option>
+          </select>
+        </div>
+      </div>
+      
+      <div class="react-datepicker__day-names">
+        <div class="react-datepicker__day-name">lu</div>
+        <div class="react-datepicker__day-name">ma</div>
+        <div class="react-datepicker__day-name">mi</div>
+        <div class="react-datepicker__day-name">ju</div>
+        <div class="react-datepicker__day-name">vi</div>
+        <div class="react-datepicker__day-name">sá</div>
+        <div class="react-datepicker__day-name">do</div>
+      </div>
+    </div>
+
+    <div class="react-datepicker__month" aria-label="month 2025-01">
+      <!-- Week 1 -->
+      <div class="react-datepicker__week">
+        <div class="react-datepicker__day react-datepicker__day--030 react-datepicker__day--outside-month" tabindex="-1" aria-label="Choose Monday, December 30th, 2024" role="button" aria-disabled="false">30</div>
+        <div class="react-datepicker__day react-datepicker__day--031 react-datepicker__day--outside-month" tabindex="-1" aria-label="Choose Tuesday, December 31st, 2024" role="button" aria-disabled="false">31</div>
+        <div class="react-datepicker__day react-datepicker__day--001" tabindex="-1" aria-label="Choose Wednesday, January 1st, 2025" role="button" aria-disabled="false">1</div>
+        <div class="react-datepicker__day react-datepicker__day--002" tabindex="-1" aria-label="Choose Thursday, January 2nd, 2025" role="button" aria-disabled="false">2</div>
+        <div class="react-datepicker__day react-datepicker__day--003" tabindex="-1" aria-label="Choose Friday, January 3rd, 2025" role="button" aria-disabled="false">3</div>
+        <div class="react-datepicker__day react-datepicker__day--004 react-datepicker__day--weekend" tabindex="-1" aria-label="Choose Saturday, January 4th, 2025" role="button" aria-disabled="false">4</div>
+        <div class="react-datepicker__day react-datepicker__day--005 react-datepicker__day--selected react-datepicker__day--weekend" tabindex="0" aria-label="Choose Sunday, January 5th, 2025" role="button" aria-disabled="false">5</div>
+      </div>
+
+      <!-- Remaining weeks truncated for brevity -->
+      <div class="react-datepicker__week">...</div>
+      <div class="react-datepicker__week">...</div>
+      <div class="react-datepicker__week">...</div>
+      <div class="react-datepicker__week">...</div>
+    </div>
+  </div>
+</div>
+
+
+<div class="react-datepicker__day react-datepicker__day--001" tabindex="-1" aria-label="Choose Thursday, August 1st, 2024" role="button" aria-disabled="false">1</div>
+
+1. Clickear el primer 'data-test="datePicker"'
+2. Clickear 5 veces
+ '<button type="button" class="react-datepicker__navigation react-datepicker__navigation--previous" aria-label="Previous Month">
+    Previous Month
+  </button>'
+3. Clickear '<div class="react-datepicker__day react-datepicker__day--001"'
+
+
+
+<tbody class="rounded-table-module_tbody__Ei-IQ6ru__platform-desktop-ui betting-history-row-module_expanded__-GduWCaI__platform-desktop-ui" data-test="bet-history-item"><tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-bet_id">#5761442</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-ts"><span class="date-formatter-date" data-test="eventDate">03.02.2025</span>,<span class="date-formatter-time" data-test="eventTime">&nbsp;18:50</span></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-mode">Apuesta múltiple</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-odds">1.28</td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-stake"><div class="stake-module_amount__HLIXPmqj__platform-desktop-ui"><span class="">$</span><span data-test="bet-stake-fullAmount">111</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-winAmount"></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-status"><div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusLost__flOuDQ-G__platform-common" data-test="bet-status"><span>perdido (-idas)</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui betting-history-row-module_buttonsContainer__wHyd34NF__platform-desktop-ui"><button type="button" class="actions-module_expandBtn__Yk1wzyzI__platform-desktop-ui actions-module_expanded__saZ3HoR5__platform-desktop-ui" title="Detalles" aria-label="Detalles" data-test="expand"><svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 8 13"><use href="#svg-arrow"></use></svg></button></td></tr><tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui details-module_leagueTd__phSwUMvX__platform-desktop-ui" colspan="8"><div class="details-module_league__CSGMiNgP__platform-desktop-ui"><img src="/assets/sport/15.svg" class="details-module_sportIcon__CPM6bV9E__platform-desktop-ui" loading="lazy" decoding="async" draggable="false" data-test=""><div class="holder league-icon-module_holder__Qjf0X9PJ__platform-common league-icon-module_small__I0ybaPNv__platform-common league-icon-module_modern__1xJwTjn8__platform-common"><img src="/assets/country/ic_cup.svg" title="" alt="image/svg+xml" class="" loading="lazy" decoding="async" draggable="false" data-test=""></div>TT Elite Series</div></td></tr><tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><td colspan="6" class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui details-module_tableContainer__oXBsXcv4__platform-desktop-ui" data-test="bet-details"><table class="details-module_table__GYO-kfL0__platform-desktop-ui"><tbody><tr class="details-module_headers__2yXFAFNK__platform-desktop-ui"><td class="details-module_w300__ac4iw2KF__platform-desktop-ui"><div class="details-module_eventTime__moFb1o5K__platform-desktop-ui"><div class="event-status__live details-module_live__IsxSggoI__platform-desktop-ui">en vivo</div><span class="date-formatter-date" data-test="eventDate">03.02.2025</span>,<span class="date-formatter-time" data-test="eventTime">&nbsp;18:40</span></div></td><th class="details-module_w300__ac4iw2KF__platform-desktop-ui">SELECCIÓN</th><th class="details-module_w300__ac4iw2KF__platform-desktop-ui">Resultado</th></tr><tr><td class="details-module_competitors__DxkUwVvU__platform-desktop-ui"><div class="competitor-module_competitor__2E35f54l__platform-common"><div class="competitor-module_logo__L6OKzkw8__platform-common"><img src="/assets/teams/ts_black.webp" class="" loading="lazy" decoding="async" draggable="false" data-test=""></div><span class="competitor-module_ellipsis__-J9V8NaG__platform-common" title="Lojtek, Tomasz">Lojtek, Tomasz</span></div><div class="competitor-module_competitor__2E35f54l__platform-common"><div class="competitor-module_logo__L6OKzkw8__platform-common"><img src="/assets/teams/ts_marine.webp" class="" loading="lazy" decoding="async" draggable="false" data-test=""></div><span class="competitor-module_ellipsis__-J9V8NaG__platform-common" title="Strus, Piotr">Strus, Piotr</span></div></td><td>Ganador:<br>Lojtek, Tomasz</td><td><span>3–1 (11–3, 8–11, 11–5, 11–8)</span></td></tr></tbody></table></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui"><div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusWon__aXIX2O0B__platform-common" data-test="bet-status"><span>ganó (-ados)</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui betting-history-row-module_buttonsContainer__wHyd34NF__platform-desktop-ui"></td></tr><tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui details-module_leagueTd__phSwUMvX__platform-desktop-ui" colspan="8"><div class="details-module_league__CSGMiNgP__platform-desktop-ui"><img src="/assets/sport/15.svg" class="details-module_sportIcon__CPM6bV9E__platform-desktop-ui" loading="lazy" decoding="async" draggable="false" data-test=""><div class="holder league-icon-module_holder__Qjf0X9PJ__platform-common league-icon-module_small__I0ybaPNv__platform-common league-icon-module_modern__1xJwTjn8__platform-common"><img src="https://d1wfowvne3d4em.cloudfront.net/flags/cz.svg" title="Czech Liga Pro" alt="CZ" class="" loading="lazy" decoding="async" draggable="false" data-test=""></div>Czech Liga Pro</div></td></tr><tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><td colspan="6" class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui details-module_tableContainer__oXBsXcv4__platform-desktop-ui" data-test="bet-details"><table class="details-module_table__GYO-kfL0__platform-desktop-ui"><tbody><tr class="details-module_headers__2yXFAFNK__platform-desktop-ui"><td class="details-module_w300__ac4iw2KF__platform-desktop-ui"><div class="details-module_eventTime__moFb1o5K__platform-desktop-ui"><div class="event-status__live details-module_live__IsxSggoI__platform-desktop-ui">en vivo</div><span class="date-formatter-date" data-test="eventDate">03.02.2025</span>,<span class="date-formatter-time" data-test="eventTime">&nbsp;18:30</span></div></td><th class="details-module_w300__ac4iw2KF__platform-desktop-ui">SELECCIÓN</th><th class="details-module_w300__ac4iw2KF__platform-desktop-ui">Resultado</th></tr><tr><td class="details-module_competitors__DxkUwVvU__platform-desktop-ui"><div class="competitor-module_competitor__2E35f54l__platform-common"><div class="competitor-module_logo__L6OKzkw8__platform-common"><img src="/assets/teams/ts_hz.webp" class="" loading="lazy" decoding="async" draggable="false" data-test=""></div><span class="competitor-module_ellipsis__-J9V8NaG__platform-common" title="Louda, Jiri">Louda, Jiri</span></div><div class="competitor-module_competitor__2E35f54l__platform-common"><div class="competitor-module_logo__L6OKzkw8__platform-common"><img src="/assets/teams/ts_black.webp" class="" loading="lazy" decoding="async" draggable="false" data-test=""></div><span class="competitor-module_ellipsis__-J9V8NaG__platform-common" title="Pagac, Zbynek">Pagac, Zbynek</span></div></td><td>Ganador:<br>Louda, Jiri</td><td><span>3–2 (6–11, 5–11, 11–6, 12–10, 11–9)</span></td></tr></tbody></table></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui"><div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusWon__aXIX2O0B__platform-common" data-test="bet-status"><span>ganó (-ados)</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui betting-history-row-module_buttonsContainer__wHyd34NF__platform-desktop-ui"></td></tr><tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui details-module_leagueTd__phSwUMvX__platform-desktop-ui" colspan="8"><div class="details-module_league__CSGMiNgP__platform-desktop-ui"><img src="/assets/sport/15.svg" class="details-module_sportIcon__CPM6bV9E__platform-desktop-ui" loading="lazy" decoding="async" draggable="false" data-test=""><div class="holder league-icon-module_holder__Qjf0X9PJ__platform-common league-icon-module_small__I0ybaPNv__platform-common league-icon-module_modern__1xJwTjn8__platform-common"><img src="https://d1wfowvne3d4em.cloudfront.net/flags/cz.svg" title="Czech Liga Pro" alt="CZ" class="" loading="lazy" decoding="async" draggable="false" data-test=""></div>Czech Liga Pro</div></td></tr><tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui"><td colspan="6" class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui details-module_tableContainer__oXBsXcv4__platform-desktop-ui" data-test="bet-details"><table class="details-module_table__GYO-kfL0__platform-desktop-ui"><tbody><tr class="details-module_headers__2yXFAFNK__platform-desktop-ui"><td class="details-module_w300__ac4iw2KF__platform-desktop-ui"><div class="details-module_eventTime__moFb1o5K__platform-desktop-ui"><div class="event-status__live details-module_live__IsxSggoI__platform-desktop-ui">en vivo</div><span class="date-formatter-date" data-test="eventDate">03.02.2025</span>,<span class="date-formatter-time" data-test="eventTime">&nbsp;18:30</span></div></td><th class="details-module_w300__ac4iw2KF__platform-desktop-ui">SELECCIÓN</th><th class="details-module_w300__ac4iw2KF__platform-desktop-ui">Resultado</th></tr><tr><td class="details-module_competitors__DxkUwVvU__platform-desktop-ui"><div class="competitor-module_competitor__2E35f54l__platform-common"><div class="competitor-module_logo__L6OKzkw8__platform-common"><img src="/assets/teams/ts_yellow.webp" class="" loading="lazy" decoding="async" draggable="false" data-test=""></div><span class="competitor-module_ellipsis__-J9V8NaG__platform-common" title="Vidourek, Jan">Vidourek, Jan</span></div><div class="competitor-module_competitor__2E35f54l__platform-common"><div class="competitor-module_logo__L6OKzkw8__platform-common"><img src="/assets/teams/ts_yellow.webp" class="" loading="lazy" decoding="async" draggable="false" data-test=""></div><span class="competitor-module_ellipsis__-J9V8NaG__platform-common" title="Cakovsky, Milan SR">Cakovsky, Milan SR</span></div></td><td>Ganador:<br>Cakovsky, Milan SR</td><td><span>3–2 (11–9, 11–9, 5–11, 8–11, 16–14)</span></td></tr></tbody></table></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui"><div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusLost__flOuDQ-G__platform-common" data-test="bet-status"><span>perdido (-idas)</span></div></td><td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui betting-history-row-module_buttonsContainer__wHyd34NF__platform-desktop-ui"></td></tr></tbody>
+
+<tbody class="rounded-table-module_tbody__Ei-IQ6ru__platform-desktop-ui betting-history-row-module_expanded__-GduWCaI__platform-desktop-ui" data-test="bet-history-item">
+  <tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui">
+    <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-bet_id">#5761442</td>
+    <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-ts">
+      <span class="date-formatter-date" data-test="eventDate">03.02.2025</span>,
+      <span class="date-formatter-time" data-test="eventTime">&nbsp;18:50</span>
+    </td>
+    <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-mode">Apuesta múltiple</td>
+    <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-odds">1.28</td>
+    <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-stake">
+      <div class="stake-module_amount__HLIXPmqj__platform-desktop-ui">
+        <span class="">$</span>
+        <span data-test="bet-stake-fullAmount">111</span>
+      </div>
+    </td>
+    <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-winAmount"></td>
+    <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui" data-test="betting-history-status">
+      <div class="coupon-history-module_Status__6woGIWys__platform-common coupon-history-module_StatusLost__flOuDQ-G__platform-common" data-test="bet-status">
+        <span>perdido (-idas)</span>
+      </div>
+    </td>
+    <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui betting-history-row-module_buttonsContainer__wHyd34NF__platform-desktop-ui">
+      <button type="button" class="actions-module_expandBtn__Yk1wzyzI__platform-desktop-ui actions-module_expanded__saZ3HoR5__platform-desktop-ui" title="Detalles" aria-label="Detalles" data-test="expand">
+        <svg class="svg-icon-module_icon__7yleHfSc__platform-common svg-icon svg-icon__placeholder" viewBox="0 0 8 13">
+          <use href="#svg-arrow"></use>
+        </svg>
+      </button>
+    </td>
+  </tr>
+
+  <!-- Multiple additional table rows with similar structure -->
+  <tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui">
+    <td class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui details-module_leagueTd__phSwUMvX__platform-desktop-ui" colspan="8">
+      <div class="details-module_league__CSGMiNgP__platform-desktop-ui">
+        <img src="/assets/sport/15.svg" class="details-module_sportIcon__CPM6bV9E__platform-desktop-ui" loading="lazy" decoding="async" draggable="false" data-test="">
+        <div class="holder league-icon-module_holder__Qjf0X9PJ__platform-common league-icon-module_small__I0ybaPNv__platform-common league-icon-module_modern__1xJwTjn8__platform-common">
+          <img src="/assets/country/ic_cup.svg" title="" alt="image/svg+xml" class="" loading="lazy" decoding="async" draggable="false" data-test="">
+        </div>
+        TT Elite Series
+      </div>
+    </td>
+  </tr>
+
+  <!-- Nested table structure for match details -->
+  <tr class="rounded-table-module_tr__cneKHX1T__platform-desktop-ui">
+    <td colspan="6" class="rounded-table-module_td__sbBjSm2-__platform-desktop-ui details-module_tableContainer__oXBsXcv4__platform-desktop-ui" data-test="bet-details">
+      <table class="details-module_table__GYO-kfL0__platform-desktop-ui">
+        <tbody>
+          <tr class="details-module_headers__2yXFAFNK__platform-desktop-ui">
+            <td class="details-module_w300__ac4iw2KF__platform-desktop-ui">
+              <div class="details-module_eventTime__moFb1o5K__platform-desktop-ui">
+                <div class="event-status__live details-module_live__IsxSggoI__platform-desktop-ui">en vivo</div>
+                <span class="date-formatter-date" data-test="eventDate">03.02.2025</span>,
+                <span class="date-formatter-time" data-test="eventTime">&nbsp;18:40</span>
+              </div>
+            </td>
+            <th class="details-module_w300__ac4iw2KF__platform-desktop-ui">SELECCIÓN</th>
+            <th class="details-module_w300__ac4iw2KF__platform-desktop-ui">Resultado</th>
+          </tr>
+          <tr>
+            <td class="details-module_competitors__DxkUwVvU__platform-desktop-ui">
+              <div class="competitor-module_competitor__2E35f54l__platform-common">
+                <div class="competitor-module_logo__L6OKzkw8__platform-common">
+                  <img src="/assets/teams/ts_black.webp" class="" loading="lazy" decoding="async" draggable="false" data-test="">
+                </div>
+                <span class="competitor-module_ellipsis__-J9V8NaG__platform-common" title="Lojtek, Tomasz">Lojtek, Tomasz</span>
+              </div>
+              <div class="competitor-module_competitor__2E35f54l__platform-common">
+                <div class="competitor-module_logo__L6OKzkw8__platform-common">
+                  <img src="/assets/teams/ts_marine.webp" class="" loading="lazy" decoding="async" draggable="false" data-test="">
+                </div>
+                <span class="competitor-module_ellipsis__-J9V8NaG__platform-common" title="Strus, Piotr">Strus, Piotr</span>
+              </div>
+            </td>
+            <td>Ganador:<br>Lojtek, Tomasz</td>
+            <td><span>3–1 (11–3, 8–11, 11–5, 11–8)</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+    <!-- ... remaining rows follow similar structure ... -->
+  </tr>
+</tbody>
+
+
+<div class="event-tooltip-module_bestOf__Elpq8Axn__platform-common event-tooltip-module_marginLeft__Cz2w-eOj__platform-common event-tooltip-module_tooltipTrigger__NuAum-UK__platform-common" data-test="reduced-periods">7<div class="event-tooltip-module_eventTooltip__5qeaHORH__platform-common" data-test="event-tooltip"><div class="event-tooltip-module_tooltipContainer__uQmS53-P__platform-common"><div>7&nbsp;sets</div></div></div></div>
+
+<!-- Main tooltip container with hover trigger -->
+<div class="event-tooltip-module_bestOf__Elpq8Axn__platform-common 
+            event-tooltip-module_marginLeft__Cz2w-eOj__platform-common 
+            event-tooltip-module_tooltipTrigger__NuAum-UK__platform-common" 
+     data-test="reduced-periods">
+     
+    <!-- Visible content - match format indicator -->
+    7
+    
+    <!-- Tooltip content container -->
+    <div class="event-tooltip-module_eventTooltip__5qeaHORH__platform-common" 
+         data-test="event-tooltip">
+         
+        <!-- Tooltip inner container -->
+        <div class="event-tooltip-module_tooltipContainer__uQmS53-P__platform-common">
+            <!-- Actual tooltip text with non-breaking space -->
+            <div>7&nbsp;sets</div>
+        </div>
+    </div>
+</div>

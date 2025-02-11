@@ -1,0 +1,632 @@
+Please enter your email: Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4293. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.1
+Game period text: 3º set11:911:62:6
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jadach, Oskar, Team Score: 2, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 6, Set: 0
+Skipping button click for league: TT ELITE SERIES at timer: 3º set11:911:62:6 because it's in the first or second set.
+5.4
+1.35
+2.95
+1.2
+Game period text: 4º set13:113:1111:5
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Kostal, Marek, Team Score: 5, Set: 2
+Team Name: Krejci, Richard, Team Score: 4, Set: 1
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set13:113:1111:5 because it's in the first or second set.
+3.9
+1.47
+2.45
+1.57
+2.2
+1.3
+3.1
+1.6
+2.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4293. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.09
+Game period text: 3º set11:911:63:6
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jadach, Oskar, Team Score: 3, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 6, Set: 0
+Skipping button click for league: TT ELITE SERIES at timer: 3º set11:911:63:6 because it's in the first or second set.
+5.8
+1.27
+3.25
+1.32
+3.05
+1.35
+2.85
+1.57
+2.2
+1.27
+3.35
+1.6
+2.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4293. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.1
+Game period text: 3º set11:911:63:7
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jadach, Oskar, Team Score: 3, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 7, Set: 0
+Skipping button click for league: TT ELITE SERIES at timer: 3º set11:911:63:7 because it's in the first or second set.
+5.3
+1.45
+2.5
+1.42
+2.55
+1.5
+2.35
+1.57
+2.2
+1.22
+3.75
+1.6
+2.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4293. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.12
+Game period text: 3º set11:911:63:8
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jadach, Oskar, Team Score: 3, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 8, Set: 0
+Skipping button click for league: TT ELITE SERIES at timer: 3º set11:911:63:8 because it's in the first or second set.
+5
+1.52
+2.3
+1.3
+3.15
+1.5
+2.35
+1.47
+2.4
+1.18
+Game period text: 2do Set11:77:0
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Lu, Louis, Team Score: 7, Set: 1
+Team Name: Dhawan, Abhishek, Team Score: 0, Set: 0
+Skipping button click for league: TT CUP at timer: 2do Set11:77:0 because it's in the first or second set.
+4.15
+1.6
+2.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4293. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.15
+Game period text: 3º set11:911:63:10
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jadach, Oskar, Team Score: 3, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 10, Set: 0
+Skipping button click for league: TT ELITE SERIES at timer: 3º set11:911:63:10 because it's in the first or second set.
+4.55
+1.5
+2.4
+1.18
+Game period text: 4º set13:113:1111:5
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Kostal, Marek, Team Score: 7, Set: 2
+Team Name: Krejci, Richard, Team Score: 6, Set: 1
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set13:113:1111:5 because it's in the first or second set.
+4.05
+1.7
+2
+1.6
+2.1
+1.16
+Game period text: 2do Set11:78:0
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Lu, Louis, Team Score: 8, Set: 1
+Team Name: Dhawan, Abhishek, Team Score: 0, Set: 0
+Skipping button click for league: TT CUP at timer: 2do Set11:78:0 because it's in the first or second set.
+4.4
+1.6
+2.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4293. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.15
+Game period text: 3º set11:911:64:10
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jadach, Oskar, Team Score: 4, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 10, Set: 0
+Skipping button click for league: TT ELITE SERIES at timer: 3º set11:911:64:10 because it's in the first or second set.
+4.6
+1.27
+3.3
+1.3
+3.1
+1.6
+2.2
+1.7
+2
+1.15
+Game period text: 2do Set11:710:0
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Lu, Louis, Team Score: 10, Set: 1
+Team Name: Dhawan, Abhishek, Team Score: 0, Set: 0
+Skipping button click for league: TT CUP at timer: 2do Set11:710:0 because it's in the first or second set.
+4.5
+1.6
+2.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4293. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.15
+Game period text: Tercer break11:9
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jadach, Oskar, Team Score: 4, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 11, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: Tercer break11:9 because it's in the first or second set.
+4.55
+1.37
+2.75
+1.45
+2.5
+1.6
+2.2
+1.8
+1.9
+1.15
+Game period text: 2do Set11:710:0
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Lu, Louis, Team Score: 10, Set: 1
+Team Name: Dhawan, Abhishek, Team Score: 0, Set: 0
+Skipping button click for league: TT CUP at timer: 2do Set11:710:0 because it's in the first or second set.
+4.5
+1.6
+2.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4293. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.15
+Game period text: Tercer break11:9
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jadach, Oskar, Team Score: 4, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 11, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: Tercer break11:9 because it's in the first or second set.
+4.55
+1.37
+2.75
+1.3
+4.5
+1.45
+2.5
+1.65
+2.1
+1.14
+Game period text: Segundo break11:7
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Lu, Louis, Team Score: 11, Set: 2
+Team Name: Dhawan, Abhishek, Team Score: 1, Set: 0
+Skipping button click for league: TT CUP at timer: Segundo break11:7 because it's in the first or second set.
+4.65
+1.6
+2.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4293. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.15
+Game period text: Tercer break11:9
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jadach, Oskar, Team Score: 4, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 11, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: Tercer break11:9 because it's in the first or second set.
+4.55
+1.47
+2.4
+1.32
+3.05
+1.8
+1.85
+1.65
+2.1
+1.08
+Game period text: 3º set11:711:10:1
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Lu, Louis, Team Score: 0, Set: 2
+Team Name: Dhawan, Abhishek, Team Score: 1, Set: 0
+Skipping button click for league: TT CUP at timer: 3º set11:711:10:1 because it's in the first or second set.
+6
+1.6
+2.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4293. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.1
+Game period text: 4º set11:911:64:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jadach, Oskar, Team Score: 1, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 0, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: 4º set11:911:64:11 because it's in the first or second set.
+5.4
+1.32
+3
+1.57
+2.2
+1.8
+1.85
+1.8
+1.9
+1.06
+Game period text: 3º set11:711:11:1
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Lu, Louis, Team Score: 1, Set: 2
+Team Name: Dhawan, Abhishek, Team Score: 1, Set: 0
+Skipping button click for league: TT CUP at timer: 3º set11:711:11:1 because it's in the first or second set.
+7
+1.6
+2.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4293. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.07
+Game period text: 4º set11:911:64:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jadach, Oskar, Team Score: 2, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 0, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: 4º set11:911:64:11 because it's in the first or second set.
+6.25
+1.22
+3.75
+1.3
+3.15
+1.8
+1.85
+1.8
+1.9
+1.07
+Game period text: 3º set11:711:12:3
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Lu, Louis, Team Score: 2, Set: 2
+Team Name: Dhawan, Abhishek, Team Score: 3, Set: 0
+Skipping button click for league: TT CUP at timer: 3º set11:711:12:3 because it's in the first or second set.
+6.25
+1.6
+2.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4293. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.04
+Game period text: 4º set11:911:64:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jadach, Oskar, Team Score: 3, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 0, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: 4º set11:911:64:11 because it's in the first or second set.
+7.75
+1.1
+Game period text: 4º set11:89:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Iwasyszyn, Wojciech, Team Score: 9, Set: 2
+Team Name: Wisniewski, Bartlomiej, Team Score: 8, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: 4º set11:89:11 because it's in the first or second set.
+5.3
+1.3
+3.1
+1.8
+1.85
+1.8
+1.9
+1.07
+Game period text: 3º set11:711:12:3
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Lu, Louis, Team Score: 2, Set: 2
+Team Name: Dhawan, Abhishek, Team Score: 3, Set: 0
+Skipping button click for league: TT CUP at timer: 3º set11:711:12:3 because it's in the first or second set.
+6.25
+1.6
+2.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4293. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.04
+Game period text: 4º set11:911:64:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jadach, Oskar, Team Score: 3, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 0, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: 4º set11:911:64:11 because it's in the first or second set.
+7.75
+No outcome buttons found in the first market item.
+1.55
+2.25
+1.8
+1.85
+1.9
+1.75
+1.09
+Game period text: 3º set11:711:12:4
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Lu, Louis, Team Score: 2, Set: 2
+Team Name: Dhawan, Abhishek, Team Score: 4, Set: 0
+Skipping button click for league: TT CUP at timer: 3º set11:711:12:4 because it's in the first or second set.
+6.5
+1.6
+2.1
+1.65
+2.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4293. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.02
+Game period text: 4º set11:911:64:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jadach, Oskar, Team Score: 4, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 0, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: 4º set11:911:64:11 because it's in the first or second set.
+9.25
+No outcome buttons found in the first market item.
+1.55
+2.25
+1.8
+1.85
+2
+1.7
+1.09
+Game period text: 3º set11:711:13:5
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Lu, Louis, Team Score: 3, Set: 2
+Team Name: Dhawan, Abhishek, Team Score: 5, Set: 0
+Skipping button click for league: TT CUP at timer: 3º set11:711:13:5 because it's in the first or second set.
+5.9
+1.6
+2.1
+1.65
+2.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4293. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.07
+Game period text: 4º set11:911:64:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jadach, Oskar, Team Score: 4, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 2, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: 4º set11:911:64:11 because it's in the first or second set.
+6.5
+No outcome buttons found in the first market item.
+1.55
+2.25
+2.15
+1.6
+2
+1.7
+1.07
+Game period text: 3º set11:711:14:5
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Lu, Louis, Team Score: 4, Set: 2
+Team Name: Dhawan, Abhishek, Team Score: 5, Set: 0
+Skipping button click for league: TT CUP at timer: 3º set11:711:14:5 because it's in the first or second set.
+6.5
+1.6
+2.1
+1.65
+2.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4293. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.04
+Game period text: 4º set11:911:64:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jadach, Oskar, Team Score: 5, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 2, Set: 1
+Button clicked for league: TT ELITE SERIES
+SELECTED BUTTON:  1.04
+Bet amount set to: 111
+Possible win amount (115.0) is not sufficient compared to input amount (111).
+Unclicked selected outcome button due to insufficient bet amount.
+8
+No outcome buttons found in the first market item.
+1.55
+2.25
+3.4
+1.25
+1.9
+1.75
+1.14
+Game period text: 3º set11:711:14:7
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Lu, Louis, Team Score: 4, Set: 2
+Team Name: Dhawan, Abhishek, Team Score: 7, Set: 0
+Skipping button click for league: TT CUP at timer: 3º set11:711:14:7 because it's in the first or second set.
+4.8
+1.6
+2.1
+1.65
+2.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4293. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.06
+Game period text: 4º set11:911:64:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jadach, Oskar, Team Score: 5, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 3, Set: 1
+Button clicked for league: TT ELITE SERIES
+SELECTED BUTTON:  1.06
+Bet amount set to: 111
+Possible win amount (118.0) is not sufficient compared to input amount (111).
+Unclicked selected outcome button due to insufficient bet amount.
+6.75
+2
+1.7
+1.3
+3.1
+4.6
+1.15
+Game period text: 5º set11:76:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Pycha, Patrik, Team Score: 0, Set: 2
+Team Name: Sychra, Martin, Team Score: 4, Set: 2
+Skipping button click for league: CZECH LIGA PRO at timer: 5º set11:76:11 because it's in the first or second set.
+1.9
+1.75
+1.09
+Game period text: 3º set11:711:16:7
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Lu, Louis, Team Score: 6, Set: 2
+Team Name: Dhawan, Abhishek, Team Score: 7, Set: 0
+Skipping button click for league: TT CUP at timer: 3º set11:711:16:7 because it's in the first or second set.
+5.9
+1.6
+2.1
+1.65
+2.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4293. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.03
+Game period text: 4º set11:911:64:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jadach, Oskar, Team Score: 6, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 3, Set: 1
+Button clicked for league: TT ELITE SERIES
+SELECTED BUTTON:  1.03
+Bet amount set to: 111
+Possible win amount (112.0) is not sufficient compared to input amount (111).
+Unclicked selected outcome button due to insufficient bet amount.
+9.75
+2
+1.7
+No outcome buttons found in the first market item.
+6.25
+1.08
+Game period text: 5º set11:76:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Pycha, Patrik, Team Score: 0, Set: 2
+Team Name: Sychra, Martin, Team Score: 5, Set: 2
+Button clicked for league: CZECH LIGA PRO
+SELECTED BUTTON:  1.08
+Bet amount set to: 111
+Possible win amount (120.0) is not sufficient compared to input amount (111).
+Unclicked selected outcome button due to insufficient bet amount.
+2.05
+1.65
+1.12
+Game period text: 3º set11:711:16:8
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Lu, Louis, Team Score: 6, Set: 2
+Team Name: Dhawan, Abhishek, Team Score: 8, Set: 0
+Skipping button click for league: TT CUP at timer: 3º set11:711:16:8 because it's in the first or second set.
+4.95
+1.6
+2.1
+1.65
+2.1
+Checking URL: https://tonybet.com/cl/live/table-tennis

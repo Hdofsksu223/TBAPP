@@ -1,0 +1,581 @@
+Please enter your email: Scroll counter: 1
+Scroll counter: 2
+Scroll counter: 3
+Scroll counter: 4
+Scroll counter: 5
+Scroll counter: 6
+Scroll counter: 7
+Scroll counter: 8
+Scroll counter: 9
+Scroll counter: 10
+Scroll counter: 11
+Scroll counter: 12
+Scroll counter: 13
+Scroll counter: 14
+Scroll counter: 15
+Scroll counter: 16
+Scroll counter: 17
+Scroll counter: 18
+Scroll counter: 19
+Scroll counter: 20
+Scroll counter: 21
+Scroll counter: 22
+Scroll counter: 23
+Scroll counter: 24
+Scroll counter: 25
+Scroll counter: 26
+Scroll counter: 27
+Scroll counter: 28
+Scroll counter: 29
+Scroll counter: 30
+Scroll counter: 31
+Scroll counter: 32
+Scroll counter: 33
+Scroll counter: 34
+Scroll counter: 35
+Scroll counter: 36
+Scroll counter: 37
+Scroll counter: 38
+Scroll counter: 39
+Scroll counter: 40
+Scroll counter: 41
+Scroll counter: 42
+Scroll counter: 43
+Scroll counter: 44
+Scroll counter: 45
+Scroll counter: 46
+Scroll counter: 47
+Scroll counter: 48
+Scroll counter: 49
+Scroll counter: 50
+Scroll counter: 51
+Scroll counter: 52
+Scroll counter: 53
+Scroll counter: 54
+Scroll counter: 55
+Scroll counter: 56
+Scroll counter: 57
+Scroll counter: 58
+Scroll counter: 59
+Scroll counter: 60
+Scroll counter: 61
+Scroll counter: 62
+Scroll counter: 63
+Scroll counter: 64
+Scroll counter: 65
+Scroll counter: 66
+Scroll counter: 67
+Scroll counter: 68
+Scroll counter: 69
+Scroll counter: 70
+Scroll counter: 71
+Scroll counter: 72
+Scroll counter: 73
+Scroll counter: 74
+Scroll counter: 75
+Scroll counter: 76
+Scroll counter: 77
+Scroll counter: 78
+Scroll counter: 79
+Scroll counter: 80
+Scroll counter: 81
+Scroll counter: 82
+Scroll counter: 83
+Scroll counter: 84
+Scroll counter: 85
+Scroll counter: 86
+Scroll counter: 87
+Scroll counter: 88
+Scroll counter: 89
+Scroll counter: 90
+Scroll counter: 91
+Scroll counter: 92
+Scroll counter: 93
+Scroll counter: 94
+Scroll counter: 95
+Scroll counter: 96
+Scroll counter: 97
+Scroll counter: 98
+Scroll counter: 99
+Scroll counter: 100
+Scroll counter: 101
+Scroll counter: 102
+Scroll counter: 103
+Scroll counter: 104
+Scroll counter: 105
+Scroll counter: 106
+Scroll counter: 107
+Scroll counter: 108
+Scroll counter: 109
+Scroll counter: 110
+Scroll counter: 111
+Scroll counter: 112
+Scroll counter: 113
+Scroll counter: 114
+Scroll counter: 115
+Scroll counter: 116
+Scroll counter: 117
+Scroll counter: 118
+Scroll counter: 119
+Scroll counter: 120
+Scroll counter: 121
+Scroll counter: 122
+Scroll counter: 123
+Scroll counter: 124
+Scroll counter: 125
+Scroll counter: 126
+Scroll counter: 127
+Scroll counter: 128
+Scroll counter: 129
+Scroll counter: 130
+Scroll counter: 131
+Scroll counter: 132
+Scroll counter: 133
+Scroll counter: 134
+Scroll counter: 135
+Scroll counter: 136
+Scroll counter: 137
+Scroll counter: 138
+Scroll counter: 139
+Scroll counter: 140
+Scroll counter: 141
+Scroll counter: 142
+Scroll counter: 143
+Scroll counter: 144
+Scroll counter: 145
+Scroll counter: 146
+Scroll counter: 147
+Scroll counter: 148
+Scroll counter: 149
+Scroll counter: 150
+Scroll counter: 151
+Scroll counter: 152
+Scroll counter: 153
+Scroll counter: 154
+Scroll counter: 155
+Scroll counter: 156
+Scroll counter: 157
+Scroll counter: 158
+Scroll counter: 159
+Scroll counter: 160
+Scroll counter: 161
+Scroll counter: 162
+Scroll counter: 163
+Scroll counter: 164
+Scroll counter: 165
+Scroll counter: 166
+Scroll counter: 167
+Scroll counter: 168
+Scroll counter: 169
+Scroll counter: 170
+Found 1444 bet items after scrolling
+
+
+-----------------------------------------------
+Expanded item 1/1444
+Bet type: simple
+Bet_type: 1
+Bet ID: #5772441
+Bet Date: 05.02.2025
+Bet Time: 17:03
+Bet Odds: 1.65
+Bet Stake: 228
+Bet Win Amount: 376
+Bet Status: Ganó (-Ados)
+Scrape1 error: 'int' object has no attribute 'replace'
+Error retrieving sport ID: list index out of range
+Scrape2 error: 'NoneType' object has no attribute 'split'
+Error retrieving selected team: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//td[contains(., 'Ganador:')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF675300AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF67558BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6754E66C6+1401718]
+	(No symbol) [0x00007FF6750BD84C]
+	(No symbol) [0x00007FF6750BDA0B]
+	(No symbol) [0x00007FF6750B3E0C]
+	(No symbol) [0x00007FF6750DDE1F]
+	(No symbol) [0x00007FF6750B3DB7]
+	(No symbol) [0x00007FF6750B3C7D]
+	(No symbol) [0x00007FF6750DE0C0]
+	(No symbol) [0x00007FF6750B3DB7]
+	(No symbol) [0x00007FF6750F890D]
+	(No symbol) [0x00007FF6750DDA43]
+	(No symbol) [0x00007FF6750B3304]
+	(No symbol) [0x00007FF6750B2636]
+	(No symbol) [0x00007FF6750B2EF1]
+	(No symbol) [0x00007FF67513E1A4]
+	(No symbol) [0x00007FF6751E608F]
+	(No symbol) [0x00007FF675141B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6756481F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF675297191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF675292484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6752925C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF675287546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Selected Team: None
+Match Result: 2–3 (1–2, 1–1)
+Database connection error: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte
+Failed to establish database connection
+
+
+-----------------------------------------------
+Expanded item 2/1444
+Bet type: simple
+Bet_type: 1
+Bet ID: #5772370
+Bet Date: 05.02.2025
+Bet Time: 16:55
+Bet Odds: 1.01
+Bet Stake: 500
+Bet Win Amount: 0
+Bet Status: Perdido (-Idas)
+Scrape1 error: 'int' object has no attribute 'replace'
+Error retrieving sport ID: list index out of range
+Scrape2 error: 'NoneType' object has no attribute 'split'
+Selected Team: Kolodziej, Krystian
+Match Result: 3–2 (9–11, 9–11, 11–8, 11–8, 10–2)
+Database connection error: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte
+Failed to establish database connection
+
+
+-----------------------------------------------
+Expanded item 3/1444
+Bet type: simple
+Bet_type: 1
+Bet ID: #5772337
+Bet Date: 05.02.2025
+Bet Time: 16:49
+Bet Odds: 1.01
+Bet Stake: 500
+Bet Win Amount: 505
+Bet Status: Ganó (-Ados)
+Scrape1 error: 'int' object has no attribute 'replace'
+Error retrieving sport ID: list index out of range
+Scrape2 error: 'NoneType' object has no attribute 'split'
+Selected Team: Kiejda, Arkadiusz
+Match Result: 1–3 (11–8, 6–11, 7–11, 9–11)
+Database connection error: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte
+Failed to establish database connection
+
+
+-----------------------------------------------
+Expanded item 4/1444
+Bet type: simple
+Bet_type: 1
+Bet ID: #5772289
+Bet Date: 05.02.2025
+Bet Time: 16:45
+Bet Odds: 1.04
+Bet Stake: 500
+Bet Win Amount: 520
+Bet Status: Ganó (-Ados)
+Scrape1 error: 'int' object has no attribute 'replace'
+Error retrieving sport ID: list index out of range
+Scrape2 error: 'NoneType' object has no attribute 'split'
+Selected Team: Pagac, Zbynek
+Match Result: 1–3 (7–11, 12–10, 5–11, 5–10)
+Database connection error: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte
+Failed to establish database connection
+
+
+-----------------------------------------------
+Expanded item 5/1444
+Bet type: simple
+Bet_type: 1
+Bet ID: #5771656
+Bet Date: 05.02.2025
+Bet Time: 15:24
+Bet Odds: 1.01
+Bet Stake: 500
+Bet Win Amount: 505
+Bet Status: Ganó (-Ados)
+Scrape1 error: 'int' object has no attribute 'replace'
+Error retrieving sport ID: list index out of range
+Scrape2 error: 'NoneType' object has no attribute 'split'
+Selected Team: Vyvial, Pavel
+Match Result: 2–3 (9–11, 11–9, 2–11, 13–11, 7–11)
+Database connection error: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte
+Failed to establish database connection
+
+
+-----------------------------------------------
+Expanded item 6/1444
+Bet type: simple
+Bet_type: 1
+Bet ID: #5771519
+Bet Date: 05.02.2025
+Bet Time: 15:08
+Bet Odds: 1.2
+Bet Stake: 500
+Bet Win Amount: 600
+Bet Status: Ganó (-Ados)
+Scrape1 error: 'int' object has no attribute 'replace'
+Error retrieving sport ID: list index out of range
+Scrape2 error: 'NoneType' object has no attribute 'split'
+Selected Team: Strejc, Filip
+Match Result: 0–3 (9–11, 9–11, 12–14)
+Database connection error: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte
+Failed to establish database connection
+
+
+-----------------------------------------------
+Expanded item 7/1444
+Bet type: simple
+Bet_type: 1
+Bet ID: #5771301
+Bet Date: 05.02.2025
+Bet Time: 14:47
+Bet Odds: 1.14
+Bet Stake: 500
+Bet Win Amount: 0
+Bet Status: Perdido (-Idas)
+Scrape1 error: 'int' object has no attribute 'replace'
+Error retrieving sport ID: list index out of range
+Scrape2 error: 'NoneType' object has no attribute 'split'
+Selected Team: Wenda, Krzysztof
+Match Result: 2–3 (11–6, 15–13, 7–11, 11–13, 7–11)
+Database connection error: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte
+Failed to establish database connection
+
+
+-----------------------------------------------
+Expanded item 8/1444
+Bet type: simple
+Bet_type: 1
+Bet ID: #5771238
+Bet Date: 05.02.2025
+Bet Time: 14:38
+Bet Odds: 1.22
+Bet Stake: 500
+Bet Win Amount: 610
+Bet Status: Ganó (-Ados)
+Scrape1 error: 'int' object has no attribute 'replace'
+Error retrieving sport ID: list index out of range
+Scrape2 error: 'NoneType' object has no attribute 'split'
+Selected Team: Wisniewski, Karol
+Match Result: 3–1 (13–11, 9–11, 11–9, 10–6)
+Database connection error: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte
+Failed to establish database connection
+
+
+-----------------------------------------------
+Expanded item 9/1444
+Bet type: simple
+Bet_type: 1
+Bet ID: #5769042
+Bet Date: 05.02.2025
+Bet Time: 04:48
+Bet Odds: 1.01
+Bet Stake: 500
+Bet Win Amount: 505
+Bet Status: Ganó (-Ados)
+Scrape1 error: 'int' object has no attribute 'replace'
+Error retrieving sport ID: list index out of range
+Scrape2 error: 'NoneType' object has no attribute 'split'
+Selected Team: Potensky, Jan
+Match Result: 3–2 (6–11, 13–11, 11–8, 9–11, 10–6)
+Database connection error: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte
+Failed to establish database connection
+
+
+-----------------------------------------------
+Expanded item 10/1444
+Bet type: simple
+Bet_type: 1
+Bet ID: #5769021
+Bet Date: 05.02.2025
+Bet Time: 04:40
+Bet Odds: 1.1
+Bet Stake: 500
+Bet Win Amount: 550
+Bet Status: Ganó (-Ados)
+Scrape1 error: 'int' object has no attribute 'replace'
+Error retrieving sport ID: list index out of range
+Scrape2 error: 'NoneType' object has no attribute 'split'
+Selected Team: Polcanova, Sofia
+Match Result: 2–3 (10–12, 11–8, 11–9, 9–11, 10–11)
+Database connection error: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte
+Failed to establish database connection
+
+
+-----------------------------------------------
+Expanded item 11/1444
+Bet type: simple
+Bet_type: 1
+Bet ID: #5768993
+Bet Date: 05.02.2025
+Bet Time: 04:29
+Bet Odds: 1.18
+Bet Stake: 500
+Bet Win Amount: 590
+Bet Status: Ganó (-Ados)
+Scrape1 error: 'int' object has no attribute 'replace'
+Error retrieving sport ID: list index out of range
+Scrape2 error: 'NoneType' object has no attribute 'split'
+Selected Team: Sanchez, Pedro J
+Match Result: 3–1 (11–5, 13–11, 8–11, 10–9)
+Database connection error: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte
+Failed to establish database connection
+
+
+-----------------------------------------------
+Expanded item 12/1444
+Bet type: simple
+Bet_type: 1
+Bet ID: #5768966
+Bet Date: 05.02.2025
+Bet Time: 04:13
+Bet Odds: 1.09
+Bet Stake: 500
+Bet Win Amount: 0
+Bet Status: Perdido (-Idas)
+Scrape1 error: 'int' object has no attribute 'replace'
+Error retrieving sport ID: list index out of range
+Scrape2 error: 'NoneType' object has no attribute 'split'
+Selected Team: Warpas, Blazej
+Match Result: 3–2 (8–11, 9–11, 13–11, 11–4, 9–11)
+Database connection error: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte
+Failed to establish database connection
+
+
+-----------------------------------------------
+Expanded item 13/1444
+Bet type: simple
+Bet_type: 1
+Bet ID: #5768964
+Bet Date: 05.02.2025
+Bet Time: 04:13
+Bet Odds: 1.08
+Bet Stake: 500
+Bet Win Amount: 540
+Bet Status: Ganó (-Ados)
+Scrape1 error: 'int' object has no attribute 'replace'
+Error retrieving sport ID: list index out of range
+Scrape2 error: 'NoneType' object has no attribute 'split'
+Selected Team: David, Petr
+Match Result: 2–3 (11–7, 13–11, 9–11, 6–11, 3–11)
+Database connection error: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte
+Failed to establish database connection
+
+
+-----------------------------------------------
+Expanded item 14/1444
+Bet type: simple
+Bet_type: 1
+Bet ID: #5768946
+Bet Date: 05.02.2025
+Bet Time: 04:04
+Bet Odds: 1.05
+Bet Stake: 500
+Bet Win Amount: 525
+Bet Status: Ganó (-Ados)
+Scrape1 error: 'int' object has no attribute 'replace'
+Error retrieving sport ID: list index out of range
+Scrape2 error: 'NoneType' object has no attribute 'split'
+Selected Team: Bourrassaud F / Dorr E
+Match Result: 2–3 (13–11, 11–9, 9–11, 6–11, 9–10)
+Database connection error: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte
+Failed to establish database connection
+
+
+-----------------------------------------------
+Expanded item 15/1444
+Bet type: simple
+Bet_type: 1
+Bet ID: #5768919
+Bet Date: 05.02.2025
+Bet Time: 03:52
+Bet Odds: 1.02
+Bet Stake: 500
+Bet Win Amount: 0
+Bet Status: Perdido (-Idas)
+Scrape1 error: 'int' object has no attribute 'replace'
+Error retrieving sport ID: list index out of range
+Scrape2 error: 'NoneType' object has no attribute 'split'
+Selected Team: Lysakowski, Michal
+Match Result: 2–3 (7–11, 11–13, 11–7, 11–6, 9–10)
+Database connection error: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte
+Failed to establish database connection
+
+
+-----------------------------------------------
+Expanded item 16/1444
+Bet type: simple
+Bet_type: 1
+Bet ID: #5768910
+Bet Date: 05.02.2025
+Bet Time: 03:46
+Bet Odds: 1.1
+Bet Stake: 500
+Bet Win Amount: 0
+Bet Status: Perdido (-Idas)
+Scrape1 error: 'int' object has no attribute 'replace'
+Error retrieving sport ID: list index out of range
+Scrape2 error: 'NoneType' object has no attribute 'split'
+Selected Team: Ishiy V / Teodoro G
+Match Result: 2–3 (13–11, 11–9, 9–11, 6–11, 9–10)
+Database connection error: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte
+Failed to establish database connection
+
+
+-----------------------------------------------
+Expanded item 17/1444
+Bet type: simple
+Bet_type: 1
+Bet ID: #5768898
+Bet Date: 05.02.2025
+Bet Time: 03:41
+Bet Odds: 1.18
+Bet Stake: 500
+Bet Win Amount: 0
+Bet Status: Perdido (-Idas)
+Scrape1 error: 'int' object has no attribute 'replace'
+Error retrieving sport ID: list index out of range
+Scrape2 error: 'NoneType' object has no attribute 'split'
+Selected Team: Spychala, Adrian
+Match Result: 3–2 (11–7, 6–11, 9–11, 12–10, 10–9)
+Database connection error: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte
+Failed to establish database connection
+
+
+-----------------------------------------------
+Expanded item 18/1444
+Bet type: simple
+Bet_type: 1
+Bet ID: #5768848
+Bet Date: 05.02.2025
+Bet Time: 03:30
+Bet Odds: 1.07
+Bet Stake: 500
+Bet Win Amount: 535
+Bet Status: Ganó (-Ados)
+Scrape1 error: 'int' object has no attribute 'replace'
+Error retrieving sport ID: list index out of range
+Scrape2 error: 'NoneType' object has no attribute 'split'
+Selected Team: Przewlocki, Jacek
+Match Result: 2–3 (11–4, 7–11, 9–11, 12–10, 10–12)
+Database connection error: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte
+Failed to establish database connection
+
+
+-----------------------------------------------
+Expanded item 19/1444
+Bet type: simple
+Bet_type: 1
+Bet ID: #5768822
+Bet Date: 05.02.2025
+Bet Time: 03:25
+Bet Odds: 1.12
+Bet Stake: 500
+Bet Win Amount: 560
+Bet Status: Ganó (-Ados)
+Scrape1 error: 'int' object has no attribute 'replace'
+Error retrieving sport ID: list index out of range
+Scrape2 error: 'NoneType' object has no attribute 'split'
+Selected Team: Czerwinski, Bartosz
+Match Result: 2–3 (14–12, 9–11, 10–12, 11–7, 8–11)
+Database connection error: 'utf-8' codec can't decode byte 0xf3 in position 85: invalid continuation byte
+Failed to establish database connection

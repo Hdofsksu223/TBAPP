@@ -1,0 +1,40 @@
+Please enter your email: Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5376. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+5.9
+1.09
+Game period text: Segundo break
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Litwiniuk, Marcin, Team Score: 9, Set: 0
+Team Name: Czerwinski, Bartosz, Team Score: 11, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: Segundo break because it's in the first or second set.
+3.2
+1.27
+2.35
+1.52
+1.65
+2.05
+2.7
+1.4
+1.08
+Game period text: 4º set11:74:11
+Associated alt value: 15
+League name: WTT SINGAPORE SMASH, WOMEN
+Scoreboard:
+Team Name: Wang, Yidi, Team Score: 8, Set: 2
+Team Name: Ito, Mima, Team Score: 6, Set: 1
+Button clicked for league: WTT SINGAPORE SMASH, WOMEN
+SELECTED BUTTON:  1.08
+Bet amount set to: 500
+Possible win amount (540.0) is sufficient compared to input amount (500).
+Looking for after-bet errors
+Looking for after-bet errors
+Bet placed successfully.
+Scoreboard:
+Team Name: Wang, Yidi, Team Score: 8, Set: 2
+Team Name: Ito, Mima, Team Score: 6, Set: 1
+7.25

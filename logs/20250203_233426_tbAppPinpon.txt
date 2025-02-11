@@ -1,0 +1,66 @@
+Please enter your email: Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4286. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+6
+1.08
+Game period text: 3º set9:114:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Misiak, Mateusz, Team Score: 5, Set: 0
+Team Name: Blocho, Przemyslaw, Team Score: 4, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: 3º set9:114:11 because it's in the first or second set.
+1.42
+2.6
+2.05
+1.65
+1.85
+1.85
+2.05
+1.7
+2.15
+1.6
+1.3
+3.2
+No outcome buttons found in the first market item.
+2
+1.7
+2.25
+1.55
+3.7
+1.22
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4286. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+4.1
+1.18
+Game period text: 3º set9:114:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Misiak, Mateusz, Team Score: 10, Set: 0
+Team Name: Blocho, Przemyslaw, Team Score: 7, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: 3º set9:114:11 because it's in the first or second set.
+1.52
+2.3
+2.55
+1.42
+1.8
+1.85
+1.52
+2.3
+1.6
+2.1
+1.52
+2.3
+No outcome buttons found in the first market item.
+2
+1.7
+2.25
+1.55
+2.8
+1.37

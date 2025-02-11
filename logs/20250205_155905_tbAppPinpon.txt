@@ -1,0 +1,4650 @@
+Please enter your email: Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+1.14
+Game period text: 1er set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Ibarra, Alberto, Team Score: 7, Set: 0
+Team Name: Rodriguez, Gonzalo, Team Score: 3, Set: 0
+Skipping button click for league: TT CUP at timer: 1er set because it's in the first or second set.
+4.8
+1.22
+3.75
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.06
+Game period text: 1er set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Ibarra, Alberto, Team Score: 7, Set: 0
+Team Name: Rodriguez, Gonzalo, Team Score: 4, Set: 0
+Skipping button click for league: TT CUP at timer: 1er set because it's in the first or second set.
+7
+1.25
+3.4
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.09
+Game period text: 1er set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Ibarra, Alberto, Team Score: 7, Set: 0
+Team Name: Rodriguez, Gonzalo, Team Score: 4, Set: 0
+Skipping button click for league: TT CUP at timer: 1er set because it's in the first or second set.
+5.8
+1.22
+3.8
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Error checking balance: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'customer-balance-module_text')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C6B037]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.32
+3
+1.14
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+4.75
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.16
+Game period text: 1er set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Ibarra, Alberto, Team Score: 8, Set: 0
+Team Name: Rodriguez, Gonzalo, Team Score: 5, Set: 0
+Skipping button click for league: TT CUP at timer: 1er set because it's in the first or second set.
+4.35
+1.06
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+6.75
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.06
+Game period text: 1er set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Ibarra, Alberto, Team Score: 8, Set: 0
+Team Name: Rodriguez, Gonzalo, Team Score: 5, Set: 0
+Skipping button click for league: TT CUP at timer: 1er set because it's in the first or second set.
+7
+1.16
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+4.45
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.06
+Game period text: 1er set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Ibarra, Alberto, Team Score: 9, Set: 0
+Team Name: Rodriguez, Gonzalo, Team Score: 5, Set: 0
+Skipping button click for league: TT CUP at timer: 1er set because it's in the first or second set.
+7
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.1
+Game period text: 1er set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Ibarra, Alberto, Team Score: 9, Set: 0
+Team Name: Rodriguez, Gonzalo, Team Score: 5, Set: 0
+Skipping button click for league: TT CUP at timer: 1er set because it's in the first or second set.
+5.3
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.08
+Game period text: 1er set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Ibarra, Alberto, Team Score: 9, Set: 0
+Team Name: Rodriguez, Gonzalo, Team Score: 5, Set: 0
+Skipping button click for league: TT CUP at timer: 1er set because it's in the first or second set.
+6.25
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.08
+Game period text: 5º set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Ibarra, Alberto, Team Score: 9, Set: 2
+Team Name: Rodriguez, Gonzalo, Team Score: 6, Set: 2
+Button clicked for league: TT CUP
+SELECTED BUTTON:  1.08
+Bet amount set to: 500
+Possible win amount (750.0) is sufficient compared to input amount (500).
+Looking for after-bet errors
+Looking for after-bet errors
+Bet placed successfully.
+Scoreboard:
+Team Name: Ibarra, Alberto, Team Score: 9, Set: 0
+Team Name: Rodriguez, Gonzalo, Team Score: 6, Set: 0
+2.4
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+Error clicking remove button for event: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[contains(@class, 'coupon-bet-remove-module_Holder')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Clicked 'Borrar resultado' button.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Error checking balance: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'customer-balance-module_text')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C6B037]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Error checking balance: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'customer-balance-module_text')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C6B037]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error checking balance: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'customer-balance-module_text')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C6B037]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No event table rows found.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.3
+1.27
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No event table rows found.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.25
+4.75
+16
+13.5
+100
+3.75
+1.42
+9
+No outcome buttons found in the first market item.
+10
+3.7
+1.37
+No outcome buttons found in the first market item.
+1.45
+3.8
+6.75
+1.37
+4
+10.5
+5.8
+3.1
+1.7
+100
+11.5
+100
+12.5
+1.01
+Game period text: 2da Mitad0:10:1
+Associated alt value: 1
+League name: PREMIERSHIP
+Scoreboard:
+Button index 2 exceeds team count 2
+Skipping button click for league: PREMIERSHIP at timer: 2da Mitad0:10:1 because it's in the first or second set.
+No outcome buttons found in the first market item.
+6.75
+1.4
+4.1
+7.5
+3.9
+1.47
+3.5
+2.1
+3.15
+3.1
+1.7
+5.2
+2.8
+2.25
+3.65
+9.25
+3.5
+1.45
+1.8
+2.8
+5.8
+13.5
+4.65
+1.27
+3.45
+2.9
+2.15
+1.32
+4.15
+12.5
+1.3
+4.25
+13
+No outcome buttons found in the first market item.
+10.5
+4.55
+1.27
+2.8
+2.1
+3.8
+2.6
+2.65
+2.95
+No outcome buttons found in the first market item.
+1.9
+3
+4.15
+2.25
+3.1
+3.25
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.25
+4.75
+16.5
+12
+100
+3.75
+1.4
+9.5
+No outcome buttons found in the first market item.
+1.45
+3.8
+7
+1.37
+4
+9.25
+5.7
+3.05
+1.75
+80
+6.25
+1.09
+Game period text: 2da Mitad0:10:1
+Associated alt value: 1
+League name: PREMIERSHIP
+Scoreboard:
+Button index 2 exceeds team count 2
+Skipping button click for league: PREMIERSHIP at timer: 2da Mitad0:10:1 because it's in the first or second set.
+100
+11.5
+No outcome buttons found in the first market item.
+6.75
+1.4
+4.1
+No outcome buttons found in the first market item.
+3.55
+2.1
+3.15
+9.75
+3.45
+1.45
+1.85
+2.75
+5.8
+2.75
+2.3
+3.55
+13.5
+4.65
+1.27
+3.45
+2.9
+2.15
+1.32
+4.15
+12.5
+1.32
+4.15
+12.5
+10.5
+4
+1.32
+11
+4.6
+1.27
+2.8
+2.05
+3.95
+2.65
+2.6
+2.95
+5.4
+2.9
+1.75
+2.25
+3.1
+3.25
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.25
+4.75
+17
+12
+100
+3.9
+1.37
+9.5
+No outcome buttons found in the first market item.
+1.45
+3.8
+7
+1.4
+3.9
+10.5
+5.8
+3.1
+1.7
+90
+6.5
+1.08
+Game period text: 2da Mitad0:10:1
+Associated alt value: 1
+League name: PREMIERSHIP
+Scoreboard:
+Button index 2 exceeds team count 2
+Skipping button click for league: PREMIERSHIP at timer: 2da Mitad0:10:1 because it's in the first or second set.
+100
+11.5
+5.1
+1.27
+9.5
+6.75
+1.4
+4.15
+8.25
+3.8
+1.47
+3.5
+2.1
+3.15
+9.75
+3.45
+1.45
+1.85
+2.7
+5.7
+2.85
+2.15
+3.7
+4.45
+2.4
+2.25
+3.45
+2.9
+2.15
+1.32
+4.15
+12.5
+1.32
+4.05
+12
+11
+4.2
+1.3
+11
+4.55
+1.27
+No outcome buttons found in the first market item.
+7.25
+3.55
+1.47
+1.85
+3
+4.4
+2.2
+3.1
+3.3
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.25
+4.75
+17.5
+12
+100
+4.1
+1.35
+9.5
+No outcome buttons found in the first market item.
+1.42
+3.85
+7.25
+No outcome buttons found in the first market item.
+5.7
+3
+1.75
+100
+12.5
+1.01
+Game period text: 2da Mitad0:10:1
+Associated alt value: 1
+League name: PREMIERSHIP
+Scoreboard:
+Button index 2 exceeds team count 2
+Skipping button click for league: PREMIERSHIP at timer: 2da Mitad0:10:1 because it's in the first or second set.
+100
+11.5
+5.2
+1.25
+10
+7
+1.37
+4.25
+7.75
+3.95
+1.45
+3.5
+2.1
+3.15
+10
+3.45
+1.45
+2.05
+2.45
+5.5
+2.85
+2.15
+3.75
+No outcome buttons found in the first market item.
+3.45
+2.9
+2.15
+1.3
+4.2
+13
+1.35
+4.05
+12
+11
+4.2
+1.3
+3.7
+2.95
+2.05
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+1.85
+3
+4.4
+2.2
+3.1
+3.3
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.2
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+3.8
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No event table rows found.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.15
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+4.5
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.06
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+6.75
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.06
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+6.75
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.09
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+5.7
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.09
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+5.7
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Error checking balance: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'customer-balance-module_text')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C6B037]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.14
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+4.75
+1.55
+2.25
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No event table rows found.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.09
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+5.7
+1.8
+1.85
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No event table rows found.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.04
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+8
+1.75
+1.95
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No event table rows found.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.7
+2
+3.2
+1.27
+No outcome buttons found in the first market item.
+1.01
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+10
+1.27
+3.25
+2.45
+1.47
+No outcome buttons found in the first market item.
+1.25
+3.4
+1.55
+2.25
+1.52
+2.35
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.16
+Game period text: 4º set8:1111:812:10
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Kujawa, Filip, Team Score: 2, Set: 2
+Team Name: Misiak, Mateusz, Team Score: 0, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: 4º set8:1111:812:10 because it's in the first or second set.
+4.3
+2.7
+1.37
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+1.27
+3.3
+3.15
+1.3
+No outcome buttons found in the first market item.
+1.2
+Game period text: No Iniciado
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Skipping button click for league: CZECH LIGA PRO at timer: No Iniciado because it's in the first or second set.
+4
+1.15
+Game period text: Segundo break
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Provodin, Sergei, Team Score: 12, Set: 2
+Team Name: Teras, Timo, Team Score: 10, Set: 0
+Skipping button click for league: TT CUP at timer: Segundo break because it's in the first or second set.
+4.5
+1.3
+3.15
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.22
+3.7
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+1.7
+2
+1.5
+2.35
+2.75
+1.37
+No outcome buttons found in the first market item.
+1.18
+Game period text: No Iniciado
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Skipping button click for league: CZECH LIGA PRO at timer: No Iniciado because it's in the first or second set.
+4.25
+1.14
+Game period text: 3º set11:812:10
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Provodin, Sergei, Team Score: 1, Set: 2
+Team Name: Teras, Timo, Team Score: 1, Set: 0
+Skipping button click for league: TT CUP at timer: 3º set11:812:10 because it's in the first or second set.
+4.7
+1.2
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+3.85
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.09
+Game period text: 4º set8:1111:812:10
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Kujawa, Filip, Team Score: 8, Set: 2
+Team Name: Misiak, Mateusz, Team Score: 6, Set: 1
+Button clicked for league: TT ELITE SERIES
+SELECTED BUTTON:  1.09
+Error in place_bet: Message: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: MicrosoftEdge=132.0.2957.140)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1BEB350]
+	(No symbol) [0x00007FF7D1BEDA0C]
+	(No symbol) [0x00007FF7D1BEDADF]
+	(No symbol) [0x00007FF7D1C267DE]
+	(No symbol) [0x00007FF7D1C4DDDA]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+5.9
+2.9
+1.35
+No outcome buttons found in the first market item.
+1.6
+2.1
+
+Error processing button: could not convert string to float: ''
+
+Error processing button: could not convert string to float: ''
+
+Error processing button: could not convert string to float: ''
+
+Error processing button: could not convert string to float: ''
+No outcome buttons found in the first market item.
+
+Error processing button: could not convert string to float: ''
+
+Error processing button: could not convert string to float: ''
+
+Error processing button: could not convert string to float: ''
+
+Error processing button: could not convert string to float: ''
+
+Error processing button: could not convert string to float: ''
+
+Error processing button: could not convert string to float: ''
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Error checking balance: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'customer-balance-module_text')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C6B037]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error checking balance: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'customer-balance-module_text')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C6B037]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error checking balance: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'customer-balance-module_text')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C6B037]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error checking balance: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'customer-balance-module_text')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C6B037]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.32
+3.05
+1.1
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+5.4
+1.03
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+8.5
+1.95
+1.75
+5.9
+1.09
+Game period text: No Iniciado
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Skipping button click for league: CZECH LIGA PRO at timer: No Iniciado because it's in the first or second set.
+1.12
+Game period text: No Iniciado
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Skipping button click for league: CZECH LIGA PRO at timer: No Iniciado because it's in the first or second set.
+5
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.45
+2.5
+1.18
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+4.2
+1.03
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+8.75
+2
+1.7
+5.9
+1.09
+Game period text: No Iniciado
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Skipping button click for league: CZECH LIGA PRO at timer: No Iniciado because it's in the first or second set.
+1.05
+Game period text: No Iniciado
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Skipping button click for league: CZECH LIGA PRO at timer: No Iniciado because it's in the first or second set.
+7.25
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.65
+2.1
+1.09
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+5.9
+1.04
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+7.75
+2
+1.7
+5.9
+1.09
+Game period text: No Iniciado
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Skipping button click for league: CZECH LIGA PRO at timer: No Iniciado because it's in the first or second set.
+1.03
+Game period text: No Iniciado
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Skipping button click for league: CZECH LIGA PRO at timer: No Iniciado because it's in the first or second set.
+8.75
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.65
+2.1
+1.07
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+6.5
+1.03
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+8.5
+2.45
+1.47
+4.55
+1.15
+Game period text: No Iniciado
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Skipping button click for league: CZECH LIGA PRO at timer: No Iniciado because it's in the first or second set.
+1.01
+Game period text: No Iniciado
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Skipping button click for league: CZECH LIGA PRO at timer: No Iniciado because it's in the first or second set.
+10
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.05
+1.65
+1.07
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+6.5
+1.04
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+7.75
+2.35
+1.5
+4.75
+1.14
+Game period text: No Iniciado
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Skipping button click for league: CZECH LIGA PRO at timer: No Iniciado because it's in the first or second set.
+10.5
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.16
+Game period text: 5º set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Nosek, David, Team Score: 8, Set: 2
+Team Name: Vrastil, Petr, Team Score: 11, Set: 2
+Skipping button click for league: TT CUP at timer: 5º set because it's in the first or second set.
+4.35
+1.02
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+9.25
+1.01
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+10
+2.45
+1.47
+3.45
+1.25
+10.5
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.27
+3.35
+1.04
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+7.5
+1.01
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+10
+2.1
+1.65
+1.75
+1.9
+11
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.42
+2.6
+No outcome buttons found in the first market item.
+1.02
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+9.5
+1.6
+2.1
+2
+1.7
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.95
+1.75
+2.1
+1.6
+1.02
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+9.5
+2.15
+1.6
+2.05
+1.65
+11
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.7
+1.95
+No outcome buttons found in the first market item.
+1.08
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+6.25
+2.15
+1.6
+No outcome buttons found in the first market item.
+1.9
+1.75
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.75
+1.95
+1.7
+2
+No outcome buttons found in the first market item.
+1.08
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+6.25
+2.15
+1.6
+2.25
+1.55
+2.1
+1.65
+1.7
+2
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.65
+2.05
+1.8
+1.9
+1.09
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+5.7
+2.95
+1.35
+2.1
+1.65
+2.75
+1.37
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.75
+1.9
+1.75
+1.95
+1.06
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+6.75
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+2.8
+1.37
+1.95
+1.75
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+2.1
+1.6
+1.65
+2.05
+1.1
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+5.5
+2.25
+1.55
+2.7
+1.4
+No outcome buttons found in the first market item.
+1.8
+1.85
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.9
+1.75
+1.06
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+6.75
+1.95
+1.75
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.7
+2
+1.06
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+6.75
+2.05
+1.65
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.7
+2.2
+1.1
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+5.3
+1.14
+Game period text: Primer break
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Prosa, Tomas, Team Score: 11, Set: 1
+Team Name: Turek, Tomas, Team Score: 9, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: Primer break because it's in the first or second set.
+2.65
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.32
+2.95
+1.06
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+6.75
+1.3
+3.15
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.32
+2.95
+1.06
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+6.75
+1.18
+Game period text: 5º set11:90:0
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Prosa, Tomas, Team Score: 0, Set: 2
+Team Name: Turek, Tomas, Team Score: 0, Set: 2
+Skipping button click for league: CZECH LIGA PRO at timer: 5º set11:90:0 because it's in the first or second set.
+4.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.32
+2.95
+1.06
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+6.75
+1.35
+2.95
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+1.27
+3.3
+1.47
+2.45
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.12
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+5
+1.27
+3.35
+1.18
+Game period text: 2do Set11:91:2
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Prosa, Tomas, Team Score: 1, Set: 1
+Team Name: Turek, Tomas, Team Score: 2, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:91:2 because it's in the first or second set.
+4.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.12
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+5
+1.27
+3.25
+1.18
+Game period text: 2do Set11:91:3
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Prosa, Tomas, Team Score: 1, Set: 1
+Team Name: Turek, Tomas, Team Score: 3, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:91:3 because it's in the first or second set.
+4.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.18
+Game period text: 1er set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Marat, Filip, Team Score: 0, Set: 0
+Team Name: Sochor, Miroslav, Team Score: 0, Set: 0
+Skipping button click for league: TT CUP at timer: 1er set because it's in the first or second set.
+4.15
+1.25
+3.4
+1.75
+1.95
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.18
+Game period text: 1er set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Marat, Filip, Team Score: 0, Set: 0
+Team Name: Sochor, Miroslav, Team Score: 0, Set: 0
+Skipping button click for league: TT CUP at timer: 1er set because it's in the first or second set.
+2.15
+1.25
+3.5
+1.6
+2.15
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.01
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+10.5
+1.85
+1.8
+1.22
+3.65
+1.7
+2
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.01
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+10
+1.18
+Game period text: 1er set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Marat, Filip, Team Score: 0, Set: 0
+Team Name: Sochor, Miroslav, Team Score: 3, Set: 0
+Skipping button click for league: TT CUP at timer: 1er set because it's in the first or second set.
+4.15
+1.2
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+3.9
+1.75
+1.95
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+10.5
+1.18
+Game period text: 1er set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Marat, Filip, Team Score: 0, Set: 0
+Team Name: Sochor, Miroslav, Team Score: 4, Set: 0
+Skipping button click for league: TT CUP at timer: 1er set because it's in the first or second set.
+4.1
+1.15
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+4.6
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+11
+1.22
+3.6
+1.2
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+3.8
+1.55
+2.25
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No event table rows found.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+11
+1.16
+Game period text: 1er set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Marat, Filip, Team Score: 2, Set: 0
+Team Name: Sochor, Miroslav, Team Score: 5, Set: 0
+Skipping button click for league: TT CUP at timer: 1er set because it's in the first or second set.
+4.25
+1.25
+3.4
+1.7
+2
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+11
+No outcome buttons found in the first market item.
+2.35
+1.52
+1.25
+3.4
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+11
+1.15
+Game period text: Primer break
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Stachera Tomasz, Team Score: 11, Set: 1
+Team Name: Stojek, Karol, Team Score: 4, Set: 0
+Skipping button click for league: TT CUP at timer: Primer break because it's in the first or second set.
+4.5
+2.15
+1.6
+1.25
+3.4
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+11
+No outcome buttons found in the first market item.
+1.05
+Game period text: 4º set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Marat, Filip, Team Score: 4, Set: 2
+Team Name: Sochor, Miroslav, Team Score: 7, Set: 1
+Skipping button click for league: TT CUP at timer: 4º set because it's in the first or second set.
+7.25
+1.25
+3.4
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+1.07
+Game period text: 4º set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Marat, Filip, Team Score: 5, Set: 2
+Team Name: Sochor, Miroslav, Team Score: 7, Set: 1
+Skipping button click for league: TT CUP at timer: 4º set because it's in the first or second set.
+6.5
+1.27
+3.3
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+1.08
+Game period text: 4º set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Marat, Filip, Team Score: 6, Set: 2
+Team Name: Sochor, Miroslav, Team Score: 7, Set: 1
+Skipping button click for league: TT CUP at timer: 4º set because it's in the first or second set.
+6
+1.2
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+3.95
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+1.03
+Game period text: 1er set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Marat, Filip, Team Score: 8, Set: 0
+Team Name: Sochor, Miroslav, Team Score: 7, Set: 0
+Skipping button click for league: TT CUP at timer: 1er set because it's in the first or second set.
+8.25
+1.35
+2.85
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.27
+3.2
+1.35
+2.85
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.01
+Game period text: Primer break
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Marat, Filip, Team Score: 11, Set: 1
+Team Name: Sochor, Miroslav, Team Score: 7, Set: 0
+Skipping button click for league: TT CUP at timer: Primer break because it's in the first or second set.
+3.55
+1.18
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+4.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+10.5
+1.18
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+4.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.01
+Game period text: 4º set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Marat, Filip, Team Score: 11, Set: 2
+Team Name: Sochor, Miroslav, Team Score: 7, Set: 1
+Button clicked for league: TT CUP
+SELECTED BUTTON:  1.01
+Bet amount set to: 500
+Possible win amount (505.0) is not sufficient compared to input amount (500).
+Unclicked selected outcome button due to insufficient bet amount.
+9.75
+1.18
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+4.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+11
+1.05
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+7.25
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.01
+Game period text: 4º set11:70:0
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Marat, Filip, Team Score: 0, Set: 2
+Team Name: Sochor, Miroslav, Team Score: 0, Set: 1
+Skipping button click for league: TT CUP at timer: 4º set11:70:0 because it's in the first or second set.
+10.5
+1.05
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+7.25
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.16
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+4.3
+1.01
+Game period text: 4º set11:70:0
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Marat, Filip, Team Score: 0, Set: 2
+Team Name: Sochor, Miroslav, Team Score: 0, Set: 1
+Skipping button click for league: TT CUP at timer: 4º set11:70:0 because it's in the first or second set.
+10.5
+1.05
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+7.25
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.09
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+5.7
+No outcome buttons found in the first market item.
+1.08
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+6
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.04
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+8
+No outcome buttons found in the first market item.
+1.08
+Game period text: 1er set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Cayuela, Juan, Team Score: 0, Set: 0
+Team Name: Ibarra, Alberto, Team Score: 0, Set: 0
+Skipping button click for league: TT CUP at timer: 1er set because it's in the first or second set.
+6
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.02
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+9
+1.18
+Game period text: 2do Set11:73:2
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Marat, Filip, Team Score: 3, Set: 1
+Team Name: Sochor, Miroslav, Team Score: 2, Set: 0
+Skipping button click for league: TT CUP at timer: 2do Set11:73:2 because it's in the first or second set.
+4.2
+1.85
+1.85
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.01
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+10
+1.14
+Game period text: 2do Set11:74:2
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Marat, Filip, Team Score: 4, Set: 1
+Team Name: Sochor, Miroslav, Team Score: 2, Set: 0
+Skipping button click for league: TT CUP at timer: 2do Set11:74:2 because it's in the first or second set.
+4.85
+1.8
+1.85
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.01
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+10
+No outcome buttons found in the first market item.
+1.04
+Game period text: 1er set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Cayuela, Juan, Team Score: 1, Set: 0
+Team Name: Ibarra, Alberto, Team Score: 1, Set: 0
+Skipping button click for league: TT CUP at timer: 1er set because it's in the first or second set.
+8
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.02
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+9
+No outcome buttons found in the first market item.
+1.12
+Game period text: 1er set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Cayuela, Juan, Team Score: 3, Set: 0
+Team Name: Ibarra, Alberto, Team Score: 2, Set: 0
+Skipping button click for league: TT CUP at timer: 1er set because it's in the first or second set.
+4.95
+1.5
+2.4
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.03
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+8.75
+No outcome buttons found in the first market item.
+1.65
+2.1
+1.6
+2.15
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.04
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+8
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.03
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+8.5
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+1.65
+2.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.02
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+8.75
+No outcome buttons found in the first market item.
+1.75
+1.95
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.01
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+10
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.01
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+10.5
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.01
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+10.5
+1.27
+3.35
+2.05
+1.65
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+11
+1.15
+Game period text: 3º set11:48:117:4
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Stachera Tomasz, Team Score: 7, Set: 1
+Team Name: Stojek, Karol, Team Score: 4, Set: 1
+Skipping button click for league: TT CUP at timer: 3º set11:48:117:4 because it's in the first or second set.
+4.6
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+10.5
+1.15
+Game period text: 3º set11:48:117:4
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Stachera Tomasz, Team Score: 7, Set: 1
+Team Name: Stojek, Karol, Team Score: 4, Set: 1
+Skipping button click for league: TT CUP at timer: 3º set11:48:117:4 because it's in the first or second set.
+4.6
+1.52
+2.35
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+10.5
+1.08
+Game period text: 3º set11:48:1110:4
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Stachera Tomasz, Team Score: 10, Set: 1
+Team Name: Stojek, Karol, Team Score: 4, Set: 1
+Skipping button click for league: TT CUP at timer: 3º set11:48:1110:4 because it's in the first or second set.
+6
+1.37
+2.7
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+11
+No outcome buttons found in the first market item.
+1.37
+2.7
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+11
+1.7
+1.95
+7.5
+1.05
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+2.55
+1.45
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+11
+1.6
+2.15
+6.5
+1.07
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+2.55
+1.45
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+11
+1.6
+2.15
+7
+1.05
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+2.55
+1.45
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+11
+1.55
+2.25
+8.25
+1.03
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+2.55
+1.45
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.52
+2.3
+6.5
+1.07
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+2.55
+1.45
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.4
+2.65
+7.25
+1.05
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+2.55
+1.45
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.4
+2.65
+8.75
+1.02
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+2.55
+1.45
+1.57
+2.2
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.4
+2.65
+9.25
+1.02
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+2.5
+1.45
+1.47
+2.45
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Error checking balance: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'customer-balance-module_text')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C6B037]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.7
+2
+9.5
+1.02
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+3.1
+1.3
+1.55
+2.25
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+2
+1.7
+10.5
+1.01
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+2.9
+1.35
+1.42
+2.55
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+2.15
+1.6
+11
+2.75
+1.37
+1.52
+2.35
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+2.25
+1.55
+11
+2.75
+1.37
+1.37
+2.75
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+2.35
+1.5
+11
+3.1
+1.3
+1.37
+2.75
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+2.4
+1.5
+11
+2.7
+1.37
+1.37
+2.75
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+2.4
+1.5
+No outcome buttons found in the first market item.
+3
+1.32
+1.4
+2.65
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Error checking balance: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'customer-balance-module_text')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C6B037]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.4
+1.5
+No outcome buttons found in the first market item.
+3.95
+1.2
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+1.32
+3
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.35
+1.5
+No outcome buttons found in the first market item.
+3.85
+1.2
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+1.55
+2.25
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.3
+1.52
+No outcome buttons found in the first market item.
+3.6
+1.22
+1.65
+2.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.2
+1.57
+No outcome buttons found in the first market item.
+4.1
+1.18
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+1.45
+2.5
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.05
+1.65
+No outcome buttons found in the first market item.
+4.1
+1.18
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+1.35
+2.95
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.2
+1.57
+No outcome buttons found in the first market item.
+4
+1.18
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Error processing button: invalid literal for int() with base 10: ''
+1.45
+2.5
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.15
+1.6
+No outcome buttons found in the first market item.
+3.7
+1.22
+1.3
+3.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.95
+1.9
+No outcome buttons found in the first market item.
+3.7
+1.22
+1.32
+3.05
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.3
+2.15
+No outcome buttons found in the first market item.
+3.6
+1.22
+1.32
+3
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.75
+1.37
+No outcome buttons found in the first market item.
+4.15
+1.18
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+1.47
+2.45
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.5
+2.4
+No outcome buttons found in the first market item.
+4.05
+1.18
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+1.35
+2.9
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.6
+2.15
+No outcome buttons found in the first market item.
+1.37
+2.75
+1.01
+Game period text: 4º set11:711:910:12
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Marat, Filip, Team Score: 9, Set: 2
+Team Name: Sochor, Miroslav, Team Score: 5, Set: 1
+Button clicked for league: TT CUP
+SELECTED BUTTON:  1.01
+Bet amount set to: 500
+Possible win amount (505.0) is not sufficient compared to input amount (500).
+Unclicked selected outcome button due to insufficient bet amount.
+10.5
+4.05
+1.18
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+1.57
+2.2
+2.35
+1.52
+1.4
+2.65
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+2.2
+2.1
+3.2
+1.3
+1.3
+3.1
+No outcome buttons found in the first market item.
+4.05
+1.18
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+Error processing event row: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1BEB350]
+	(No symbol) [0x00007FF7D1BEDA0C]
+	(No symbol) [0x00007FF7D1BEDADF]
+	(No symbol) [0x00007FF7D1C2D35B]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error processing event row: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1BEB350]
+	(No symbol) [0x00007FF7D1BEDA0C]
+	(No symbol) [0x00007FF7D1BEDADF]
+	(No symbol) [0x00007FF7D1C2D35B]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Error processing event row: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1BEB350]
+	(No symbol) [0x00007FF7D1BEDA0C]
+	(No symbol) [0x00007FF7D1BEDADF]
+	(No symbol) [0x00007FF7D1C2D35B]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.45
+2.5
+4.1
+1.18
+Game period text: 2do Set7:112:3
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Kowalczyk, Marcin, Team Score: 2, Set: 0
+Team Name: Fabis, Adrian, Team Score: 3, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: 2do Set7:112:3 because it's in the first or second set.
+1.27
+3.3
+No outcome buttons found in the first market item.
+4.05
+1.18
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Skipping button click for league: TT CUP at timer: No Iniciado because it's in the first or second set.
+1.85
+1.8
+2.6
+1.42
+1.4
+2.7
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+4.95
+1.12
+Game period text: 3º set11:58:110:0
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Michalik, Jerzy, Team Score: 0, Set: 1
+Team Name: Nocun, Zbigniew, Team Score: 0, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: 3º set11:58:110:0 because it's in the first or second set.
+No outcome buttons found in the first market item.
+1.32
+3
+No outcome buttons found in the first market item.
+3.2
+1.3
+1.85
+2
+2.6
+1.42
+1.4
+2.7
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+4.95
+1.12
+Game period text: 5º set11:58:111:2
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Michalik, Jerzy, Team Score: 1, Set: 2
+Team Name: Nocun, Zbigniew, Team Score: 2, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: 5º set11:58:111:2 because it's in the first or second set.
+1.42
+2.6
+2.95
+1.35
+1.75
+1.95
+2.6
+1.42
+1.37
+2.8
+1.35
+2.9
+2.15
+1.6
+1.1
+Game period text: No Iniciado
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Skipping button click for league: CZECH LIGA PRO at timer: No Iniciado because it's in the first or second set.
+5.6
+2.4
+1.5
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.8
+1.22
+2.05
+1.65
+3.55
+1.25
+1.9
+1.75
+2.4
+1.5
+1.35
+2.95
+1.55
+2.25
+2.05
+1.65
+1.52
+2.35
+1.8
+1.9
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.4
+2.65
+1.45
+2.5
+2.55
+1.45
+1.57
+2.2
+2.6
+1.42
+1.3
+3.15
+1.18
+Game period text: No Iniciado
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Skipping button click for league: CZECH LIGA PRO at timer: No Iniciado because it's in the first or second set.
+4.15
+1.9
+1.75
+1.05
+Game period text: No Iniciado
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Skipping button click for league: CZECH LIGA PRO at timer: No Iniciado because it's in the first or second set.
+7.5
+2.35
+1.52
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.85
+1.85
+1.7
+2
+3.4
+1.25
+1.42
+2.55
+2.9
+1.35
+1.27
+3.25
+1.25
+3.5
+1.45
+2.5
+1.04
+Game period text: No Iniciado
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Skipping button click for league: CZECH LIGA PRO at timer: No Iniciado because it's in the first or second set.
+7.5
+2.1
+1.6
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+2.55
+1.45
+2.35
+1.5
+3.1
+1.3
+1.37
+2.75
+2.9
+1.35
+1.8
+1.7
+No outcome buttons found in the first market item.
+1.6
+2.1
+1.6
+2.15
+1.4
+2.65
+1.5
+2.4
+1.95
+1.75
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.4
+1.5
+1.42
+2.6
+2.65
+1.4
+3.55
+1.2
+Game period text: 1er set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Cermak, Jiri, Team Score: 3, Set: 0
+Team Name: Zeman, Radek, Team Score: 7, Set: 0
+Skipping button click for league: TT CUP at timer: 1er set because it's in the first or second set.
+1.32
+3
+2.65
+1.4
+1.8
+1.9
+1.9
+1.75
+1.5
+2.35
+1.3
+3.4
+1.6
+2.15
+1.32
+3.05
+2.55
+1.45
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.2
+1.57
+3.1
+1.3
+3.15
+1.3
+4.1
+1.18
+Game period text: 1er set
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Cermak, Jiri, Team Score: 5, Set: 0
+Team Name: Zeman, Radek, Team Score: 10, Set: 0
+Skipping button click for league: TT CUP at timer: 1er set because it's in the first or second set.
+1.45
+2.95
+3.55
+1.25
+1.5
+2.35
+1.6
+2.15
+1.45
+2.55
+1.47
+2.2
+1.65
+2.1
+1.16
+Game period text: 1er set
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Hons, David, Team Score: 9, Set: 0
+Team Name: Jonas, Roman, Team Score: 3, Set: 0
+Team definition error: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1BEB350]
+	(No symbol) [0x00007FF7D1BEDA0C]
+	(No symbol) [0x00007FF7D1BEDADF]
+	(No symbol) [0x00007FF7D1C2D35B]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Skipping button click for league: CZECH LIGA PRO at timer: 1er set because it's in the first or second set.
+Error processing button: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1BEB350]
+	(No symbol) [0x00007FF7D1BEDA0C]
+	(No symbol) [0x00007FF7D1BEDADF]
+	(No symbol) [0x00007FF7D1C2D35B]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+2.6
+1.42
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.85
+1.35
+2.7
+1.4
+3.6
+1.22
+1.09
+Game period text: 4º set8:1111:85:4
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Vyvial, Pavel, Team Score: 5, Set: 2
+Team Name: Urban, Roman, Team Score: 4, Set: 1
+Skipping button click for league: TT CUP at timer: 4º set8:1111:85:4 because it's in the first or second set.
+5.8
+4.7
+1.14
+Game period text: 4º set7:1111:66:11
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Onton, Varmo, Team Score: 0, Set: 1
+Team Name: Teras, Timo, Team Score: 2, Set: 2
+Skipping button click for league: TT CUP at timer: 4º set7:1111:66:11 because it's in the first or second set.
+1.45
+2.5
+1.42
+2.6
+1.5
+2.4
+1.45
+2.55
+2.1
+1.6
+1.18
+Game period text: 2do Set11:40:0
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Hons, David, Team Score: 0, Set: 1
+Team Name: Jonas, Roman, Team Score: 0, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:40:0 because it's in the first or second set.
+4.2
+3
+1.32
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.3
+1.52
+2.55
+1.45
+2.3
+1.52
+1.14
+Game period text: 3º set8:1111:88:6
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Vyvial, Pavel, Team Score: 8, Set: 1
+Team Name: Urban, Roman, Team Score: 6, Set: 1
+Skipping button click for league: TT CUP at timer: 3º set8:1111:88:6 because it's in the first or second set.
+3.6
+4
+1.2
+Game period text: 4º set7:1111:66:11
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Onton, Varmo, Team Score: 3, Set: 1
+Team Name: Teras, Timo, Team Score: 4, Set: 2
+Skipping button click for league: TT CUP at timer: 4º set7:1111:66:11 because it's in the first or second set.
+2.35
+1.5
+1.4
+2.7
+1.55
+2.3
+1.25
+3.45
+2.25
+1.55
+1.12
+Game period text: 2do Set11:42:1
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Hons, David, Team Score: 2, Set: 1
+Team Name: Jonas, Roman, Team Score: 1, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:42:1 because it's in the first or second set.
+4.9
+2.65
+1.4
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.32
+3
+3.35
+1.27
+3.2
+1.35
+1.18
+Game period text: 3º set8:1111:810:8
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Vyvial, Pavel, Team Score: 10, Set: 1
+Team Name: Urban, Roman, Team Score: 8, Set: 1
+Skipping button click for league: TT CUP at timer: 3º set8:1111:810:8 because it's in the first or second set.
+4.2
+3.3
+1.27
+5.5
+1.1
+Game period text: 2do Set8:110:0
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Kovtanyuk, Denys, Team Score: 0, Set: 0
+Team Name: Bracha, Michal, Team Score: 0, Set: 1
+Skipping button click for league: TT CUP at timer: 2do Set8:110:0 because it's in the first or second set.
+1.42
+2.6
+1.4
+2.65
+1.37
+2.8
+2.05
+1.65
+1.06
+Game period text: 2do Set11:45:2
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Hons, David, Team Score: 5, Set: 1
+Team Name: Jonas, Roman, Team Score: 2, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:45:2 because it's in the first or second set.
+7.5
+2.7
+1.4
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Error checking balance: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class, 'customer-balance-module_text')]"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C6B037]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.45
+2.5
+2.7
+1.35
+1.65
+2.1
+5.1
+1.12
+Game period text: 2do Set8:113:5
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Cermak, Jiri, Team Score: 3, Set: 0
+Team Name: Zeman, Radek, Team Score: 5, Set: 1
+Skipping button click for league: TT CUP at timer: 2do Set8:113:5 because it's in the first or second set.
+1.25
+3.45
+2.9
+1.35
+1.27
+2.85
+1.75
+1.95
+1.6
+2.15
+1.95
+1.7
+1.32
+3.05
+2.1
+1.65
+1.03
+Game period text: 2do Set11:49:4
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Hons, David, Team Score: 9, Set: 1
+Team Name: Jonas, Roman, Team Score: 4, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set11:49:4 because it's in the first or second set.
+8.25
+1.8
+1.85
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.75
+1.9
+2.85
+1.35
+1.65
+2.1
+3.35
+1.27
+1.14
+Game period text: 4º set8:1111:812:10
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Vyvial, Pavel, Team Score: 1, Set: 2
+Team Name: Urban, Roman, Team Score: 1, Set: 1
+Skipping button click for league: TT CUP at timer: 4º set8:1111:812:10 because it's in the first or second set.
+4.8
+2.35
+1.5
+1.27
+3.3
+1.47
+2.45
+1.6
+2.15
+1.95
+1.7
+1.6
+2.1
+1.65
+2.05
+1.03
+Game period text: 3º set11:411:4
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Hons, David, Team Score: 0, Set: 2
+Team Name: Jonas, Roman, Team Score: 0, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set11:411:4 because it's in the first or second set.
+8.25
+1.8
+1.85
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.7
+2
+3.3
+1.27
+1.65
+2.1
+2.35
+1.5
+1.09
+Game period text: 4º set8:1111:812:10
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Vyvial, Pavel, Team Score: 3, Set: 2
+Team Name: Urban, Roman, Team Score: 2, Set: 1
+Skipping button click for league: TT CUP at timer: 4º set8:1111:812:10 because it's in the first or second set.
+5.8
+No outcome buttons found in the first market item.
+5.5
+1.1
+Game period text: Segundo break8:11
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Kovtanyuk, Denys, Team Score: 6, Set: 0
+Team Name: Bracha, Michal, Team Score: 11, Set: 2
+Skipping button click for league: TT CUP at timer: Segundo break8:11 because it's in the first or second set.
+1.7
+2
+1.45
+2.55
+1.6
+2.15
+1.95
+1.7
+1.55
+2.25
+2.25
+1.32
+1.01
+Game period text: 3º set11:411:4
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Hons, David, Team Score: 4, Set: 2
+Team Name: Jonas, Roman, Team Score: 0, Set: 0
+Team definition error: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1BEB350]
+	(No symbol) [0x00007FF7D1BEDA0C]
+	(No symbol) [0x00007FF7D1BEDADF]
+	(No symbol) [0x00007FF7D1C2D35B]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C23E0C]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set11:411:4 because it's in the first or second set.
+11
+2.7
+1.4
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.95
+1.75
+4.35
+1.27
+1.65
+2.1
+1.57
+2.2
+1.15
+Game period text: 4º set8:1111:812:10
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Vyvial, Pavel, Team Score: 4, Set: 2
+Team Name: Urban, Roman, Team Score: 4, Set: 1
+Skipping button click for league: TT CUP at timer: 4º set8:1111:812:10 because it's in the first or second set.
+4
+No outcome buttons found in the first market item.
+5.5
+1.1
+Game period text: 3º set8:116:110:0
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Kovtanyuk, Denys, Team Score: 0, Set: 0
+Team Name: Bracha, Michal, Team Score: 0, Set: 2
+Skipping button click for league: TT CUP at timer: 3º set8:116:110:0 because it's in the first or second set.
+1.9
+1.8
+1.32
+3.05
+1.6
+2.15
+1.95
+1.7
+No outcome buttons found in the first market item.
+1.6
+2.15
+1.01
+Game period text: 3º set11:411:4
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Hons, David, Team Score: 5, Set: 2
+Team Name: Jonas, Roman, Team Score: 3, Set: 0
+Button clicked for league: CZECH LIGA PRO
+SELECTED BUTTON:  1.01
+Error in place_bet: Message: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: MicrosoftEdge=132.0.2957.140)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1BEB350]
+	(No symbol) [0x00007FF7D1BEDA0C]
+	(No symbol) [0x00007FF7D1BEDADF]
+	(No symbol) [0x00007FF7D1C267DE]
+	(No symbol) [0x00007FF7D1C4DDDA]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C23C7D]
+	(No symbol) [0x00007FF7D1C4E0C0]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+9.75
+
+Error processing button: could not convert string to float: ''
+
+Error processing button: could not convert string to float: ''
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.45
+2.5
+3.9
+1.2
+Game period text: 1er set
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Filbrandt, Tomasz, Team Score: 8, Set: 0
+Team Name: Kolodziej, Krystian, Team Score: 8, Set: 0
+Skipping button click for league: TT ELITE SERIES at timer: 1er set because it's in the first or second set.
+1.65
+2.1
+2.25
+1.45
+1.08
+Game period text: 4º set8:1111:812:10
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Vyvial, Pavel, Team Score: 7, Set: 2
+Team Name: Urban, Roman, Team Score: 6, Set: 1
+Skipping button click for league: TT CUP at timer: 4º set8:1111:812:10 because it's in the first or second set.
+6.25
+No outcome buttons found in the first market item.
+8.5
+1.03
+Game period text: 3º set8:116:111:4
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Kovtanyuk, Denys, Team Score: 1, Set: 0
+Team Name: Bracha, Michal, Team Score: 4, Set: 2
+Skipping button click for league: TT CUP at timer: 3º set8:116:111:4 because it's in the first or second set.
+1.85
+1.8
+1.18
+Game period text: Primer break
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Wenda, Krzysztof, Team Score: 11, Set: 1
+Team Name: Kiejda, Arkadiusz, Team Score: 8, Set: 0
+Skipping button click for league: TT CUP at timer: Primer break because it's in the first or second set.
+4.2
+1.57
+2.2
+1.95
+1.7
+1.7
+1.95
+1.85
+1.8
+11
+3.55
+1.25
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.45
+2.5
+4.65
+1.14
+Game period text: 1er set
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Filbrandt, Tomasz, Team Score: 9, Set: 0
+Team Name: Kolodziej, Krystian, Team Score: 10, Set: 0
+Skipping button click for league: TT ELITE SERIES at timer: 1er set because it's in the first or second set.
+1.65
+2.1
+1.85
+1.85
+1.7
+2
+10.5
+1.7
+1.95
+No outcome buttons found in the first market item.
+1.4
+2.7
+1.95
+1.7
+1.7
+1.95
+1.95
+1.95
+3.4
+1.25
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.37
+2
+4.35
+1.16
+Game period text: 2do Set9:110:0
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Filbrandt, Tomasz, Team Score: 0, Set: 0
+Team Name: Kolodziej, Krystian, Team Score: 0, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: 2do Set9:110:0 because it's in the first or second set.
+1.75
+1.95
+1.85
+1.85
+1.75
+1.95
+11
+1.8
+1.9
+No outcome buttons found in the first market item.
+1.6
+2.15
+1.95
+1.7
+1.7
+1.95
+1.57
+2.2
+2.85
+1.35
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.3
+3.15
+4.5
+1.15
+Game period text: 2do Set9:111:1
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Filbrandt, Tomasz, Team Score: 1, Set: 0
+Team Name: Kolodziej, Krystian, Team Score: 1, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: 2do Set9:111:1 because it's in the first or second set.
+1.65
+2.1
+1.85
+1.85
+1.65
+2.05
+11
+2.1
+1.6
+1.2
+Game period text: 2do Set11:84:2
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Wenda, Krzysztof, Team Score: 4, Set: 1
+Team Name: Kiejda, Arkadiusz, Team Score: 2, Set: 0
+Skipping button click for league: TT CUP at timer: 2do Set11:84:2 because it's in the first or second set.
+3.8
+1.52
+2.3
+1.95
+1.7
+1.65
+2.05
+2.05
+1.65
+3.15
+1.3
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.42
+2.6
+3.55
+1.12
+Game period text: 2do Set9:111:3
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Filbrandt, Tomasz, Team Score: 1, Set: 0
+Team Name: Kolodziej, Krystian, Team Score: 3, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: 2do Set9:111:3 because it's in the first or second set.
+1.75
+1.9
+1.85
+1.85
+2.6
+1.42
+2.65
+1.4
+1.3
+3.1
+1.47
+2.45
+1.95
+1.7
+1.2
+Game period text: 4º set11:96:1112:10
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Mecl Jr, Jan, Team Score: 0, Set: 2
+Team Name: Zahradka, Michal, Team Score: 0, Set: 1
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set11:96:1112:10 because it's in the first or second set.
+3.85
+2.35
+1.42
+3.6
+1.22
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.3
+3.15
+3.2
+1.3
+1.6
+2.15
+1.85
+1.85
+3.7
+1.22
+3.2
+1.3
+1.3
+3.1
+No outcome buttons found in the first market item.
+1.95
+1.7
+1.1
+Game period text: 4º set11:96:1112:10
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Mecl Jr, Jan, Team Score: 2, Set: 2
+Team Name: Zahradka, Michal, Team Score: 0, Set: 1
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set11:96:1112:10 because it's in the first or second set.
+5.5
+2.9
+1.35
+3.7
+1.22
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.42
+2.6
+3.55
+1.25
+1.7
+2
+1.85
+1.85
+4.55
+1.15
+Game period text: Tercer break8:11
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Cermak, Jiri, Team Score: 9, Set: 1
+Team Name: Zeman, Radek, Team Score: 11, Set: 2
+Skipping button click for league: TT CUP at timer: Tercer break8:11 because it's in the first or second set.
+3.8
+1.2
+Game period text: 3º set11:57:113:9
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Strejc, Filip, Team Score: 3, Set: 1
+Team Name: Flicek, Tomas, Team Score: 9, Set: 1
+Skipping button click for league: TT CUP at timer: 3º set11:57:113:9 because it's in the first or second set.
+1.3
+3.1
+No outcome buttons found in the first market item.
+1.95
+1.7
+1.06
+Game period text: 4º set11:96:1112:10
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Mecl Jr, Jan, Team Score: 4, Set: 2
+Team Name: Zahradka, Michal, Team Score: 1, Set: 1
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set11:96:1112:10 because it's in the first or second set.
+7
+2.95
+1.35
+2.1
+1.6
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.3
+3.15
+3.4
+1.25
+1.47
+2.45
+1.85
+1.85
+3.6
+1.22
+4.05
+1.18
+Game period text: Tercer break11:5
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Strejc, Filip, Team Score: 3, Set: 1
+Team Name: Flicek, Tomas, Team Score: 11, Set: 2
+Skipping button click for league: TT CUP at timer: Tercer break11:5 because it's in the first or second set.
+1.57
+2.2
+1.75
+1.9
+1.95
+1.75
+1.12
+Game period text: 4º set11:96:1112:10
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Mecl Jr, Jan, Team Score: 5, Set: 2
+Team Name: Zahradka, Michal, Team Score: 4, Set: 1
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set11:96:1112:10 because it's in the first or second set.
+4.95
+4.05
+1.18
+Game period text: 4º set7:1112:10
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Vavrecka, Michal, Team Score: 0, Set: 1
+Team Name: Pagac, Zbynek, Team Score: 2, Set: 2
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set7:1112:10 because it's in the first or second set.
+2
+1.7
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.27
+3.3
+4.3
+1.16
+Game period text: 2do Set9:117:6
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Filbrandt, Tomasz, Team Score: 7, Set: 0
+Team Name: Kolodziej, Krystian, Team Score: 6, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: 2do Set9:117:6 because it's in the first or second set.
+1.25
+3.45
+1.85
+1.85
+3.6
+1.22
+4.05
+1.18
+Game period text: 4º set11:57:113:11
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Strejc, Filip, Team Score: 0, Set: 1
+Team Name: Flicek, Tomas, Team Score: 0, Set: 2
+Skipping button click for league: TT CUP at timer: 4º set11:57:113:11 because it's in the first or second set.
+1.7
+2
+1.47
+2.45
+1.95
+1.75
+1.37
+2.7
+3
+1.32
+1.8
+1.85
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.22
+3.8
+3.45
+1.25
+1.22
+3.75
+1.85
+1.85
+4.15
+1.18
+Game period text: 4º set8:1111:79:11
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Cermak, Jiri, Team Score: 2, Set: 1
+Team Name: Zeman, Radek, Team Score: 2, Set: 2
+Skipping button click for league: TT CUP at timer: 4º set8:1111:79:11 because it's in the first or second set.
+3.45
+1.25
+1.7
+2.05
+1.47
+2.45
+1.95
+1.75
+1.37
+2.7
+4.25
+1.16
+Game period text: 4º set7:1112:10
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Vavrecka, Michal, Team Score: 2, Set: 1
+Team Name: Pagac, Zbynek, Team Score: 4, Set: 2
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set7:1112:10 because it's in the first or second set.
+1.57
+2.2
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 703. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.18
+Game period text: Tercer break12:14
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Marcinowski, Krzysztof, Team Score: 11, Set: 2
+Team Name: Misiak, Mateusz, Team Score: 7, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: Tercer break12:14 because it's in the first or second set.
+4.05
+3.35
+1.27
+1.22
+3.8
+1.85
+1.85
+5.1
+1.12
+Game period text: 4º set8:1111:79:11
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Cermak, Jiri, Team Score: 2, Set: 1
+Team Name: Zeman, Radek, Team Score: 3, Set: 2
+Skipping button click for league: TT CUP at timer: 4º set8:1111:79:11 because it's in the first or second set.
+3.4
+1.25
+1.57
+2.2
+1.3
+3.15
+1.95
+1.75
+2.55
+1.45
+2.25
+1.55
+1.57
+2.25
+6
+1.08
+Game period text: 4º set7:1112:10
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Vavrecka, Michal, Team Score: 3, Set: 1
+Team Name: Pagac, Zbynek, Team Score: 7, Set: 2
+Button clicked for league: CZECH LIGA PRO
+SELECTED BUTTON:  1.04
+Bet amount set to: 500
+Possible win amount (520.0) is sufficient compared to input amount (500).
+Looking for after-bet errors
+Looking for after-bet errors
+Bet placed successfully.
+Scoreboard:
+Team Name: Vavrecka, Michal, Team Score: 3, Set: 1
+Team Name: Pagac, Zbynek, Team Score: 7, Set: 2
+1.22
+3.7
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 723. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.18
+Game period text: 4º set12:1411:5
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Marcinowski, Krzysztof, Team Score: 10, Set: 2
+Team Name: Misiak, Mateusz, Team Score: 9, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: 4º set12:1411:5 because it's in the first or second set.
+4.25
+6.5
+1.07
+Game period text: 3º set9:119:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Filbrandt, Tomasz, Team Score: 7, Set: 0
+Team Name: Kolodziej, Krystian, Team Score: 6, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: 3º set9:119:11 because it's in the first or second set.
+1.35
+2.9
+3
+1.32
+2
+1.7
+7
+1.06
+Game period text: 4º set11:86:117:11
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Wenda, Krzysztof, Team Score: 1, Set: 1
+Team Name: Kiejda, Arkadiusz, Team Score: 4, Set: 2
+Skipping button click for league: TT CUP at timer: 4º set11:86:117:11 because it's in the first or second set.
+1.65
+2.1
+1.65
+2.05
+2.55
+1.45
+2.25
+1.55
+2.55
+1.45
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 723. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.37
+2.8
+5.7
+1.09
+Game period text: 3º set9:119:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Filbrandt, Tomasz, Team Score: 8, Set: 0
+Team Name: Kolodziej, Krystian, Team Score: 7, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: 3º set9:119:11 because it's in the first or second set.
+1.27
+3.25
+2.75
+1.45
+2
+1.7
+8.75
+1.03
+Game period text: 4º set11:86:117:11
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Wenda, Krzysztof, Team Score: 1, Set: 1
+Team Name: Kiejda, Arkadiusz, Team Score: 5, Set: 2
+Button clicked for league: TT CUP
+SELECTED BUTTON:  1.03
+Bet amount set to: 500
+Possible win amount (515.0) is sufficient compared to input amount (500).
+Looking for after-bet errors
+Looking for after-bet errors
+Bet placed successfully.
+Scoreboard:
+Team Name: Wenda, Krzysztof, Team Score: 1, Set: 1
+Team Name: Kiejda, Arkadiusz, Team Score: 5, Set: 2
+1.65
+2.05
+2.45
+1.47
+2.55
+1.45
+2.25
+1.55
+2.55
+1.45
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is 728. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.95
+1.32
+5.9
+1.09
+Game period text: 4º set9:119:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Filbrandt, Tomasz, Team Score: 5, Set: 1
+Team Name: Kolodziej, Krystian, Team Score: 6, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: 4º set9:119:11 because it's in the first or second set.
+1.01
+Game period text: 4º set11:36:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Gaik, Krystian, Team Score: 7, Set: 2
+Team Name: Lojtek, Tomasz, Team Score: 3, Set: 1
+Button clicked for league: TT ELITE SERIES
+SELECTED BUTTON:  1.01
+Bet amount set to: 500
+Possible win amount (505.0) is not sufficient compared to input amount (500).
+Unclicked selected outcome button due to insufficient bet amount.
+10
+2.25
+1.55
+2.85
+1.35
+No outcome buttons found in the first market item.
+3.55
+1.25
+No outcome buttons found in the first market item.
+2.2
+1.57
+4.1
+1.18
+Game period text: 2do Set7:110:1
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Provodin, Sergei, Team Score: 0, Set: 0
+Team Name: Liu, Le, Team Score: 1, Set: 1
+Skipping button click for league: TT CUP at timer: 2do Set7:110:1 because it's in the first or second set.
+2.55
+1.45
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 728. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.15
+1.6
+7.25
+1.05
+Game period text: 4º set9:119:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Filbrandt, Tomasz, Team Score: 5, Set: 1
+Team Name: Kolodziej, Krystian, Team Score: 7, Set: 2
+Button clicked for league: TT ELITE SERIES
+SELECTED BUTTON:  1.05
+Bet amount set to: 500
+Possible win amount (525.0) is sufficient compared to input amount (500).
+Looking for after-bet errors
+Looking for after-bet errors
+Bet placed successfully.
+Scoreboard:
+Team Name: Filbrandt, Tomasz, Team Score: 5, Set: 1
+Team Name: Kolodziej, Krystian, Team Score: 7, Set: 2
+1.01
+Game period text: 4º set11:36:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Gaik, Krystian, Team Score: 7, Set: 2
+Team Name: Lojtek, Tomasz, Team Score: 3, Set: 1
+Button clicked for league: TT ELITE SERIES
+SELECTED BUTTON:  1.01
+Bet amount set to: 500
+Error checking bet amount: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@data-test='betslip-possible-win-amount']"}
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7D1E70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7D20566C6+1401718]
+	(No symbol) [0x00007FF7D1C2D84C]
+	(No symbol) [0x00007FF7D1C2DA0B]
+	(No symbol) [0x00007FF7D1C6B037]
+	(No symbol) [0x00007FF7D1C4DE1F]
+	(No symbol) [0x00007FF7D1C23DB7]
+	(No symbol) [0x00007FF7D1C6890D]
+	(No symbol) [0x00007FF7D1C4DA43]
+	(No symbol) [0x00007FF7D1C23304]
+	(No symbol) [0x00007FF7D1C22636]
+	(No symbol) [0x00007FF7D1C22EF1]
+	(No symbol) [0x00007FF7D1CAE1A4]
+	(No symbol) [0x00007FF7D1D5608F]
+	(No symbol) [0x00007FF7D1CB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7D21B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1E025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7D1DF7546+454758]
+	BaseThreadInitThunk [0x00007FFF9221259D+29]
+	RtlUserThreadStart [0x00007FFF9314AF38+40]
+
+Unclicked selected outcome button due to insufficient bet amount.
+10
+2.25
+1.55
+No outcome buttons found in the first market item.
+4.25
+1.16
+Game period text: No Iniciado
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Skipping button click for league: TT ELITE SERIES at timer: No Iniciado because it's in the first or second set.
+2.7
+1.4
+2.05
+1.65
+2.3
+1.52
+4.75
+1.14
+Game period text: 2do Set7:110:2
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Provodin, Sergei, Team Score: 0, Set: 0
+Team Name: Liu, Le, Team Score: 2, Set: 1
+Skipping button click for league: TT CUP at timer: 2do Set7:110:2 because it's in the first or second set.
+2.55
+1.45
+1.9
+1.75
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...
+Balance is insufficient. Waiting for balance update...

@@ -1,0 +1,249 @@
+Please enter your email: Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5031. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+2.85
+1.42
+9
+1.02
+Game period text: 2do Set4:111:6
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Spychala, Adrian, Team Score: 1, Set: 0
+Team Name: Sklensky, Miroslav, Team Score: 6, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: 2do Set4:111:6 because it's in the first or second set.
+2.05
+1.65
+2
+1.7
+1.75
+1.9
+1.47
+2.45
+2.55
+1.45
+No outcome buttons found in the first market item.
+1.02
+Game period text: 3º set11:712:10
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Hajek, Miroslav, Team Score: 7, Set: 2
+Team Name: Koutnik, Josef, Team Score: 6, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set11:712:10 because it's in the first or second set.
+9
+5.6
+1.1
+Game period text: 3º set13:158:110:0
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Madle, Ludek, Team Score: 0, Set: 0
+Team Name: Hejduk, Alexander, Team Score: 0, Set: 2
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set13:158:110:0 because it's in the first or second set.
+5.8
+1.09
+Game period text: 5º set9:1111:5
+Associated alt value: 15
+League name: WTT SINGAPORE SMASH
+Scoreboard:
+Team Name: Qiu, Dang, Team Score: 1, Set: 1
+Team Name: U21 Lebrun, Alexis, Team Score: 0, Set: 3
+Skipping button click for league: WTT SINGAPORE SMASH at timer: 5º set9:1111:5 because it's in the first or second set.
+1.12
+Game period text: 1er set
+Associated alt value: 15
+League name: WTT SINGAPORE SMASH, WOMEN DOUBLES
+Scoreboard:
+Team Name: Kuai M / Wang M, Team Score: 4, Set: 0
+Team Name: Cheng I-C / Li Y-J, Team Score: 3, Set: 0
+Skipping button click for league: WTT SINGAPORE SMASH, WOMEN DOUBLES at timer: 1er set because it's in the first or second set.
+4.65
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5031. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+2.2
+1.57
+8.25
+1.03
+Game period text: 2do Set4:112:7
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Spychala, Adrian, Team Score: 2, Set: 0
+Team Name: Sklensky, Miroslav, Team Score: 7, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: 2do Set4:112:7 because it's in the first or second set.
+2.05
+1.65
+2
+1.7
+1.75
+1.95
+1.47
+2.45
+2.55
+1.45
+No outcome buttons found in the first market item.
+1.01
+Game period text: 3º set11:712:10
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Hajek, Miroslav, Team Score: 8, Set: 2
+Team Name: Koutnik, Josef, Team Score: 6, Set: 0
+Button clicked for league: CZECH LIGA PRO
+SELECTED BUTTON:  1.02
+Bet amount set to: 500
+Possible win amount (510.0) is not sufficient compared to input amount (500).
+Unclicked selected outcome button due to insufficient bet amount.
+9
+5.7
+1.09
+Game period text: 3º set13:158:111:2
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Madle, Ludek, Team Score: 1, Set: 0
+Team Name: Hejduk, Alexander, Team Score: 2, Set: 2
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set13:158:111:2 because it's in the first or second set.
+6.25
+1.07
+Game period text: 5º set9:1111:5
+Associated alt value: 15
+League name: WTT SINGAPORE SMASH
+Scoreboard:
+Team Name: Qiu, Dang, Team Score: 1, Set: 1
+Team Name: U21 Lebrun, Alexis, Team Score: 1, Set: 3
+Skipping button click for league: WTT SINGAPORE SMASH at timer: 5º set9:1111:5 because it's in the first or second set.
+1.18
+Game period text: 1er set
+Associated alt value: 15
+League name: WTT SINGAPORE SMASH, WOMEN DOUBLES
+Scoreboard:
+Team Name: Kuai M / Wang M, Team Score: 4, Set: 0
+Team Name: Cheng I-C / Li Y-J, Team Score: 4, Set: 0
+Skipping button click for league: WTT SINGAPORE SMASH, WOMEN DOUBLES at timer: 1er set because it's in the first or second set.
+4.1
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5031. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.45
+1.47
+8
+1.03
+Game period text: 2do Set4:113:9
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Spychala, Adrian, Team Score: 3, Set: 0
+Team Name: Sklensky, Miroslav, Team Score: 9, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: 2do Set4:113:9 because it's in the first or second set.
+2.05
+1.65
+2
+1.7
+1.8
+1.9
+1.47
+2.45
+2.55
+1.45
+No outcome buttons found in the first market item.
+7.75
+1.04
+Game period text: 3º set13:158:111:4
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Madle, Ludek, Team Score: 1, Set: 0
+Team Name: Hejduk, Alexander, Team Score: 4, Set: 2
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set13:158:111:4 because it's in the first or second set.
+5.2
+1.12
+Game period text: 5º set9:1111:5
+Associated alt value: 15
+League name: WTT SINGAPORE SMASH
+Scoreboard:
+Team Name: Qiu, Dang, Team Score: 3, Set: 1
+Team Name: U21 Lebrun, Alexis, Team Score: 1, Set: 3
+Skipping button click for league: WTT SINGAPORE SMASH at timer: 5º set9:1111:5 because it's in the first or second set.
+1.12
+Game period text: 1er set
+Associated alt value: 15
+League name: WTT SINGAPORE SMASH, WOMEN DOUBLES
+Scoreboard:
+Team Name: Kuai M / Wang M, Team Score: 6, Set: 0
+Team Name: Cheng I-C / Li Y-J, Team Score: 4, Set: 0
+Skipping button click for league: WTT SINGAPORE SMASH, WOMEN DOUBLES at timer: 1er set because it's in the first or second set.
+5.2
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5031. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.3
+1.52
+7.5
+1.04
+Game period text: 2do Set4:115:9
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Spychala, Adrian, Team Score: 5, Set: 0
+Team Name: Sklensky, Miroslav, Team Score: 9, Set: 1
+Skipping button click for league: TT ELITE SERIES at timer: 2do Set4:115:9 because it's in the first or second set.
+1.9
+1.75
+2
+1.7
+1.65
+2.05
+1.47
+2.45
+2.55
+1.45
+No outcome buttons found in the first market item.
+8.5
+1.03
+Game period text: 3º set13:158:111:5
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Madle, Ludek, Team Score: 1, Set: 0
+Team Name: Hejduk, Alexander, Team Score: 5, Set: 2
+Button clicked for league: CZECH LIGA PRO
+SELECTED BUTTON:  1.03
+Bet amount set to: 500
+Possible win amount (515.0) is sufficient compared to input amount (500).
+Looking for after-bet errors
+Looking for after-bet errors
+Bet placed successfully.
+Scoreboard:
+Team Name: Madle, Ludek, Team Score: 1, Set: 0
+Team Name: Hejduk, Alexander, Team Score: 5, Set: 2
+5.1
+1.12
+Game period text: 5º set9:1111:5
+Associated alt value: 15
+League name: WTT SINGAPORE SMASH
+Scoreboard:
+Team Name: Qiu, Dang, Team Score: 4, Set: 1
+Team Name: U21 Lebrun, Alexis, Team Score: 1, Set: 3
+Skipping button click for league: WTT SINGAPORE SMASH at timer: 5º set9:1111:5 because it's in the first or second set.
+1.1
+Game period text: 1er set
+Associated alt value: 15
+League name: WTT SINGAPORE SMASH, WOMEN DOUBLES
+Scoreboard:
+Team Name: Kuai M / Wang M, Team Score: 7, Set: 0
+Team Name: Cheng I-C / Li Y-J, Team Score: 5, Set: 0
+Skipping button click for league: WTT SINGAPORE SMASH, WOMEN DOUBLES at timer: 1er set because it's in the first or second set.
+5.4
