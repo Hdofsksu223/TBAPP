@@ -17,13 +17,11 @@ But, as stated at the top of this file, this project was created to tinker with 
 
 
 Brief explanation of each '.py' file:
-    -tbApp: First try. Barely functional.
-    -tbAppData: Scrapes the user's bet history data in the site and inserts it into a database.
-    -tbAppMulti: Draft for a multi-sport betting program. Not functional.
-    -tbAppPinpon: Bets on table tennis. Functional.
-    -tbAppTest: Draft for testing purposes.
-    -tbAppTest2: Draft for testing purposes.
-    -tbDB: Database query analysis.
-    -tbLogReader: Reads log files to get betting instance scoreboards.
-
-aaa
+-tbApp: First try. Barely functional.
+-tbAppData: Scrapes the user's bet history data in the site and inserts it into a database.
+-tbAppMulti: Draft for a multi-sport betting program. Not functional.
+-tbAppPinpon: Bets on table tennis. Functional.
+-tbAppTest: Draft for testing purposes.
+-tbAppTest2: Draft for testing purposes.
+-tbDB: Database query analysis.
+-tbLogReader: Reads log files to get betting instance scoreboards.
