@@ -1109,3 +1109,13 @@ match_result = <td><span>2–3 (11–7, 7–11, 9–11, 11–8, 9–10)</span></
         </div>
     </div>
 </div>
+
+
+
+<div class="event-tooltip-module_bestOf__Elpq8Axn__platform-common event-tooltip-module_marginLeft__Cz2w-eOj__platform-common event-tooltip-module_tooltipTrigger__NuAum-UK__platform-common" data-test="reduced-periods">
+    5<div class="event-tooltip-module_eventTooltip__5qeaHORH__platform-common" data-test="event-tooltip">
+        <div class="event-tooltip-module_tooltipContainer__uQmS53-P__platform-common">
+            <div>5&nbsp;sets</div>
+        </div>
+    </div>
+</div>

@@ -508,7 +508,7 @@ def scroll_rows(driver):
             time.sleep(0.5)
             c = c + 1
             print(f"Scroll counter: {c}")
-            if c == 170:
+            if c == 350:
                 break
 
         

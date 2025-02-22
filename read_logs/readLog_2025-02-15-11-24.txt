@@ -1,0 +1,5694 @@
+
+Analyzing: 20250129_184803_tbAppPinpon.txt
+Found 2 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Gola, Blazej, Team Score: 4
+Team Name: Sikora, Fabian, Team Score: 1
+Error updating database: list index out of range
+
+Bet 2:
+Scoreboard:
+Team Name: Lafek, Dominik, Team Score: 9
+Team Name: Brandtl Jr, Ales, Team Score: 5
+Error updating database: list index out of range
+--------------------------------------------------
+
+Analyzing: 20250129_210349_tbAppPinpon.txt
+Found 4 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Kapik, Krzysztof, Team Score: 6
+Team Name: Kolodziej, Krystian, Team Score: 3
+Error updating database: list index out of range
+
+Bet 2:
+Scoreboard:
+Team Name: Wisniewski, Karol, Team Score: 3
+Team Name: Kolodziej, Krystian, Team Score: 6
+Error updating database: list index out of range
+
+Bet 3:
+Scoreboard:
+Team Name: Fojt, Pavel, Team Score: 5
+Team Name: Barta, Tomas, Team Score: 2
+Error updating database: list index out of range
+
+Bet 4:
+Scoreboard:
+Team Name: Tuma, Daniel, Team Score: 9
+Team Name: Dedek, Jiri, Team Score: 6
+Error updating database: list index out of range
+--------------------------------------------------
+
+Analyzing: 20250129_222841_tbAppPinpon.txt
+Found 7 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Murawski, Daniel, Team Score: 4
+Team Name: Misiak, Mateusz, Team Score: 0
+Error updating database: list index out of range
+
+Bet 2:
+Scoreboard:
+Team Name: Kucirek, Ondrej, Team Score: 1
+Team Name: Kolenic, Tibor, Team Score: 4
+Error updating database: list index out of range
+
+Bet 3:
+Scoreboard:
+Team Name: Tonar, Lukas, Team Score: 9
+Team Name: Klement, Milan, Team Score: 6
+Error updating database: list index out of range
+
+Bet 4:
+Scoreboard:
+Team Name: Adamec, Miroslav, Team Score: 1
+Team Name: Briza, Frantisek, Team Score: 5
+Error updating database: list index out of range
+
+Bet 5:
+Scoreboard:
+Team Name: Wrobel, Dariusz, Team Score: 4
+Team Name: Iwasyszyn, Wojciech, Team Score: 7
+Error updating database: list index out of range
+
+Bet 6:
+Scoreboard:
+Team Name: Delikatny, Kamil, Team Score: 0
+Team Name: Scigany, Dariusz, Team Score: 3
+Error updating database: list index out of range
+
+Bet 7:
+Scoreboard:
+Team Name: Lilien, Aleksander, Team Score: 4
+Team Name: Rudomina, Kamil, Team Score: 9
+Error updating database: list index out of range
+--------------------------------------------------
+
+Analyzing: 20250130_013415_tbAppPinpon.txt
+Found 4 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Polanski, Pawel, Team Score: 4
+Team Name: Delikatny, Kamil, Team Score: 7
+Error updating database: list index out of range
+
+Bet 2:
+Scoreboard:
+Team Name: Shah, Manush Utpalbhai, Team Score: 7
+Team Name: Wang, Yang, Team Score: 2
+Error updating database: list index out of range
+
+Bet 3:
+Scoreboard:
+Team Name: Scigany, Dariusz, Team Score: 9
+Team Name: Lamer, Maciej, Team Score: 3
+Error updating database: list index out of range
+
+Bet 4:
+Scoreboard:
+Team Name: Murawski, Michal, Team Score: 7
+Team Name: Spychala, Adrian, Team Score: 3
+Error updating database: list index out of range
+--------------------------------------------------
+
+Analyzing: 20250130_174922_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250130_180159_tbAppPinpon.txt
+Found 11 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Tuma, Daniel, Team Score: 3
+Team Name: Dousa, Tomas, Team Score: 3
+Error updating database: list index out of range
+
+Bet 2:
+Scoreboard:
+Team Name: Kosacky, Adam, Team Score: 5
+Team Name: Pasek, Dominik, Team Score: 8
+Error updating database: list index out of range
+
+Bet 3:
+Scoreboard:
+Team Name: Polanski, Pawel, Team Score: 6
+Team Name: Mecik, Patryk, Team Score: 2
+Error updating database: list index out of range
+
+Bet 4:
+Scoreboard:
+Team Name: Dolezal, Martin, Team Score: 3
+Team Name: Kulveit, Jonas, Team Score: 7
+Error updating database: list index out of range
+
+Bet 5:
+Scoreboard:
+Team Name: Kos, Pawel, Team Score: 5
+Team Name: Gola, Blazej, Team Score: 2
+Error updating database: list index out of range
+
+Bet 6:
+Scoreboard:
+Team Name: Seroka, Szymon, Team Score: 4
+Team Name: Wisniewski, Karol, Team Score: 7
+Error updating database: list index out of range
+
+Bet 7:
+Scoreboard:
+Team Name: Kapik, Krzysztof, Team Score: 3
+Team Name: Wloczko, Krzysztof, Team Score: 6
+Error updating database: list index out of range
+
+Bet 8:
+Scoreboard:
+Team Name: Medek, Josef, Team Score: 6
+Team Name: Mares, Erik, Team Score: 9
+Error updating database: list index out of range
+
+Bet 9:
+Scoreboard:
+Team Name: Darin, Kyryl, Team Score: 5
+Team Name: Parhomenko, Dmitro, Team Score: 1
+Error updating database: list index out of range
+
+Bet 10:
+Scoreboard:
+Team Name: Kliuchuk, Rostyslav, Team Score: 0
+Team Name: Ruzicka, Jiri, Team Score: 5
+Error updating database: list index out of range
+
+Bet 11:
+Scoreboard:
+Team Name: Misiak, Mateusz, Team Score: 6
+Team Name: Radlo, Szymon, Team Score: 9
+Error updating database: list index out of range
+--------------------------------------------------
+
+Analyzing: 20250131_160222_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250131_201752_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250131_201846_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250131_203239_tbAppPinpon.txt
+Found 2 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Prokupek, Jaroslav, Team Score: 6
+Team Name: Plachy, Jiri, Team Score: 3
+Error updating database: list index out of range
+
+Bet 2:
+Scoreboard:
+Team Name: Grohsgott, Jiri, Team Score: 8
+Team Name: Martinek, Jaroslav, Team Score: 3
+Error updating database: list index out of range
+--------------------------------------------------
+
+Analyzing: 20250131_205650_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250131_205816_tbAppPinpon.txt
+Found 4 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Wrobel, Dariusz, Team Score: 4
+Team Name: Lojtek, Tomasz, Team Score: 8
+Error updating database: list index out of range
+
+Bet 2:
+Scoreboard:
+Team Name: Fira, Damian, Team Score: 3
+Team Name: Michalski, Jakub, Team Score: 0
+Error updating database: list index out of range
+
+Bet 3:
+Scoreboard:
+Team Name: Stojek, Karol, Team Score: 5
+Team Name: Wenda, Krzysztof, Team Score: 2
+Error updating database: list index out of range
+
+Bet 4:
+Scoreboard:
+Team Name: Pycha, Patrik, Team Score: 3
+Team Name: Prokupek, Jaroslav, Team Score: 0
+Error updating database: list index out of range
+--------------------------------------------------
+
+Analyzing: 20250131_214852_tbAppPinpon.txt
+Found 9 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Wrobel, Dariusz, Team Score: 8
+Team Name: Fabis, Adrian, Team Score: 4
+Error updating database: list index out of range
+
+Bet 2:
+Scoreboard:
+Team Name: Perzynski, Przemyslaw, Team Score: 8
+Team Name: Baran, Sebastian, Team Score: 5
+Error updating database: list index out of range
+
+Bet 3:
+Scoreboard:
+Team Name: Plachy, Jiri, Team Score: 5
+Team Name: Pycha, Patrik, Team Score: 1
+Error updating database: list index out of range
+
+Bet 4:
+Scoreboard:
+Team Name: Martinek, Jaroslav, Team Score: 4
+Team Name: Vitrovyj, Oleg, Team Score: 7
+Error updating database: list index out of range
+
+Bet 5:
+Scoreboard:
+Team Name: Maduzia, Leszek, Team Score: 2
+Team Name: Wenda, Krzysztof, Team Score: 5
+Error updating database: list index out of range
+
+Bet 6:
+Scoreboard:
+Team Name: Grzegorczyk, Jakub, Team Score: 5
+Team Name: Wrobel, Dariusz, Team Score: 9
+Error updating database: list index out of range
+
+Bet 7:
+Scoreboard:
+Team Name: Tuma, Daniel, Team Score: 3
+Team Name: Dousa, Tomas, Team Score: 7
+Error updating database: list index out of range
+
+Bet 8:
+Scoreboard:
+Team Name: Plachy, Jiri, Team Score: 3
+Team Name: Krejci, Richard, Team Score: 6
+Error updating database: list index out of range
+
+Bet 9:
+Scoreboard:
+Team Name: Syroha, Michal, Team Score: 7
+Team Name: Vitrovyj, Oleg, Team Score: 3
+Error updating database: list index out of range
+--------------------------------------------------
+
+Analyzing: 20250201_011654_tbAppPinpon.txt
+Found 4 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Wrobel, Dariusz, Team Score: 3, Set: 0
+Team Name: Kasperski, Adam, Team Score: 7, Set: 2
+3-7
+0-2
+Updated scores for Wrobel, Dariusz vs Kasperski, Adam (log date: 2025-02-01)
+
+Bet 2:
+Scoreboard:
+Team Name: Wiza, Roman, Team Score: 3, Set: 2
+Team Name: Kumor, Michal, Team Score: 8, Set: 2
+3-8
+2-2
+Updated scores for Wiza, Roman vs Kumor, Michal (log date: 2025-02-01)
+
+Bet 3:
+Scoreboard:
+Team Name: Matelova, Hana, Team Score: 5, Set: 0
+Team Name: Rakovac, Lea, Team Score: 8, Set: 2
+5-8
+0-2
+Updated scores for Matelova, Hana vs Rakovac, Lea (log date: 2025-02-01)
+
+Bet 4:
+Scoreboard:
+Team Name: Bouloussa, Mehdi, Team Score: 6, Set: 2
+Team Name: Allegro, Martin, Team Score: 1, Set: 2
+6-1
+2-2
+Updated scores for Bouloussa, Mehdi vs Allegro, Martin (log date: 2025-02-01)
+--------------------------------------------------
+
+Analyzing: 20250201_132211_tbAppPinpon.txt
+Found 1 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Stapor Rafal, Team Score: 5, Set: 2
+Team Name: Skura, Eryk, Team Score: 0, Set: 2
+5-0
+2-2
+Updated scores for Stapor Rafal vs Skura, Eryk (log date: 2025-02-01)
+--------------------------------------------------
+
+Analyzing: 20250201_145258_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250201_151818_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250201_152135_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250201_152838_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250201_153756_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250201_154841_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250201_155427_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250201_161148_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250201_161255_tbAppPinpon.txt
+Found 1 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Kos, Pawel, Team Score: 2, Set: 1
+Team Name: Sikora, Fabian, Team Score: 7, Set: 2
+2-7
+1-2
+Updated scores for Kos, Pawel vs Sikora, Fabian (log date: 2025-02-01)
+--------------------------------------------------
+
+Analyzing: 20250201_162340_tbAppPinpon.txt
+Found 2 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Kovtanyuk, Denys, Team Score: 5, Set: 2
+Team Name: Ucinski, Rafal, Team Score: 0, Set: 1
+5-0
+2-1
+Updated scores for Kovtanyuk, Denys vs Ucinski, Rafal (log date: 2025-02-01)
+
+Bet 2:
+Scoreboard:
+Team Name: Langer, Ales, Team Score: 4, Set: 1
+Team Name: Kocvara, Martin, Team Score: 7, Set: 2
+4-7
+1-2
+Updated scores for Langer, Ales vs Kocvara, Martin (log date: 2025-02-01)
+--------------------------------------------------
+
+Analyzing: 20250201_170710_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250201_171336_tbAppPinpon.txt
+Found 1 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Louda, Jiri, Team Score: 2, Set: 1
+Team Name: Vavrecka, Michal, Team Score: 6, Set: 2
+2-6
+1-2
+Updated scores for Louda, Jiri vs Vavrecka, Michal (log date: 2025-02-01)
+--------------------------------------------------
+
+Analyzing: 20250201_171715_tbAppPinpon.txt
+Found 2 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Wloszek, Sylwester, Team Score: 4, Set: 2
+Team Name: Stapor Rafal, Team Score: 8, Set: 2
+4-8
+2-2
+Updated scores for Wloszek, Sylwester vs Stapor Rafal (log date: 2025-02-01)
+
+Bet 2:
+Scoreboard:
+Team Name: Nowak, Jakub, Team Score: 6, Set: 2
+Team Name: Tomsia, Slawomir, Team Score: 9, Set: 2
+6-9
+2-2
+Updated scores for Nowak, Jakub vs Tomsia, Slawomir (log date: 2025-02-01)
+--------------------------------------------------
+
+Analyzing: 20250201_173924_tbAppPinpon.txt
+Found 1 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Sawczak Jr, Milosz, Team Score: 7, Set: 2
+Team Name: Misiak, Mateusz, Team Score: 3, Set: 1
+7-3
+2-1
+Updated scores for Sawczak Jr, Milosz vs Misiak, Mateusz (log date: 2025-02-01)
+--------------------------------------------------
+
+Analyzing: 20250201_174702_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250201_175316_tbAppPinpon.txt
+Found 1 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Krejci, Ales, Team Score: 7, Set: 2
+Team Name: Necas, Miroslav, Team Score: 4, Set: 1
+7-4
+2-1
+Updated scores for Krejci, Ales vs Necas, Miroslav (log date: 2025-02-01)
+--------------------------------------------------
+
+Analyzing: 20250201_180535_tbAppPinpon.txt
+Found 2 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Dohnal, Jaroslav, Team Score: 7, Set: 2
+Team Name: Boltik, Martin, Team Score: 4, Set: 1
+7-4
+2-1
+Updated scores for Dohnal, Jaroslav vs Boltik, Martin (log date: 2025-02-01)
+
+Bet 2:
+Scoreboard:
+Team Name: Pycha, Patrik, Team Score: 2, Set: 1
+Team Name: Sychra, Martin, Team Score: 5, Set: 2
+2-5
+1-2
+Updated scores for Pycha, Patrik vs Sychra, Martin (log date: 2025-02-01)
+--------------------------------------------------
+
+Analyzing: 20250201_181701_tbAppPinpon.txt
+Found 14 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Pycha, Patrik, Team Score: 4, Set: 1
+Team Name: Sychra, Martin, Team Score: 7, Set: 2
+4-7
+1-2
+Updated scores for Pycha, Patrik vs Sychra, Martin (log date: 2025-02-01)
+
+Bet 2:
+Scoreboard:
+Team Name: Neterda, Radek, Team Score: 5, Set: 1
+Team Name: Krejci, Ales, Team Score: 8, Set: 2
+5-8
+1-2
+Updated scores for Neterda, Radek vs Krejci, Ales (log date: 2025-02-01)
+
+Bet 3:
+Scoreboard:
+Team Name: Glanowski, Jakub, Team Score: 9, Set: 2
+Team Name: Kotyl, Krzysztof, Team Score: 6, Set: 2
+9-6
+2-2
+Updated scores for Glanowski, Jakub vs Kotyl, Krzysztof (log date: 2025-02-01)
+
+Bet 4:
+Scoreboard:
+Team Name: Jirka, Lukas, Team Score: 7, Set: 2
+Team Name: Dohnal, Jaroslav, Team Score: 3, Set: 1
+7-3
+2-1
+Updated scores for Jirka, Lukas vs Dohnal, Jaroslav (log date: 2025-02-01)
+
+Bet 5:
+Scoreboard:
+Team Name: Kothapalli, Hemanth, Team Score: 2, Set: 0
+Team Name: Chen, Dan, Team Score: 5, Set: 2
+2-5
+0-2
+Updated scores for Kothapalli, Hemanth vs Chen, Dan (log date: 2025-02-01)
+
+Bet 6:
+Scoreboard:
+Team Name: Misiak, Mateusz, Team Score: 6, Set: 2
+Team Name: Seroka, Szymon, Team Score: 9, Set: 2
+6-9
+2-2
+Updated scores for Misiak, Mateusz vs Seroka, Szymon (log date: 2025-02-01)
+
+Bet 7:
+Scoreboard:
+Team Name: Wiza, Roman, Team Score: 4, Set: 2
+Team Name: Nowak, Jakub, Team Score: 7, Set: 2
+4-7
+2-2
+Updated scores for Wiza, Roman vs Nowak, Jakub (log date: 2025-02-01)
+
+Bet 8:
+Scoreboard:
+Team Name: Picek, Petr, Team Score: 3, Set: 2
+Team Name: Steffan, Jan, Team Score: 8, Set: 2
+3-8
+2-2
+Updated scores for Picek, Petr vs Steffan, Jan (log date: 2025-02-01)
+
+Bet 9:
+Scoreboard:
+Team Name: Sprynar, Pavel, Team Score: 6, Set: 2
+Team Name: Havrda, Leos, Team Score: 9, Set: 2
+6-9
+2-2
+Updated scores for Sprynar, Pavel vs Havrda, Leos (log date: 2025-02-01)
+
+Bet 10:
+Scoreboard:
+Team Name: Kiejda, Arkadiusz, Team Score: 4, Set: 1
+Team Name: Witkowski, Tomasz, Team Score: 8, Set: 2
+4-8
+1-2
+Updated scores for Kiejda, Arkadiusz vs Witkowski, Tomasz (log date: 2025-02-01)
+
+Bet 11:
+Scoreboard:
+Team Name: Seroka, Szymon, Team Score: 3, Set: 1
+Team Name: Filbrandt, Tomasz, Team Score: 6, Set: 2
+3-6
+1-2
+Updated scores for Seroka, Szymon vs Filbrandt, Tomasz (log date: 2025-02-01)
+
+Bet 12:
+Scoreboard:
+Team Name: Goncharov, Denys, Team Score: 0, Set: 2
+Team Name: Lu, Louis, Team Score: 5, Set: 2
+0-5
+2-2
+Updated scores for Goncharov, Denys vs Lu, Louis (log date: 2025-02-01)
+
+Bet 13:
+Scoreboard:
+Team Name: Berdych, Pavel, Team Score: 5, Set: 1
+Team Name: Sprynar, Pavel, Team Score: 9, Set: 2
+5-9
+1-2
+Updated scores for Berdych, Pavel vs Sprynar, Pavel (log date: 2025-02-01)
+
+Bet 14:
+Scoreboard:
+Team Name: Domagala, Pawel, Team Score: 5, Set: 2
+Team Name: Caban, Jakub, Team Score: 9, Set: 2
+5-9
+2-2
+Updated scores for Domagala, Pawel vs Caban, Jakub (log date: 2025-02-01)
+--------------------------------------------------
+
+Analyzing: 20250201_230631_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250201_231408_tbAppPinpon.txt
+Found 19 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Latala, Lukasz, Team Score: 4, Set: 1
+Team Name: Caban, Jakub, Team Score: 6, Set: 2
+4-6
+1-2
+Updated scores for Latala, Lukasz vs Caban, Jakub (log date: 2025-02-01)
+
+Bet 2:
+Scoreboard:
+Team Name: Baran, Sebastian, Team Score: 4, Set: 1
+Team Name: Kotwica, Dawid, Team Score: 5, Set: 2
+4-5
+1-2
+Updated scores for Baran, Sebastian vs Kotwica, Dawid (log date: 2025-02-01)
+
+Bet 3:
+Scoreboard:
+Team Name: Juszczyk, Krzysztof, Team Score: 5, Set: 2
+Team Name: Tomsia, Slawomir, Team Score: 2, Set: 2
+5-2
+2-2
+Updated scores for Juszczyk, Krzysztof vs Tomsia, Slawomir (log date: 2025-02-01)
+
+Bet 4:
+Scoreboard:
+Team Name: Slawinski, Kacper, Team Score: 6, Set: 1
+Team Name: Kasperski, Adam, Team Score: 8, Set: 2
+6-8
+1-2
+Updated scores for Slawinski, Kacper vs Kasperski, Adam (log date: 2025-02-01)
+
+Bet 5:
+Scoreboard:
+Team Name: Sawicki, Grzegorz, Team Score: 8, Set: 2
+Team Name: Michalski, Jakub, Team Score: 6, Set: 1
+8-6
+2-1
+Updated scores for Sawicki, Grzegorz vs Michalski, Jakub (log date: 2025-02-01)
+
+Bet 6:
+Scoreboard:
+Team Name: Sawicki, Grzegorz, Team Score: 8, Set: 2
+Team Name: Michalski, Jakub, Team Score: 4, Set: 2
+8-4
+2-2
+Updated scores for Sawicki, Grzegorz vs Michalski, Jakub (log date: 2025-02-01)
+
+Bet 7:
+Scoreboard:
+Team Name: Seroka, Szymon, Team Score: 3, Set: 2
+Team Name: Filbrandt, Tomasz, Team Score: 8, Set: 2
+3-8
+2-2
+Updated scores for Seroka, Szymon vs Filbrandt, Tomasz (log date: 2025-02-01)
+
+Bet 8:
+Scoreboard:
+Team Name: Trela, Mateusz, Team Score: 7, Set: 2
+Team Name: Rolak, Jaroslaw, Team Score: 5, Set: 1
+7-5
+2-1
+Updated scores for Trela, Mateusz vs Rolak, Jaroslaw (log date: 2025-02-01)
+
+Bet 9:
+Scoreboard:
+Team Name: Wisniewski, Karol, Team Score: 3, Set: 0
+Team Name: Filbrandt, Tomasz, Team Score: 5, Set: 2
+3-5
+0-2
+Updated scores for Wisniewski, Karol vs Filbrandt, Tomasz (log date: 2025-02-01)
+
+Bet 10:
+Scoreboard:
+Team Name: Fabis, Adrian, Team Score: 6, Set: 2
+Team Name: Kasperski, Adam, Team Score: 4, Set: 1
+6-4
+2-1
+Updated scores for Fabis, Adrian vs Kasperski, Adam (log date: 2025-02-01)
+
+Bet 11:
+Scoreboard:
+Team Name: Mlynarski, Filip, Team Score: 6, Set: 1
+Team Name: Seroka, Szymon, Team Score: 8, Set: 2
+6-8
+1-2
+Updated scores for Mlynarski, Filip vs Seroka, Szymon (log date: 2025-02-01)
+
+Bet 12:
+Scoreboard:
+Team Name: Mlynarski, Filip, Team Score: 4, Set: 2
+Team Name: Seroka, Szymon, Team Score: 8, Set: 2
+4-8
+2-2
+Updated scores for Mlynarski, Filip vs Seroka, Szymon (log date: 2025-02-01)
+
+Bet 13:
+Scoreboard:
+Team Name: Strnad, Jaroslav (1964), Team Score: 6, Set: 2
+Team Name: Berdych, Pavel, Team Score: 4, Set: 1
+6-4
+2-1
+Updated scores for Strnad, Jaroslav (1964) vs Berdych, Pavel (log date: 2025-02-01)
+
+Bet 14:
+Scoreboard:
+Team Name: Kolar, Milan, Team Score: 5, Set: 2
+Team Name: Sulava, Lubor, Team Score: 2, Set: 1
+5-2
+2-1
+Updated scores for Kolar, Milan vs Sulava, Lubor (log date: 2025-02-01)
+
+Bet 15:
+Scoreboard:
+Team Name: Juszczyk, Krzysztof, Team Score: 5, Set: 2
+Team Name: Michalski, Jakub, Team Score: 2, Set: 1
+5-2
+2-1
+Updated scores for Juszczyk, Krzysztof vs Michalski, Jakub (log date: 2025-02-01)
+
+Bet 16:
+Scoreboard:
+Team Name: Latala, Lukasz, Team Score: 2, Set: 1
+Team Name: Kiejda, Arkadiusz, Team Score: 5, Set: 2
+2-5
+1-2
+Updated scores for Latala, Lukasz vs Kiejda, Arkadiusz (log date: 2025-02-01)
+
+Bet 17:
+Scoreboard:
+Team Name: Staniszewski, Piotr, Team Score: 8, Set: 2
+Team Name: Piotrowski, Tadeusz, Team Score: 4, Set: 2
+8-4
+2-2
+Updated scores for Staniszewski, Piotr vs Piotrowski, Tadeusz (log date: 2025-02-01)
+
+Bet 18:
+Scoreboard:
+Team Name: Mladenovic L / Ni X L, Team Score: 11, Set: 2
+Team Name: Luu F / Takahashi G, Team Score: 4, Set: 1
+11-4
+2-1
+Updated scores for Mladenovic L / Ni X L vs Luu F / Takahashi G (log date: 2025-02-01)
+
+Bet 19:
+Scoreboard:
+Team Name: Kolenic, Tibor, Team Score: 11, Set: 2
+Team Name: Steffan, Jan, Team Score: 4, Set: 0
+11-4
+2-0
+Updated scores for Kolenic, Tibor vs Steffan, Jan (log date: 2025-02-01)
+--------------------------------------------------
+
+Analyzing: 20250202_013936_tbAppPinpon.txt
+Found 11 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Madrid M / Cossio Aceves A, Team Score: 9, Set: 2
+Team Name: Quek I / Zhou J, Team Score: 7, Set: 1
+9-7
+2-1
+Updated scores for Madrid M / Cossio Aceves A vs Quek I / Zhou J (log date: 2025-02-02)
+
+Bet 2:
+Scoreboard:
+Team Name: Sprynar, Pavel, Team Score: 5, Set: 2
+Team Name: Vitrovyj, Oleg, Team Score: 3, Set: 1
+5-3
+2-1
+Updated scores for Sprynar, Pavel vs Vitrovyj, Oleg (log date: 2025-02-02)
+
+Bet 3:
+Scoreboard:
+Team Name: Linek, Adam, Team Score: 8, Set: 2
+Team Name: Marchlewski, Marcin, Team Score: 6, Set: 1
+8-6
+2-1
+Updated scores for Linek, Adam vs Marchlewski, Marcin (log date: 2025-02-02)
+
+Bet 4:
+Scoreboard:
+Team Name: Mittelham, Nina, Team Score: 5, Set: 2
+Team Name: Winter, Sabine, Team Score: 1, Set: 1
+5-1
+2-1
+Updated scores for Mittelham, Nina vs Winter, Sabine (log date: 2025-02-02)
+
+Bet 5:
+Scoreboard:
+Team Name: Mittelham, Nina, Team Score: 7, Set: 2
+Team Name: Winter, Sabine, Team Score: 5, Set: 1
+7-5
+2-1
+Updated scores for Mittelham, Nina vs Winter, Sabine (log date: 2025-02-02)
+
+Bet 6:
+Scoreboard:
+Team Name: Achanta, Sharath Kamal, Team Score: 5, Set: 2
+Team Name: Kao, Cheng-Jui, Team Score: 2, Set: 1
+5-2
+2-1
+Updated scores for Achanta, Sharath Kamal vs Kao, Cheng-Jui (log date: 2025-02-02)
+
+Bet 7:
+Scoreboard:
+Team Name: Lee, Eunhye, Team Score: 9, Set: 2
+Team Name: Cheng, I-Ching, Team Score: 6, Set: 2
+9-6
+2-2
+Updated scores for Lee, Eunhye vs Cheng, I-Ching (log date: 2025-02-02)
+
+Bet 8:
+Scoreboard:
+Team Name: Krzyzanowski, Michal, Team Score: 4, Set: 1
+Team Name: Adamiak, Grzegorz, Team Score: 11, Set: 2
+4-11
+1-2
+Updated scores for Krzyzanowski, Michal vs Adamiak, Grzegorz (log date: 2025-02-02)
+
+Bet 9:
+Error retrieving team names and scores: Message: stale element reference: stale element not found in the current frame
+(Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Error updating database: list index out of range
+
+Bet 10:
+Scoreboard:
+Team Name: Witkowski, Antoni, Team Score: 7, Set: 2
+Team Name: Jadczyk, Marcin, Team Score: 5, Set: 1
+7-5
+2-1
+Updated scores for Witkowski, Antoni vs Jadczyk, Marcin (log date: 2025-02-02)
+
+Bet 11:
+Scoreboard:
+Team Name: Pitchford, Liam, Team Score: 5, Set: 1
+Team Name: Yoshimura, Maharu, Team Score: 7, Set: 2
+5-7
+1-2
+Updated scores for Pitchford, Liam vs Yoshimura, Maharu (log date: 2025-02-02)
+--------------------------------------------------
+
+Analyzing: 20250202_102609_tbAppPinpon.txt
+Found 14 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Sinicki, Maciej, Team Score: 8, Set: 2
+Team Name: Szoltysek, Artur, Team Score: 5, Set: 2
+8-5
+2-2
+Updated scores for Sinicki, Maciej vs Szoltysek, Artur (log date: 2025-02-02)
+
+Bet 2:
+Scoreboard:
+Team Name: Louda, Jiri, Team Score: 3, Set: 1
+Team Name: Petracek, Vratislav, Team Score: 7, Set: 2
+3-7
+1-2
+Updated scores for Louda, Jiri vs Petracek, Vratislav (log date: 2025-02-02)
+
+Bet 3:
+Scoreboard:
+Team Name: Stinil, Vaclav, Team Score: 5, Set: 2
+Team Name: Fuchs, Josef, Team Score: 2, Set: 2
+5-2
+2-2
+Updated scores for Stinil, Vaclav vs Fuchs, Josef (log date: 2025-02-02)
+
+Bet 4:
+Scoreboard:
+Team Name: Bednarz, Jacek, Team Score: 6, Set: 2
+Team Name: Rus, Maksymilian, Team Score: 1, Set: 2
+6-1
+2-2
+Updated scores for Bednarz, Jacek vs Rus, Maksymilian (log date: 2025-02-02)
+
+Bet 5:
+Scoreboard:
+Team Name: Yiu K T / Nagasaki M, Team Score: 7, Set: 2
+Team Name: Chew Z Y C / Ser L Q, Team Score: 4, Set: 2
+7-4
+2-2
+Updated scores for Yiu K T / Nagasaki M vs Chew Z Y C / Ser L Q (log date: 2025-02-02)
+
+Bet 6:
+Scoreboard:
+Team Name: Witkowski, Antoni, Team Score: 5, Set: 2
+Team Name: Adamiak, Grzegorz, Team Score: 4, Set: 1
+5-4
+2-1
+Updated scores for Witkowski, Antoni vs Adamiak, Grzegorz (log date: 2025-02-02)
+
+Bet 7:
+Scoreboard:
+Team Name: Witkowski, Antoni, Team Score: 7, Set: 2
+Team Name: Adamiak, Grzegorz, Team Score: 3, Set: 2
+7-3
+2-2
+Updated scores for Witkowski, Antoni vs Adamiak, Grzegorz (log date: 2025-02-02)
+
+Bet 8:
+Scoreboard:
+Team Name: Tuma, Daniel, Team Score: 5, Set: 2
+Team Name: Dousa, Tomas, Team Score: 1, Set: 2
+5-1
+2-2
+Updated scores for Tuma, Daniel vs Dousa, Tomas (log date: 2025-02-02)
+
+Bet 9:
+Scoreboard:
+Team Name: Longin, Milan, Team Score: 4, Set: 2
+Team Name: Malek, Lukas, Team Score: 8, Set: 2
+4-8
+2-2
+Updated scores for Longin, Milan vs Malek, Lukas (log date: 2025-02-02)
+
+Bet 10:
+Scoreboard:
+Team Name: Witczak, Filip, Team Score: 8, Set: 2
+Team Name: Buczynski, Witold, Team Score: 6, Set: 2
+8-6
+2-2
+Updated scores for Witczak, Filip vs Buczynski, Witold (log date: 2025-02-02)
+
+Bet 11:
+Scoreboard:
+Team Name: Zacek, Michal, Team Score: 2, Set: 0
+Team Name: Stinil, Vaclav, Team Score: 5, Set: 2
+2-5
+0-2
+Updated scores for Zacek, Michal vs Stinil, Vaclav (log date: 2025-02-02)
+
+Bet 12:
+Scoreboard:
+Team Name: Fira, Damian, Team Score: 5, Set: 1
+Team Name: Wojcik, Rafal, Team Score: 11, Set: 2
+5-11
+1-2
+Updated scores for Fira, Damian vs Wojcik, Rafal (log date: 2025-02-02)
+
+Bet 13:
+Scoreboard:
+Team Name: Dedek, Jiri, Team Score: 5, Set: 2
+Team Name: Briska, Jan, Team Score: 8, Set: 2
+5-8
+2-2
+Updated scores for Dedek, Jiri vs Briska, Jan (log date: 2025-02-02)
+
+Bet 14:
+Scoreboard:
+Team Name: Mlynarski, Filip, Team Score: 6, Set: 2
+Team Name: Adamiak, Grzegorz, Team Score: 2, Set: 1
+6-2
+2-1
+Updated scores for Mlynarski, Filip vs Adamiak, Grzegorz (log date: 2025-02-02)
+--------------------------------------------------
+
+Analyzing: 20250202_175040_tbAppPinpon.txt
+Found 68 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Stusek, Martin, Team Score: 8, Set: 2
+Team Name: Vorisek, Tomas, Team Score: 4, Set: 0
+8-4
+2-0
+Updated scores for Stusek, Martin vs Vorisek, Tomas (log date: 2025-02-02)
+
+Bet 2:
+Scoreboard:
+Team Name: Stapor, Dawid, Team Score: 9, Set: 2
+Team Name: Stepien, Marcin, Team Score: 5, Set: 2
+9-5
+2-2
+Updated scores for Stapor, Dawid vs Stepien, Marcin (log date: 2025-02-02)
+
+Bet 3:
+Scoreboard:
+Team Name: Wisniewski, Karol, Team Score: 5, Set: 2
+Team Name: Nadolski, Lukasz, Team Score: 3, Set: 1
+5-3
+2-1
+Updated scores for Wisniewski, Karol vs Nadolski, Lukasz (log date: 2025-02-02)
+
+Bet 4:
+Scoreboard:
+Team Name: Wisniewski, Karol, Team Score: 6, Set: 2
+Team Name: Nadolski, Lukasz, Team Score: 2, Set: 2
+6-2
+2-2
+Updated scores for Wisniewski, Karol vs Nadolski, Lukasz (log date: 2025-02-02)
+
+Bet 5:
+Scoreboard:
+Team Name: Bartunek, Radek, Team Score: 6, Set: 2
+Team Name: Hruska, Vaclav Senior, Team Score: 4, Set: 0
+6-4
+2-0
+Updated scores for Bartunek, Radek vs Hruska, Vaclav Senior (log date: 2025-02-02)
+
+Bet 6:
+Scoreboard:
+Team Name: Sychra, Martin, Team Score: 9, Set: 2
+Team Name: Sobisek, Martin, Team Score: 6, Set: 2
+9-6
+2-2
+Updated scores for Sychra, Martin vs Sobisek, Martin (log date: 2025-02-02)
+
+Bet 7:
+Scoreboard:
+Team Name: Adamus, Mariusz, Team Score: 5, Set: 2
+Team Name: Jadach, Oskar, Team Score: 2, Set: 0
+5-2
+2-0
+Updated scores for Adamus, Mariusz vs Jadach, Oskar (log date: 2025-02-02)
+
+Bet 8:
+Scoreboard:
+Team Name: Cernota, Filip, Team Score: 7, Set: 2
+Team Name: Stusek, Martin, Team Score: 5, Set: 0
+7-5
+2-0
+Updated scores for Cernota, Filip vs Stusek, Martin (log date: 2025-02-02)
+
+Bet 9:
+Scoreboard:
+Team Name: Stehlik, Oldrich, Team Score: 2, Set: 1
+Team Name: Nevrtal, Tomas, Team Score: 5, Set: 2
+2-5
+1-2
+Updated scores for Stehlik, Oldrich vs Nevrtal, Tomas (log date: 2025-02-02)
+
+Bet 10:
+Scoreboard:
+Team Name: Jarocki, Lukasz, Team Score: 4, Set: 0
+Team Name: Nadolski, Lukasz, Team Score: 6, Set: 2
+4-6
+0-2
+Updated scores for Jarocki, Lukasz vs Nadolski, Lukasz (log date: 2025-02-02)
+
+Bet 11:
+Scoreboard:
+Team Name: Warpas, Blazej, Team Score: 8, Set: 2
+Team Name: Stepien, Marcin, Team Score: 7, Set: 2
+8-7
+2-2
+Updated scores for Warpas, Blazej vs Stepien, Marcin (log date: 2025-02-02)
+
+Bet 12:
+Scoreboard:
+Team Name: Marud, Grzegorz, Team Score: 5, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 2, Set: 1
+5-2
+2-1
+Updated scores for Marud, Grzegorz vs Gumulinski, Piotr (log date: 2025-02-02)
+
+Bet 13:
+Scoreboard:
+Team Name: Vyskocil, Zbynek, Team Score: 6, Set: 1
+Team Name: Jirka, Lukas, Team Score: 8, Set: 2
+6-8
+1-2
+Updated scores for Vyskocil, Zbynek vs Jirka, Lukas (log date: 2025-02-02)
+
+Bet 14:
+Scoreboard:
+Team Name: Molka, Bartlomiej, Team Score: 9, Set: 2
+Team Name: Masternak, Jan, Team Score: 5, Set: 2
+9-5
+2-2
+Updated scores for Molka, Bartlomiej vs Masternak, Jan (log date: 2025-02-02)
+
+Bet 15:
+Scoreboard:
+Team Name: Yu, Jinshou, Team Score: 6, Set: 2
+Team Name: Mamidyala, Naveen, Team Score: 9, Set: 2
+6-9
+2-2
+Updated scores for Yu, Jinshou vs Mamidyala, Naveen (log date: 2025-02-02)
+
+Bet 16:
+Scoreboard:
+Team Name: Jicha, David, Team Score: 6, Set: 2
+Team Name: Stusek, Martin, Team Score: 3, Set: 2
+6-3
+2-2
+Updated scores for Jicha, David vs Stusek, Martin (log date: 2025-02-02)
+
+Bet 17:
+Scoreboard:
+Team Name: Wrzalik, Tomasz, Team Score: 9, Set: 2
+Team Name: Jadach, Oskar, Team Score: 7, Set: 1
+9-7
+2-1
+Updated scores for Wrzalik, Tomasz vs Jadach, Oskar (log date: 2025-02-02)
+
+Bet 18:
+Scoreboard:
+Team Name: Linek, Adam, Team Score: 7, Set: 2
+Team Name: Rudomina, Kamil, Team Score: 5, Set: 0
+7-5
+2-0
+Updated scores for Linek, Adam vs Rudomina, Kamil (log date: 2025-02-02)
+
+Bet 19:
+Scoreboard:
+Team Name: Vorisek, Tomas, Team Score: 7, Set: 2
+Team Name: Cernota, Filip, Team Score: 5, Set: 1
+7-5
+2-1
+Updated scores for Vorisek, Tomas vs Cernota, Filip (log date: 2025-02-02)
+
+Bet 20:
+Scoreboard:
+Team Name: Adamus, Mariusz, Team Score: 4, Set: 2
+Team Name: Marud, Grzegorz, Team Score: 8, Set: 2
+4-8
+2-2
+Updated scores for Adamus, Mariusz vs Marud, Grzegorz (log date: 2025-02-02)
+
+Bet 21:
+Scoreboard:
+Team Name: Trela, Mateusz, Team Score: 5, Set: 2
+Team Name: Wrobel, Dariusz, Team Score: 3, Set: 1
+5-3
+2-1
+Updated scores for Trela, Mateusz vs Wrobel, Dariusz (log date: 2025-02-02)
+
+Bet 22:
+Scoreboard:
+Team Name: Lilien, Aleksander, Team Score: 6, Set: 2
+Team Name: Rudomina, Kamil, Team Score: 4, Set: 2
+6-4
+2-2
+Updated scores for Lilien, Aleksander vs Rudomina, Kamil (log date: 2025-02-02)
+
+Bet 23:
+Scoreboard:
+Team Name: Gumulinski, Piotr, Team Score: 5, Set: 2
+Team Name: Pruszkowski, Jakub, Team Score: 1, Set: 2
+5-1
+2-2
+Updated scores for Gumulinski, Piotr vs Pruszkowski, Jakub (log date: 2025-02-02)
+
+Bet 24:
+Scoreboard:
+Team Name: Warpas, Blazej, Team Score: 7, Set: 2
+Team Name: Galus, Mateusz, Team Score: 5, Set: 1
+7-5
+2-1
+Updated scores for Warpas, Blazej vs Galus, Mateusz (log date: 2025-02-02)
+
+Bet 25:
+Scoreboard:
+Team Name: Lilien, Aleksander, Team Score: 6, Set: 2
+Team Name: Linek, Adam, Team Score: 4, Set: 0
+6-4
+2-0
+Updated scores for Lilien, Aleksander vs Linek, Adam (log date: 2025-02-02)
+
+Bet 26:
+Scoreboard:
+Team Name: Cernota, Filip, Team Score: 5, Set: 2
+Team Name: Jicha, David, Team Score: 2, Set: 2
+5-2
+2-2
+Updated scores for Cernota, Filip vs Jicha, David (log date: 2025-02-02)
+
+Bet 27:
+Scoreboard:
+Team Name: Trela, Mateusz, Team Score: 3, Set: 1
+Team Name: Fabis, Adrian, Team Score: 5, Set: 2
+3-5
+1-2
+Updated scores for Trela, Mateusz vs Fabis, Adrian (log date: 2025-02-02)
+
+Bet 28:
+Scoreboard:
+Team Name: Smidt, Karel, Team Score: 3, Set: 1
+Team Name: Turek, Tomas, Team Score: 5, Set: 2
+3-5
+1-2
+Updated scores for Smidt, Karel vs Turek, Tomas (log date: 2025-02-02)
+
+Bet 29:
+Scoreboard:
+Team Name: Jastrzebowski, Franciszek, Team Score: 4, Set: 1
+Team Name: Latala, Lukasz, Team Score: 7, Set: 2
+4-7
+1-2
+Updated scores for Jastrzebowski, Franciszek vs Latala, Lukasz (log date: 2025-02-02)
+
+Bet 30:
+Scoreboard:
+Team Name: Kadavy, Simon, Team Score: 2, Set: 2
+Team Name: Sobisek, Martin, Team Score: 5, Set: 2
+2-5
+2-2
+Updated scores for Kadavy, Simon vs Sobisek, Martin (log date: 2025-02-02)
+
+Bet 31:
+Scoreboard:
+Team Name: Grzegorczyk, Jakub, Team Score: 7, Set: 2
+Team Name: Blocho, Przemyslaw, Team Score: 6, Set: 1
+7-6
+2-1
+Updated scores for Grzegorczyk, Jakub vs Blocho, Przemyslaw (log date: 2025-02-02)
+
+Bet 32:
+Scoreboard:
+Team Name: Marud, Grzegorz, Team Score: 6, Set: 2
+Team Name: Pruszkowski, Jakub, Team Score: 3, Set: 1
+6-3
+2-1
+Updated scores for Marud, Grzegorz vs Pruszkowski, Jakub (log date: 2025-02-02)
+
+Bet 33:
+Scoreboard:
+Team Name: Klement, Milan, Team Score: 2, Set: 1
+Team Name: Dorko, Tomas, Team Score: 5, Set: 2
+2-5
+1-2
+Updated scores for Klement, Milan vs Dorko, Tomas (log date: 2025-02-02)
+
+Bet 34:
+Scoreboard:
+Team Name: Stojek, Karol, Team Score: 3, Set: 2
+Team Name: Domagala, Pawel, Team Score: 6, Set: 2
+3-6
+2-2
+Updated scores for Stojek, Karol vs Domagala, Pawel (log date: 2025-02-02)
+
+Bet 35:
+Scoreboard:
+Team Name: Wisniewski, Bartlomiej, Team Score: 7, Set: 2
+Team Name: Trela, Mateusz, Team Score: 4, Set: 1
+7-4
+2-1
+Updated scores for Wisniewski, Bartlomiej vs Trela, Mateusz (log date: 2025-02-02)
+
+Bet 36:
+Scoreboard:
+Team Name: Linek, Adam, Team Score: 5, Set: 2
+Team Name: Rudomina, Kamil, Team Score: 4, Set: 1
+5-4
+2-1
+Updated scores for Linek, Adam vs Rudomina, Kamil (log date: 2025-02-02)
+
+Bet 37:
+Scoreboard:
+Team Name: Mlynarski, Filip, Team Score: 4, Set: 0
+Team Name: Wloczko, Krzysztof, Team Score: 6, Set: 2
+4-6
+0-2
+Updated scores for Mlynarski, Filip vs Wloczko, Krzysztof (log date: 2025-02-02)
+
+Bet 38:
+Scoreboard:
+Team Name: Wrzalik, Tomasz, Team Score: 5, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 8, Set: 2
+5-8
+2-2
+Updated scores for Wrzalik, Tomasz vs Gumulinski, Piotr (log date: 2025-02-02)
+
+Bet 39:
+Scoreboard:
+Team Name: Jadach, Oskar, Team Score: 6, Set: 1
+Team Name: Adamus, Mariusz, Team Score: 8, Set: 2
+6-8
+1-2
+Updated scores for Jadach, Oskar vs Adamus, Mariusz (log date: 2025-02-02)
+
+Bet 40:
+Scoreboard:
+Team Name: Barta, Tomas, Team Score: 5, Set: 2
+Team Name: Dedek, Jiri, Team Score: 1, Set: 1
+5-1
+2-1
+Updated scores for Barta, Tomas vs Dedek, Jiri (log date: 2025-02-02)
+
+Bet 41:
+Scoreboard:
+Team Name: Marud, Grzegorz, Team Score: 5, Set: 0
+Team Name: Wrzalik, Tomasz, Team Score: 8, Set: 2
+5-8
+0-2
+Updated scores for Marud, Grzegorz vs Wrzalik, Tomasz (log date: 2025-02-02)
+
+Bet 42:
+Scoreboard:
+Team Name: Radlo, Szymon, Team Score: 1, Set: 2
+Team Name: Linek, Adam, Team Score: 5, Set: 2
+1-5
+2-2
+Updated scores for Radlo, Szymon vs Linek, Adam (log date: 2025-02-02)
+
+Bet 43:
+Scoreboard:
+Team Name: Hlawatschke, Ales, Team Score: 3, Set: 0
+Team Name: Klement, Milan, Team Score: 5, Set: 2
+3-5
+0-2
+Updated scores for Hlawatschke, Ales vs Klement, Milan (log date: 2025-02-02)
+
+Bet 44:
+Scoreboard:
+Team Name: Wisniewski, Bartlomiej, Team Score: 6, Set: 2
+Team Name: Wrobel, Dariusz, Team Score: 4, Set: 1
+6-4
+2-1
+Updated scores for Wisniewski, Bartlomiej vs Wrobel, Dariusz (log date: 2025-02-02)
+
+Bet 45:
+Scoreboard:
+Team Name: Lilien, Aleksander, Team Score: 5, Set: 2
+Team Name: Linek, Adam, Team Score: 2, Set: 1
+5-2
+2-1
+Updated scores for Lilien, Aleksander vs Linek, Adam (log date: 2025-02-02)
+
+Bet 46:
+Scoreboard:
+Team Name: Lilien, Aleksander, Team Score: 5, Set: 2
+Team Name: Linek, Adam, Team Score: 2, Set: 2
+5-2
+2-2
+Updated scores for Lilien, Aleksander vs Linek, Adam (log date: 2025-02-02)
+
+Bet 47:
+Scoreboard:
+Team Name: Filbrandt, Tomasz, Team Score: 6, Set: 2
+Team Name: Mlynarski, Filip, Team Score: 4, Set: 1
+6-4
+2-1
+Updated scores for Filbrandt, Tomasz vs Mlynarski, Filip (log date: 2025-02-02)
+
+Bet 48:
+Scoreboard:
+Team Name: Filbrandt, Tomasz, Team Score: 7, Set: 2
+Team Name: Mlynarski, Filip, Team Score: 3, Set: 2
+7-3
+2-2
+Updated scores for Filbrandt, Tomasz vs Mlynarski, Filip (log date: 2025-02-02)
+
+Bet 49:
+Scoreboard:
+Team Name: Dedek, Jiri, Team Score: 3, Set: 0
+Team Name: Smrcek, Milan, Team Score: 6, Set: 2
+3-6
+0-2
+Updated scores for Dedek, Jiri vs Smrcek, Milan (log date: 2025-02-02)
+
+Bet 50:
+Scoreboard:
+Team Name: Domagala, Pawel, Team Score: 5, Set: 2
+Team Name: Latala, Lukasz, Team Score: 2, Set: 1
+5-2
+2-1
+Updated scores for Domagala, Pawel vs Latala, Lukasz (log date: 2025-02-02)
+
+Bet 51:
+Scoreboard:
+Team Name: Jadach, Oskar, Team Score: 2, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 5, Set: 2
+2-5
+2-2
+Updated scores for Jadach, Oskar vs Gumulinski, Piotr (log date: 2025-02-02)
+
+Bet 52:
+Scoreboard:
+Team Name: Hlawatschke, Ales, Team Score: 5, Set: 2
+Team Name: Kadavy, Simon, Team Score: 3, Set: 0
+5-3
+2-0
+Updated scores for Hlawatschke, Ales vs Kadavy, Simon (log date: 2025-02-02)
+
+Bet 53:
+Scoreboard:
+Team Name: Wrzalik, Tomasz, Team Score: 8, Set: 2
+Team Name: Pruszkowski, Jakub, Team Score: 5, Set: 2
+8-5
+2-2
+Updated scores for Wrzalik, Tomasz vs Pruszkowski, Jakub (log date: 2025-02-02)
+
+Bet 54:
+Scoreboard:
+Team Name: Placek, Marek, Team Score: 2, Set: 2
+Team Name: Barta, Tomas, Team Score: 5, Set: 2
+2-5
+2-2
+Updated scores for Placek, Marek vs Barta, Tomas (log date: 2025-02-02)
+
+Bet 55:
+Scoreboard:
+Team Name: Stojek, Karol, Team Score: 6, Set: 2
+Team Name: Jastrzebowski, Franciszek, Team Score: 9, Set: 2
+6-9
+2-2
+Updated scores for Stojek, Karol vs Jastrzebowski, Franciszek (log date: 2025-02-02)
+
+Bet 56:
+Scoreboard:
+Team Name: Turek, Tomas, Team Score: 8, Set: 2
+Team Name: Kliuchuk, Rostyslav, Team Score: 6, Set: 1
+8-6
+2-1
+Updated scores for Turek, Tomas vs Kliuchuk, Rostyslav (log date: 2025-02-02)
+
+Bet 57:
+Scoreboard:
+Team Name: Sobisek, Martin, Team Score: 2, Set: 1
+Team Name: Klement, Milan, Team Score: 5, Set: 2
+2-5
+1-2
+Updated scores for Sobisek, Martin vs Klement, Milan (log date: 2025-02-02)
+
+Bet 58:
+Scoreboard:
+Team Name: Domagala, Pawel, Team Score: 1, Set: 2
+Team Name: Latala, Lukasz, Team Score: 5, Set: 2
+1-5
+2-2
+Updated scores for Domagala, Pawel vs Latala, Lukasz (log date: 2025-02-02)
+
+Bet 59:
+Scoreboard:
+Team Name: Turek, Tomas, Team Score: 2, Set: 1
+Team Name: Kliuchuk, Rostyslav, Team Score: 5, Set: 2
+2-5
+1-2
+Updated scores for Turek, Tomas vs Kliuchuk, Rostyslav (log date: 2025-02-02)
+
+Bet 60:
+Scoreboard:
+Team Name: Kujawa, Filip, Team Score: 9, Set: 2
+Team Name: Mugowski, Arkadiusz, Team Score: 5, Set: 1
+9-5
+2-1
+Updated scores for Kujawa, Filip vs Mugowski, Arkadiusz (log date: 2025-02-02)
+
+Bet 61:
+Scoreboard:
+Team Name: Wrzalik, Tomasz, Team Score: 2, Set: 1
+Team Name: Jadach, Oskar, Team Score: 5, Set: 2
+2-5
+1-2
+Updated scores for Wrzalik, Tomasz vs Jadach, Oskar (log date: 2025-02-02)
+
+Bet 62:
+Scoreboard:
+Team Name: Smrcek, Milan, Team Score: 6, Set: 2
+Team Name: Fojt, Pavel, Team Score: 2, Set: 0
+6-2
+2-0
+Updated scores for Smrcek, Milan vs Fojt, Pavel (log date: 2025-02-02)
+
+Bet 63:
+Scoreboard:
+Team Name: Olbrycht, Michal, Team Score: 2, Set: 1
+Team Name: Sklensky, Miroslav, Team Score: 5, Set: 2
+2-5
+1-2
+Updated scores for Olbrycht, Michal vs Sklensky, Miroslav (log date: 2025-02-02)
+
+Bet 64:
+Scoreboard:
+Team Name: Dorko, Tomas, Team Score: 6, Set: 2
+Team Name: Klement, Milan, Team Score: 4, Set: 1
+6-4
+2-1
+Updated scores for Dorko, Tomas vs Klement, Milan (log date: 2025-02-02)
+
+Bet 65:
+Scoreboard:
+Team Name: Dorko, Tomas, Team Score: 8, Set: 2
+Team Name: Klement, Milan, Team Score: 5, Set: 2
+8-5
+2-2
+Updated scores for Dorko, Tomas vs Klement, Milan (log date: 2025-02-02)
+
+Bet 66:
+Scoreboard:
+Team Name: Lee, Sangsu, Team Score: 2, Set: 1
+Team Name: Xue, Fei, Team Score: 5, Set: 2
+2-5
+1-2
+Updated scores for Lee, Sangsu vs Xue, Fei (log date: 2025-02-02)
+
+Bet 67:
+Scoreboard:
+Team Name: Lee, Sangsu, Team Score: 2, Set: 2
+Team Name: Xue, Fei, Team Score: 5, Set: 2
+2-5
+2-2
+Updated scores for Lee, Sangsu vs Xue, Fei (log date: 2025-02-02)
+
+Bet 68:
+Scoreboard:
+Team Name: Witkowski, Antoni, Team Score: 3, Set: 1
+Team Name: Golebiowski, Mateusz, Team Score: 7, Set: 2
+3-7
+1-2
+Updated scores for Witkowski, Antoni vs Golebiowski, Mateusz (log date: 2025-02-02)
+--------------------------------------------------
+
+Analyzing: 20250203_021703_tbAppPinpon.txt
+Found 1 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Kujawa, Filip, Team Score: 6, Set: 0
+Team Name: Kotyl, Krzysztof, Team Score: 8, Set: 2
+6-8
+0-2
+Updated scores for Kujawa, Filip vs Kotyl, Krzysztof (log date: 2025-02-03)
+--------------------------------------------------
+
+Analyzing: 20250203_022328_tbAppPinpon.txt
+Found 110 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Czerwinski, Bartosz, Team Score: 8, Set: 2
+Team Name: Olbrycht, Michal, Team Score: 6, Set: 0
+8-6
+2-0
+Updated scores for Czerwinski, Bartosz vs Olbrycht, Michal (log date: 2025-02-03)
+
+Bet 2:
+Scoreboard:
+Team Name: Zandecki, Jan, Team Score: 5, Set: 2
+Team Name: Nowalinski, Maciej, Team Score: 1, Set: 1
+5-1
+2-1
+Updated scores for Zandecki, Jan vs Nowalinski, Maciej (log date: 2025-02-03)
+
+Bet 3:
+Scoreboard:
+Team Name: Zhang, Mo, Team Score: 6, Set: 2
+Team Name: Paranang, Orawan, Team Score: 2, Set: 2
+6-2
+2-2
+Updated scores for Zhang, Mo vs Paranang, Orawan (log date: 2025-02-03)
+
+Bet 4:
+Scoreboard:
+Team Name: Zhang, Mo, Team Score: 9, Set: 2
+Team Name: Paranang, Orawan, Team Score: 6, Set: 2
+9-6
+2-2
+Updated scores for Zhang, Mo vs Paranang, Orawan (log date: 2025-02-03)
+
+Bet 5:
+Scoreboard:
+Team Name: Kosowski, Jakub, Team Score: 5, Set: 2
+Team Name: Jadczyk, Marcin, Team Score: 2, Set: 0
+5-2
+2-0
+Updated scores for Kosowski, Jakub vs Jadczyk, Marcin (log date: 2025-02-03)
+
+Bet 6:
+Scoreboard:
+Team Name: Groth, Jonathan, Team Score: 6, Set: 0
+Team Name: An, Jaehyun, Team Score: 9, Set: 2
+6-9
+0-2
+Updated scores for Groth, Jonathan vs An, Jaehyun (log date: 2025-02-03)
+
+Bet 7:
+Scoreboard:
+Team Name: Mlynarski, Filip, Team Score: 3, Set: 0
+Team Name: Sklensky, Miroslav, Team Score: 5, Set: 2
+3-5
+0-2
+Updated scores for Mlynarski, Filip vs Sklensky, Miroslav (log date: 2025-02-03)
+
+Bet 8:
+Scoreboard:
+Team Name: Witkowski, Antoni, Team Score: 6, Set: 2
+Team Name: Zandecki, Jan, Team Score: 4, Set: 1
+6-4
+2-1
+Updated scores for Witkowski, Antoni vs Zandecki, Jan (log date: 2025-02-03)
+
+Bet 9:
+Scoreboard:
+Team Name: OH, Junsung, Team Score: 4, Set: 1
+Team Name: Aruna, Quadri, Team Score: 8, Set: 2
+4-8
+1-2
+Updated scores for OH, Junsung vs Aruna, Quadri (log date: 2025-02-03)
+
+Bet 10:
+Scoreboard:
+Team Name: Olbrycht, Michal, Team Score: 5, Set: 1
+Team Name: Spychala, Adrian, Team Score: 8, Set: 2
+5-8
+1-2
+Updated scores for Olbrycht, Michal vs Spychala, Adrian (log date: 2025-02-03)
+
+Bet 11:
+Scoreboard:
+Team Name: Fomin, Yurij, Team Score: 11, Set: 2
+Team Name: Idaczyk, Rafal, Team Score: 5, Set: 1
+11-5
+2-1
+Updated scores for Fomin, Yurij vs Idaczyk, Rafal (log date: 2025-02-03)
+
+Bet 12:
+Scoreboard:
+Team Name: Fomin, Yurij, Team Score: 5, Set: 2
+Team Name: Idaczyk, Rafal, Team Score: 2, Set: 2
+5-2
+2-2
+Updated scores for Fomin, Yurij vs Idaczyk, Rafal (log date: 2025-02-03)
+
+Bet 13:
+Scoreboard:
+Team Name: Kujawa, Filip, Team Score: 1, Set: 2
+Team Name: Zochniak, Jakub, Team Score: 5, Set: 2
+1-5
+2-2
+Updated scores for Kujawa, Filip vs Zochniak, Jakub (log date: 2025-02-03)
+
+Bet 14:
+Scoreboard:
+Team Name: Kosowski, Jakub, Team Score: 5, Set: 0
+Team Name: Nowalinski, Maciej, Team Score: 8, Set: 2
+5-8
+0-2
+Updated scores for Kosowski, Jakub vs Nowalinski, Maciej (log date: 2025-02-03)
+
+Bet 15:
+Scoreboard:
+Team Name: Kosowski, Jakub, Team Score: 2, Set: 1
+Team Name: Nowalinski, Maciej, Team Score: 5, Set: 2
+2-5
+1-2
+Updated scores for Kosowski, Jakub vs Nowalinski, Maciej (log date: 2025-02-03)
+
+Bet 16:
+Scoreboard:
+Team Name: Joo, Cheonhui, Team Score: 5, Set: 2
+Team Name: Nagasaki, Miyu, Team Score: 0, Set: 1
+5-0
+2-1
+Updated scores for Joo, Cheonhui vs Nagasaki, Miyu (log date: 2025-02-03)
+
+Bet 17:
+Scoreboard:
+Team Name: Stapor, Dawid, Team Score: 5, Set: 2
+Team Name: Galus, Mateusz, Team Score: 1, Set: 1
+5-1
+2-1
+Updated scores for Stapor, Dawid vs Galus, Mateusz (log date: 2025-02-03)
+
+Bet 18:
+Scoreboard:
+Team Name: Lengal, Dominik, Team Score: 7, Set: 2
+Team Name: Bartik, Tomas, Team Score: 9, Set: 2
+7-9
+2-2
+Updated scores for Lengal, Dominik vs Bartik, Tomas (log date: 2025-02-03)
+
+Bet 19:
+Scoreboard:
+Team Name: Chalupnicek, Milan, Team Score: 7, Set: 2
+Team Name: Hejduk, Alexander, Team Score: 4, Set: 2
+7-4
+2-2
+Updated scores for Chalupnicek, Milan vs Hejduk, Alexander (log date: 2025-02-03)
+
+Bet 20:
+Scoreboard:
+Team Name: Stapor Rafal, Team Score: 6, Set: 2
+Team Name: Molka, Bartlomiej, Team Score: 1, Set: 1
+6-1
+2-1
+Updated scores for Stapor Rafal vs Molka, Bartlomiej (log date: 2025-02-03)
+
+Bet 21:
+Scoreboard:
+Team Name: Urban, Roman, Team Score: 5, Set: 2
+Team Name: Matousch, Simon, Team Score: 3, Set: 1
+5-3
+2-1
+Updated scores for Urban, Roman vs Matousch, Simon (log date: 2025-02-03)
+
+Bet 22:
+Scoreboard:
+Team Name: Diaz A / Pavade P, Team Score: 6, Set: 2
+Team Name: Zhou J / Zeng J, Team Score: 4, Set: 1
+6-4
+2-1
+Updated scores for Diaz A / Pavade P vs Zhou J / Zeng J (log date: 2025-02-03)
+
+Bet 23:
+Scoreboard:
+Team Name: Dela Pena, Alfred, Team Score: 3, Set: 1
+Team Name: Hollo, Mike, Team Score: 5, Set: 2
+3-5
+1-2
+Updated scores for Dela Pena, Alfred vs Hollo, Mike (log date: 2025-02-03)
+
+Bet 24:
+Scoreboard:
+Team Name: Sprynar, Pavel, Team Score: 5, Set: 1
+Team Name: Potensky, Jan, Team Score: 7, Set: 2
+5-7
+1-2
+Updated scores for Sprynar, Pavel vs Potensky, Jan (log date: 2025-02-03)
+
+Bet 25:
+Scoreboard:
+Team Name: Witkowski, Antoni, Team Score: 6, Set: 2
+Team Name: Kosowski, Jakub, Team Score: 4, Set: 1
+6-4
+2-1
+Updated scores for Witkowski, Antoni vs Kosowski, Jakub (log date: 2025-02-03)
+
+Bet 26:
+Scoreboard:
+Team Name: Fomin, Yurij, Team Score: 3, Set: 1
+Team Name: Wichowski, Grzegorz, Team Score: 5, Set: 2
+3-5
+1-2
+Updated scores for Fomin, Yurij vs Wichowski, Grzegorz (log date: 2025-02-03)
+
+Bet 27:
+Scoreboard:
+Team Name: Zamyslicky, Jaroslav, Team Score: 5, Set: 2
+Team Name: Rolik, Jakub, Team Score: 0, Set: 2
+5-0
+2-2
+Updated scores for Zamyslicky, Jaroslav vs Rolik, Jakub (log date: 2025-02-03)
+
+Bet 28:
+Scoreboard:
+Team Name: Kociuba, Filip, Team Score: 4, Set: 1
+Team Name: Pawlowski, Krzysztof, Team Score: 8, Set: 2
+4-8
+1-2
+Updated scores for Kociuba, Filip vs Pawlowski, Krzysztof (log date: 2025-02-03)
+
+Bet 29:
+Scoreboard:
+Team Name: Bartik, Tomas, Team Score: 6, Set: 2
+Team Name: Zobac, Michal, Team Score: 1, Set: 1
+6-1
+2-1
+Updated scores for Bartik, Tomas vs Zobac, Michal (log date: 2025-02-03)
+
+Bet 30:
+Scoreboard:
+Team Name: Czerwinski, Bartosz, Team Score: 3, Set: 1
+Team Name: Nadolski, Lukasz, Team Score: 5, Set: 2
+3-5
+1-2
+Updated scores for Czerwinski, Bartosz vs Nadolski, Lukasz (log date: 2025-02-03)
+
+Bet 31:
+Scoreboard:
+Team Name: Poliniewicz, Grzegorz, Team Score: 6, Set: 2
+Team Name: Mugowski, Arkadiusz, Team Score: 4, Set: 1
+6-4
+2-1
+Updated scores for Poliniewicz, Grzegorz vs Mugowski, Arkadiusz (log date: 2025-02-03)
+
+Bet 32:
+Scoreboard:
+Team Name: Urban, Roman, Team Score: 3, Set: 1
+Team Name: Rolik, Jakub, Team Score: 6, Set: 2
+3-6
+1-2
+Updated scores for Urban, Roman vs Rolik, Jakub (log date: 2025-02-03)
+
+Bet 33:
+Scoreboard:
+Team Name: Jadczyk, Marcin, Team Score: 5, Set: 2
+Team Name: Nowalinski, Maciej, Team Score: 1, Set: 1
+5-1
+2-1
+Updated scores for Jadczyk, Marcin vs Nowalinski, Maciej (log date: 2025-02-03)
+
+Bet 34:
+Scoreboard:
+Team Name: Potensky, Jan, Team Score: 1, Set: 1
+Team Name: Chalupnicek, Milan, Team Score: 5, Set: 2
+1-5
+1-2
+Updated scores for Potensky, Jan vs Chalupnicek, Milan (log date: 2025-02-03)
+
+Bet 35:
+Scoreboard:
+Team Name: Sklensky, Miroslav, Team Score: 6, Set: 2
+Team Name: Spychala, Adrian, Team Score: 4, Set: 1
+6-4
+2-1
+Updated scores for Sklensky, Miroslav vs Spychala, Adrian (log date: 2025-02-03)
+
+Bet 36:
+Scoreboard:
+Team Name: Petr, Pavel, Team Score: 5, Set: 2
+Team Name: Monik, Petr, Team Score: 3, Set: 1
+5-3
+2-1
+Updated scores for Petr, Pavel vs Monik, Petr (log date: 2025-02-03)
+
+Bet 37:
+Scoreboard:
+Team Name: Zandecki, Jan, Team Score: 1, Set: 1
+Team Name: Kosowski, Jakub, Team Score: 6, Set: 2
+1-6
+1-2
+Updated scores for Zandecki, Jan vs Kosowski, Jakub (log date: 2025-02-03)
+
+Bet 38:
+Scoreboard:
+Team Name: Kotyl, Krzysztof, Team Score: 2, Set: 2
+Team Name: Myszewski, Adrian, Team Score: 6, Set: 2
+2-6
+2-2
+Updated scores for Kotyl, Krzysztof vs Myszewski, Adrian (log date: 2025-02-03)
+
+Bet 39:
+Scoreboard:
+Team Name: Jonas, Martin, Team Score: 5, Set: 2
+Team Name: Darin, Kyryl, Team Score: 3, Set: 0
+5-3
+2-0
+Updated scores for Jonas, Martin vs Darin, Kyryl (log date: 2025-02-03)
+
+Bet 40:
+Scoreboard:
+Team Name: Stapor, Dawid, Team Score: 7, Set: 0
+Team Name: Pawlowski, Krzysztof, Team Score: 9, Set: 2
+7-9
+0-2
+Updated scores for Stapor, Dawid vs Pawlowski, Krzysztof (log date: 2025-02-03)
+
+Bet 41:
+Scoreboard:
+Team Name: Chalupnicek, Milan, Team Score: 7, Set: 2
+Team Name: Sprynar, Pavel, Team Score: 5, Set: 1
+7-5
+2-1
+Updated scores for Chalupnicek, Milan vs Sprynar, Pavel (log date: 2025-02-03)
+
+Bet 42:
+Scoreboard:
+Team Name: Lengal, Dominik, Team Score: 5, Set: 2
+Team Name: Zobac, Michal, Team Score: 7, Set: 2
+5-7
+2-2
+Updated scores for Lengal, Dominik vs Zobac, Michal (log date: 2025-02-03)
+
+Bet 43:
+Scoreboard:
+Team Name: Echaveguren, Manuel, Team Score: 8, Set: 1
+Team Name: U21 Coton, Adrien, Team Score: 11, Set: 2
+8-11
+1-2
+Updated scores for Echaveguren, Manuel vs U21 Coton, Adrien (log date: 2025-02-03)
+
+Bet 44:
+Scoreboard:
+Team Name: Echaveguren, Manuel, Team Score: 6, Set: 1
+Team Name: U21 Coton, Adrien, Team Score: 8, Set: 2
+6-8
+1-2
+Updated scores for Echaveguren, Manuel vs U21 Coton, Adrien (log date: 2025-02-03)
+
+Bet 45:
+Scoreboard:
+Team Name: Urban, Roman, Team Score: 5, Set: 2
+Team Name: Zamyslicky, Jaroslav, Team Score: 2, Set: 1
+5-2
+2-1
+Updated scores for Urban, Roman vs Zamyslicky, Jaroslav (log date: 2025-02-03)
+
+Bet 46:
+Scoreboard:
+Team Name: Bartik, Tomas, Team Score: 1, Set: 1
+Team Name: Volhejn, Jan, Team Score: 5, Set: 2
+1-5
+1-2
+Updated scores for Bartik, Tomas vs Volhejn, Jan (log date: 2025-02-03)
+
+Bet 47:
+Scoreboard:
+Team Name: Kociuba, Filip, Team Score: 5, Set: 2
+Team Name: Galus, Mateusz, Team Score: 0, Set: 1
+5-0
+2-1
+Updated scores for Kociuba, Filip vs Galus, Mateusz (log date: 2025-02-03)
+
+Bet 48:
+Scoreboard:
+Team Name: Trinta, Mihail, Team Score: 8, Set: 2
+Team Name: Regner, Tomas, Team Score: 6, Set: 2
+8-6
+2-2
+Updated scores for Trinta, Mihail vs Regner, Tomas (log date: 2025-02-03)
+
+Bet 49:
+Scoreboard:
+Team Name: Cambronero, Angel, Team Score: 5, Set: 2
+Team Name: Coro, Manuel, Team Score: 1, Set: 1
+5-1
+2-1
+Updated scores for Cambronero, Angel vs Coro, Manuel (log date: 2025-02-03)
+
+Bet 50:
+Scoreboard:
+Team Name: Fira, Damian, Team Score: 5, Set: 2
+Team Name: Kumor, Michal, Team Score: 2, Set: 2
+5-2
+2-2
+Updated scores for Fira, Damian vs Kumor, Michal (log date: 2025-02-03)
+
+Bet 51:
+Scoreboard:
+Team Name: Rolik, Jakub, Team Score: 6, Set: 2
+Team Name: Matousch, Simon, Team Score: 1, Set: 2
+6-1
+2-2
+Updated scores for Rolik, Jakub vs Matousch, Simon (log date: 2025-02-03)
+
+Bet 52:
+Scoreboard:
+Team Name: Wloszek, Sylwester, Team Score: 3, Set: 1
+Team Name: Warpas, Blazej, Team Score: 6, Set: 2
+3-6
+1-2
+Updated scores for Wloszek, Sylwester vs Warpas, Blazej (log date: 2025-02-03)
+
+Bet 53:
+Scoreboard:
+Team Name: Jira, Jiri, Team Score: 5, Set: 2
+Team Name: Spacek, Oskar, Team Score: 1, Set: 2
+5-1
+2-2
+Updated scores for Jira, Jiri vs Spacek, Oskar (log date: 2025-02-03)
+
+Bet 54:
+Scoreboard:
+Team Name: Wichowski, Grzegorz, Team Score: 11, Set: 2
+Team Name: Baron, Mariusz, Team Score: 6, Set: 1
+11-6
+2-1
+Updated scores for Wichowski, Grzegorz vs Baron, Mariusz (log date: 2025-02-03)
+
+Bet 55:
+Error retrieving team names and scores: Message: stale element reference: stale element not found in the current frame
+(Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Error updating database: list index out of range
+
+Bet 56:
+Scoreboard:
+Team Name: Loy M Y / Ser L Q, Team Score: 4, Set: 1
+Team Name: Liu Y / Winter S, Team Score: 6, Set: 2
+4-6
+1-2
+Updated scores for Loy M Y / Ser L Q vs Liu Y / Winter S (log date: 2025-02-03)
+
+Bet 57:
+Scoreboard:
+Team Name: Strowski, Karol, Team Score: 5, Set: 2
+Team Name: Myszewski, Adrian, Team Score: 2, Set: 1
+5-2
+2-1
+Updated scores for Strowski, Karol vs Myszewski, Adrian (log date: 2025-02-03)
+
+Bet 58:
+Scoreboard:
+Team Name: Zobac, Michal, Team Score: 8, Set: 2
+Team Name: Bartik, Tomas, Team Score: 6, Set: 0
+8-6
+2-0
+Updated scores for Zobac, Michal vs Bartik, Tomas (log date: 2025-02-03)
+
+Bet 59:
+Scoreboard:
+Team Name: Petr, Pavel, Team Score: 4, Set: 1
+Team Name: Monik, Petr, Team Score: 7, Set: 2
+4-7
+1-2
+Updated scores for Petr, Pavel vs Monik, Petr (log date: 2025-02-03)
+
+Bet 60:
+Scoreboard:
+Team Name: Langer, Ales, Team Score: 7, Set: 2
+Team Name: Brozek, Michal, Team Score: 4, Set: 1
+7-4
+2-1
+Updated scores for Langer, Ales vs Brozek, Michal (log date: 2025-02-03)
+
+Bet 61:
+Scoreboard:
+Team Name: Witkowski, Antoni, Team Score: 6, Set: 2
+Team Name: Nowalinski, Maciej, Team Score: 2, Set: 2
+6-2
+2-2
+Updated scores for Witkowski, Antoni vs Nowalinski, Maciej (log date: 2025-02-03)
+
+Bet 62:
+Scoreboard:
+Team Name: Sobel, Artur, Team Score: 5, Set: 2
+Team Name: Linek, Adam, Team Score: 1, Set: 2
+5-1
+2-2
+Updated scores for Sobel, Artur vs Linek, Adam (log date: 2025-02-03)
+
+Bet 63:
+Scoreboard:
+Team Name: Rolik, Jakub, Team Score: 9, Set: 2
+Team Name: Urban, Roman, Team Score: 7, Set: 0
+9-7
+2-0
+Updated scores for Rolik, Jakub vs Urban, Roman (log date: 2025-02-03)
+
+Bet 64:
+Scoreboard:
+Team Name: Petracek, Vratislav, Team Score: 9, Set: 2
+Team Name: Pagac, Zbynek, Team Score: 7, Set: 1
+9-7
+2-1
+Updated scores for Petracek, Vratislav vs Pagac, Zbynek (log date: 2025-02-03)
+
+Bet 65:
+Scoreboard:
+Team Name: U21 Coton, Adrien, Team Score: 5, Set: 1
+Team Name: Hollo, Mike, Team Score: 7, Set: 2
+5-7
+1-2
+Updated scores for U21 Coton, Adrien vs Hollo, Mike (log date: 2025-02-03)
+
+Bet 66:
+Scoreboard:
+Team Name: Bergstrom, Linda, Team Score: 5, Set: 2
+Team Name: Shan, Xiaona, Team Score: 3, Set: 0
+5-3
+2-0
+Updated scores for Bergstrom, Linda vs Shan, Xiaona (log date: 2025-02-03)
+
+Bet 67:
+Scoreboard:
+Team Name: Bergstrom, Linda, Team Score: 9, Set: 2
+Team Name: Shan, Xiaona, Team Score: 7, Set: 0
+9-7
+2-0
+Updated scores for Bergstrom, Linda vs Shan, Xiaona (log date: 2025-02-03)
+
+Bet 68:
+Scoreboard:
+Team Name: Ovtcharov, Dimitrij, Team Score: 5, Set: 2
+Team Name: Xiang, Peng, Team Score: 3, Set: 0
+5-3
+2-0
+Updated scores for Ovtcharov, Dimitrij vs Xiang, Peng (log date: 2025-02-03)
+
+Bet 69:
+Scoreboard:
+Team Name: Ovtcharov, Dimitrij, Team Score: 8, Set: 2
+Team Name: Xiang, Peng, Team Score: 6, Set: 0
+8-6
+2-0
+Updated scores for Ovtcharov, Dimitrij vs Xiang, Peng (log date: 2025-02-03)
+
+Bet 70:
+Scoreboard:
+Team Name: Jonas, Martin, Team Score: 8, Set: 2
+Team Name: Kolar, Milan, Team Score: 6, Set: 0
+8-6
+2-0
+Updated scores for Jonas, Martin vs Kolar, Milan (log date: 2025-02-03)
+
+Bet 71:
+Scoreboard:
+Team Name: Stinil, Vaclav, Team Score: 8, Set: 2
+Team Name: Kotil, Miloslav, Team Score: 4, Set: 2
+8-4
+2-2
+Updated scores for Stinil, Vaclav vs Kotil, Miloslav (log date: 2025-02-03)
+
+Bet 72:
+Scoreboard:
+Team Name: Romero, Pablo, Team Score: 0, Set: 1
+Team Name: Coro, Manuel, Team Score: 6, Set: 2
+0-6
+1-2
+Updated scores for Romero, Pablo vs Coro, Manuel (log date: 2025-02-03)
+
+Bet 73:
+Scoreboard:
+Team Name: Volhejn, Dan, Team Score: 11, Set: 2
+Team Name: Langer, Ales, Team Score: 6, Set: 1
+11-6
+2-1
+Updated scores for Volhejn, Dan vs Langer, Ales (log date: 2025-02-03)
+
+Bet 74:
+Scoreboard:
+Team Name: Pagac, Zbynek, Team Score: 3, Set: 0
+Team Name: Vavrecka, Michal, Team Score: 5, Set: 2
+3-5
+0-2
+Updated scores for Pagac, Zbynek vs Vavrecka, Michal (log date: 2025-02-03)
+
+Bet 75:
+Scoreboard:
+Team Name: Novotny, Jaroslav, Team Score: 4, Set: 0
+Team Name: Jonas, Martin, Team Score: 7, Set: 2
+4-7
+0-2
+Updated scores for Novotny, Jaroslav vs Jonas, Martin (log date: 2025-02-03)
+
+Bet 76:
+Error retrieving team names and scores: Message: stale element reference: stale element not found in the current frame
+(Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Error updating database: list index out of range
+
+Bet 77:
+Scoreboard:
+Team Name: Janousek, Ladislav, Team Score: 3, Set: 2
+Team Name: Malek, Lukas, Team Score: 7, Set: 2
+3-7
+2-2
+Updated scores for Janousek, Ladislav vs Malek, Lukas (log date: 2025-02-03)
+
+Bet 78:
+Scoreboard:
+Team Name: Mrugala, Bartlomiej, Team Score: 8, Set: 2
+Team Name: Nagel, Kacper, Team Score: 6, Set: 1
+8-6
+2-1
+Updated scores for Mrugala, Bartlomiej vs Nagel, Kacper (log date: 2025-02-03)
+
+Bet 79:
+Scoreboard:
+Team Name: Dvorak, Frantisek, Team Score: 1, Set: 2
+Team Name: Zelezny, Daniel, Team Score: 6, Set: 2
+1-6
+2-2
+Updated scores for Dvorak, Frantisek vs Zelezny, Daniel (log date: 2025-02-03)
+
+Bet 80:
+Scoreboard:
+Team Name: Lomsky, Gustav, Team Score: 3, Set: 1
+Team Name: Prokes, Jan, Team Score: 5, Set: 2
+3-5
+1-2
+Updated scores for Lomsky, Gustav vs Prokes, Jan (log date: 2025-02-03)
+
+Bet 81:
+Scoreboard:
+Team Name: Regner, Michal, Team Score: 3, Set: 1
+Team Name: Petracek, Vratislav, Team Score: 5, Set: 2
+3-5
+1-2
+Updated scores for Regner, Michal vs Petracek, Vratislav (log date: 2025-02-03)
+
+Bet 82:
+Error retrieving team names and scores: Message: stale element reference: stale element not found in the current frame
+(Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Error updating database: list index out of range
+
+Bet 83:
+Scoreboard:
+Team Name: Felkel, Grzegorz, Team Score: 0, Set: 2
+Team Name: Golebiowski, Mateusz, Team Score: 5, Set: 2
+0-5
+2-2
+Updated scores for Felkel, Grzegorz vs Golebiowski, Mateusz (log date: 2025-02-03)
+
+Bet 84:
+Scoreboard:
+Team Name: Takahashi, Bruna, Team Score: 4, Set: 1
+Team Name: Polcanova, Sofia, Team Score: 6, Set: 2
+4-6
+1-2
+Updated scores for Takahashi, Bruna vs Polcanova, Sofia (log date: 2025-02-03)
+
+Bet 85:
+Scoreboard:
+Team Name: Pawlowski, Krzysztof, Team Score: 8, Set: 2
+Team Name: Galus, Mateusz, Team Score: 6, Set: 0
+8-6
+2-0
+Updated scores for Pawlowski, Krzysztof vs Galus, Mateusz (log date: 2025-02-03)
+
+Bet 86:
+Scoreboard:
+Team Name: Stapor Rafal, Team Score: 8, Set: 2
+Team Name: Mrugala, Bartlomiej, Team Score: 6, Set: 0
+8-6
+2-0
+Updated scores for Stapor Rafal vs Mrugala, Bartlomiej (log date: 2025-02-03)
+
+Bet 87:
+Scoreboard:
+Team Name: Dvorak, Frantisek, Team Score: 5, Set: 2
+Team Name: Knazik, Ondrej, Team Score: 9, Set: 2
+5-9
+2-2
+Updated scores for Dvorak, Frantisek vs Knazik, Ondrej (log date: 2025-02-03)
+
+Bet 88:
+Scoreboard:
+Team Name: Zelezny, Daniel, Team Score: 3, Set: 0
+Team Name: Trefny, Jan, Team Score: 6, Set: 2
+3-6
+0-2
+Updated scores for Zelezny, Daniel vs Trefny, Jan (log date: 2025-02-03)
+
+Bet 89:
+Scoreboard:
+Team Name: Janousek, Ladislav, Team Score: 5, Set: 1
+Team Name: Kolenic, Tibor, Team Score: 7, Set: 2
+5-7
+1-2
+Updated scores for Janousek, Ladislav vs Kolenic, Tibor (log date: 2025-02-03)
+
+Bet 90:
+Scoreboard:
+Team Name: Prokes, Jan, Team Score: 7, Set: 0
+Team Name: Mutl, David, Team Score: 9, Set: 2
+7-9
+0-2
+Updated scores for Prokes, Jan vs Mutl, David (log date: 2025-02-03)
+
+Bet 91:
+Scoreboard:
+Team Name: Dvorak, Frantisek, Team Score: 5, Set: 2
+Team Name: Trefny, Jan, Team Score: 3, Set: 0
+5-3
+2-0
+Updated scores for Dvorak, Frantisek vs Trefny, Jan (log date: 2025-02-03)
+
+Bet 92:
+Scoreboard:
+Team Name: Kolenic, Tibor, Team Score: 7, Set: 2
+Team Name: Vtelensky, Ludek, Team Score: 5, Set: 1
+7-5
+2-1
+Updated scores for Kolenic, Tibor vs Vtelensky, Ludek (log date: 2025-02-03)
+
+Bet 93:
+Scoreboard:
+Team Name: Kwodawski, Bartosz, Team Score: 3, Set: 0
+Team Name: Linek, Adam, Team Score: 5, Set: 2
+3-5
+0-2
+Updated scores for Kwodawski, Bartosz vs Linek, Adam (log date: 2025-02-03)
+
+Bet 94:
+Scoreboard:
+Team Name: Bluhm, Florian, Team Score: 6, Set: 2
+Team Name: Hollo, Mike, Team Score: 4, Set: 2
+6-4
+2-2
+Updated scores for Bluhm, Florian vs Hollo, Mike (log date: 2025-02-03)
+
+Bet 95:
+Scoreboard:
+Team Name: Knazik, Ondrej, Team Score: 7, Set: 2
+Team Name: Zelezny, Daniel, Team Score: 5, Set: 0
+7-5
+2-0
+Updated scores for Knazik, Ondrej vs Zelezny, Daniel (log date: 2025-02-03)
+
+Bet 96:
+Error retrieving team names and scores: Message: stale element reference: stale element not found in the current frame
+(Session info: MicrosoftEdge=132.0.2957.127); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Error updating database: list index out of range
+
+Bet 97:
+Scoreboard:
+Team Name: U21 Coton, Adrien, Team Score: 3, Set: 1
+Team Name: Cheaib, Dauud, Team Score: 5, Set: 2
+3-5
+1-2
+Updated scores for U21 Coton, Adrien vs Cheaib, Dauud (log date: 2025-02-03)
+
+Bet 98:
+Scoreboard:
+Team Name: Molka, Bartlomiej, Team Score: 7, Set: 2
+Team Name: Drozdz, Dariusz, Team Score: 5, Set: 1
+7-5
+2-1
+Updated scores for Molka, Bartlomiej vs Drozdz, Dariusz (log date: 2025-02-03)
+
+Bet 99:
+Scoreboard:
+Team Name: Bulin Zdenek, Team Score: 5, Set: 1
+Team Name: Mutl, David, Team Score: 6, Set: 2
+5-6
+1-2
+Updated scores for Bulin Zdenek vs Mutl, David (log date: 2025-02-03)
+
+Bet 100:
+Scoreboard:
+Team Name: Strowski, Karol, Team Score: 9, Set: 2
+Team Name: Linek, Adam, Team Score: 8, Set: 1
+9-8
+2-1
+Updated scores for Strowski, Karol vs Linek, Adam (log date: 2025-02-03)
+
+Bet 101:
+Scoreboard:
+Team Name: Ibarra, Alberto, Team Score: 1, Set: 2
+Team Name: Sanchez Juan A, Team Score: 6, Set: 2
+1-6
+2-2
+Updated scores for Ibarra, Alberto vs Sanchez Juan A (log date: 2025-02-03)
+
+Bet 102:
+Scoreboard:
+Team Name: Turek, Tomas, Team Score: 6, Set: 2
+Team Name: Kliuchuk, Rostyslav, Team Score: 1, Set: 1
+6-1
+2-1
+Updated scores for Turek, Tomas vs Kliuchuk, Rostyslav (log date: 2025-02-03)
+
+Bet 103:
+Scoreboard:
+Team Name: Vosyka, Radek, Team Score: 8, Set: 2
+Team Name: Vosyka, Ladislav, Team Score: 4, Set: 1
+8-4
+2-1
+Updated scores for Vosyka, Radek vs Vosyka, Ladislav (log date: 2025-02-03)
+
+Bet 104:
+Scoreboard:
+Team Name: Abbasi, Amirreza, Team Score: 3, Set: 2
+Team Name: Golebiowski, Mateusz, Team Score: 7, Set: 2
+3-7
+2-2
+Updated scores for Abbasi, Amirreza vs Golebiowski, Mateusz (log date: 2025-02-03)
+
+Bet 105:
+Scoreboard:
+Team Name: Olbrycht, Michal, Team Score: 7, Set: 2
+Team Name: Kolodziej, Krystian, Team Score: 2, Set: 2
+7-2
+2-2
+Updated scores for Olbrycht, Michal vs Kolodziej, Krystian (log date: 2025-02-03)
+
+Bet 106:
+Scoreboard:
+Team Name: Novak, Libor, Team Score: 5, Set: 2
+Team Name: Hendrych, Jan, Team Score: 2, Set: 1
+5-2
+2-1
+Updated scores for Novak, Libor vs Hendrych, Jan (log date: 2025-02-03)
+
+Bet 107:
+Scoreboard:
+Team Name: Cerny, Jiri, Team Score: 7, Set: 2
+Team Name: Dvorak, Milan, Team Score: 4, Set: 0
+7-4
+2-0
+Updated scores for Cerny, Jiri vs Dvorak, Milan (log date: 2025-02-03)
+
+Bet 108:
+Scoreboard:
+Team Name: Wichowski, Grzegorz, Team Score: 2, Set: 1
+Team Name: Baron, Mariusz, Team Score: 6, Set: 2
+2-6
+1-2
+Updated scores for Wichowski, Grzegorz vs Baron, Mariusz (log date: 2025-02-03)
+
+Bet 109:
+Scoreboard:
+Team Name: Dela Pena, Alfred, Team Score: 2, Set: 2
+Team Name: U21 Coton, Adrien, Team Score: 5, Set: 2
+2-5
+2-2
+Updated scores for Dela Pena, Alfred vs U21 Coton, Adrien (log date: 2025-02-03)
+
+Bet 110:
+Scoreboard:
+Team Name: Ruzicka, Josef, Team Score: 5, Set: 1
+Team Name: Hendrych, Jan, Team Score: 6, Set: 2
+5-6
+1-2
+Updated scores for Ruzicka, Josef vs Hendrych, Jan (log date: 2025-02-03)
+--------------------------------------------------
+
+Analyzing: 20250203_135523_tbAppPinpon.txt
+Found 5 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Bucko, Damian, Team Score: 5, Set: 2
+Team Name: Bracha, Michal, Team Score: 8, Set: 2
+5-8
+2-2
+Updated scores for Bucko, Damian vs Bracha, Michal (log date: 2025-02-03)
+
+Bet 2:
+Scoreboard:
+Team Name: Ibarra, Alberto, Team Score: 6, Set: 2
+Team Name: Garcia, Leon Jose, Team Score: 1, Set: 2
+6-1
+2-2
+Updated scores for Ibarra, Alberto vs Garcia, Leon Jose (log date: 2025-02-03)
+
+Bet 3:
+Scoreboard:
+Team Name: Pietraszko, Lukasz, Team Score: 6, Set: 2
+Team Name: Blocho, Przemyslaw, Team Score: 3, Set: 1
+6-3
+2-1
+Updated scores for Pietraszko, Lukasz vs Blocho, Przemyslaw (log date: 2025-02-03)
+
+Bet 4:
+Scoreboard:
+Team Name: Felkel, Grzegorz, Team Score: 0, Set: 1
+Team Name: Strowski, Karol, Team Score: 6, Set: 2
+0-6
+1-2
+Updated scores for Felkel, Grzegorz vs Strowski, Karol (log date: 2025-02-03)
+
+Bet 5:
+Scoreboard:
+Team Name: Gaik, Krystian, Team Score: 5, Set: 2
+Team Name: Gala, Bartlomiej, Team Score: 2, Set: 2
+5-2
+2-2
+Updated scores for Gaik, Krystian vs Gala, Bartlomiej (log date: 2025-02-03)
+--------------------------------------------------
+
+Analyzing: 20250203_142540_tbAppPinpon.txt
+Found 3 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Wisniewski, Karol, Team Score: 5, Set: 1
+Team Name: Wloczko, Krzysztof, Team Score: 8, Set: 2
+5-8
+1-2
+Updated scores for Wisniewski, Karol vs Wloczko, Krzysztof (log date: 2025-02-03)
+
+Bet 2:
+Scoreboard:
+Team Name: Perez, Alvaro, Team Score: 5, Set: 2
+Team Name: Martinez, Alejandro, Team Score: 8, Set: 2
+5-8
+2-2
+Updated scores for Perez, Alvaro vs Martinez, Alejandro (log date: 2025-02-03)
+
+Bet 3:
+Scoreboard:
+Team Name: Jindrak, Lukas, Team Score: 5, Set: 2
+Team Name: Kliuchuk, Rostyslav, Team Score: 2, Set: 2
+5-2
+2-2
+Updated scores for Jindrak, Lukas vs Kliuchuk, Rostyslav (log date: 2025-02-03)
+--------------------------------------------------
+
+Analyzing: 20250203_151917_tbAppPinpon.txt
+Found 1 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Gaik, Krystian, Team Score: 3, Set: 1
+Team Name: Lojtek, Tomasz, Team Score: 5, Set: 2
+3-5
+1-2
+Updated scores for Gaik, Krystian vs Lojtek, Tomasz (log date: 2025-02-03)
+--------------------------------------------------
+
+Analyzing: 20250203_154409_tbAppPinpon.txt
+Found 1 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Turek, Tomas, Team Score: 6, Set: 2
+Team Name: Kliuchuk, Rostyslav, Team Score: 4, Set: 1
+6-4
+2-1
+Updated scores for Turek, Tomas vs Kliuchuk, Rostyslav (log date: 2025-02-03)
+--------------------------------------------------
+
+Analyzing: 20250203_164857_tbAppPinpon.txt
+Found 1 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Wloczko, Krzysztof, Team Score: 7, Set: 2
+Team Name: Felkel, Grzegorz, Team Score: 4, Set: 1
+7-4
+2-1
+Updated scores for Wloczko, Krzysztof vs Felkel, Grzegorz (log date: 2025-02-03)
+--------------------------------------------------
+
+Analyzing: 20250203_180723_tbAppPinpon.txt
+Found 4 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Jakubsky, Filip, Team Score: 4, Set: 2
+Team Name: Bochnak, David, Team Score: 6, Set: 2
+4-6
+2-2
+Updated scores for Jakubsky, Filip vs Bochnak, David (log date: 2025-02-03)
+
+Bet 2:
+Scoreboard:
+Team Name: Jakubsky, Filip, Team Score: 9, Set: 2
+Team Name: Bochnak, David, Team Score: 7, Set: 2
+9-7
+2-2
+Updated scores for Jakubsky, Filip vs Bochnak, David (log date: 2025-02-03)
+
+Bet 3:
+Scoreboard:
+Team Name: Lojtek, Tomasz, Team Score: 9, Set: 2
+Team Name: Strus, Piotr, Team Score: 7, Set: 1
+9-7
+2-1
+Updated scores for Lojtek, Tomasz vs Strus, Piotr (log date: 2025-02-03)
+
+Bet 4:
+Scoreboard:
+Team Name: Marud, Grzegorz, Team Score: 9, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 7, Set: 2
+9-7
+2-2
+Updated scores for Marud, Grzegorz vs Gumulinski, Piotr (log date: 2025-02-03)
+--------------------------------------------------
+
+Analyzing: 20250203_190729_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250203_191729_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250203_195444_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250203_195840_tbAppPinpon.txt
+Found 1 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 6, Set: 1
+Team Name: Misiak, Mateusz, Team Score: 8, Set: 2
+6-8
+1-2
+Updated scores for Rudomina, Kamil vs Misiak, Mateusz (log date: 2025-02-03)
+--------------------------------------------------
+
+Analyzing: 20250203_200035_tbAppPinpon.txt
+Found 14 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Gumulinski, Piotr, Team Score: 2, Set: 2
+Team Name: Pruszkowski, Jakub, Team Score: 5, Set: 2
+2-5
+2-2
+Updated scores for Gumulinski, Piotr vs Pruszkowski, Jakub (log date: 2025-02-03)
+
+Bet 2:
+Scoreboard:
+Team Name: Gumulinski, Piotr, Team Score: 2, Set: 2
+Team Name: Pruszkowski, Jakub, Team Score: 5, Set: 2
+2-5
+2-2
+Updated scores for Gumulinski, Piotr vs Pruszkowski, Jakub (log date: 2025-02-03)
+
+Bet 3:
+Scoreboard:
+Team Name: Poliniewicz, Grzegorz, Team Score: 9, Set: 2
+Team Name: Filbrandt, Tomasz, Team Score: 7, Set: 2
+9-7
+2-2
+Updated scores for Poliniewicz, Grzegorz vs Filbrandt, Tomasz (log date: 2025-02-03)
+
+Bet 4:
+Scoreboard:
+Team Name: Janata, Tomas, Team Score: 8, Set: 2
+Team Name: Prokupek, Jaroslav, Team Score: 9, Set: 2
+8-9
+2-2
+Updated scores for Janata, Tomas vs Prokupek, Jaroslav (log date: 2025-02-03)
+
+Bet 5:
+Scoreboard:
+Team Name: Blocho, Przemyslaw, Team Score: 5, Set: 2
+Team Name: Kujawa, Filip, Team Score: 2, Set: 2
+5-2
+2-2
+Updated scores for Blocho, Przemyslaw vs Kujawa, Filip (log date: 2025-02-03)
+
+Bet 6:
+Scoreboard:
+Team Name: Blocho, Przemyslaw, Team Score: 6, Set: 2
+Team Name: Kujawa, Filip, Team Score: 3, Set: 2
+6-3
+2-2
+Updated scores for Blocho, Przemyslaw vs Kujawa, Filip (log date: 2025-02-03)
+
+Bet 7:
+Scoreboard:
+Team Name: Moroz, Artur, Team Score: 5, Set: 2
+Team Name: Wenda, Krzysztof, Team Score: 8, Set: 2
+5-8
+2-2
+Updated scores for Moroz, Artur vs Wenda, Krzysztof (log date: 2025-02-03)
+
+Bet 8:
+Scoreboard:
+Team Name: Iwasyszyn, Wojciech, Team Score: 6, Set: 2
+Team Name: Wrobel, Dariusz, Team Score: 8, Set: 2
+6-8
+2-2
+Updated scores for Iwasyszyn, Wojciech vs Wrobel, Dariusz (log date: 2025-02-03)
+
+Bet 9:
+Scoreboard:
+Team Name: Schaniel Krzysztof, Team Score: 5, Set: 2
+Team Name: Marud, Grzegorz, Team Score: 2, Set: 2
+5-2
+2-2
+Updated scores for Schaniel Krzysztof vs Marud, Grzegorz (log date: 2025-02-03)
+
+Bet 10:
+Scoreboard:
+Team Name: Schaniel Krzysztof, Team Score: 5, Set: 2
+Team Name: Marud, Grzegorz, Team Score: 2, Set: 2
+5-2
+2-2
+Updated scores for Schaniel Krzysztof vs Marud, Grzegorz (log date: 2025-02-03)
+
+Bet 11:
+Scoreboard:
+Team Name: Potensky, Jan, Team Score: 3, Set: 2
+Team Name: Hejduk, Alexander, Team Score: 6, Set: 2
+3-6
+2-2
+Updated scores for Potensky, Jan vs Hejduk, Alexander (log date: 2025-02-03)
+
+Bet 12:
+Scoreboard:
+Team Name: Potensky, Jan, Team Score: 4, Set: 2
+Team Name: Hejduk, Alexander, Team Score: 7, Set: 2
+4-7
+2-2
+Updated scores for Potensky, Jan vs Hejduk, Alexander (log date: 2025-02-03)
+
+Bet 13:
+Scoreboard:
+Team Name: Potensky, Jan, Team Score: 4, Set: 2
+Team Name: Hejduk, Alexander, Team Score: 7, Set: 2
+4-7
+2-2
+Updated scores for Potensky, Jan vs Hejduk, Alexander (log date: 2025-02-03)
+
+Bet 14:
+Scoreboard:
+Team Name: Potensky, Jan, Team Score: 4, Set: 2
+Team Name: Hejduk, Alexander, Team Score: 7, Set: 2
+4-7
+2-2
+Updated scores for Potensky, Jan vs Hejduk, Alexander (log date: 2025-02-03)
+--------------------------------------------------
+
+Analyzing: 20250203_230150_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250203_231457_tbAppPinpon.txt
+Found 1 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Hejduk, Alexander, Team Score: 4, Set: 2
+Team Name: Bruzek, Petr, Team Score: 7, Set: 2
+4-7
+2-2
+Updated scores for Hejduk, Alexander vs Bruzek, Petr (log date: 2025-02-03)
+--------------------------------------------------
+
+Analyzing: 20250203_233426_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250203_233844_tbAppPinpon.txt
+Found 1 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Misiak, Mateusz, Team Score: 5, Set: 2
+Team Name: Blocho, Przemyslaw, Team Score: 1, Set: 2
+5-1
+2-2
+Updated scores for Misiak, Mateusz vs Blocho, Przemyslaw (log date: 2025-02-03)
+--------------------------------------------------
+
+Analyzing: 20250203_234446_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250203_235037_tbAppPinpon.txt
+Found 64 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Wang, Lee, Team Score: 2, Set: 1
+Team Name: Shah, Bhavesh, Team Score: 5, Set: 2
+2-5
+1-2
+Updated scores for Wang, Lee vs Shah, Bhavesh (log date: 2025-02-03)
+
+Bet 2:
+Scoreboard:
+Team Name: Wang, Lee, Team Score: 3, Set: 2
+Team Name: Shah, Bhavesh, Team Score: 6, Set: 2
+3-6
+2-2
+Updated scores for Wang, Lee vs Shah, Bhavesh (log date: 2025-02-03)
+
+Bet 3:
+Scoreboard:
+Team Name: Novak, Kamil, Team Score: 2, Set: 2
+Team Name: Tuma, Daniel, Team Score: 6, Set: 2
+2-6
+2-2
+Updated scores for Novak, Kamil vs Tuma, Daniel (log date: 2025-02-03)
+
+Bet 4:
+Scoreboard:
+Team Name: Novak, Kamil, Team Score: 6, Set: 2
+Team Name: Tuma, Daniel, Team Score: 9, Set: 2
+6-9
+2-2
+Updated scores for Novak, Kamil vs Tuma, Daniel (log date: 2025-02-03)
+
+Bet 5:
+Scoreboard:
+Team Name: Shah, Bhavesh, Team Score: 3, Set: 1
+Team Name: Lu, Louis, Team Score: 5, Set: 2
+3-5
+1-2
+Updated scores for Shah, Bhavesh vs Lu, Louis (log date: 2025-02-03)
+
+Bet 6:
+Scoreboard:
+Team Name: Wrobel, Dariusz, Team Score: 6, Set: 2
+Team Name: Gala, Bartlomiej, Team Score: 5, Set: 1
+6-5
+2-1
+Updated scores for Wrobel, Dariusz vs Gala, Bartlomiej (log date: 2025-02-03)
+
+Bet 7:
+Scoreboard:
+Team Name: Krejci, Richard, Team Score: 3, Set: 0
+Team Name: Cermak, Vladimir, Team Score: 5, Set: 2
+3-5
+0-2
+Updated scores for Krejci, Richard vs Cermak, Vladimir (log date: 2025-02-03)
+
+Bet 8:
+Scoreboard:
+Team Name: Krejci, Richard, Team Score: 6, Set: 0
+Team Name: Cermak, Vladimir, Team Score: 7, Set: 2
+6-7
+0-2
+Updated scores for Krejci, Richard vs Cermak, Vladimir (log date: 2025-02-03)
+
+Bet 9:
+Scoreboard:
+Team Name: Sychra, Martin, Team Score: 0, Set: 2
+Team Name: Janata, Tomas, Team Score: 5, Set: 2
+0-5
+2-2
+Updated scores for Sychra, Martin vs Janata, Tomas (log date: 2025-02-03)
+
+Bet 10:
+Scoreboard:
+Team Name: Iwasyszyn, Wojciech, Team Score: 5, Set: 0
+Team Name: Kowalczyk, Marcin, Team Score: 7, Set: 2
+5-7
+0-2
+Updated scores for Iwasyszyn, Wojciech vs Kowalczyk, Marcin (log date: 2025-02-03)
+
+Bet 11:
+Scoreboard:
+Team Name: Michalski, Jakub, Team Score: 1, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 5, Set: 2
+1-5
+2-2
+Updated scores for Michalski, Jakub vs Gumulinski, Piotr (log date: 2025-02-03)
+
+Bet 12:
+Scoreboard:
+Team Name: Bruzek, Petr, Team Score: 4, Set: 1
+Team Name: Parhomenko, Dmitro, Team Score: 7, Set: 2
+4-7
+1-2
+Updated scores for Bruzek, Petr vs Parhomenko, Dmitro (log date: 2025-02-03)
+
+Bet 13:
+Scoreboard:
+Team Name: Zochniak, Jakub, Team Score: 4, Set: 1
+Team Name: Kotyl, Krzysztof, Team Score: 7, Set: 2
+4-7
+1-2
+Updated scores for Zochniak, Jakub vs Kotyl, Krzysztof (log date: 2025-02-03)
+
+Bet 14:
+Scoreboard:
+Team Name: Novak, Kamil, Team Score: 5, Set: 1
+Team Name: Kostal, Marek, Team Score: 6, Set: 2
+5-6
+1-2
+Updated scores for Novak, Kamil vs Kostal, Marek (log date: 2025-02-03)
+
+Bet 15:
+Scoreboard:
+Team Name: Schaniel Krzysztof, Team Score: 2, Set: 1
+Team Name: Jadach, Oskar, Team Score: 5, Set: 2
+2-5
+1-2
+Updated scores for Schaniel Krzysztof vs Jadach, Oskar (log date: 2025-02-03)
+
+Bet 16:
+Scoreboard:
+Error retrieving team names and scores: Message: stale element reference: stale element not found in the current frame
+(Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Error updating database: list index out of range
+
+Bet 17:
+Scoreboard:
+Team Name: Balcerzak, Marcin, Team Score: 1, Set: 2
+Team Name: Murawski, Michal, Team Score: 5, Set: 2
+1-5
+2-2
+Updated scores for Balcerzak, Marcin vs Murawski, Michal (log date: 2025-02-03)
+
+Bet 18:
+Scoreboard:
+Team Name: Mugowski, Arkadiusz, Team Score: 4, Set: 0
+Team Name: Iwasyszyn, Wojciech, Team Score: 5, Set: 2
+4-5
+0-2
+Updated scores for Mugowski, Arkadiusz vs Iwasyszyn, Wojciech (log date: 2025-02-03)
+
+Bet 19:
+Scoreboard:
+Team Name: Zhang, Lily, Team Score: 5, Set: 2
+Team Name: Lee, Eunhye, Team Score: 3, Set: 0
+5-3
+2-0
+Updated scores for Zhang, Lily vs Lee, Eunhye (log date: 2025-02-03)
+
+Bet 20:
+Scoreboard:
+Team Name: Jang, Woojin, Team Score: 7, Set: 2
+Team Name: Chen, Yuanyu, Team Score: 4, Set: 0
+7-4
+2-0
+Updated scores for Jang, Woojin vs Chen, Yuanyu (log date: 2025-02-03)
+
+Bet 21:
+Scoreboard:
+Team Name: Gumulinski, Piotr, Team Score: 7, Set: 2
+Team Name: Pruszkowski, Jakub, Team Score: 6, Set: 0
+7-6
+2-0
+Updated scores for Gumulinski, Piotr vs Pruszkowski, Jakub (log date: 2025-02-03)
+
+Bet 22:
+Scoreboard:
+Team Name: Czerwinski, Bartosz, Team Score: 2, Set: 1
+Team Name: Spychala, Adrian, Team Score: 6, Set: 2
+2-6
+1-2
+Updated scores for Czerwinski, Bartosz vs Spychala, Adrian (log date: 2025-02-03)
+
+Bet 23:
+Scoreboard:
+Team Name: Pucar, Tomislav, Team Score: 5, Set: 1
+Team Name: Walther, Ricardo, Team Score: 7, Set: 2
+5-7
+1-2
+Updated scores for Pucar, Tomislav vs Walther, Ricardo (log date: 2025-02-03)
+
+Bet 24:
+Scoreboard:
+Team Name: Iwasyszyn, Wojciech, Team Score: 1, Set: 2
+Team Name: Kotyl, Krzysztof, Team Score: 6, Set: 2
+1-6
+2-2
+Updated scores for Iwasyszyn, Wojciech vs Kotyl, Krzysztof (log date: 2025-02-03)
+
+Bet 25:
+Scoreboard:
+Team Name: Spychala, Adrian, Team Score: 2, Set: 1
+Team Name: Nowalinski, Maciej, Team Score: 5, Set: 2
+2-5
+1-2
+Updated scores for Spychala, Adrian vs Nowalinski, Maciej (log date: 2025-02-03)
+
+Bet 26:
+Scoreboard:
+Team Name: Braun, Josef, Team Score: 3, Set: 1
+Team Name: Jadczyk, Marcin, Team Score: 5, Set: 2
+3-5
+1-2
+Updated scores for Braun, Josef vs Jadczyk, Marcin (log date: 2025-02-03)
+
+Bet 27:
+Scoreboard:
+Team Name: Braun, Josef, Team Score: 6, Set: 1
+Team Name: Jadczyk, Marcin, Team Score: 8, Set: 2
+6-8
+1-2
+Updated scores for Braun, Josef vs Jadczyk, Marcin (log date: 2025-02-03)
+
+Bet 28:
+Scoreboard:
+Team Name: Mugowski, Arkadiusz, Team Score: 6, Set: 1
+Team Name: Radlo, Szymon, Team Score: 7, Set: 2
+6-7
+1-2
+Updated scores for Mugowski, Arkadiusz vs Radlo, Szymon (log date: 2025-02-03)
+
+Bet 29:
+Scoreboard:
+Team Name: Czerwinski, Bartosz, Team Score: 5, Set: 2
+Team Name: Murawski, Michal, Team Score: 2, Set: 1
+5-2
+2-1
+Updated scores for Czerwinski, Bartosz vs Murawski, Michal (log date: 2025-02-03)
+
+Bet 30:
+Scoreboard:
+Team Name: Czerwinski, Bartosz, Team Score: 6, Set: 2
+Team Name: Murawski, Michal, Team Score: 4, Set: 1
+6-4
+2-1
+Updated scores for Czerwinski, Bartosz vs Murawski, Michal (log date: 2025-02-03)
+
+Bet 31:
+Scoreboard:
+Team Name: Czerwinski, Bartosz, Team Score: 7, Set: 2
+Team Name: Murawski, Michal, Team Score: 5, Set: 1
+7-5
+2-1
+Updated scores for Czerwinski, Bartosz vs Murawski, Michal (log date: 2025-02-03)
+
+Bet 32:
+Scoreboard:
+Team Name: Yoshimura, Maharu, Team Score: 3, Set: 1
+Team Name: Kallberg, Anton, Team Score: 5, Set: 2
+3-5
+1-2
+Updated scores for Yoshimura, Maharu vs Kallberg, Anton (log date: 2025-02-03)
+
+Bet 33:
+Scoreboard:
+Team Name: Yoshimura, Maharu, Team Score: 2, Set: 2
+Team Name: Kallberg, Anton, Team Score: 5, Set: 2
+2-5
+2-2
+Updated scores for Yoshimura, Maharu vs Kallberg, Anton (log date: 2025-02-03)
+
+Bet 34:
+Scoreboard:
+Team Name: Yoshimura, Maharu, Team Score: 4, Set: 2
+Team Name: Kallberg, Anton, Team Score: 6, Set: 2
+4-6
+2-2
+Updated scores for Yoshimura, Maharu vs Kallberg, Anton (log date: 2025-02-03)
+
+Bet 35:
+Scoreboard:
+Team Name: Balcerzak, Marcin, Team Score: 6, Set: 2
+Team Name: Nowalinski, Maciej, Team Score: 4, Set: 1
+6-4
+2-1
+Updated scores for Balcerzak, Marcin vs Nowalinski, Maciej (log date: 2025-02-03)
+
+Bet 36:
+Scoreboard:
+Team Name: U21 Chirita, Iulian, Team Score: 3, Set: 1
+Team Name: Redzimski, Milosz, Team Score: 5, Set: 2
+3-5
+1-2
+Updated scores for U21 Chirita, Iulian vs Redzimski, Milosz (log date: 2025-02-03)
+
+Bet 37:
+Scoreboard:
+Team Name: U21 Chirita, Iulian, Team Score: 4, Set: 1
+Team Name: Redzimski, Milosz, Team Score: 7, Set: 2
+4-7
+1-2
+Updated scores for U21 Chirita, Iulian vs Redzimski, Milosz (log date: 2025-02-03)
+
+Bet 38:
+Scoreboard:
+Team Name: Pawlowski, Krzysztof, Team Score: 5, Set: 2
+Team Name: Gola, Pawel, Team Score: 1, Set: 2
+5-1
+2-2
+Updated scores for Pawlowski, Krzysztof vs Gola, Pawel (log date: 2025-02-03)
+
+Bet 39:
+Scoreboard:
+Team Name: Tan N / Yang Z Y, Team Score: 4, Set: 2
+Team Name: Chew Z Y C / Chua J S H, Team Score: 7, Set: 2
+4-7
+2-2
+Updated scores for Tan N / Yang Z Y vs Chew Z Y C / Chua J S H (log date: 2025-02-03)
+
+Bet 40:
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 4, Set: 1
+Team Name: Dytko, Dawid, Team Score: 6, Set: 2
+4-6
+1-2
+Updated scores for Jozala, Waldemar vs Dytko, Dawid (log date: 2025-02-03)
+
+Bet 41:
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 5, Set: 1
+Team Name: Dytko, Dawid, Team Score: 8, Set: 2
+5-8
+1-2
+Updated scores for Jozala, Waldemar vs Dytko, Dawid (log date: 2025-02-03)
+
+Bet 42:
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 7, Set: 1
+Team Name: Dytko, Dawid, Team Score: 8, Set: 2
+7-8
+1-2
+Updated scores for Jozala, Waldemar vs Dytko, Dawid (log date: 2025-02-03)
+
+Bet 43:
+Scoreboard:
+Team Name: Cmerda, Ondrej, Team Score: 4, Set: 1
+Team Name: Zuzanek, Jiri, Team Score: 6, Set: 2
+4-6
+1-2
+Updated scores for Cmerda, Ondrej vs Zuzanek, Jiri (log date: 2025-02-03)
+
+Bet 44:
+Scoreboard:
+Team Name: Malek, Miroslav, Team Score: 9, Set: 2
+Team Name: Stehlik, Milan, Team Score: 7, Set: 2
+9-7
+2-2
+Updated scores for Malek, Miroslav vs Stehlik, Milan (log date: 2025-02-03)
+
+Bet 45:
+Scoreboard:
+Team Name: Drozdz, Dariusz, Team Score: 5, Set: 2
+Team Name: Nagel, Kacper, Team Score: 3, Set: 1
+5-3
+2-1
+Updated scores for Drozdz, Dariusz vs Nagel, Kacper (log date: 2025-02-03)
+
+Bet 46:
+Scoreboard:
+Team Name: Drozdz, Dariusz, Team Score: 3, Set: 2
+Team Name: Nagel, Kacper, Team Score: 7, Set: 2
+3-7
+2-2
+Updated scores for Drozdz, Dariusz vs Nagel, Kacper (log date: 2025-02-03)
+
+Bet 47:
+Scoreboard:
+Team Name: Martinez, Alejandro, Team Score: 7, Set: 1
+Team Name: Sanchez Juan A, Team Score: 9, Set: 2
+7-9
+1-2
+Updated scores for Martinez, Alejandro vs Sanchez Juan A (log date: 2025-02-03)
+
+Bet 48:
+Scoreboard:
+Team Name: Lilien, Aleksander, Team Score: 7, Set: 0
+Team Name: Mugowski, Arkadiusz, Team Score: 8, Set: 2
+7-8
+0-2
+Updated scores for Lilien, Aleksander vs Mugowski, Arkadiusz (log date: 2025-02-03)
+
+Bet 49:
+Scoreboard:
+Team Name: Lilien, Aleksander, Team Score: 5, Set: 2
+Team Name: Mugowski, Arkadiusz, Team Score: 2, Set: 2
+5-2
+2-2
+Updated scores for Lilien, Aleksander vs Mugowski, Arkadiusz (log date: 2025-02-03)
+
+Bet 50:
+Scoreboard:
+Team Name: Zikmunda, Zdenek, Team Score: 6, Set: 2
+Team Name: Cvecek, Martin, Team Score: 4, Set: 1
+6-4
+2-1
+Updated scores for Zikmunda, Zdenek vs Cvecek, Martin (log date: 2025-02-03)
+
+Bet 51:
+Scoreboard:
+Team Name: Hlawatschke, Ales, Team Score: 5, Set: 1
+Team Name: Kadavy, Simon, Team Score: 7, Set: 2
+5-7
+1-2
+Updated scores for Hlawatschke, Ales vs Kadavy, Simon (log date: 2025-02-03)
+
+Bet 52:
+Scoreboard:
+Team Name: Kucera, Tomas, Team Score: 4, Set: 1
+Team Name: Vrba, Jindrich, Team Score: 6, Set: 2
+4-6
+1-2
+Updated scores for Kucera, Tomas vs Vrba, Jindrich (log date: 2025-02-03)
+
+Bet 53:
+Scoreboard:
+Team Name: Felkel, Grzegorz, Team Score: 5, Set: 2
+Team Name: Braun, Josef, Team Score: 3, Set: 0
+5-3
+2-0
+Updated scores for Felkel, Grzegorz vs Braun, Josef (log date: 2025-02-03)
+
+Bet 54:
+Scoreboard:
+Team Name: Kucera, Tomas, Team Score: 8, Set: 2
+Team Name: Vrba, Jindrich, Team Score: 5, Set: 2
+8-5
+2-2
+Updated scores for Kucera, Tomas vs Vrba, Jindrich (log date: 2025-02-03)
+
+Bet 55:
+Scoreboard:
+Team Name: Yang, Chia-An, Team Score: 6, Set: 2
+Team Name: U21 Coton, Adrien, Team Score: 4, Set: 2
+6-4
+2-2
+Updated scores for Yang, Chia-An vs U21 Coton, Adrien (log date: 2025-02-03)
+
+Bet 56:
+Scoreboard:
+Team Name: Zochniak, Jakub, Team Score: 12, Set: 2
+Team Name: Iwasyszyn, Wojciech, Team Score: 10, Set: 1
+12-10
+2-1
+Updated scores for Zochniak, Jakub vs Iwasyszyn, Wojciech (log date: 2025-02-03)
+
+Bet 57:
+Scoreboard:
+Team Name: Stehlik, Milan, Team Score: 2, Set: 0
+Team Name: Zikmunda, Zdenek, Team Score: 5, Set: 2
+2-5
+0-2
+Updated scores for Stehlik, Milan vs Zikmunda, Zdenek (log date: 2025-02-03)
+
+Bet 58:
+Scoreboard:
+Team Name: Zochniak, Jakub, Team Score: 7, Set: 2
+Team Name: Iwasyszyn, Wojciech, Team Score: 4, Set: 2
+7-4
+2-2
+Updated scores for Zochniak, Jakub vs Iwasyszyn, Wojciech (log date: 2025-02-03)
+
+Bet 59:
+Scoreboard:
+Team Name: Varcl Jr, Jan, Team Score: 4, Set: 1
+Team Name: Steffan, Jan, Team Score: 6, Set: 2
+4-6
+1-2
+Updated scores for Varcl Jr, Jan vs Steffan, Jan (log date: 2025-02-03)
+
+Bet 60:
+Scoreboard:
+Team Name: Mrugala, Bartlomiej, Team Score: 8, Set: 2
+Team Name: Sulkowski, Karol, Team Score: 5, Set: 1
+8-5
+2-1
+Updated scores for Mrugala, Bartlomiej vs Sulkowski, Karol (log date: 2025-02-03)
+
+Bet 61:
+Scoreboard:
+Team Name: Varcl Jr, Jan, Team Score: 9, Set: 2
+Team Name: Steffan, Jan, Team Score: 7, Set: 2
+9-7
+2-2
+Updated scores for Varcl Jr, Jan vs Steffan, Jan (log date: 2025-02-03)
+
+Bet 62:
+Scoreboard:
+Team Name: Jadczyk, Marcin, Team Score: 3, Set: 1
+Team Name: Zandecki, Jan, Team Score: 6, Set: 2
+3-6
+1-2
+Updated scores for Jadczyk, Marcin vs Zandecki, Jan (log date: 2025-02-03)
+
+Bet 63:
+Scoreboard:
+Team Name: Cheaib, Dauud, Team Score: 6, Set: 2
+Team Name: Hollo, Mike, Team Score: 4, Set: 1
+6-4
+2-1
+Updated scores for Cheaib, Dauud vs Hollo, Mike (log date: 2025-02-03)
+
+Bet 64:
+Scoreboard:
+Team Name: Kocvara, Martin, Team Score: 8, Set: 2
+Team Name: Vonasek, Jan, Team Score: 7, Set: 0
+8-7
+2-0
+Updated scores for Kocvara, Martin vs Vonasek, Jan (log date: 2025-02-03)
+--------------------------------------------------
+
+Analyzing: 20250204_141734_tbAppPinpon.txt
+Found 45 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Linek, Adam, Team Score: 3, Set: 1
+Team Name: Sobel, Artur, Team Score: 6, Set: 2
+3-6
+1-2
+Updated scores for Linek, Adam vs Sobel, Artur (log date: 2025-02-04)
+
+Bet 2:
+Scoreboard:
+Team Name: Alvarez Garcia, Moises, Team Score: 7, Set: 2
+Team Name: Benito, Javier, Team Score: 9, Set: 2
+7-9
+2-2
+Updated scores for Alvarez Garcia, Moises vs Benito, Javier (log date: 2025-02-04)
+
+Bet 3:
+Scoreboard:
+Team Name: Gaik, Krystian, Team Score: 6, Set: 2
+Team Name: Rolak, Jaroslaw, Team Score: 3, Set: 0
+6-3
+2-0
+Updated scores for Gaik, Krystian vs Rolak, Jaroslaw (log date: 2025-02-04)
+
+Bet 4:
+Scoreboard:
+Team Name: Kliuchuk, Rostyslav, Team Score: 1, Set: 0
+Team Name: Ruzicka, Jiri, Team Score: 5, Set: 2
+1-5
+0-2
+Updated scores for Kliuchuk, Rostyslav vs Ruzicka, Jiri (log date: 2025-02-04)
+
+Bet 5:
+Scoreboard:
+Team Name: Smidt, Karel, Team Score: 7, Set: 2
+Team Name: Turek, Tomas, Team Score: 6, Set: 1
+7-6
+2-1
+Updated scores for Smidt, Karel vs Turek, Tomas (log date: 2025-02-04)
+
+Bet 6:
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 3, Set: 2
+Team Name: Poliniewicz, Grzegorz, Team Score: 5, Set: 2
+3-5
+2-2
+Updated scores for Rudomina, Kamil vs Poliniewicz, Grzegorz (log date: 2025-02-04)
+
+Bet 7:
+Scoreboard:
+Team Name: Wiekiera, Arkadiusz, Team Score: 8, Set: 2
+Team Name: Papciak, Grzegorz, Team Score: 5, Set: 2
+8-5
+2-2
+Updated scores for Wiekiera, Arkadiusz vs Papciak, Grzegorz (log date: 2025-02-04)
+
+Bet 8:
+Scoreboard:
+Team Name: Tacinec, Martin, Team Score: 8, Set: 2
+Team Name: Sulava, Lubor, Team Score: 5, Set: 2
+8-5
+2-2
+Updated scores for Tacinec, Martin vs Sulava, Lubor (log date: 2025-02-04)
+
+Bet 9:
+Scoreboard:
+Team Name: Strouhal, Vojtech, Team Score: 7, Set: 2
+Team Name: Libovicky, Vladimir, Team Score: 5, Set: 2
+7-5
+2-2
+Updated scores for Strouhal, Vojtech vs Libovicky, Vladimir (log date: 2025-02-04)
+
+Bet 10:
+Scoreboard:
+Team Name: Sikora, Fabian, Team Score: 2, Set: 1
+Team Name: Krezel, Andrzej, Team Score: 5, Set: 2
+2-5
+1-2
+Updated scores for Sikora, Fabian vs Krezel, Andrzej (log date: 2025-02-04)
+
+Bet 11:
+Scoreboard:
+Team Name: Sulava, Lubor, Team Score: 1, Set: 2
+Team Name: Kasinski, Zdenek, Team Score: 0, Set: 0
+1-0
+2-0
+Updated scores for Sulava, Lubor vs Kasinski, Zdenek (log date: 2025-02-04)
+
+Bet 12:
+Scoreboard:
+Team Name: Nagorzanski, Seweryn, Team Score: 1, Set: 2
+Team Name: Guzy, Karol, Team Score: 5, Set: 2
+1-5
+2-2
+Updated scores for Nagorzanski, Seweryn vs Guzy, Karol (log date: 2025-02-04)
+
+Bet 13:
+Scoreboard:
+Team Name: Trefny, Jan, Team Score: 6, Set: 1
+Team Name: Zelezny, Daniel, Team Score: 8, Set: 2
+6-8
+1-2
+Updated scores for Trefny, Jan vs Zelezny, Daniel (log date: 2025-02-04)
+
+Bet 14:
+Error retrieving team names and scores: Message: stale element reference: stale element not found in the current frame
+(Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Error updating database: list index out of range
+
+Bet 15:
+Scoreboard:
+Team Name: Tacinec, Martin, Team Score: 4, Set: 1
+Team Name: Pleskot, Jan, Team Score: 7, Set: 2
+4-7
+1-2
+Updated scores for Tacinec, Martin vs Pleskot, Jan (log date: 2025-02-04)
+
+Bet 16:
+Scoreboard:
+Team Name: Zika, Tadeas, Team Score: 6, Set: 2
+Team Name: Turek, Tomas, Team Score: 8, Set: 2
+6-8
+2-2
+Updated scores for Zika, Tadeas vs Turek, Tomas (log date: 2025-02-04)
+
+Bet 17:
+Scoreboard:
+Team Name: Hons, Karel, Team Score: 1, Set: 2
+Team Name: Limbursky, Radek, Team Score: 5, Set: 2
+1-5
+2-2
+Updated scores for Hons, Karel vs Limbursky, Radek (log date: 2025-02-04)
+
+Bet 18:
+Scoreboard:
+Team Name: Zelezny, Daniel, Team Score: 2, Set: 2
+Team Name: Trefny, Jan, Team Score: 7, Set: 2
+2-7
+2-2
+Updated scores for Zelezny, Daniel vs Trefny, Jan (log date: 2025-02-04)
+
+Bet 19:
+Scoreboard:
+Team Name: Martin, Ivan, Team Score: 9, Set: 2
+Team Name: Benito, Javier, Team Score: 5, Set: 2
+9-5
+2-2
+Updated scores for Martin, Ivan vs Benito, Javier (log date: 2025-02-04)
+
+Bet 20:
+Scoreboard:
+Team Name: Nadvornik, Vaclav, Team Score: 5, Set: 1
+Team Name: Bochnak, David, Team Score: 8, Set: 2
+5-8
+1-2
+Updated scores for Nadvornik, Vaclav vs Bochnak, David (log date: 2025-02-04)
+
+Bet 21:
+Scoreboard:
+Team Name: Barta, Tomas, Team Score: 7, Set: 2
+Team Name: Steffan, Jan, Team Score: 4, Set: 2
+7-4
+2-2
+Updated scores for Barta, Tomas vs Steffan, Jan (log date: 2025-02-04)
+
+Bet 22:
+Scoreboard:
+Team Name: Nadvornik, Vaclav, Team Score: 3, Set: 2
+Team Name: Bochnak, David, Team Score: 6, Set: 2
+3-6
+2-2
+Updated scores for Nadvornik, Vaclav vs Bochnak, David (log date: 2025-02-04)
+
+Bet 23:
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 6, Set: 2
+Team Name: Misiak, Mateusz, Team Score: 2, Set: 2
+6-2
+2-2
+Updated scores for Rudomina, Kamil vs Misiak, Mateusz (log date: 2025-02-04)
+
+Bet 24:
+Scoreboard:
+Team Name: Strowski, Karol, Team Score: 8, Set: 2
+Team Name: Jarocki, Lukasz, Team Score: 5, Set: 1
+8-5
+2-1
+Updated scores for Strowski, Karol vs Jarocki, Lukasz (log date: 2025-02-04)
+
+Bet 25:
+Scoreboard:
+Team Name: Vodal, Petr, Team Score: 7, Set: 0
+Team Name: Dohnal, Jaroslav, Team Score: 8, Set: 2
+7-8
+0-2
+Updated scores for Vodal, Petr vs Dohnal, Jaroslav (log date: 2025-02-04)
+
+Bet 26:
+Scoreboard:
+Team Name: Krejci, Ales, Team Score: 5, Set: 2
+Team Name: Limbursky, Radek, Team Score: 2, Set: 2
+5-2
+2-2
+Updated scores for Krejci, Ales vs Limbursky, Radek (log date: 2025-02-04)
+
+Bet 27:
+Scoreboard:
+Team Name: Lewczuk, Miroslaw, Team Score: 3, Set: 2
+Team Name: Scigany, Dariusz, Team Score: 5, Set: 2
+3-5
+2-2
+Updated scores for Lewczuk, Miroslaw vs Scigany, Dariusz (log date: 2025-02-04)
+
+Bet 28:
+Scoreboard:
+Team Name: Sobel, Artur, Team Score: 2, Set: 1
+Team Name: Blocho, Przemyslaw, Team Score: 5, Set: 2
+2-5
+1-2
+Updated scores for Sobel, Artur vs Blocho, Przemyslaw (log date: 2025-02-04)
+
+Bet 29:
+Scoreboard:
+Team Name: Gaik, Krystian, Team Score: 8, Set: 2
+Team Name: Koczyba, Mariusz, Team Score: 6, Set: 2
+8-6
+2-2
+Updated scores for Gaik, Krystian vs Koczyba, Mariusz (log date: 2025-02-04)
+
+Bet 30:
+Scoreboard:
+Team Name: Sikora, Fabian, Team Score: 5, Set: 1
+Team Name: Ucinski, Rafal, Team Score: 7, Set: 2
+5-7
+1-2
+Updated scores for Sikora, Fabian vs Ucinski, Rafal (log date: 2025-02-04)
+
+Bet 31:
+Scoreboard:
+Team Name: Plihal, Martin, Team Score: 2, Set: 2
+Team Name: Zeman, Radek, Team Score: 7, Set: 2
+2-7
+2-2
+Updated scores for Plihal, Martin vs Zeman, Radek (log date: 2025-02-04)
+
+Bet 32:
+Scoreboard:
+Team Name: Sopko, Martin, Team Score: 6, Set: 1
+Team Name: Pavelka, Radim, Team Score: 8, Set: 2
+6-8
+1-2
+Updated scores for Sopko, Martin vs Pavelka, Radim (log date: 2025-02-04)
+
+Bet 33:
+Scoreboard:
+Team Name: Maslowski, Jakub, Team Score: 8, Set: 2
+Team Name: Pietraszko, Lukasz, Team Score: 4, Set: 2
+8-4
+2-2
+Updated scores for Maslowski, Jakub vs Pietraszko, Lukasz (log date: 2025-02-04)
+
+Bet 34:
+Scoreboard:
+Team Name: Herna, Michal, Team Score: 8, Set: 2
+Team Name: Wasserbauer, Jaroslav, Team Score: 5, Set: 2
+8-5
+2-2
+Updated scores for Herna, Michal vs Wasserbauer, Jaroslav (log date: 2025-02-04)
+
+Bet 35:
+Scoreboard:
+Team Name: Rein, Tomas, Team Score: 3, Set: 1
+Team Name: Mach, Jakub, Team Score: 5, Set: 2
+3-5
+1-2
+Updated scores for Rein, Tomas vs Mach, Jakub (log date: 2025-02-04)
+
+Bet 36:
+Scoreboard:
+Team Name: Fabis, Adrian, Team Score: 7, Set: 2
+Team Name: Kowalczyk, Marcin, Team Score: 4, Set: 1
+7-4
+2-1
+Updated scores for Fabis, Adrian vs Kowalczyk, Marcin (log date: 2025-02-04)
+
+Bet 37:
+Scoreboard:
+Team Name: Warzecha, Miroslaw, Team Score: 4, Set: 2
+Team Name: Polanski, Pawel, Team Score: 8, Set: 2
+4-8
+2-2
+Updated scores for Warzecha, Miroslaw vs Polanski, Pawel (log date: 2025-02-04)
+
+Bet 38:
+Scoreboard:
+Team Name: Kovtanyuk, Denys, Team Score: 7, Set: 2
+Team Name: Krezel, Andrzej, Team Score: 6, Set: 1
+7-6
+2-1
+Updated scores for Kovtanyuk, Denys vs Krezel, Andrzej (log date: 2025-02-04)
+
+Bet 39:
+Scoreboard:
+Team Name: Limbursky, Radek, Team Score: 5, Set: 2
+Team Name: Herna, Michal, Team Score: 3, Set: 1
+5-3
+2-1
+Updated scores for Limbursky, Radek vs Herna, Michal (log date: 2025-02-04)
+
+Bet 40:
+Scoreboard:
+Team Name: Trela, Mateusz, Team Score: 9, Set: 2
+Team Name: Rolak, Jaroslaw, Team Score: 5, Set: 1
+9-5
+2-1
+Updated scores for Trela, Mateusz vs Rolak, Jaroslaw (log date: 2025-02-04)
+
+Bet 41:
+Scoreboard:
+Team Name: Jarocki, Lukasz, Team Score: 5, Set: 2
+Team Name: Filbrandt, Tomasz, Team Score: 1, Set: 2
+5-1
+2-2
+Updated scores for Jarocki, Lukasz vs Filbrandt, Tomasz (log date: 2025-02-04)
+
+Bet 42:
+Scoreboard:
+Team Name: Krok, Lukas, Team Score: 1, Set: 1
+Team Name: Barta, Tomas, Team Score: 5, Set: 2
+1-5
+1-2
+Updated scores for Krok, Lukas vs Barta, Tomas (log date: 2025-02-04)
+
+Bet 43:
+Scoreboard:
+Team Name: Gola, Blazej, Team Score: 6, Set: 1
+Team Name: Chybinski, Marek, Team Score: 8, Set: 2
+6-8
+1-2
+Updated scores for Gola, Blazej vs Chybinski, Marek (log date: 2025-02-04)
+
+Bet 44:
+Scoreboard:
+Team Name: Lewczuk, Miroslaw, Team Score: 7, Set: 2
+Team Name: Wolny, Michal, Team Score: 5, Set: 2
+7-5
+2-2
+Updated scores for Lewczuk, Miroslaw vs Wolny, Michal (log date: 2025-02-04)
+
+Bet 45:
+Scoreboard:
+Team Name: Zeman, Radek, Team Score: 5, Set: 2
+Team Name: Cermak, Lubos, Team Score: 4, Set: 0
+5-4
+2-0
+Updated scores for Zeman, Radek vs Cermak, Lubos (log date: 2025-02-04)
+--------------------------------------------------
+
+Analyzing: 20250204_180057_tbAppPinpon.txt
+Found 11 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Maslowski, Jakub, Team Score: 8, Set: 2
+Team Name: Strowski, Karol, Team Score: 5, Set: 1
+8-5
+2-1
+Updated scores for Maslowski, Jakub vs Strowski, Karol (log date: 2025-02-04)
+
+Bet 2:
+Scoreboard:
+Team Name: Fabis, Adrian, Team Score: 9, Set: 2
+Team Name: Trela, Mateusz, Team Score: 6, Set: 2
+9-6
+2-2
+Updated scores for Fabis, Adrian vs Trela, Mateusz (log date: 2025-02-04)
+
+Bet 3:
+Scoreboard:
+Team Name: Pietraszko, Lukasz, Team Score: 5, Set: 2
+Team Name: Filbrandt, Tomasz, Team Score: 1, Set: 0
+5-1
+2-0
+Updated scores for Pietraszko, Lukasz vs Filbrandt, Tomasz (log date: 2025-02-04)
+
+Bet 4:
+Scoreboard:
+Team Name: Mach, Jakub, Team Score: 5, Set: 2
+Team Name: Dlask, Marek, Team Score: 3, Set: 1
+5-3
+2-1
+Updated scores for Mach, Jakub vs Dlask, Marek (log date: 2025-02-04)
+
+Bet 5:
+Scoreboard:
+Team Name: Krejci, Ales, Team Score: 6, Set: 2
+Team Name: Herna, Michal, Team Score: 3, Set: 2
+6-3
+2-2
+Updated scores for Krejci, Ales vs Herna, Michal (log date: 2025-02-04)
+
+Bet 6:
+Scoreboard:
+Team Name: Plihal, Martin, Team Score: 5, Set: 2
+Team Name: Cermak, Lubos, Team Score: 1, Set: 1
+5-1
+2-1
+Updated scores for Plihal, Martin vs Cermak, Lubos (log date: 2025-02-04)
+
+Bet 7:
+Scoreboard:
+Team Name: Plihal, Martin, Team Score: 9, Set: 2
+Team Name: Cermak, Lubos, Team Score: 7, Set: 1
+9-7
+2-1
+Updated scores for Plihal, Martin vs Cermak, Lubos (log date: 2025-02-04)
+
+Bet 8:
+Scoreboard:
+Team Name: Plihal, Martin, Team Score: 2, Set: 2
+Team Name: Cermak, Lubos, Team Score: 5, Set: 2
+2-5
+2-2
+Updated scores for Plihal, Martin vs Cermak, Lubos (log date: 2025-02-04)
+
+Bet 9:
+Scoreboard:
+Team Name: Steffan, Jan, Team Score: 9, Set: 2
+Team Name: Krok, Lukas, Team Score: 7, Set: 2
+9-7
+2-2
+Updated scores for Steffan, Jan vs Krok, Lukas (log date: 2025-02-04)
+
+Bet 10:
+Scoreboard:
+Team Name: Rein, Tomas, Team Score: 6, Set: 2
+Team Name: Dlask, Marek, Team Score: 3, Set: 0
+6-3
+2-0
+Updated scores for Rein, Tomas vs Dlask, Marek (log date: 2025-02-04)
+
+Bet 11:
+Scoreboard:
+Team Name: Limbursky, Radek, Team Score: 5, Set: 2
+Team Name: Wasserbauer, Jaroslav, Team Score: 1, Set: 2
+5-1
+2-2
+Updated scores for Limbursky, Radek vs Wasserbauer, Jaroslav (log date: 2025-02-04)
+--------------------------------------------------
+
+Analyzing: 20250204_190120_tbAppPinpon.txt
+Found 8 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Ucinski, Rafal, Team Score: 5, Set: 2
+Team Name: Chybinski, Marek, Team Score: 7, Set: 2
+5-7
+2-2
+Updated scores for Ucinski, Rafal vs Chybinski, Marek (log date: 2025-02-04)
+
+Bet 2:
+Scoreboard:
+Team Name: Eibich, Jan, Team Score: 8, Set: 2
+Team Name: Zeman, Radek, Team Score: 6, Set: 1
+8-6
+2-1
+Updated scores for Eibich, Jan vs Zeman, Radek (log date: 2025-02-04)
+
+Bet 3:
+Scoreboard:
+Team Name: Zuzanek, Jiri, Team Score: 5, Set: 1
+Team Name: Hradecky, Jakub, Team Score: 7, Set: 2
+5-7
+1-2
+Updated scores for Zuzanek, Jiri vs Hradecky, Jakub (log date: 2025-02-04)
+
+Bet 4:
+Scoreboard:
+Team Name: Pavelka, Radim, Team Score: 7, Set: 2
+Team Name: Sopko, Martin, Team Score: 3, Set: 1
+7-3
+2-1
+Updated scores for Pavelka, Radim vs Sopko, Martin (log date: 2025-02-04)
+
+Bet 5:
+Scoreboard:
+Team Name: Pavelka, Radim, Team Score: 3, Set: 2
+Team Name: Sopko, Martin, Team Score: 7, Set: 2
+3-7
+2-2
+Updated scores for Pavelka, Radim vs Sopko, Martin (log date: 2025-02-04)
+
+Bet 6:
+Scoreboard:
+Team Name: Rolik, Jakub, Team Score: 1, Set: 2
+Team Name: Mach, Jakub, Team Score: 5, Set: 2
+1-5
+2-2
+Updated scores for Rolik, Jakub vs Mach, Jakub (log date: 2025-02-04)
+
+Bet 7:
+Scoreboard:
+Team Name: Misiak, Mateusz, Team Score: 8, Set: 2
+Team Name: Blocho, Przemyslaw, Team Score: 6, Set: 2
+8-6
+2-2
+Updated scores for Misiak, Mateusz vs Blocho, Przemyslaw (log date: 2025-02-04)
+
+Bet 8:
+Scoreboard:
+Team Name: Vorisek, Tomas, Team Score: 7, Set: 2
+Team Name: Cernota, Filip, Team Score: 4, Set: 0
+7-4
+2-0
+Updated scores for Vorisek, Tomas vs Cernota, Filip (log date: 2025-02-04)
+--------------------------------------------------
+
+Analyzing: 20250204_215408_tbAppPinpon.txt
+Found 45 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Wloczko, Krzysztof, Team Score: 5, Set: 2
+Team Name: Filbrandt, Tomasz, Team Score: 4, Set: 1
+5-4
+2-1
+Updated scores for Wloczko, Krzysztof vs Filbrandt, Tomasz (log date: 2025-02-04)
+
+Bet 2:
+Scoreboard:
+Team Name: Polanski, Pawel, Team Score: 6, Set: 1
+Team Name: Wolny, Michal, Team Score: 9, Set: 2
+6-9
+1-2
+Updated scores for Polanski, Pawel vs Wolny, Michal (log date: 2025-02-04)
+
+Bet 3:
+Scoreboard:
+Team Name: Wisniewski, Bartlomiej, Team Score: 9, Set: 2
+Team Name: Trela, Mateusz, Team Score: 7, Set: 1
+9-7
+2-1
+Updated scores for Wisniewski, Bartlomiej vs Trela, Mateusz (log date: 2025-02-04)
+
+Bet 4:
+Scoreboard:
+Team Name: Wisniewski, Bartlomiej, Team Score: 7, Set: 2
+Team Name: Trela, Mateusz, Team Score: 5, Set: 2
+7-5
+2-2
+Updated scores for Wisniewski, Bartlomiej vs Trela, Mateusz (log date: 2025-02-04)
+
+Bet 5:
+Scoreboard:
+Team Name: Kotwica, Dawid, Team Score: 8, Set: 2
+Team Name: Blocho, Przemyslaw, Team Score: 5, Set: 2
+8-5
+2-2
+Updated scores for Kotwica, Dawid vs Blocho, Przemyslaw (log date: 2025-02-04)
+
+Bet 6:
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 5, Set: 0
+Team Name: Misiak, Mateusz, Team Score: 6, Set: 2
+5-6
+0-2
+Updated scores for Rudomina, Kamil vs Misiak, Mateusz (log date: 2025-02-04)
+
+Bet 7:
+Scoreboard:
+Team Name: Szafranski, Jacek, Team Score: 7, Set: 1
+Team Name: Maduzia, Leszek, Team Score: 8, Set: 2
+7-8
+1-2
+Updated scores for Szafranski, Jacek vs Maduzia, Leszek (log date: 2025-02-04)
+
+Bet 8:
+Scoreboard:
+Team Name: Szafranski, Jacek, Team Score: 7, Set: 1
+Team Name: Maduzia, Leszek, Team Score: 9, Set: 2
+7-9
+1-2
+Updated scores for Szafranski, Jacek vs Maduzia, Leszek (log date: 2025-02-04)
+
+Bet 9:
+Scoreboard:
+Team Name: Varcl, Jakub, Team Score: 7, Set: 0
+Team Name: Kolar, Milan, Team Score: 9, Set: 2
+7-9
+0-2
+Updated scores for Varcl, Jakub vs Kolar, Milan (log date: 2025-02-04)
+
+Bet 10:
+Scoreboard:
+Team Name: Grzegorczyk, Jakub, Team Score: 5, Set: 2
+Team Name: Wisniewski, Bartlomiej, Team Score: 3, Set: 1
+5-3
+2-1
+Updated scores for Grzegorczyk, Jakub vs Wisniewski, Bartlomiej (log date: 2025-02-04)
+
+Bet 11:
+Scoreboard:
+Team Name: Lu, Louis, Team Score: 2, Set: 1
+Team Name: Nasriddinov, Umar, Team Score: 6, Set: 2
+2-6
+1-2
+Updated scores for Lu, Louis vs Nasriddinov, Umar (log date: 2025-02-04)
+
+Bet 12:
+Scoreboard:
+Team Name: Regner, Tomas, Team Score: 5, Set: 2
+Team Name: Trinta, Mihail, Team Score: 3, Set: 1
+5-3
+2-1
+Updated scores for Regner, Tomas vs Trinta, Mihail (log date: 2025-02-04)
+
+Bet 13:
+Scoreboard:
+Team Name: Warzecha, Miroslaw, Team Score: 7, Set: 2
+Team Name: Lamer, Maciej, Team Score: 4, Set: 1
+7-4
+2-1
+Updated scores for Warzecha, Miroslaw vs Lamer, Maciej (log date: 2025-02-04)
+
+Bet 14:
+Scoreboard:
+Team Name: Ankit, Majmudar, Team Score: 5, Set: 2
+Team Name: Nasriddinov, Umar, Team Score: 2, Set: 1
+5-2
+2-1
+Updated scores for Ankit, Majmudar vs Nasriddinov, Umar (log date: 2025-02-04)
+
+Bet 15:
+Scoreboard:
+Team Name: Filbrandt, Tomasz, Team Score: 3, Set: 0
+Team Name: Wisniewski, Karol, Team Score: 5, Set: 2
+3-5
+0-2
+Updated scores for Filbrandt, Tomasz vs Wisniewski, Karol (log date: 2025-02-04)
+
+Bet 16:
+Scoreboard:
+Team Name: Petracek, Vratislav, Team Score: 5, Set: 2
+Team Name: Vavrecka, Michal, Team Score: 1, Set: 2
+5-1
+2-2
+Updated scores for Petracek, Vratislav vs Vavrecka, Michal (log date: 2025-02-04)
+
+Bet 17:
+Scoreboard:
+Team Name: Polanski, Pawel, Team Score: 0, Set: 0
+Team Name: Lamer, Maciej, Team Score: 0, Set: 2
+0-0
+0-2
+Updated scores for Polanski, Pawel vs Lamer, Maciej (log date: 2025-02-04)
+
+Bet 18:
+Scoreboard:
+Team Name: Nasriddinov, Umar, Team Score: 8, Set: 2
+Team Name: Semen, Kotlyarevskiy, Team Score: 4, Set: 2
+8-4
+2-2
+Updated scores for Nasriddinov, Umar vs Semen, Kotlyarevskiy (log date: 2025-02-04)
+
+Bet 19:
+Scoreboard:
+Team Name: Regner, Tomas, Team Score: 6, Set: 1
+Team Name: Varcl, Jakub, Team Score: 8, Set: 2
+6-8
+1-2
+Updated scores for Regner, Tomas vs Varcl, Jakub (log date: 2025-02-04)
+
+Bet 20:
+Scoreboard:
+Team Name: Briza, Frantisek, Team Score: 8, Set: 2
+Team Name: Dedek, Jiri, Team Score: 6, Set: 1
+8-6
+2-1
+Updated scores for Briza, Frantisek vs Dedek, Jiri (log date: 2025-02-04)
+
+Bet 21:
+Scoreboard:
+Team Name: Briza, Frantisek, Team Score: 5, Set: 2
+Team Name: Dedek, Jiri, Team Score: 2, Set: 2
+5-2
+2-2
+Updated scores for Briza, Frantisek vs Dedek, Jiri (log date: 2025-02-04)
+
+Bet 22:
+Scoreboard:
+Team Name: Scigany, Dariusz, Team Score: 6, Set: 1
+Team Name: Lewczuk, Miroslaw, Team Score: 8, Set: 2
+6-8
+1-2
+Updated scores for Scigany, Dariusz vs Lewczuk, Miroslaw (log date: 2025-02-04)
+
+Bet 23:
+Scoreboard:
+Team Name: Vavrecka, Michal, Team Score: 3, Set: 1
+Team Name: Svacha, Ondrej, Team Score: 5, Set: 2
+3-5
+1-2
+Updated scores for Vavrecka, Michal vs Svacha, Ondrej (log date: 2025-02-04)
+
+Bet 24:
+Scoreboard:
+Team Name: Fabis, Adrian, Team Score: 6, Set: 2
+Team Name: Rolak, Jaroslaw, Team Score: 3, Set: 1
+6-3
+2-1
+Updated scores for Fabis, Adrian vs Rolak, Jaroslaw (log date: 2025-02-04)
+
+Bet 25:
+Scoreboard:
+Team Name: Svacha, Ondrej, Team Score: 5, Set: 2
+Team Name: Pagac, Zbynek, Team Score: 4, Set: 0
+5-4
+2-0
+Updated scores for Svacha, Ondrej vs Pagac, Zbynek (log date: 2025-02-04)
+
+Bet 26:
+Scoreboard:
+Team Name: Briza, Frantisek, Team Score: 4, Set: 1
+Team Name: Smrcek, Milan, Team Score: 7, Set: 2
+4-7
+1-2
+Updated scores for Briza, Frantisek vs Smrcek, Milan (log date: 2025-02-04)
+
+Bet 27:
+Scoreboard:
+Team Name: Briza, Frantisek, Team Score: 6, Set: 2
+Team Name: Smrcek, Milan, Team Score: 4, Set: 2
+6-4
+2-2
+Updated scores for Briza, Frantisek vs Smrcek, Milan (log date: 2025-02-04)
+
+Bet 28:
+Scoreboard:
+Team Name: Regner, Tomas, Team Score: 5, Set: 2
+Team Name: Hasmanda, Rostislav, Team Score: 1, Set: 1
+5-1
+2-1
+Updated scores for Regner, Tomas vs Hasmanda, Rostislav (log date: 2025-02-04)
+
+Bet 29:
+Scoreboard:
+Team Name: Ng W L / Zhu C, Team Score: 2, Set: 1
+Team Name: Paranang O / Sawettabut S, Team Score: 5, Set: 2
+2-5
+1-2
+Updated scores for Ng W L / Zhu C vs Paranang O / Sawettabut S (log date: 2025-02-04)
+
+Bet 30:
+Scoreboard:
+Team Name: Xue, Fei, Team Score: 9, Set: 2
+Team Name: Harimoto, Tomokazu, Team Score: 6, Set: 1
+9-6
+2-1
+Updated scores for Xue, Fei vs Harimoto, Tomokazu (log date: 2025-02-04)
+
+Bet 31:
+Scoreboard:
+Team Name: Wolny, Michal, Team Score: 5, Set: 2
+Team Name: Lamer, Maciej, Team Score: 9, Set: 2
+5-9
+2-2
+Updated scores for Wolny, Michal vs Lamer, Maciej (log date: 2025-02-04)
+
+Bet 32:
+Scoreboard:
+Team Name: An, Jaehyun, Team Score: 5, Set: 2
+Team Name: Robles, Alvaro, Team Score: 2, Set: 2
+5-2
+2-2
+Updated scores for An, Jaehyun vs Robles, Alvaro (log date: 2025-02-04)
+
+Bet 33:
+Scoreboard:
+Team Name: Balcerzak, Marcin, Team Score: 6, Set: 2
+Team Name: Lilien, Aleksander, Team Score: 3, Set: 1
+6-3
+2-1
+Updated scores for Balcerzak, Marcin vs Lilien, Aleksander (log date: 2025-02-04)
+
+Bet 34:
+Scoreboard:
+Team Name: Shah M U / Thakkar M V, Team Score: 6, Set: 2
+Team Name: Wong C T / Yiu K T, Team Score: 4, Set: 0
+6-4
+2-0
+Updated scores for Shah M U / Thakkar M V vs Wong C T / Yiu K T (log date: 2025-02-04)
+
+Bet 35:
+Scoreboard:
+Team Name: Zandecki, Jan, Team Score: 3, Set: 1
+Team Name: Petas, Kacper, Team Score: 6, Set: 2
+3-6
+1-2
+Updated scores for Zandecki, Jan vs Petas, Kacper (log date: 2025-02-04)
+
+Bet 36:
+Scoreboard:
+Team Name: Abbasi, Amirreza, Team Score: 3, Set: 2
+Team Name: David, Petr, Team Score: 7, Set: 2
+3-7
+2-2
+Updated scores for Abbasi, Amirreza vs David, Petr (log date: 2025-02-04)
+
+Bet 37:
+Scoreboard:
+Team Name: Linek, Adam, Team Score: 6, Set: 2
+Team Name: Przewlocki, Jacek, Team Score: 4, Set: 1
+6-4
+2-1
+Updated scores for Linek, Adam vs Przewlocki, Jacek (log date: 2025-02-04)
+
+Bet 38:
+Scoreboard:
+Team Name: Lewczuk, Miroslaw, Team Score: 6, Set: 0
+Team Name: Lamer, Maciej, Team Score: 7, Set: 2
+6-7
+0-2
+Updated scores for Lewczuk, Miroslaw vs Lamer, Maciej (log date: 2025-02-04)
+
+Bet 39:
+Scoreboard:
+Team Name: Kim N / Nagasaki M, Team Score: 5, Set: 2
+Team Name: Doo H K / Zhu Y, Team Score: 2, Set: 1
+5-2
+2-1
+Updated scores for Kim N / Nagasaki M vs Doo H K / Zhu Y (log date: 2025-02-04)
+
+Bet 40:
+Scoreboard:
+Team Name: Stepien, Marcin, Team Score: 5, Set: 2
+Team Name: Wloszek, Sylwester, Team Score: 3, Set: 1
+5-3
+2-1
+Updated scores for Stepien, Marcin vs Wloszek, Sylwester (log date: 2025-02-04)
+
+Bet 41:
+Scoreboard:
+Team Name: Murawski, Michal, Team Score: 5, Set: 2
+Team Name: Czerwinski, Bartosz, Team Score: 8, Set: 2
+5-8
+2-2
+Updated scores for Murawski, Michal vs Czerwinski, Bartosz (log date: 2025-02-04)
+
+Bet 42:
+Scoreboard:
+Team Name: Lilien, Aleksander, Team Score: 6, Set: 1
+Team Name: Przewlocki, Jacek, Team Score: 9, Set: 2
+6-9
+1-2
+Updated scores for Lilien, Aleksander vs Przewlocki, Jacek (log date: 2025-02-04)
+
+Bet 43:
+Scoreboard:
+Team Name: Petas, Kacper, Team Score: 8, Set: 1
+Team Name: Spychala, Adrian, Team Score: 9, Set: 2
+8-9
+1-2
+Updated scores for Petas, Kacper vs Spychala, Adrian (log date: 2025-02-04)
+
+Bet 44:
+Scoreboard:
+Team Name: Ishiy V / Teodoro G, Team Score: 6, Set: 2
+Team Name: Bourrassaud F / Dorr E, Team Score: 4, Set: 0
+6-4
+2-0
+Updated scores for Ishiy V / Teodoro G vs Bourrassaud F / Dorr E (log date: 2025-02-04)
+
+Bet 45:
+Scoreboard:
+Team Name: Lysakowski, Michal, Team Score: 5, Set: 2
+Team Name: Kukawka, Milosz, Team Score: 1, Set: 2
+5-1
+2-2
+Updated scores for Lysakowski, Michal vs Kukawka, Milosz (log date: 2025-02-04)
+--------------------------------------------------
+
+Analyzing: 20250205_040209_tbAppPinpon.txt
+Found 3 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Ishiy V / Teodoro G, Team Score: 1, Set: 2
+Team Name: Bourrassaud F / Dorr E, Team Score: 5, Set: 2
+1-5
+2-2
+Updated scores for Ishiy V / Teodoro G vs Bourrassaud F / Dorr E (log date: 2025-02-05)
+
+Bet 2:
+Scoreboard:
+Team Name: Olejnik, Martin, Team Score: 1, Set: 2
+Team Name: David, Petr, Team Score: 5, Set: 2
+1-5
+2-2
+Updated scores for Olejnik, Martin vs David, Petr (log date: 2025-02-05)
+
+Bet 3:
+Scoreboard:
+Team Name: Stapor, Dawid, Team Score: 6, Set: 0
+Team Name: Warpas, Blazej, Team Score: 7, Set: 2
+6-7
+0-2
+Updated scores for Stapor, Dawid vs Warpas, Blazej (log date: 2025-02-05)
+--------------------------------------------------
+
+Analyzing: 20250205_042737_tbAppPinpon.txt
+Found 7 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Sanchez, Pedro J, Team Score: 5, Set: 2
+Team Name: Cambronero, Angel, Team Score: 3, Set: 1
+5-3
+2-1
+Updated scores for Sanchez, Pedro J vs Cambronero, Angel (log date: 2025-02-05)
+
+Bet 2:
+Scoreboard:
+Team Name: Samara, Elizabeta, Team Score: 2, Set: 2
+Team Name: Polcanova, Sofia, Team Score: 5, Set: 2
+2-5
+2-2
+Updated scores for Samara, Elizabeta vs Polcanova, Sofia (log date: 2025-02-05)
+
+Bet 3:
+Scoreboard:
+Team Name: Potensky, Jan, Team Score: 6, Set: 2
+Team Name: Madle, Ludek, Team Score: 2, Set: 1
+6-2
+2-1
+Updated scores for Potensky, Jan vs Madle, Ludek (log date: 2025-02-05)
+
+Bet 4:
+Scoreboard:
+Team Name: Wisniewski, Karol, Team Score: 10, Set: 1
+Team Name: Filbrandt, Tomasz, Team Score: 9, Set: 1
+10-9
+1-1
+Updated scores for Wisniewski, Karol vs Filbrandt, Tomasz (log date: 2025-02-05)
+
+Bet 5:
+Scoreboard:
+Team Name: Wenda, Krzysztof, Team Score: 15, Set: 2
+Team Name: Stojek, Karol, Team Score: 13, Set: 0
+15-13
+2-0
+Updated scores for Wenda, Krzysztof vs Stojek, Karol (log date: 2025-02-05)
+
+Bet 6:
+Scoreboard:
+Team Name: Soucek, Lukas, Team Score: 4, Set: 0
+Team Name: Strejc, Filip, Team Score: 6, Set: 2
+4-6
+0-2
+Updated scores for Soucek, Lukas vs Strejc, Filip (log date: 2025-02-05)
+
+Bet 7:
+Scoreboard:
+Team Name: Vrastil, Petr, Team Score: 3, Set: 0
+Team Name: Vyvial, Pavel, Team Score: 6, Set: 1
+3-6
+0-1
+Updated scores for Vrastil, Petr vs Vyvial, Pavel (log date: 2025-02-05)
+--------------------------------------------------
+
+Analyzing: 20250205_155256_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250205_155905_tbAppPinpon.txt
+Found 4 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Ibarra, Alberto, Team Score: 9, Set: 0
+Team Name: Rodriguez, Gonzalo, Team Score: 6, Set: 0
+9-6
+0-0
+Updated scores for Ibarra, Alberto vs Rodriguez, Gonzalo (log date: 2025-02-05)
+
+Bet 2:
+Scoreboard:
+Team Name: Vavrecka, Michal, Team Score: 3, Set: 1
+Team Name: Pagac, Zbynek, Team Score: 7, Set: 2
+3-7
+1-2
+Updated scores for Vavrecka, Michal vs Pagac, Zbynek (log date: 2025-02-05)
+
+Bet 3:
+Scoreboard:
+Team Name: Wenda, Krzysztof, Team Score: 1, Set: 1
+Team Name: Kiejda, Arkadiusz, Team Score: 5, Set: 2
+1-5
+1-2
+Updated scores for Wenda, Krzysztof vs Kiejda, Arkadiusz (log date: 2025-02-05)
+
+Bet 4:
+Scoreboard:
+Team Name: Filbrandt, Tomasz, Team Score: 5, Set: 1
+Team Name: Kolodziej, Krystian, Team Score: 7, Set: 2
+5-7
+1-2
+Updated scores for Filbrandt, Tomasz vs Kolodziej, Krystian (log date: 2025-02-05)
+--------------------------------------------------
+
+Analyzing: 20250207_035359_tbAppPinpon.txt
+Found 1 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Wang, Yidi, Team Score: 8, Set: 2
+Team Name: Ito, Mima, Team Score: 6, Set: 1
+8-6
+2-1
+Updated scores for Wang, Yidi vs Ito, Mima (log date: 2025-02-07)
+--------------------------------------------------
+
+Analyzing: 20250207_035633_tbAppPinpon.txt
+Found 1 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Litwiniuk, Marcin, Team Score: 3, Set: 1
+Team Name: Czerwinski, Bartosz, Team Score: 5, Set: 2
+3-5
+1-2
+Updated scores for Litwiniuk, Marcin vs Czerwinski, Bartosz (log date: 2025-02-07)
+--------------------------------------------------
+
+Analyzing: 20250207_040243_tbAppPinpon.txt
+Found 2 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Turek, Tomas, Team Score: 6, Set: 2
+Team Name: Smidt, Karel, Team Score: 5, Set: 0
+6-5
+2-0
+Updated scores for Turek, Tomas vs Smidt, Karel (log date: 2025-02-07)
+
+Bet 2:
+Scoreboard:
+Team Name: Qiu, Dang, Team Score: 5, Set: 1
+Team Name: U21 Lebrun, Alexis, Team Score: 7, Set: 2
+5-7
+1-2
+Updated scores for Qiu, Dang vs U21 Lebrun, Alexis (log date: 2025-02-07)
+--------------------------------------------------
+
+Analyzing: 20250207_041525_tbAppPinpon.txt
+Found 1 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Madle, Ludek, Team Score: 1, Set: 0
+Team Name: Hejduk, Alexander, Team Score: 5, Set: 2
+1-5
+0-2
+Updated scores for Madle, Ludek vs Hejduk, Alexander (log date: 2025-02-07)
+--------------------------------------------------
+
+Analyzing: 20250207_141552_tbAppPinpon.txt
+Found 2 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Hrncir, Jan, Team Score: 3, Set: 2
+Team Name: Sochor, Miroslav, Team Score: 7, Set: 2
+3-7
+2-2
+Updated scores for Hrncir, Jan vs Sochor, Miroslav (log date: 2025-02-07)
+
+Bet 2:
+Scoreboard:
+Team Name: Pavelka, Radim, Team Score: 4, Set: 2
+Team Name: Plachy, Jiri, Team Score: 7, Set: 2
+4-7
+2-2
+Updated scores for Pavelka, Radim vs Plachy, Jiri (log date: 2025-02-07)
+--------------------------------------------------
+
+Analyzing: 20250211_163449_tbAppPinpon.txt
+Found 1 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Koczyba, Mariusz, Team Score: 8, Set: 2
+Team Name: Trela, Mateusz, Team Score: 6, Set: 1
+8-6
+2-1
+Updated scores for Koczyba, Mariusz vs Trela, Mateusz (log date: 2025-02-11)
+--------------------------------------------------
+
+Analyzing: 20250211_185006_tbAppPinpon.txt
+Found 1 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Buklat, Lukasz, Team Score: 5, Set: 0
+Team Name: Zwolinski, Piotr, Team Score: 7, Set: 2
+5-7
+0-2
+Updated scores for Buklat, Lukasz vs Zwolinski, Piotr (log date: 2025-02-11)
+--------------------------------------------------
+
+Analyzing: 20250211_193915_tbAppPinpon.txt
+Found 6 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Briza, Frantisek, Team Score: 6, Set: 2
+Team Name: Holovatiuk, Yurii, Team Score: 3, Set: 0
+6-3
+2-0
+Updated scores for Briza, Frantisek vs Holovatiuk, Yurii (log date: 2025-02-11)
+
+Bet 2:
+Scoreboard:
+Team Name: Cmerda, Ondrej, Team Score: 8, Set: 2
+Team Name: Zuzanek, Jiri, Team Score: 6, Set: 2
+8-6
+2-2
+Updated scores for Cmerda, Ondrej vs Zuzanek, Jiri (log date: 2025-02-11)
+
+Bet 3:
+Scoreboard:
+Team Name: Olbrycht, Michal, Team Score: 5, Set: 0
+Team Name: Witkowski, Jakub, Team Score: 7, Set: 2
+5-7
+0-2
+Updated scores for Olbrycht, Michal vs Witkowski, Jakub (log date: 2025-02-11)
+
+Bet 4:
+Scoreboard:
+Team Name: Kliuchuk, Rostyslav, Team Score: 3, Set: 1
+Team Name: Smidt, Karel, Team Score: 6, Set: 2
+3-6
+1-2
+Updated scores for Kliuchuk, Rostyslav vs Smidt, Karel (log date: 2025-02-11)
+
+Bet 5:
+Scoreboard:
+Team Name: Ruzicka, Jiri, Team Score: 6, Set: 2
+Team Name: Vavrecka, Michal, Team Score: 3, Set: 1
+6-3
+2-1
+Updated scores for Ruzicka, Jiri vs Vavrecka, Michal (log date: 2025-02-11)
+
+Bet 6:
+Scoreboard:
+Team Name: Michalik, Jerzy, Team Score: 6, Set: 0
+Team Name: Lewczuk, Miroslaw, Team Score: 8, Set: 2
+6-8
+0-2
+Updated scores for Michalik, Jerzy vs Lewczuk, Miroslaw (log date: 2025-02-11)
+--------------------------------------------------
+
+Analyzing: 20250211_221410_tbAppPinpon.txt
+Found 3 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Latala, Lukasz, Team Score: 5, Set: 1
+Team Name: Jastrzebowski, Franciszek, Team Score: 8, Set: 2
+5-8
+1-2
+Updated scores for Latala, Lukasz vs Jastrzebowski, Franciszek (log date: 2025-02-11)
+
+Bet 2:
+Scoreboard:
+Team Name: Zika, Tadeas, Team Score: 1, Set: 2
+Team Name: Petracek, Vratislav, Team Score: 5, Set: 2
+1-5
+2-2
+Updated scores for Zika, Tadeas vs Petracek, Vratislav (log date: 2025-02-11)
+
+Bet 3:
+Scoreboard:
+Team Name: Olbrycht, Michal, Team Score: 7, Set: 2
+Team Name: Witkowski, Jakub, Team Score: 8, Set: 2
+7-8
+2-2
+Updated scores for Olbrycht, Michal vs Witkowski, Jakub (log date: 2025-02-11)
+--------------------------------------------------
+
+Analyzing: 20250211_223357_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250211_223704_tbAppPinpon.txt
+Found 104 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Mecik, Patryk, Team Score: 8, Set: 2
+Team Name: Wolny, Michal, Team Score: 6, Set: 2
+8-6
+2-2
+Updated scores for Mecik, Patryk vs Wolny, Michal (log date: 2025-02-11)
+
+Bet 2:
+Scoreboard:
+Team Name: Vavrecka, Michal, Team Score: 3, Set: 1
+Team Name: Bayer, Alesh, Team Score: 5, Set: 2
+3-5
+1-2
+Updated scores for Vavrecka, Michal vs Bayer, Alesh (log date: 2025-02-11)
+
+Bet 3:
+Scoreboard:
+Team Name: Nader, Fahimi, Team Score: 8, Set: 2
+Team Name: Soliman, Ahmed, Team Score: 5, Set: 1
+8-5
+2-1
+Updated scores for Nader, Fahimi vs Soliman, Ahmed (log date: 2025-02-11)
+
+Bet 4:
+Scoreboard:
+Team Name: Yang, Ray, Team Score: 5, Set: 2
+Team Name: Sapezhnikov, Aleksandr, Team Score: 4, Set: 1
+5-4
+2-1
+Updated scores for Yang, Ray vs Sapezhnikov, Aleksandr (log date: 2025-02-11)
+
+Bet 5:
+Scoreboard:
+Team Name: Rolak, Jaroslaw, Team Score: 5, Set: 2
+Team Name: Burkacki, Mateusz, Team Score: 2, Set: 0
+5-2
+2-0
+Updated scores for Rolak, Jaroslaw vs Burkacki, Mateusz (log date: 2025-02-11)
+
+Bet 6:
+Scoreboard:
+Team Name: Vitrovyj, Oleg, Team Score: 7, Set: 2
+Team Name: Syroha, Michal, Team Score: 4, Set: 2
+7-4
+2-2
+Updated scores for Vitrovyj, Oleg vs Syroha, Michal (log date: 2025-02-11)
+
+Bet 7:
+Scoreboard:
+Team Name: Huk, Martin, Team Score: 3, Set: 0
+Team Name: Zika, Tadeas, Team Score: 5, Set: 2
+3-5
+0-2
+Updated scores for Huk, Martin vs Zika, Tadeas (log date: 2025-02-11)
+
+Bet 8:
+Scoreboard:
+Team Name: Blocho, Przemyslaw, Team Score: 3, Set: 0
+Team Name: Wrobel, Dariusz, Team Score: 7, Set: 2
+3-7
+0-2
+Updated scores for Blocho, Przemyslaw vs Wrobel, Dariusz (log date: 2025-02-11)
+
+Bet 9:
+Scoreboard:
+Team Name: Witkowski, Tomasz, Team Score: 2, Set: 2
+Team Name: Jastrzebowski, Franciszek, Team Score: 6, Set: 2
+2-6
+2-2
+Updated scores for Witkowski, Tomasz vs Jastrzebowski, Franciszek (log date: 2025-02-11)
+
+Bet 10:
+Scoreboard:
+Team Name: Patryk Kiejda, Team Score: 3, Set: 1
+Team Name: Domagala, Pawel, Team Score: 5, Set: 2
+3-5
+1-2
+Updated scores for Patryk Kiejda vs Domagala, Pawel (log date: 2025-02-11)
+
+Bet 11:
+Scoreboard:
+Team Name: Blocho, Przemyslaw, Team Score: 2, Set: 1
+Team Name: Rolak, Jaroslaw, Team Score: 5, Set: 2
+2-5
+1-2
+Updated scores for Blocho, Przemyslaw vs Rolak, Jaroslaw (log date: 2025-02-11)
+
+Bet 12:
+Scoreboard:
+Team Name: Kujawa, Filip, Team Score: 3, Set: 2
+Team Name: Malinowski, Radoslaw, Team Score: 8, Set: 2
+3-8
+2-2
+Updated scores for Kujawa, Filip vs Malinowski, Radoslaw (log date: 2025-02-11)
+
+Bet 13:
+Scoreboard:
+Team Name: Kliuchuk, Rostyslav, Team Score: 5, Set: 0
+Team Name: Petracek, Vratislav, Team Score: 11, Set: 2
+5-11
+0-2
+Updated scores for Kliuchuk, Rostyslav vs Petracek, Vratislav (log date: 2025-02-11)
+
+Bet 14:
+Scoreboard:
+Team Name: Vavrecka, Michal, Team Score: 5, Set: 2
+Team Name: Bayer, Alesh, Team Score: 1, Set: 2
+5-1
+2-2
+Updated scores for Vavrecka, Michal vs Bayer, Alesh (log date: 2025-02-11)
+
+Bet 15:
+Scoreboard:
+Team Name: Michalik, Jerzy, Team Score: 0, Set: 2
+Team Name: Mecik, Patryk, Team Score: 5, Set: 2
+0-5
+2-2
+Updated scores for Michalik, Jerzy vs Mecik, Patryk (log date: 2025-02-11)
+
+Bet 16:
+Scoreboard:
+Team Name: Minda, Michal, Team Score: 5, Set: 0
+Team Name: Myszewski, Adrian, Team Score: 7, Set: 2
+5-7
+0-2
+Updated scores for Minda, Michal vs Myszewski, Adrian (log date: 2025-02-11)
+
+Bet 17:
+Scoreboard:
+Team Name: Svacha, Ondrej, Team Score: 5, Set: 2
+Team Name: Ruzicka, Jiri, Team Score: 0, Set: 1
+5-0
+2-1
+Updated scores for Svacha, Ondrej vs Ruzicka, Jiri (log date: 2025-02-11)
+
+Bet 18:
+Scoreboard:
+Team Name: Spychala, Adrian, Team Score: 5, Set: 2
+Team Name: Balcerzak, Marcin, Team Score: 3, Set: 0
+5-3
+2-0
+Updated scores for Spychala, Adrian vs Balcerzak, Marcin (log date: 2025-02-11)
+
+Bet 19:
+Scoreboard:
+Team Name: Scigany, Dariusz, Team Score: 5, Set: 2
+Team Name: Lamer, Maciej, Team Score: 3, Set: 1
+5-3
+2-1
+Updated scores for Scigany, Dariusz vs Lamer, Maciej (log date: 2025-02-11)
+
+Bet 20:
+Scoreboard:
+Team Name: Petas, Kacper, Team Score: 8, Set: 2
+Team Name: Grela, Artur, Team Score: 5, Set: 2
+8-5
+2-2
+Updated scores for Petas, Kacper vs Grela, Artur (log date: 2025-02-11)
+
+Bet 21:
+Scoreboard:
+Team Name: Patryk Kiejda, Team Score: 3, Set: 1
+Team Name: Latala, Lukasz, Team Score: 6, Set: 2
+3-6
+1-2
+Updated scores for Patryk Kiejda vs Latala, Lukasz (log date: 2025-02-11)
+
+Bet 22:
+Scoreboard:
+Team Name: Minda, Michal, Team Score: 6, Set: 2
+Team Name: Przewlocki, Jacek, Team Score: 4, Set: 2
+6-4
+2-2
+Updated scores for Minda, Michal vs Przewlocki, Jacek (log date: 2025-02-11)
+
+Bet 23:
+Scoreboard:
+Team Name: Witkowski, Tomasz, Team Score: 6, Set: 2
+Team Name: Domagala, Pawel, Team Score: 5, Set: 1
+6-5
+2-1
+Updated scores for Witkowski, Tomasz vs Domagala, Pawel (log date: 2025-02-11)
+
+Bet 24:
+Scoreboard:
+Team Name: Zochniak, Jakub, Team Score: 7, Set: 2
+Team Name: Malinowski, Radoslaw, Team Score: 7, Set: 0
+7-7
+2-0
+Updated scores for Zochniak, Jakub vs Malinowski, Radoslaw (log date: 2025-02-11)
+
+Bet 25:
+Scoreboard:
+Team Name: Lewczuk, Miroslaw, Team Score: 8, Set: 2
+Team Name: Scigany, Dariusz, Team Score: 5, Set: 0
+8-5
+2-0
+Updated scores for Lewczuk, Miroslaw vs Scigany, Dariusz (log date: 2025-02-11)
+
+Bet 26:
+Scoreboard:
+Team Name: Golebiowski, Mateusz, Team Score: 5, Set: 2
+Team Name: Grela, Artur, Team Score: 3, Set: 1
+5-3
+2-1
+Updated scores for Golebiowski, Mateusz vs Grela, Artur (log date: 2025-02-11)
+
+Bet 27:
+Scoreboard:
+Team Name: Myszewski, Adrian, Team Score: 3, Set: 0
+Team Name: Przewlocki, Jacek, Team Score: 6, Set: 2
+3-6
+0-2
+Updated scores for Myszewski, Adrian vs Przewlocki, Jacek (log date: 2025-02-11)
+
+Bet 28:
+Scoreboard:
+Team Name: Spychala, Adrian, Team Score: 4, Set: 0
+Team Name: Murawski, Michal, Team Score: 5, Set: 2
+4-5
+0-2
+Updated scores for Spychala, Adrian vs Murawski, Michal (log date: 2025-02-11)
+
+Bet 29:
+Error retrieving team names and scores: Message: stale element reference: stale element not found in the current frame
+(Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Error updating database: list index out of range
+
+Bet 30:
+Scoreboard:
+Team Name: Barta, Tomas, Team Score: 8, Set: 2
+Team Name: Vtelensky, Ludek, Team Score: 5, Set: 2
+8-5
+2-2
+Updated scores for Barta, Tomas vs Vtelensky, Ludek (log date: 2025-02-11)
+
+Bet 31:
+Scoreboard:
+Team Name: Cherkashyn, Yevhenii, Team Score: 5, Set: 2
+Team Name: Viigimets, Peetr, Team Score: 9, Set: 2
+5-9
+2-2
+Updated scores for Cherkashyn, Yevhenii vs Viigimets, Peetr (log date: 2025-02-11)
+
+Bet 32:
+Scoreboard:
+Team Name: Monik, Petr, Team Score: 8, Set: 0
+Team Name: Jira, Jiri, Team Score: 9, Set: 2
+8-9
+0-2
+Updated scores for Monik, Petr vs Jira, Jiri (log date: 2025-02-11)
+
+Bet 33:
+Scoreboard:
+Team Name: Kujawa, Filip, Team Score: 5, Set: 2
+Team Name: Myszewski, Adrian, Team Score: 1, Set: 2
+5-1
+2-2
+Updated scores for Kujawa, Filip vs Myszewski, Adrian (log date: 2025-02-11)
+
+Bet 34:
+Error retrieving team names and scores: Message: stale element reference: stale element not found in the current frame
+(Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Error updating database: list index out of range
+
+Bet 35:
+Scoreboard:
+Team Name: Stepien, Marcin, Team Score: 7, Set: 2
+Team Name: Gola, Pawel, Team Score: 5, Set: 1
+7-5
+2-1
+Updated scores for Stepien, Marcin vs Gola, Pawel (log date: 2025-02-11)
+
+Bet 36:
+Scoreboard:
+Team Name: Oracz, Michal, Team Score: 5, Set: 2
+Team Name: Oracz, Lukasz, Team Score: 2, Set: 2
+5-2
+2-2
+Updated scores for Oracz, Michal vs Oracz, Lukasz (log date: 2025-02-11)
+
+Bet 37:
+Scoreboard:
+Team Name: Trinta, Mihail, Team Score: 8, Set: 2
+Team Name: Regner, Tomas, Team Score: 5, Set: 0
+8-5
+2-0
+Updated scores for Trinta, Mihail vs Regner, Tomas (log date: 2025-02-11)
+
+Bet 38:
+Scoreboard:
+Team Name: Petr, Pavel, Team Score: 7, Set: 2
+Team Name: Monik, Petr, Team Score: 5, Set: 1
+7-5
+2-1
+Updated scores for Petr, Pavel vs Monik, Petr (log date: 2025-02-11)
+
+Bet 39:
+Scoreboard:
+Team Name: Golebiowski, Mateusz, Team Score: 7, Set: 2
+Team Name: Kosowski, Jakub, Team Score: 5, Set: 0
+7-5
+2-0
+Updated scores for Golebiowski, Mateusz vs Kosowski, Jakub (log date: 2025-02-11)
+
+Bet 40:
+Scoreboard:
+Team Name: Zochniak, Jakub, Team Score: 3, Set: 1
+Team Name: Myszewski, Adrian, Team Score: 6, Set: 2
+3-6
+1-2
+Updated scores for Zochniak, Jakub vs Myszewski, Adrian (log date: 2025-02-11)
+
+Bet 41:
+Scoreboard:
+Team Name: Pelka, Jerzy, Team Score: 6, Set: 2
+Team Name: Gumulinski, Piotr, Team Score: 4, Set: 1
+6-4
+2-1
+Updated scores for Pelka, Jerzy vs Gumulinski, Piotr (log date: 2025-02-11)
+
+Bet 42:
+Scoreboard:
+Team Name: Hudec, Stanislav, Team Score: 4, Set: 1
+Team Name: Volhejn, Jan, Team Score: 7, Set: 2
+4-7
+1-2
+Updated scores for Hudec, Stanislav vs Volhejn, Jan (log date: 2025-02-11)
+
+Bet 43:
+Scoreboard:
+Team Name: Musil, Filip, Team Score: 7, Set: 2
+Team Name: Dlask, Marek, Team Score: 9, Set: 2
+7-9
+2-2
+Updated scores for Musil, Filip vs Dlask, Marek (log date: 2025-02-11)
+
+Bet 44:
+Scoreboard:
+Team Name: Kolar, Milan, Team Score: 9, Set: 2
+Team Name: Pleskot, Jan, Team Score: 6, Set: 1
+9-6
+2-1
+Updated scores for Kolar, Milan vs Pleskot, Jan (log date: 2025-02-11)
+
+Bet 45:
+Scoreboard:
+Team Name: Olmedo, Alberto, Team Score: 5, Set: 2
+Team Name: Johansson, Ove, Team Score: 3, Set: 1
+5-3
+2-1
+Updated scores for Olmedo, Alberto vs Johansson, Ove (log date: 2025-02-11)
+
+Bet 46:
+Scoreboard:
+Team Name: Minda, Michal, Team Score: 7, Set: 2
+Team Name: Malinowski, Radoslaw, Team Score: 4, Set: 2
+7-4
+2-2
+Updated scores for Minda, Michal vs Malinowski, Radoslaw (log date: 2025-02-11)
+
+Bet 47:
+Scoreboard:
+Team Name: Chlodnicki, Piotr, Team Score: 7, Set: 2
+Team Name: Kapik, Krzysztof, Team Score: 4, Set: 2
+7-4
+2-2
+Updated scores for Chlodnicki, Piotr vs Kapik, Krzysztof (log date: 2025-02-11)
+
+Bet 48:
+Scoreboard:
+Team Name: Volhejn, Jan, Team Score: 5, Set: 0
+Team Name: Nevrtal, Tomas, Team Score: 7, Set: 2
+5-7
+0-2
+Updated scores for Volhejn, Jan vs Nevrtal, Tomas (log date: 2025-02-11)
+
+Bet 49:
+Scoreboard:
+Team Name: Barta, Tomas, Team Score: 5, Set: 1
+Team Name: Pecka, Vlastimil, Team Score: 7, Set: 2
+5-7
+1-2
+Updated scores for Barta, Tomas vs Pecka, Vlastimil (log date: 2025-02-11)
+
+Bet 50:
+Scoreboard:
+Team Name: Cerveny, Tomas, Team Score: 7, Set: 1
+Team Name: Kocab, Jan, Team Score: 9, Set: 2
+7-9
+1-2
+Updated scores for Cerveny, Tomas vs Kocab, Jan (log date: 2025-02-11)
+
+Bet 51:
+Scoreboard:
+Team Name: Puhm, Mihkel, Team Score: 0, Set: 2
+Team Name: Viigimets, Peetr, Team Score: 5, Set: 2
+0-5
+2-2
+Updated scores for Puhm, Mihkel vs Viigimets, Peetr (log date: 2025-02-11)
+
+Bet 52:
+Scoreboard:
+Team Name: Musil, Filip, Team Score: 6, Set: 2
+Team Name: Zamyslicky, Jaroslav, Team Score: 2, Set: 2
+6-2
+2-2
+Updated scores for Musil, Filip vs Zamyslicky, Jaroslav (log date: 2025-02-11)
+
+Bet 53:
+Scoreboard:
+Team Name: Vtelensky, Ludek, Team Score: 5, Set: 2
+Team Name: Andrle, Tomas, Team Score: 3, Set: 1
+5-3
+2-1
+Updated scores for Vtelensky, Ludek vs Andrle, Tomas (log date: 2025-02-11)
+
+Bet 54:
+Scoreboard:
+Team Name: Chlodnicki, Piotr, Team Score: 5, Set: 2
+Team Name: Spychala, Adrian, Team Score: 3, Set: 1
+5-3
+2-1
+Updated scores for Chlodnicki, Piotr vs Spychala, Adrian (log date: 2025-02-11)
+
+Bet 55:
+Scoreboard:
+Team Name: Wiecek, Adrian, Team Score: 7, Set: 2
+Team Name: Golebiowski, Mateusz, Team Score: 5, Set: 1
+7-5
+2-1
+Updated scores for Wiecek, Adrian vs Golebiowski, Mateusz (log date: 2025-02-11)
+
+Bet 56:
+Scoreboard:
+Team Name: Monik, Petr, Team Score: 11, Set: 2
+Team Name: Petr, Pavel, Team Score: 8, Set: 0
+11-8
+2-0
+Updated scores for Monik, Petr vs Petr, Pavel (log date: 2025-02-11)
+
+Bet 57:
+Scoreboard:
+Team Name: Oracz, Lukasz, Team Score: 0, Set: 2
+Team Name: Pelka, Jerzy, Team Score: 5, Set: 2
+0-5
+2-2
+Updated scores for Oracz, Lukasz vs Pelka, Jerzy (log date: 2025-02-11)
+
+Bet 58:
+Scoreboard:
+Team Name: Nevrtal, Tomas, Team Score: 5, Set: 2
+Team Name: Volhejn, Jan, Team Score: 1, Set: 1
+5-1
+2-1
+Updated scores for Nevrtal, Tomas vs Volhejn, Jan (log date: 2025-02-11)
+
+Bet 59:
+Scoreboard:
+Team Name: Petas, Kacper, Team Score: 5, Set: 1
+Team Name: Kosowski, Jakub, Team Score: 7, Set: 2
+5-7
+1-2
+Updated scores for Petas, Kacper vs Kosowski, Jakub (log date: 2025-02-11)
+
+Bet 60:
+Scoreboard:
+Team Name: Kolar, Milan, Team Score: 5, Set: 2
+Team Name: Regner, Tomas, Team Score: 2, Set: 1
+5-2
+2-1
+Updated scores for Kolar, Milan vs Regner, Tomas (log date: 2025-02-11)
+
+Bet 61:
+Scoreboard:
+Team Name: Spychala, Adrian, Team Score: 4, Set: 2
+Team Name: Kapik, Krzysztof, Team Score: 6, Set: 2
+4-6
+2-2
+Updated scores for Spychala, Adrian vs Kapik, Krzysztof (log date: 2025-02-11)
+
+Bet 62:
+Scoreboard:
+Team Name: Gumulinski, Piotr, Team Score: 7, Set: 2
+Team Name: Schaniel Krzysztof, Team Score: 5, Set: 2
+7-5
+2-2
+Updated scores for Gumulinski, Piotr vs Schaniel Krzysztof (log date: 2025-02-11)
+
+Bet 63:
+Scoreboard:
+Team Name: Musil, Josef, Team Score: 4, Set: 2
+Team Name: Manhal Sr, Jan, Team Score: 7, Set: 2
+4-7
+2-2
+Updated scores for Musil, Josef vs Manhal Sr, Jan (log date: 2025-02-11)
+
+Bet 64:
+Scoreboard:
+Team Name: Oracz, Lukasz, Team Score: 6, Set: 2
+Team Name: Skotniczny, Rafal, Team Score: 3, Set: 1
+6-3
+2-1
+Updated scores for Oracz, Lukasz vs Skotniczny, Rafal (log date: 2025-02-11)
+
+Bet 65:
+Scoreboard:
+Team Name: Brandtl, Ales, Team Score: 6, Set: 2
+Team Name: Cerveny, Tomas, Team Score: 4, Set: 1
+6-4
+2-1
+Updated scores for Brandtl, Ales vs Cerveny, Tomas (log date: 2025-02-11)
+
+Bet 66:
+Scoreboard:
+Team Name: Holas, Petr, Team Score: 6, Set: 0
+Team Name: Pesek, Karel, Team Score: 8, Set: 2
+6-8
+0-2
+Updated scores for Holas, Petr vs Pesek, Karel (log date: 2025-02-11)
+
+Bet 67:
+Scoreboard:
+Team Name: Delgado, Cristian, Team Score: 8, Set: 2
+Team Name: Olmedo, Alberto, Team Score: 7, Set: 2
+8-7
+2-2
+Updated scores for Delgado, Cristian vs Olmedo, Alberto (log date: 2025-02-11)
+
+Bet 68:
+Scoreboard:
+Team Name: Kocab, Jan, Team Score: 6, Set: 2
+Team Name: Kosak, Vojtech, Team Score: 4, Set: 0
+6-4
+2-0
+Updated scores for Kocab, Jan vs Kosak, Vojtech (log date: 2025-02-11)
+
+Bet 69:
+Scoreboard:
+Team Name: Grela, Artur, Team Score: 5, Set: 2
+Team Name: Kosowski, Jakub, Team Score: 3, Set: 0
+5-3
+2-0
+Updated scores for Grela, Artur vs Kosowski, Jakub (log date: 2025-02-11)
+
+Bet 70:
+Scoreboard:
+Team Name: Spychala, Adrian, Team Score: 6, Set: 2
+Team Name: Poliniewicz, Grzegorz, Team Score: 3, Set: 1
+6-3
+2-1
+Updated scores for Spychala, Adrian vs Poliniewicz, Grzegorz (log date: 2025-02-11)
+
+Bet 71:
+Scoreboard:
+Team Name: Svatos, Vlastimil, Team Score: 5, Set: 2
+Team Name: Stary, Jiri, Team Score: 2, Set: 0
+5-2
+2-0
+Updated scores for Svatos, Vlastimil vs Stary, Jiri (log date: 2025-02-11)
+
+Bet 72:
+Scoreboard:
+Team Name: Manhal Sr, Jan, Team Score: 7, Set: 1
+Team Name: Holas, Petr, Team Score: 9, Set: 2
+7-9
+1-2
+Updated scores for Manhal Sr, Jan vs Holas, Petr (log date: 2025-02-11)
+
+Bet 73:
+Scoreboard:
+Team Name: Oracz, Michal, Team Score: 2, Set: 1
+Team Name: Gumulinski, Piotr, Team Score: 7, Set: 2
+2-7
+1-2
+Updated scores for Oracz, Michal vs Gumulinski, Piotr (log date: 2025-02-11)
+
+Bet 74:
+Scoreboard:
+Team Name: Chlodnicki, Piotr, Team Score: 3, Set: 1
+Team Name: Wloczko, Krzysztof, Team Score: 6, Set: 2
+3-6
+1-2
+Updated scores for Chlodnicki, Piotr vs Wloczko, Krzysztof (log date: 2025-02-11)
+
+Bet 75:
+Scoreboard:
+Team Name: Stepien, Marcin, Team Score: 7, Set: 2
+Team Name: Drozdz, Dariusz, Team Score: 3, Set: 2
+7-3
+2-2
+Updated scores for Stepien, Marcin vs Drozdz, Dariusz (log date: 2025-02-11)
+
+Bet 76:
+Scoreboard:
+Team Name: Johansson, Ove, Team Score: 10, Set: 0
+Team Name: Delgado, Cristian, Team Score: 12, Set: 2
+10-12
+0-2
+Updated scores for Johansson, Ove vs Delgado, Cristian (log date: 2025-02-11)
+
+Bet 77:
+Scoreboard:
+Team Name: Machart, Jiri, Team Score: 6, Set: 2
+Team Name: Cetner, Milan, Team Score: 3, Set: 0
+6-3
+2-0
+Updated scores for Machart, Jiri vs Cetner, Milan (log date: 2025-02-11)
+
+Bet 78:
+Scoreboard:
+Team Name: Tazler, Jakub, Team Score: 7, Set: 2
+Team Name: Zuzanek, Jiri, Team Score: 4, Set: 1
+7-4
+2-1
+Updated scores for Tazler, Jakub vs Zuzanek, Jiri (log date: 2025-02-11)
+
+Bet 79:
+Scoreboard:
+Team Name: Skotniczny, Rafal, Team Score: 4, Set: 2
+Team Name: Schaniel Krzysztof, Team Score: 7, Set: 2
+4-7
+2-2
+Updated scores for Skotniczny, Rafal vs Schaniel Krzysztof (log date: 2025-02-11)
+
+Bet 80:
+Scoreboard:
+Team Name: Trefny, Jan, Team Score: 11, Set: 2
+Team Name: Dvorak, Frantisek, Team Score: 6, Set: 1
+11-6
+2-1
+Updated scores for Trefny, Jan vs Dvorak, Frantisek (log date: 2025-02-11)
+
+Bet 81:
+Scoreboard:
+Team Name: Warpas, Blazej, Team Score: 6, Set: 2
+Team Name: Kociuba, Filip, Team Score: 8, Set: 2
+6-8
+2-2
+Updated scores for Warpas, Blazej vs Kociuba, Filip (log date: 2025-02-11)
+
+Bet 82:
+Scoreboard:
+Team Name: Mrugala, Bartlomiej, Team Score: 3, Set: 2
+Team Name: Stepien, Marcin, Team Score: 6, Set: 2
+3-6
+2-2
+Updated scores for Mrugala, Bartlomiej vs Stepien, Marcin (log date: 2025-02-11)
+
+Bet 83:
+Scoreboard:
+Team Name: Petas, Kacper, Team Score: 6, Set: 2
+Team Name: Chodorski, Piotr, Team Score: 4, Set: 1
+6-4
+2-1
+Updated scores for Petas, Kacper vs Chodorski, Piotr (log date: 2025-02-11)
+
+Bet 84:
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 6, Set: 2
+Team Name: Minda, Michal, Team Score: 3, Set: 1
+6-3
+2-1
+Updated scores for Rudomina, Kamil vs Minda, Michal (log date: 2025-02-11)
+
+Bet 85:
+Scoreboard:
+Team Name: Chlodnicki, Piotr, Team Score: 5, Set: 2
+Team Name: Jarocki, Lukasz, Team Score: 9, Set: 2
+5-9
+2-2
+Updated scores for Chlodnicki, Piotr vs Jarocki, Lukasz (log date: 2025-02-11)
+
+Bet 86:
+Scoreboard:
+Team Name: Skotniczny, Rafal, Team Score: 4, Set: 1
+Team Name: Oracz, Lukasz, Team Score: 6, Set: 2
+4-6
+1-2
+Updated scores for Skotniczny, Rafal vs Oracz, Lukasz (log date: 2025-02-11)
+
+Bet 87:
+Scoreboard:
+Team Name: Balcerzak, Marcin, Team Score: 5, Set: 2
+Team Name: Przewlocki, Jacek, Team Score: 2, Set: 2
+5-2
+2-2
+Updated scores for Balcerzak, Marcin vs Przewlocki, Jacek (log date: 2025-02-11)
+
+Bet 88:
+Scoreboard:
+Team Name: Wiecek, Adrian, Team Score: 7, Set: 2
+Team Name: Grela, Artur, Team Score: 5, Set: 2
+7-5
+2-2
+Updated scores for Wiecek, Adrian vs Grela, Artur (log date: 2025-02-11)
+
+Bet 89:
+Scoreboard:
+Team Name: Drozdz, Dariusz, Team Score: 7, Set: 2
+Team Name: Gola, Pawel, Team Score: 5, Set: 1
+7-5
+2-1
+Updated scores for Drozdz, Dariusz vs Gola, Pawel (log date: 2025-02-11)
+
+Bet 90:
+Scoreboard:
+Team Name: Cetner, Milan, Team Score: 5, Set: 0
+Team Name: Stary, Jiri, Team Score: 11, Set: 2
+5-11
+0-2
+Updated scores for Cetner, Milan vs Stary, Jiri (log date: 2025-02-11)
+
+Bet 91:
+Scoreboard:
+Team Name: Smrcek, Milan, Team Score: 6, Set: 1
+Team Name: Trinta, Mihail, Team Score: 8, Set: 2
+6-8
+1-2
+Updated scores for Smrcek, Milan vs Trinta, Mihail (log date: 2025-02-11)
+
+Bet 92:
+Scoreboard:
+Team Name: Musil, Josef, Team Score: 9, Set: 2
+Team Name: Pesek, Karel, Team Score: 4, Set: 1
+9-4
+2-1
+Updated scores for Musil, Josef vs Pesek, Karel (log date: 2025-02-11)
+
+Bet 93:
+Scoreboard:
+Team Name: Przewlocki, Jacek, Team Score: 7, Set: 2
+Team Name: Murawski, Daniel, Team Score: 5, Set: 2
+7-5
+2-2
+Updated scores for Przewlocki, Jacek vs Murawski, Daniel (log date: 2025-02-11)
+
+Bet 94:
+Scoreboard:
+Team Name: Dorko, Tomas, Team Score: 5, Set: 2
+Team Name: Vondrak, Michal, Team Score: 3, Set: 0
+5-3
+2-0
+Updated scores for Dorko, Tomas vs Vondrak, Michal (log date: 2025-02-11)
+
+Bet 95:
+Scoreboard:
+Team Name: Drozdz, Dariusz, Team Score: 5, Set: 1
+Team Name: Gola, Pawel, Team Score: 7, Set: 2
+5-7
+1-2
+Updated scores for Drozdz, Dariusz vs Gola, Pawel (log date: 2025-02-11)
+
+Bet 96:
+Scoreboard:
+Team Name: Oracz, Lukasz, Team Score: 5, Set: 2
+Team Name: Schaniel Krzysztof, Team Score: 3, Set: 1
+5-3
+2-1
+Updated scores for Oracz, Lukasz vs Schaniel Krzysztof (log date: 2025-02-11)
+
+Bet 97:
+Scoreboard:
+Team Name: Hejda Jr, Vaclav, Team Score: 6, Set: 2
+Team Name: Vonasek, Jan, Team Score: 3, Set: 1
+6-3
+2-1
+Updated scores for Hejda Jr, Vaclav vs Vonasek, Jan (log date: 2025-02-11)
+
+Bet 98:
+Scoreboard:
+Team Name: Wiecek, Adrian, Team Score: 2, Set: 2
+Team Name: Kosowski, Jakub, Team Score: 5, Set: 2
+2-5
+2-2
+Updated scores for Wiecek, Adrian vs Kosowski, Jakub (log date: 2025-02-11)
+
+Bet 99:
+Scoreboard:
+Team Name: Pikous, Marcel, Team Score: 8, Set: 2
+Team Name: Sedlak, Marek, Team Score: 6, Set: 2
+8-6
+2-2
+Updated scores for Pikous, Marcel vs Sedlak, Marek (log date: 2025-02-11)
+
+Bet 100:
+Scoreboard:
+Team Name: Golebiowski, Mateusz, Team Score: 1, Set: 0
+Team Name: Chodorski, Piotr, Team Score: 6, Set: 2
+1-6
+0-2
+Updated scores for Golebiowski, Mateusz vs Chodorski, Piotr (log date: 2025-02-11)
+
+Bet 101:
+Scoreboard:
+Team Name: Lengal, Dominik, Team Score: 5, Set: 2
+Team Name: Jirek, Jan, Team Score: 2, Set: 2
+5-2
+2-2
+Updated scores for Lengal, Dominik vs Jirek, Jan (log date: 2025-02-11)
+
+Bet 102:
+Scoreboard:
+Team Name: Oracz, Michal, Team Score: 3, Set: 0
+Team Name: Gumulinski, Piotr, Team Score: 5, Set: 2
+3-5
+0-2
+Updated scores for Oracz, Michal vs Gumulinski, Piotr (log date: 2025-02-11)
+
+Bet 103:
+Scoreboard:
+Team Name: Louda, Jiri, Team Score: 6, Set: 2
+Team Name: Sobisek, Martin, Team Score: 2, Set: 2
+6-2
+2-2
+Updated scores for Louda, Jiri vs Sobisek, Martin (log date: 2025-02-11)
+
+Bet 104:
+Scoreboard:
+Team Name: Svoboda, Vladimir, Team Score: 2, Set: 1
+Team Name: Strouhal, Vojtech, Team Score: 5, Set: 2
+2-5
+1-2
+Updated scores for Svoboda, Vladimir vs Strouhal, Vojtech (log date: 2025-02-11)
+--------------------------------------------------
+
+Analyzing: 20250212_131822_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250212_131856_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250212_133123_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250212_135107_tbAppPinpon.txt
+Found 21 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Sobisek, Martin, Team Score: 4, Set: 2
+Team Name: Pikous, Marcel, Team Score: 7, Set: 2
+4-7
+2-2
+Updated scores for Sobisek, Martin vs Pikous, Marcel (log date: 2025-02-12)
+
+Bet 2:
+Scoreboard:
+Team Name: Danilov Nikolai, Team Score: 6, Set: 2
+Team Name: Valiyev, Farid, Team Score: 4, Set: 1
+6-4
+2-1
+Updated scores for Danilov Nikolai vs Valiyev, Farid (log date: 2025-02-12)
+
+Bet 3:
+Scoreboard:
+Team Name: Ruzicka, Josef, Team Score: 8, Set: 2
+Team Name: Kubat, Petr, Team Score: 6, Set: 1
+8-6
+2-1
+Updated scores for Ruzicka, Josef vs Kubat, Petr (log date: 2025-02-12)
+
+Bet 4:
+Scoreboard:
+Team Name: Prokupek, Jaroslav, Team Score: 6, Set: 2
+Team Name: Cermak, Vladimir, Team Score: 4, Set: 1
+6-4
+2-1
+Updated scores for Prokupek, Jaroslav vs Cermak, Vladimir (log date: 2025-02-12)
+
+Bet 5:
+Scoreboard:
+Team Name: Pikous, Marcel, Team Score: 7, Set: 1
+Team Name: Louda, Jiri, Team Score: 9, Set: 2
+7-9
+1-2
+Updated scores for Pikous, Marcel vs Louda, Jiri (log date: 2025-02-12)
+
+Bet 6:
+Scoreboard:
+Team Name: Hendrych, Jan, Team Score: 4, Set: 1
+Team Name: Kral, Adam, Team Score: 7, Set: 2
+4-7
+1-2
+Updated scores for Hendrych, Jan vs Kral, Adam (log date: 2025-02-12)
+
+Bet 7:
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 5, Set: 2
+Team Name: Przewlocki, Jacek, Team Score: 1, Set: 2
+5-1
+2-2
+Updated scores for Rudomina, Kamil vs Przewlocki, Jacek (log date: 2025-02-12)
+
+Bet 8:
+Scoreboard:
+Team Name: Chlodnicki, Piotr, Team Score: 6, Set: 1
+Team Name: Murawski, Michal, Team Score: 8, Set: 2
+6-8
+1-2
+Updated scores for Chlodnicki, Piotr vs Murawski, Michal (log date: 2025-02-12)
+
+Bet 9:
+Scoreboard:
+Team Name: Krcal, Radek, Team Score: 9, Set: 2
+Team Name: Jirek, Jan, Team Score: 6, Set: 1
+9-6
+2-1
+Updated scores for Krcal, Radek vs Jirek, Jan (log date: 2025-02-12)
+
+Bet 10:
+Scoreboard:
+Team Name: Kwiatkowski, Kacper, Team Score: 4, Set: 1
+Team Name: Stojek, Karol, Team Score: 7, Set: 2
+4-7
+1-2
+Updated scores for Kwiatkowski, Kacper vs Stojek, Karol (log date: 2025-02-12)
+
+Bet 11:
+Scoreboard:
+Team Name: Oja, Brunold, Team Score: 4, Set: 1
+Team Name: Danilov Nikolai, Team Score: 6, Set: 2
+4-6
+1-2
+Updated scores for Oja, Brunold vs Danilov Nikolai (log date: 2025-02-12)
+
+Bet 12:
+Scoreboard:
+Team Name: Sikora, Fabian, Team Score: 7, Set: 2
+Team Name: Kos, Pawel, Team Score: 6, Set: 0
+7-6
+2-0
+Updated scores for Sikora, Fabian vs Kos, Pawel (log date: 2025-02-12)
+
+Bet 13:
+Scoreboard:
+Team Name: Vaarpu, Madis, Team Score: 8, Set: 2
+Team Name: Danilov Nikolai, Team Score: 5, Set: 2
+8-5
+2-2
+Updated scores for Vaarpu, Madis vs Danilov Nikolai (log date: 2025-02-12)
+
+Bet 14:
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 4, Set: 1
+Team Name: Murawski, Daniel, Team Score: 6, Set: 2
+4-6
+1-2
+Updated scores for Rudomina, Kamil vs Murawski, Daniel (log date: 2025-02-12)
+
+Bet 15:
+Scoreboard:
+Team Name: Prokupek, Jaroslav, Team Score: 1, Set: 2
+Team Name: Plachy, Jiri, Team Score: 5, Set: 2
+1-5
+2-2
+Updated scores for Prokupek, Jaroslav vs Plachy, Jiri (log date: 2025-02-12)
+
+Bet 16:
+Scoreboard:
+Team Name: Strus, Piotr, Team Score: 6, Set: 2
+Team Name: Kotyl, Wojciech, Team Score: 2, Set: 2
+6-2
+2-2
+Updated scores for Strus, Piotr vs Kotyl, Wojciech (log date: 2025-02-12)
+
+Bet 17:
+Scoreboard:
+Team Name: Polanski, Pawel, Team Score: 2, Set: 0
+Team Name: Brunner, Marian, Team Score: 5, Set: 2
+2-5
+0-2
+Updated scores for Polanski, Pawel vs Brunner, Marian (log date: 2025-02-12)
+
+Bet 18:
+Scoreboard:
+Team Name: Strouhal, Vojtech, Team Score: 4, Set: 0
+Team Name: Libovicky, Vladimir, Team Score: 7, Set: 2
+4-7
+0-2
+Updated scores for Strouhal, Vojtech vs Libovicky, Vladimir (log date: 2025-02-12)
+
+Bet 19:
+Scoreboard:
+Team Name: Kotwica, Dawid, Team Score: 6, Set: 2
+Team Name: Radlo, Szymon, Team Score: 3, Set: 1
+6-3
+2-1
+Updated scores for Kotwica, Dawid vs Radlo, Szymon (log date: 2025-02-12)
+
+Bet 20:
+Error retrieving team names and scores: Message: stale element reference: stale element not found in the current frame
+(Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Error updating database: list index out of range
+
+Bet 21:
+Scoreboard:
+Team Name: Wisniewski, Karol, Team Score: 7, Set: 2
+Team Name: Witkowski, Jakub, Team Score: 5, Set: 1
+7-5
+2-1
+Updated scores for Wisniewski, Karol vs Witkowski, Jakub (log date: 2025-02-12)
+--------------------------------------------------
+
+Analyzing: 20250212_181917_tbAppPinpon.txt
+Found 17 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Sikora, Fabian, Team Score: 5, Set: 2
+Team Name: Gola, Blazej, Team Score: 8, Set: 2
+5-8
+2-2
+Updated scores for Sikora, Fabian vs Gola, Blazej (log date: 2025-02-12)
+
+Bet 2:
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 5, Set: 2
+Team Name: Kotwica, Dawid, Team Score: 0, Set: 2
+5-0
+2-2
+Updated scores for Rudomina, Kamil vs Kotwica, Dawid (log date: 2025-02-12)
+
+Bet 3:
+Scoreboard:
+Team Name: Skupinski, Arkadiusz, Team Score: 7, Set: 2
+Team Name: Michalik, Jerzy, Team Score: 5, Set: 2
+7-5
+2-2
+Updated scores for Skupinski, Arkadiusz vs Michalik, Jerzy (log date: 2025-02-12)
+
+Bet 4:
+Scoreboard:
+Team Name: Hradecky, Jakub, Team Score: 5, Set: 1
+Team Name: Sychra, Martin, Team Score: 7, Set: 2
+5-7
+1-2
+Updated scores for Hradecky, Jakub vs Sychra, Martin (log date: 2025-02-12)
+
+Bet 5:
+Scoreboard:
+Team Name: Lojtek, Tomasz, Team Score: 7, Set: 2
+Team Name: Strus, Piotr, Team Score: 5, Set: 0
+7-5
+2-0
+Updated scores for Lojtek, Tomasz vs Strus, Piotr (log date: 2025-02-12)
+
+Bet 6:
+Scoreboard:
+Team Name: Marat, Filip, Team Score: 9, Set: 2
+Team Name: Hrncir, Jan, Team Score: 5, Set: 2
+9-5
+2-2
+Updated scores for Marat, Filip vs Hrncir, Jan (log date: 2025-02-12)
+
+Bet 7:
+Scoreboard:
+Team Name: Buklat, Lukasz, Team Score: 4, Set: 2
+Team Name: Stojek, Karol, Team Score: 6, Set: 2
+4-6
+2-2
+Updated scores for Buklat, Lukasz vs Stojek, Karol (log date: 2025-02-12)
+
+Bet 8:
+Scoreboard:
+Team Name: Silhan, Petr, Team Score: 3, Set: 0
+Team Name: Vorisek, Tomas, Team Score: 5, Set: 2
+3-5
+0-2
+Updated scores for Silhan, Petr vs Vorisek, Tomas (log date: 2025-02-12)
+
+Bet 9:
+Scoreboard:
+Team Name: Kos, Pawel, Team Score: 5, Set: 0
+Team Name: Kovtanyuk, Denys, Team Score: 8, Set: 2
+5-8
+0-2
+Updated scores for Kos, Pawel vs Kovtanyuk, Denys (log date: 2025-02-12)
+
+Bet 10:
+Scoreboard:
+Team Name: Wisniewski, Karol, Team Score: 5, Set: 2
+Team Name: Murawski, Michal, Team Score: 0, Set: 2
+5-0
+2-2
+Updated scores for Wisniewski, Karol vs Murawski, Michal (log date: 2025-02-12)
+
+Bet 11:
+Scoreboard:
+Team Name: Kowalczyk, Marcin, Team Score: 6, Set: 2
+Team Name: Kotyl, Wojciech, Team Score: 4, Set: 1
+6-4
+2-1
+Updated scores for Kowalczyk, Marcin vs Kotyl, Wojciech (log date: 2025-02-12)
+
+Bet 12:
+Scoreboard:
+Team Name: Vidourek, Jan, Team Score: 8, Set: 2
+Team Name: Laznicka, Roman, Team Score: 6, Set: 1
+8-6
+2-1
+Updated scores for Vidourek, Jan vs Laznicka, Roman (log date: 2025-02-12)
+
+Bet 13:
+Scoreboard:
+Team Name: Cmerda, Ondrej, Team Score: 5, Set: 2
+Team Name: Sobisek, Martin, Team Score: 3, Set: 1
+5-3
+2-1
+Updated scores for Cmerda, Ondrej vs Sobisek, Martin (log date: 2025-02-12)
+
+Bet 14:
+Scoreboard:
+Team Name: Sulava, Lubor, Team Score: 5, Set: 0
+Team Name: Parhomenko, Dmitro, Team Score: 6, Set: 2
+5-6
+0-2
+Updated scores for Sulava, Lubor vs Parhomenko, Dmitro (log date: 2025-02-12)
+
+Bet 15:
+Scoreboard:
+Team Name: Silhan, Petr, Team Score: 3, Set: 0
+Team Name: Cernota, Filip, Team Score: 5, Set: 2
+3-5
+0-2
+Updated scores for Silhan, Petr vs Cernota, Filip (log date: 2025-02-12)
+
+Bet 16:
+Scoreboard:
+Team Name: Kulisek, Marek, Team Score: 5, Set: 2
+Team Name: Marat, Filip, Team Score: 4, Set: 0
+5-4
+2-0
+Updated scores for Kulisek, Marek vs Marat, Filip (log date: 2025-02-12)
+
+Bet 17:
+Scoreboard:
+Team Name: Kouble, Daniel, Team Score: 5, Set: 1
+Team Name: Cermak, Vladimir, Team Score: 7, Set: 2
+5-7
+1-2
+Updated scores for Kouble, Daniel vs Cermak, Vladimir (log date: 2025-02-12)
+--------------------------------------------------
+
+Analyzing: 20250212_210046_tbAppPinpon.txt
+No complete bet records found
+--------------------------------------------------
+
+Analyzing: 20250212_210149_tbAppPinpon.txt
+Found 10 bet(s) with scoreboards:
+
+Bet 1:
+Scoreboard:
+Team Name: Parhomenko, Dmitro, Team Score: 5, Set: 2
+Team Name: Darin, Kyryl, Team Score: 4, Set: 0
+5-4
+2-0
+Updated scores for Parhomenko, Dmitro vs Darin, Kyryl (log date: 2025-02-12)
+
+Bet 2:
+Scoreboard:
+Team Name: Kasperski, Adam, Team Score: 4, Set: 1
+Team Name: Kotyl, Krzysztof, Team Score: 6, Set: 2
+4-6
+1-2
+Updated scores for Kasperski, Adam vs Kotyl, Krzysztof (log date: 2025-02-12)
+
+Bet 3:
+Scoreboard:
+Team Name: Wang, Lee, Team Score: 7, Set: 1
+Team Name: Meneses, Luis, Team Score: 9, Set: 2
+7-9
+1-2
+Updated scores for Wang, Lee vs Meneses, Luis (log date: 2025-02-12)
+
+Bet 4:
+Error retrieving team names and scores: Message: stale element reference: stale element not found in the current frame
+(Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Error updating database: list index out of range
+
+Bet 5:
+Scoreboard:
+Team Name: Nocun, Zbigniew, Team Score: 5, Set: 2
+Team Name: Glanowski, Waldemar, Team Score: 2, Set: 2
+5-2
+2-2
+Updated scores for Nocun, Zbigniew vs Glanowski, Waldemar (log date: 2025-02-12)
+
+Bet 6:
+Scoreboard:
+Team Name: Lu, Louis, Team Score: 5, Set: 2
+Team Name: Meneses, Luis, Team Score: 2, Set: 1
+5-2
+2-1
+Updated scores for Lu, Louis vs Meneses, Luis (log date: 2025-02-12)
+
+Bet 7:
+Scoreboard:
+Team Name: Polanski, Pawel, Team Score: 5, Set: 2
+Team Name: Brunner, Marian, Team Score: 2, Set: 1
+5-2
+2-1
+Updated scores for Polanski, Pawel vs Brunner, Marian (log date: 2025-02-12)
+
+Bet 8:
+Error retrieving team names and scores: Message: stale element reference: stale element not found in the current frame
+(Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Error updating database: list index out of range
+
+Bet 9:
+Scoreboard:
+Team Name: Kolodziej, Krystian, Team Score: 4, Set: 2
+Team Name: Witkowski, Jakub, Team Score: 8, Set: 2
+4-8
+2-2
+Updated scores for Kolodziej, Krystian vs Witkowski, Jakub (log date: 2025-02-12)
+
+Bet 10:
+Scoreboard:
+Team Name: Dhawan, Abhishek, Team Score: 7, Set: 2
+Team Name: Wang, Lee, Team Score: 5, Set: 1
+7-5
+2-1
+Updated scores for Dhawan, Abhishek vs Wang, Lee (log date: 2025-02-12)
+--------------------------------------------------

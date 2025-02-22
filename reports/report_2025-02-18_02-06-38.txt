@@ -1,0 +1,1119 @@
+Found 20 instances of consecutive 'bet_status=2'
+Found 66 winning streaks:
+
+Streak 1:
+Start: 2025-01-29 18:40:00
+End:   2025-01-29 21:46:00
+Wins:  7
+
+Streak 2:
+Start: 2025-01-29 22:47:00
+End:   2025-01-30 02:05:00
+Wins:  4
+
+Streak 3:
+Start: 2025-01-30 18:36:00
+End:   2025-01-30 19:15:00
+Wins:  4
+
+Streak 4:
+Start: 2025-01-30 19:55:00
+End:   2025-01-30 23:33:00
+Wins:  7
+
+Streak 5:
+Start: 2025-01-31 20:37:00
+End:   2025-02-01 00:23:00
+Wins:  14
+
+Streak 6:
+Start: 2025-02-01 01:21:00
+End:   2025-02-01 01:31:00
+Wins:  3
+
+Streak 7:
+Start: 2025-02-01 15:33:00
+End:   2025-02-01 17:30:00
+Wins:  4
+
+Streak 8:
+Start: 2025-02-01 18:06:00
+End:   2025-02-01 20:48:00
+Wins:  10
+
+Streak 9:
+Start: 2025-02-01 21:17:00
+End:   2025-02-01 21:17:00
+Wins:  1
+
+Streak 10:
+Start: 2025-02-01 21:54:00
+End:   2025-02-02 02:10:00
+Wins:  19
+
+Streak 11:
+Start: 2025-02-02 02:25:00
+End:   2025-02-02 11:13:00
+Wins:  7
+
+Streak 12:
+Start: 2025-02-02 11:24:00
+End:   2025-02-02 18:54:00
+Wins:  12
+
+Streak 13:
+Start: 2025-02-02 19:11:00
+End:   2025-02-02 19:26:00
+Wins:  4
+
+Streak 14:
+Start: 2025-02-02 19:42:00
+End:   2025-02-02 19:58:00
+Wins:  3
+
+Streak 15:
+Start: 2025-02-02 20:15:00
+End:   2025-02-02 21:31:00
+Wins:  8
+
+Streak 16:
+Start: 2025-02-02 21:59:00
+End:   2025-02-02 22:54:00
+Wins:  7
+
+Streak 17:
+Start: 2025-02-02 23:14:00
+End:   2025-02-03 06:57:00
+Wins:  53
+
+Streak 18:
+Start: 2025-02-03 07:14:00
+End:   2025-02-03 09:27:00
+Wins:  13
+
+Streak 19:
+Start: 2025-02-03 09:43:00
+End:   2025-02-03 09:43:00
+Wins:  1
+
+Streak 20:
+Start: 2025-02-03 09:59:00
+End:   2025-02-03 12:04:00
+Wins:  8
+
+Streak 21:
+Start: 2025-02-03 13:02:00
+End:   2025-02-03 14:15:00
+Wins:  6
+
+Streak 22:
+Start: 2025-02-03 14:39:00
+End:   2025-02-03 14:39:00
+Wins:  1
+
+Streak 23:
+Start: 2025-02-03 15:37:00
+End:   2025-02-03 15:53:00
+Wins:  2
+
+Streak 24:
+Start: 2025-02-03 16:02:00
+End:   2025-02-03 16:02:00
+Wins:  1
+
+Streak 25:
+Start: 2025-02-03 16:11:00
+End:   2025-02-03 16:14:00
+Wins:  2
+
+Streak 26:
+Start: 2025-02-03 16:23:00
+End:   2025-02-03 16:23:00
+Wins:  1
+
+Streak 27:
+Start: 2025-02-03 16:44:00
+End:   2025-02-03 16:44:00
+Wins:  1
+
+Streak 28:
+Start: 2025-02-03 19:05:00
+End:   2025-02-03 20:12:00
+Wins:  5
+
+Streak 29:
+Start: 2025-02-03 20:29:00
+End:   2025-02-03 20:37:00
+Wins:  4
+
+Streak 30:
+Start: 2025-02-03 23:41:00
+End:   2025-02-04 01:12:00
+Wins:  13
+
+Streak 31:
+Start: 2025-02-04 01:18:00
+End:   2025-02-04 04:24:00
+Wins:  32
+
+Streak 32:
+Start: 2025-02-04 04:32:00
+End:   2025-02-04 04:37:00
+Wins:  2
+
+Streak 33:
+Start: 2025-02-04 04:43:00
+End:   2025-02-04 04:53:00
+Wins:  5
+
+Streak 34:
+Start: 2025-02-04 05:02:00
+End:   2025-02-04 05:21:00
+Wins:  6
+
+Streak 35:
+Start: 2025-02-04 05:28:00
+End:   2025-02-04 05:28:00
+Wins:  1
+
+Streak 36:
+Start: 2025-02-04 14:26:00
+End:   2025-02-04 17:48:00
+Wins:  43
+
+Streak 37:
+Start: 2025-02-04 18:00:00
+End:   2025-02-04 18:32:00
+Wins:  5
+
+Streak 38:
+Start: 2025-02-04 18:45:00
+End:   2025-02-04 19:14:00
+Wins:  6
+
+Streak 39:
+Start: 2025-02-04 19:25:00
+End:   2025-02-04 19:36:00
+Wins:  3
+
+Streak 40:
+Start: 2025-02-04 22:05:00
+End:   2025-02-05 01:10:00
+Wins:  22
+
+Streak 41:
+Start: 2025-02-05 01:23:00
+End:   2025-02-05 02:34:00
+Wins:  9
+
+Streak 42:
+Start: 2025-02-05 02:45:00
+End:   2025-02-05 03:30:00
+Wins:  6
+
+Streak 43:
+Start: 2025-02-05 04:04:00
+End:   2025-02-05 04:04:00
+Wins:  1
+
+Streak 44:
+Start: 2025-02-05 04:13:00
+End:   2025-02-05 14:38:00
+Wins:  5
+
+Streak 45:
+Start: 2025-02-05 15:08:00
+End:   2025-02-05 16:49:00
+Wins:  4
+
+Streak 46:
+Start: 2025-02-07 03:55:00
+End:   2025-02-07 14:17:00
+Wins:  6
+
+Streak 47:
+Start: 2025-02-07 14:29:00
+End:   2025-02-07 15:48:00
+Wins:  11
+
+Streak 48:
+Start: 2025-02-07 15:51:00
+End:   2025-02-07 15:53:00
+Wins:  2
+
+Streak 49:
+Start: 2025-02-07 17:06:00
+End:   2025-02-07 17:10:00
+Wins:  2
+
+Streak 50:
+Start: 2025-02-07 17:20:00
+End:   2025-02-07 17:41:00
+Wins:  2
+
+Streak 51:
+Start: 2025-02-07 17:47:00
+End:   2025-02-07 18:05:00
+Wins:  4
+
+Streak 52:
+Start: 2025-02-07 18:21:00
+End:   2025-02-11 22:31:00
+Wins:  14
+
+Streak 53:
+Start: 2025-02-11 22:42:00
+End:   2025-02-11 22:52:00
+Wins:  2
+
+Streak 54:
+Start: 2025-02-11 23:23:00
+End:   2025-02-12 02:50:00
+Wins:  17
+
+Streak 55:
+Start: 2025-02-12 03:06:00
+End:   2025-02-12 04:54:00
+Wins:  12
+
+Streak 56:
+Start: 2025-02-12 05:11:00
+End:   2025-02-12 07:12:00
+Wins:  19
+
+Streak 57:
+Start: 2025-02-12 07:42:00
+End:   2025-02-12 07:47:00
+Wins:  2
+
+Streak 58:
+Start: 2025-02-12 08:09:00
+End:   2025-02-12 09:45:00
+Wins:  18
+
+Streak 59:
+Start: 2025-02-12 10:01:00
+End:   2025-02-12 10:48:00
+Wins:  6
+
+Streak 60:
+Start: 2025-02-12 11:10:00
+End:   2025-02-12 12:18:00
+Wins:  10
+
+Streak 61:
+Start: 2025-02-12 12:31:00
+End:   2025-02-12 13:52:00
+Wins:  7
+
+Streak 62:
+Start: 2025-02-12 14:15:00
+End:   2025-02-12 14:51:00
+Wins:  7
+
+Streak 63:
+Start: 2025-02-12 15:37:00
+End:   2025-02-12 16:04:00
+Wins:  4
+
+Streak 64:
+Start: 2025-02-12 16:32:00
+End:   2025-02-12 16:32:00
+Wins:  1
+
+Streak 65:
+Start: 2025-02-12 18:21:00
+End:   2025-02-12 20:19:00
+Wins:  14
+
+Streak 66:
+Start: 2025-02-12 21:09:00
+End:   2025-02-12 22:06:00
+Wins:  7
+
+
+----------------------------------------------
+
+Found 66 losing streaks:
+
+Streak 1:
+Start: 2025-01-29 22:22:00
+End:   2025-01-29 22:22:00
+Losses:  1
+
+Streak 2:
+Start: 2025-01-30 02:15:00
+End:   2025-01-30 02:15:00
+Losses:  1
+
+Streak 3:
+Start: 2025-01-30 19:46:00
+End:   2025-01-30 19:46:00
+Losses:  1
+
+Streak 4:
+Start: 2025-01-30 23:42:00
+End:   2025-01-30 23:42:00
+Losses:  1
+
+Streak 5:
+Start: 2025-02-01 00:52:00
+End:   2025-02-01 00:52:00
+Losses:  1
+
+Streak 6:
+Start: 2025-02-01 01:40:00
+End:   2025-02-01 13:31:00
+Losses:  3
+
+Streak 7:
+Start: 2025-02-01 17:54:00
+End:   2025-02-01 17:54:00
+Losses:  1
+
+Streak 8:
+Start: 2025-02-01 20:55:00
+End:   2025-02-01 20:55:00
+Losses:  1
+
+Streak 9:
+Start: 2025-02-01 21:42:00
+End:   2025-02-01 21:42:00
+Losses:  1
+
+Streak 10:
+Start: 2025-02-02 02:14:00
+End:   2025-02-02 02:14:00
+Losses:  1
+
+Streak 11:
+Start: 2025-02-02 11:19:00
+End:   2025-02-02 11:19:00
+Losses:  1
+
+Streak 12:
+Start: 2025-02-02 18:58:00
+End:   2025-02-02 18:58:00
+Losses:  1
+
+Streak 13:
+Start: 2025-02-02 19:27:00
+End:   2025-02-02 19:27:00
+Losses:  1
+
+Streak 14:
+Start: 2025-02-02 20:06:00
+End:   2025-02-02 20:06:00
+Losses:  1
+
+Streak 15:
+Start: 2025-02-02 21:49:00
+End:   2025-02-02 21:49:00
+Losses:  1
+
+Streak 16:
+Start: 2025-02-02 22:58:00
+End:   2025-02-02 22:58:00
+Losses:  1
+
+Streak 17:
+Start: 2025-02-03 07:04:00
+End:   2025-02-03 07:09:00
+Losses:  2
+
+Streak 18:
+Start: 2025-02-03 09:35:00
+End:   2025-02-03 09:35:00
+Losses:  1
+
+Streak 19:
+Start: 2025-02-03 09:55:00
+End:   2025-02-03 09:55:00
+Losses:  1
+
+Streak 20:
+Start: 2025-02-03 12:30:00
+End:   2025-02-03 12:30:00
+Losses:  1
+
+Streak 21:
+Start: 2025-02-03 14:36:00
+End:   2025-02-03 14:36:00
+Losses:  1
+
+Streak 22:
+Start: 2025-02-03 14:43:00
+End:   2025-02-03 15:25:00
+Losses:  2
+
+Streak 23:
+Start: 2025-02-03 15:56:00
+End:   2025-02-03 15:56:00
+Losses:  1
+
+Streak 24:
+Start: 2025-02-03 16:05:00
+End:   2025-02-03 16:10:00
+Losses:  2
+
+Streak 25:
+Start: 2025-02-03 16:20:00
+End:   2025-02-03 16:20:00
+Losses:  1
+
+Streak 26:
+Start: 2025-02-03 16:24:00
+End:   2025-02-03 16:41:00
+Losses:  2
+
+Streak 27:
+Start: 2025-02-03 18:37:00
+End:   2025-02-03 18:37:00
+Losses:  1
+
+Streak 28:
+Start: 2025-02-03 20:26:00
+End:   2025-02-03 20:26:00
+Losses:  2
+
+Streak 29:
+Start: 2025-02-03 20:56:00
+End:   2025-02-03 23:24:00
+Losses:  5
+
+Streak 30:
+Start: 2025-02-04 01:14:00
+End:   2025-02-04 01:14:00
+Losses:  1
+
+Streak 31:
+Start: 2025-02-04 04:28:00
+End:   2025-02-04 04:28:00
+Losses:  1
+
+Streak 32:
+Start: 2025-02-04 04:39:00
+End:   2025-02-04 04:39:00
+Losses:  1
+
+Streak 33:
+Start: 2025-02-04 04:57:00
+End:   2025-02-04 04:57:00
+Losses:  1
+
+Streak 34:
+Start: 2025-02-04 05:25:00
+End:   2025-02-04 05:25:00
+Losses:  1
+
+Streak 35:
+Start: 2025-02-04 05:30:00
+End:   2025-02-04 05:33:00
+Losses:  2
+
+Streak 36:
+Start: 2025-02-04 17:51:00
+End:   2025-02-04 17:51:00
+Losses:  1
+
+Streak 37:
+Start: 2025-02-04 18:37:00
+End:   2025-02-04 18:40:00
+Losses:  2
+
+Streak 38:
+Start: 2025-02-04 19:18:00
+End:   2025-02-04 19:18:00
+Losses:  1
+
+Streak 39:
+Start: 2025-02-04 19:41:00
+End:   2025-02-04 19:41:00
+Losses:  1
+
+Streak 40:
+Start: 2025-02-05 01:17:00
+End:   2025-02-05 01:17:00
+Losses:  1
+
+Streak 41:
+Start: 2025-02-05 02:39:00
+End:   2025-02-05 02:39:00
+Losses:  1
+
+Streak 42:
+Start: 2025-02-05 03:41:00
+End:   2025-02-05 03:52:00
+Losses:  3
+
+Streak 43:
+Start: 2025-02-05 04:13:00
+End:   2025-02-05 04:13:00
+Losses:  1
+
+Streak 44:
+Start: 2025-02-05 14:47:00
+End:   2025-02-05 14:47:00
+Losses:  1
+
+Streak 45:
+Start: 2025-02-05 16:55:00
+End:   2025-02-05 16:55:00
+Losses:  1
+
+Streak 46:
+Start: 2025-02-07 14:22:00
+End:   2025-02-07 14:22:00
+Losses:  1
+
+Streak 47:
+Start: 2025-02-07 15:49:00
+End:   2025-02-07 15:49:00
+Losses:  1
+
+Streak 48:
+Start: 2025-02-07 17:01:00
+End:   2025-02-07 17:01:00
+Losses:  1
+
+Streak 49:
+Start: 2025-02-07 17:13:00
+End:   2025-02-07 17:14:00
+Losses:  2
+
+Streak 50:
+Start: 2025-02-07 17:43:00
+End:   2025-02-07 17:43:00
+Losses:  1
+
+Streak 51:
+Start: 2025-02-07 18:20:00
+End:   2025-02-07 18:20:00
+Losses:  1
+
+Streak 52:
+Start: 2025-02-11 22:38:00
+End:   2025-02-11 22:38:00
+Losses:  1
+
+Streak 53:
+Start: 2025-02-11 23:05:00
+End:   2025-02-11 23:05:00
+Losses:  1
+
+Streak 54:
+Start: 2025-02-12 02:54:00
+End:   2025-02-12 02:54:00
+Losses:  1
+
+Streak 55:
+Start: 2025-02-12 05:06:00
+End:   2025-02-12 05:06:00
+Losses:  1
+
+Streak 56:
+Start: 2025-02-12 07:23:00
+End:   2025-02-12 07:23:00
+Losses:  1
+
+Streak 57:
+Start: 2025-02-12 07:52:00
+End:   2025-02-12 07:52:00
+Losses:  1
+
+Streak 58:
+Start: 2025-02-12 09:53:00
+End:   2025-02-12 09:53:00
+Losses:  1
+
+Streak 59:
+Start: 2025-02-12 10:59:00
+End:   2025-02-12 10:59:00
+Losses:  1
+
+Streak 60:
+Start: 2025-02-12 12:25:00
+End:   2025-02-12 12:25:00
+Losses:  1
+
+Streak 61:
+Start: 2025-02-12 14:00:00
+End:   2025-02-12 14:00:00
+Losses:  1
+
+Streak 62:
+Start: 2025-02-12 14:58:00
+End:   2025-02-12 15:15:00
+Losses:  2
+
+Streak 63:
+Start: 2025-02-12 16:09:00
+End:   2025-02-12 16:09:00
+Losses:  1
+
+Streak 64:
+Start: 2025-02-12 16:44:00
+End:   2025-02-12 16:44:00
+Losses:  1
+
+Streak 65:
+Start: 2025-02-12 20:30:00
+End:   2025-02-12 20:47:00
+Losses:  2
+
+Streak 66:
+Start: 2025-02-12 22:16:00
+End:   2025-02-13 00:18:00
+Losses:  3
+
+
+----------------------------------------------
+
+
+Odds frequency (winning bets only):
+Odds 1.01: 31 times
+Odds 1.02: 41 times
+Odds 1.03: 62 times
+Odds 1.04: 43 times
+Odds 1.05: 43 times
+Odds 1.06: 46 times
+Odds 1.07: 27 times
+Odds 1.08: 35 times
+Odds 1.09: 30 times
+Odds 1.10: 25 times
+Odds 1.12: 39 times
+Odds 1.14: 21 times
+Odds 1.15: 10 times
+Odds 1.16: 16 times
+Odds 1.18: 26 times
+Odds 1.20: 17 times
+Odds 1.22: 2 times
+Odds 1.25: 8 times
+Odds 1.27: 4 times
+Odds 1.30: 3 times
+Odds 1.32: 4 times
+Odds 1.35: 3 times
+Odds 1.37: 1 times
+Odds 1.40: 1 times
+Odds 1.45: 1 times
+Odds 1.80: 1 times
+Odds 2.20: 1 times
+Odds 3.60: 1 times
+
+----------------------------------------------
+
+
+Odds frequency (losing bets only):
+Odds 1.01: 2 times
+Odds 1.02: 2 times
+Odds 1.03: 4 times
+Odds 1.04: 7 times
+Odds 1.05: 4 times
+Odds 1.06: 7 times
+Odds 1.07: 7 times
+Odds 1.08: 5 times
+Odds 1.09: 3 times
+Odds 1.10: 5 times
+Odds 1.12: 8 times
+Odds 1.14: 5 times
+Odds 1.16: 6 times
+Odds 1.18: 3 times
+Odds 1.20: 5 times
+Odds 1.22: 1 times
+Odds 1.27: 1 times
+Odds 1.40: 1 times
+Odds 1.52: 1 times
+Odds 1.95: 1 times
+Odds 2.15: 1 times
+Odds 2.90: 2 times
+Odds 3.30: 1 times
+Odds 3.50: 1 times
+Odds 3.75: 1 times
+Odds 4.40: 1 times
+Odds 5.50: 1 times
+
+----------------------------------------------
+
+
+Selected team frequency (winning bets only):
+Team Adamiak, Grzegorz: 1 times
+Team Adamus, Mariusz: 2 times
+Team An, Jaehyun: 1 times
+Team Ankit, Majmudar: 1 times
+Team Balcerzak, Marcin: 3 times
+Team Baron, Mariusz: 1 times
+Team Barta, Tomas: 5 times
+Team Bartak, Karel: 1 times
+Team Bartik, Tomas: 2 times
+Team Bartunek, Radek: 1 times
+Team Bayer, Alesh: 1 times
+Team Benito, Javier: 1 times
+Team Blocho, Przemyslaw: 1 times
+Team Bluhm, Florian: 1 times
+Team Bochnak, David: 2 times
+Team Bourrassaud F / Dorr E: 1 times
+Team Brandtl, Ales: 1 times
+Team Briska, Jan: 1 times
+Team Briza, Frantisek: 4 times
+Team Bron, Zdenek: 1 times
+Team Brunner, Marian: 1 times
+Team Bucko, Damian: 1 times
+Team Caban, Jakub: 2 times
+Team Cambronero, Angel: 1 times
+Team Cermak, Lubos: 1 times
+Team Cermak, Vladimir: 2 times
+Team Cernota, Filip: 2 times
+Team Chalupnicek, Milan: 2 times
+Team Cheaib, Dauud: 1 times
+Team Chen, Dan: 1 times
+Team Chew Z Y C / Chua J S H: 1 times
+Team Chlodnicki, Piotr: 2 times
+Team Chodorski, Piotr: 1 times
+Team Chybinski, Marek: 2 times
+Team Cmerda, Ondrej: 2 times
+Team Coro, Manuel: 1 times
+Team Czernik, Mateusz: 1 times
+Team Czerwinski, Bartosz: 6 times
+Team Darin, Kyryl: 1 times
+Team David, Petr: 2 times
+Team Delgado, Cristian: 2 times
+Team Diaz A / Pavade P: 1 times
+Team Dohnal, Jaroslav: 2 times
+Team Domagala, Pawel: 2 times
+Team Dorko, Tomas: 3 times
+Team Dousa, Tomas: 1 times
+Team Drozdz, Dariusz: 1 times
+Team Dvorak, Frantisek: 1 times
+Team Dvorak, Jakub: 1 times
+Team Dytko, Dawid: 3 times
+Team Eibich, Jan: 1 times
+Team Fabis, Adrian: 6 times
+Team Felkel, Grzegorz: 1 times
+Team Filbrandt, Tomasz: 3 times
+Team Fira, Damian: 1 times
+Team Fojt, Pavel: 1 times
+Team Fomin, Yurij: 2 times
+Team Gaik, Krystian: 2 times
+Team Glanowski, Jakub: 1 times
+Team Gola, Blazej: 2 times
+Team Gola, Pawel: 1 times
+Team Golebiowski, Mateusz: 3 times
+Team Grela, Artur: 1 times
+Team Grohsgott, Jiri: 1 times
+Team Grzegorczyk, Jakub: 4 times
+Team Gumulinski, Piotr: 8 times
+Team Guzy, Karol: 1 times
+Team Hejda Jr, Vaclav: 1 times
+Team Hejduk, Alexander: 1 times
+Team Herna, Michal: 1 times
+Team Hlawatschke, Ales: 1 times
+Team Holas, Petr: 1 times
+Team Hollo, Mike: 1 times
+Team Hradecky, Jakub: 1 times
+Team Hrncir, Jan: 1 times
+Team Iwasyszyn, Wojciech: 1 times
+Team Jadach, Oskar: 2 times
+Team Jadczyk, Marcin: 2 times
+Team Janata, Tomas: 1 times
+Team Jang, Woojin: 1 times
+Team Jarocki, Lukasz: 2 times
+Team Jastrzebowski, Franciszek: 2 times
+Team Jicha, David: 2 times
+Team Jira, Jiri: 2 times
+Team Jirka, Lukas: 1 times
+Team Jonas, Martin: 2 times
+Team Juszczyk, Krzysztof: 2 times
+Team Kadavy, Simon: 1 times
+Team Kallberg, Anton: 3 times
+Team Kapik, Krzysztof: 2 times
+Team Kasperski, Adam: 2 times
+Team Kiejda, Arkadiusz: 2 times
+Team Kim N / Nagasaki M: 1 times
+Team Klement, Milan: 1 times
+Team Kliuchuk, Rostyslav: 1 times
+Team Knazik, Ondrej: 1 times
+Team Kocab, Jan: 2 times
+Team Kociuba, Filip: 1 times
+Team Kocvara, Martin: 1 times
+Team Koczyba, Mariusz: 1 times
+Team Kolar, Milan: 3 times
+Team Kolenic, Tibor: 2 times
+Team Kolodziej, Krystian: 1 times
+Team Kos, Pawel: 1 times
+Team Kos, Tomas: 1 times
+Team Kosowski, Jakub: 3 times
+Team Kostal, Marek: 2 times
+Team Kotwica, Dawid: 3 times
+Team Kotyl, Krzysztof: 5 times
+Team Kouble, Daniel: 1 times
+Team Kovtanyuk, Denys: 2 times
+Team Kowalczyk, Marcin: 2 times
+Team Kral, Adam: 1 times
+Team Krcal, Radek: 1 times
+Team Krejci, Ales: 3 times
+Team Krejci, Richard: 1 times
+Team Krezel, Andrzej: 2 times
+Team Kujawa, Filip: 1 times
+Team Kulveit, Jonas: 1 times
+Team Kumor, Michal: 1 times
+Team Lafek, Dominik: 1 times
+Team Lamer, Maciej: 3 times
+Team Latala, Lukasz: 3 times
+Team Lee, Eunhye: 1 times
+Team Lengal, Dominik: 1 times
+Team Lewczuk, Miroslaw: 3 times
+Team Lilien, Aleksander: 4 times
+Team Limbursky, Radek: 3 times
+Team Linek, Adam: 4 times
+Team Liu Y / Winter S: 1 times
+Team Lojtek, Tomasz: 1 times
+Team Louda, Jiri: 4 times
+Team Lu, Louis: 2 times
+Team Mach, Jakub: 3 times
+Team Machart, Jiri: 1 times
+Team Madrid M / Cossio Aceves A: 1 times
+Team Maduzia, Leszek: 1 times
+Team Malek, Lukas: 1 times
+Team Malek, Miroslav: 1 times
+Team Mamidyala, Naveen: 1 times
+Team Manhal Sr, Jan: 1 times
+Team Marcinowski, Krzysztof: 1 times
+Team Martin, Ivan: 1 times
+Team Martinez, Alejandro: 2 times
+Team Marud, Grzegorz: 1 times
+Team Maruszak, Piotr: 2 times
+Team Maslowski, Jakub: 2 times
+Team Masternak, Jan: 1 times
+Team Mecik, Patryk: 1 times
+Team Meneses, Luis: 1 times
+Team Minda, Michal: 2 times
+Team Misiak, Mateusz: 4 times
+Team Mittelham, Nina: 1 times
+Team Mlynarski, Filip: 1 times
+Team Molka, Bartlomiej: 2 times
+Team Monik, Petr: 2 times
+Team Mrugala, Bartlomiej: 1 times
+Team Murawski, Daniel: 2 times
+Team Murawski, Michal: 3 times
+Team Musil, Filip: 1 times
+Team Myszewski, Adrian: 3 times
+Team Nader, Fahimi: 1 times
+Team Nadolski, Lukasz: 1 times
+Team Nagel, Kacper: 1 times
+Team Nasriddinov, Umar: 2 times
+Team Nemec, Michal: 1 times
+Team Nevrtal, Tomas: 3 times
+Team Nocun, Zbigniew: 1 times
+Team Nohejl, Matej: 1 times
+Team Novak, Libor: 2 times
+Team Nowak, Jakub: 1 times
+Team Nowalinski, Maciej: 4 times
+Team Olbrycht, Michal: 1 times
+Team Olmedo, Alberto: 1 times
+Team Oracz, Lukasz: 2 times
+Team Ovtcharov, Dimitrij: 1 times
+Team Pagac, Zbynek: 1 times
+Team Paranang O / Sawettabut S: 1 times
+Team Parhomenko, Dmitro: 4 times
+Team Pasek, Dominik: 1 times
+Team Pavelka, Radim: 1 times
+Team Pawlowski, Krzysztof: 1 times
+Team Pecka, Vlastimil: 1 times
+Team Pelka, Jerzy: 1 times
+Team Perzynski, Przemyslaw: 1 times
+Team Pesek, Karel: 1 times
+Team Petas, Kacper: 3 times
+Team Petr, Pavel: 2 times
+Team Petracek, Vratislav: 6 times
+Team Pietraszko, Lukasz: 2 times
+Team Pikous, Marcel: 2 times
+Team Plachy, Jiri: 1 times
+Team Pleskot, Jan: 2 times
+Team Polanski, Pawel: 3 times
+Team Polcanova, Sofia: 2 times
+Team Poliniewicz, Grzegorz: 4 times
+Team Potensky, Jan: 2 times
+Team Prokupek, Jaroslav: 2 times
+Team Pruszkowski, Jakub: 2 times
+Team Przewlocki, Jacek: 3 times
+Team Pycha, Patrik: 1 times
+Team Radlo, Szymon: 1 times
+Team Rakovac, Lea: 1 times
+Team Redzimski, Milosz: 2 times
+Team Regner, Tomas: 2 times
+Team Rein, Tomas: 1 times
+Team Roh, Marek: 1 times
+Team Rolak, Jaroslaw: 3 times
+Team Rudomina, Kamil: 5 times
+Team Rus, Maksymilian: 1 times
+Team Ruzicka, Jiri: 3 times
+Team Sanchez Juan A: 1 times
+Team Sanchez, Pedro J: 1 times
+Team Sawicki, Grzegorz: 2 times
+Team Schaniel Krzysztof: 2 times
+Team Scigany, Dariusz: 4 times
+Team Seroka, Szymon: 3 times
+Team Shah M U / Thakkar M V: 1 times
+Team Shah, Bhavesh: 2 times
+Team Sklensky, Miroslav: 2 times
+Team Skupinski, Arkadiusz: 1 times
+Team Smidt, Karel: 2 times
+Team Sobel, Artur: 1 times
+Team Sobisek, Martin: 1 times
+Team Sochor, Miroslav: 2 times
+Team Sopko, Martin: 1 times
+Team Spychala, Adrian: 4 times
+Team Staniszewski, Piotr: 1 times
+Team Stapor Rafal: 4 times
+Team Stapor, Dawid: 1 times
+Team Stary, Jiri: 1 times
+Team Steffan, Jan: 2 times
+Team Stepien, Marcin: 4 times
+Team Stojek, Karol: 3 times
+Team Strejc, Filip: 1 times
+Team Strnad, Jaroslav (1964): 1 times
+Team Strouhal, Vojtech: 2 times
+Team Strowski, Karol: 3 times
+Team Strus, Piotr: 1 times
+Team Stusek, Martin: 1 times
+Team Sulava, Lubor: 2 times
+Team Sulc, Martin: 1 times
+Team Svacha, Ondrej: 3 times
+Team Svatos, Vlastimil: 1 times
+Team Sychra, Martin: 4 times
+Team Tacinec, Martin: 1 times
+Team Tazler, Jakub: 1 times
+Team Tomsia, Slawomir: 1 times
+Team Trefny, Jan: 2 times
+Team Trela, Mateusz: 3 times
+Team Trinta, Mihail: 2 times
+Team Tuma, Daniel: 2 times
+Team Turek, Tomas: 4 times
+Team U21 Coton, Adrien: 1 times
+Team U21 Lebrun, Alexis: 1 times
+Team Ucinski, Rafal: 1 times
+Team Urban, Roman: 2 times
+Team Vaarpu, Madis: 1 times
+Team Varcl, Jakub: 1 times
+Team Vavrecka, Michal: 1 times
+Team Vich, Lukas: 1 times
+Team Vidourek, Jan: 1 times
+Team Viigimets, Peetr: 2 times
+Team Vitrovyj, Oleg: 2 times
+Team Volhejn, Dan: 1 times
+Team Volhejn, Jan: 2 times
+Team Vorisek, Tomas: 2 times
+Team Vrba, Jindrich: 1 times
+Team Vtelensky, Ludek: 1 times
+Team Vyvial, Pavel: 1 times
+Team Walther, Ricardo: 1 times
+Team Wang, Yidi: 1 times
+Team Warpas, Blazej: 3 times
+Team Warzecha, Miroslaw: 1 times
+Team Wenda, Krzysztof: 2 times
+Team Wichowski, Grzegorz: 1 times
+Team Wiecek, Adrian: 2 times
+Team Wiekiera, Arkadiusz: 1 times
+Team Wisniewski, Bartlomiej: 4 times
+Team Wisniewski, Karol: 4 times
+Team Witczak, Filip: 1 times
+Team Witkowski, Antoni: 6 times
+Team Witkowski, Jakub: 2 times
+Team Wloczko, Krzysztof: 3 times
+Team Wojcik, Rafal: 1 times
+Team Wrobel, Dariusz: 5 times
+Team Wrzalik, Tomasz: 2 times
+Team Xue, Fei: 3 times
+Team Yang, Chia: 1 times
+Team Yoshimura, Maharu: 1 times
+Team Zajicek, Jan: 1 times
+Team Zandecki, Jan: 2 times
+Team Zelezny, Daniel: 2 times
+Team Zeman, Radek: 2 times
+Team Zhang, Lily: 1 times
+Team Zhang, Mo: 1 times
+Team Zika, Tadeas: 1 times
+Team Zikmunda, Zdenek: 2 times
+Team Zobac, Michal: 1 times
+Team Zochniak, Jakub: 4 times
+Team Zuzanek, Jiri: 2 times
+Team Zwolinski, Piotr: 1 times
+
+----------------------------------------------
+
+
+Selected team frequency (losing bets only):
+Team Achanta, Sharath Kamal: 1 times
+Team Bartak, Karel: 1 times
+Team Batog, Tomek: 1 times
+Team Blocho, Przemyslaw: 3 times
+Team Bouloussa, Mehdi: 2 times
+Team Bruzek, Petr: 1 times
+Team Cermak, Vladimir: 1 times
+Team Cernota, Filip: 1 times
+Team Cheaib, Dauud: 1 times
+Team Danilov Nikolai: 1 times
+Team David, Petr: 1 times
+Team Dhawan, Abhishek: 1 times
+Team Domagala, Pawel: 1 times
+Team Drozdz, Dariusz: 1 times
+Team Fira, Damian: 1 times
+Team Golebiowski, Mateusz: 1 times
+Team Havrda, Leos: 1 times
+Team Hejduk, Alexander: 4 times
+Team Ishiy V / Teodoro G: 1 times
+Team Jakubsky, Filip: 1 times
+Team Jindrak, Lukas: 1 times
+Team Kliuchuk, Rostyslav: 1 times
+Team Kocvara, Martin: 1 times
+Team Kolar, Milan: 1 times
+Team Kolodziej, Krystian: 1 times
+Team Kosowski, Jakub: 1 times
+Team Kotyl, Krzysztof: 1 times
+Team Kowalczyk, Marcin: 1 times
+Team Krejci, Ales: 1 times
+Team Kucera, Tomas: 1 times
+Team Kulisek, Marek: 1 times
+Team Lewczuk, Miroslaw: 1 times
+Team Libovicky, Vladimir: 1 times
+Team Lilien, Aleksander: 2 times
+Team Linek, Adam: 1 times
+Team Lojtek, Tomasz: 1 times
+Team Lu, Louis: 1 times
+Team Lysakowski, Michal: 1 times
+Team Macela, Petr: 1 times
+Team Mares, Erik: 1 times
+Team Marud, Grzegorz: 1 times
+Team Mecik, Patryk: 1 times
+Team Mugowski, Arkadiusz: 1 times
+Team Murawski, Michal: 1 times
+Team Oracz, Lukasz: 1 times
+Team Oracz, Michal: 1 times
+Team Pavelka, Radim: 1 times
+Team Pelka, Jerzy: 1 times
+Team Pietraszko, Lukasz: 1 times
+Team Plachy, Jiri: 1 times
+Team Plihal, Martin: 2 times
+Team Prokes, Jan: 1 times
+Team Rolik, Jakub: 1 times
+Team Ruzicka, Josef: 1 times
+Team Sanchez Juan A: 1 times
+Team Schaniel Krzysztof: 2 times
+Team Sikora, Fabian: 1 times
+Team Smrcek, Milan: 1 times
+Team Spychala, Adrian: 1 times
+Team Stapor Rafal: 1 times
+Team Syroha, Michal: 1 times
+Team Tuma, Daniel: 2 times
+Team Ucinski, Rafal: 1 times
+Team Varcl Jr, Jan: 1 times
+Team Vondrak, Michal: 2 times
+Team Vorisek, Tomas: 2 times
+Team Vyskocil, Zbynek: 1 times
+Team Warpas, Blazej: 1 times
+Team Wenda, Krzysztof: 1 times
+Team Wisniewski, Karol: 1 times
+Team Witkowski, Jakub: 1 times
+Team Witkowski, Tomasz: 1 times
+Team Wloczko, Krzysztof: 1 times
+Team Yang, Ray: 1 times

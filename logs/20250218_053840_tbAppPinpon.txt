@@ -1,0 +1,1534 @@
+Please enter your email: Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.05
+1.65
+1.06
+Game period text: 3º set11:811:31:0
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 1, Set: 2
+Team Name: Skotniczny, Rafal, Team Score: 0, Set: 0
+Match to best of 5 sets
+Skipping button click for league: TT ELITE SERIES at timer: 3º set11:811:31:0 because it's in the first or second set.
+8
+2.3
+1.52
+2.65
+1.4
+2.45
+1.47
+8.5
+1.03
+Game period text: 3º set9:112:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Havel, Ladislav (1956), Team Score: 8, Set: 0
+Team Name: Trinta, Mihail, Team Score: 8, Set: 2
+Match to best of 5 sets
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set9:112:11 because it's in the first or second set.
+2.4
+1.47
+1.57
+2.2
+3.05
+1.32
+1.8
+Error processing button: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=133.0.3065.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F4F70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51566C6+1401718]
+	(No symbol) [0x00007FF7F4CEB350]
+	(No symbol) [0x00007FF7F4CEDA0C]
+	(No symbol) [0x00007FF7F4CEDADF]
+	(No symbol) [0x00007FF7F4D2D35B]
+	(No symbol) [0x00007FF7F4D2DA0B]
+	(No symbol) [0x00007FF7F4D23E0C]
+	(No symbol) [0x00007FF7F4D4DE1F]
+	(No symbol) [0x00007FF7F4D23DB7]
+	(No symbol) [0x00007FF7F4D23C7D]
+	(No symbol) [0x00007FF7F4D4E0C0]
+	(No symbol) [0x00007FF7F4D23DB7]
+	(No symbol) [0x00007FF7F4D6890D]
+	(No symbol) [0x00007FF7F4D4DA43]
+	(No symbol) [0x00007FF7F4D23304]
+	(No symbol) [0x00007FF7F4D22636]
+	(No symbol) [0x00007FF7F4D22EF1]
+	(No symbol) [0x00007FF7F4DAE1A4]
+	(No symbol) [0x00007FF7F4E5608F]
+	(No symbol) [0x00007FF7F4DB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7F52B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4EF7546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+1.9
+1.75
+1.27
+3.3
+2.25
+1.55
+2.05
+1.65
+1.45
+2.45
+2.4
+1.47
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.95
+1.75
+1.08
+Game period text: 3º set11:811:32:2
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 2, Set: 2
+Team Name: Skotniczny, Rafal, Team Score: 2, Set: 0
+Match to best of 5 sets
+Skipping button click for league: TT ELITE SERIES at timer: 3º set11:811:32:2 because it's in the first or second set.
+6
+2.85
+1.35
+2.65
+1.4
+2.45
+1.47
+6.25
+1.08
+Game period text: 3º set9:112:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Havel, Ladislav (1956), Team Score: 10, Set: 0
+Team Name: Trinta, Mihail, Team Score: 8, Set: 2
+Match to best of 5 sets
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set9:112:11 because it's in the first or second set.
+2.5
+1.45
+1.25
+3.4
+3.55
+1.25
+1.8
+1.85
+1.95
+1.75
+1.27
+3.35
+2.25
+1.55
+1.65
+2.05
+1.45
+2.45
+2.2
+1.57
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.12
+Game period text: 3º set11:811:33:4
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 3, Set: 2
+Team Name: Skotniczny, Rafal, Team Score: 4, Set: 0
+Match to best of 5 sets
+Skipping button click for league: TT ELITE SERIES at timer: 3º set11:811:33:4 because it's in the first or second set.
+5.2
+2.7
+1.4
+2.65
+1.4
+2.45
+1.47
+3.55
+1.25
+1.25
+3.4
+2.5
+1.45
+5.1
+1.12
+Game period text: 4º set9:112:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Havel, Ladislav (1956), Team Score: 0, Set: 1
+Team Name: Trinta, Mihail, Team Score: 0, Set: 2
+Match to best of 5 sets
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set9:112:11 because it's in the first or second set.
+1.8
+1.85
+1.95
+1.75
+1.35
+2.9
+2.2
+1.7
+1.42
+2.6
+1.45
+2.45
+1.85
+1.85
+2.45
+1.47
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.05
+Game period text: 3º set11:811:35:4
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 5, Set: 2
+Team Name: Skotniczny, Rafal, Team Score: 4, Set: 0
+Match to best of 5 sets
+Skipping button click for league: TT ELITE SERIES at timer: 3º set11:811:35:4 because it's in the first or second set.
+7.25
+2.9
+1.25
+3
+1.32
+2.45
+1.47
+6.5
+1.07
+Game period text: 2do Set8:1110:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Vitrovyj, Oleg, Team Score: 10, Set: 0
+Team Name: Hejduk, Alexander, Team Score: 11, Set: 1
+Match to best of 5 sets
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set8:1110:11 because it's in the first or second set.
+1.25
+3.45
+2.5
+1.45
+5.1
+1.12
+Game period text: 4º set9:112:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Havel, Ladislav (1956), Team Score: 0, Set: 1
+Team Name: Trinta, Mihail, Team Score: 0, Set: 2
+Match to best of 5 sets
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set9:112:11 because it's in the first or second set.
+1.57
+2.2
+1.9
+1.75
+1.22
+3.6
+2.05
+1.65
+1.6
+2.1
+1.45
+2.45
+1.85
+1.85
+2.4
+1.47
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.65
+2.05
+1.03
+Game period text: 3º set11:811:37:5
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Jozala, Waldemar, Team Score: 7, Set: 2
+Team Name: Skotniczny, Rafal, Team Score: 5, Set: 0
+Match to best of 5 sets
+Button clicked for league: TT ELITE SERIES
+SELECTED BUTTON:  1.03
+Balance is 5000. Proceeding to place bets...
+Error checking bet amount: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@data-test='betslip-possible-win-amount']"}
+  (Session info: MicrosoftEdge=133.0.3065.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F4F70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51566C6+1401718]
+	(No symbol) [0x00007FF7F4D2D84C]
+	(No symbol) [0x00007FF7F4D2DA0B]
+	(No symbol) [0x00007FF7F4D6B037]
+	(No symbol) [0x00007FF7F4D4DE1F]
+	(No symbol) [0x00007FF7F4D23DB7]
+	(No symbol) [0x00007FF7F4D6890D]
+	(No symbol) [0x00007FF7F4D4DA43]
+	(No symbol) [0x00007FF7F4D23304]
+	(No symbol) [0x00007FF7F4D22636]
+	(No symbol) [0x00007FF7F4D22EF1]
+	(No symbol) [0x00007FF7F4DAE1A4]
+	(No symbol) [0x00007FF7F4E5608F]
+	(No symbol) [0x00007FF7F4DB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7F52B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4EF7546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Unclicked selected outcome button due to insufficient bet amount.
+8.5
+3.35
+1.27
+3.25
+1.27
+2.45
+1.47
+4.9
+1.12
+Game period text: 2do Set8:1111:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Vitrovyj, Oleg, Team Score: 11, Set: 0
+Team Name: Hejduk, Alexander, Team Score: 11, Set: 1
+Match to best of 5 sets
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set8:1111:11 because it's in the first or second set.
+1.2
+Game period text: 3º set12:1011:9
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Lazar, Julius, Team Score: 3, Set: 2
+Team Name: Holik, Tomas, Team Score: 2, Set: 0
+Match to best of 5 sets
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set12:1011:9 because it's in the first or second set.
+3.95
+2.2
+1.57
+3.7
+1.22
+1.42
+2.6
+2.25
+1.55
+1.08
+Game period text: 4º set8:1111:9
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Hejda Jr, Vaclav, Team Score: 4, Set: 2
+Team Name: Vonasek, Jan, Team Score: 1, Set: 1
+Match to best of 5 sets
+Skipping button click for league: TT CUP at timer: 4º set8:1111:9 because it's in the first or second set.
+6.25
+2.05
+1.65
+1.35
+2.95
+1.45
+2.45
+1.85
+1.85
+2.4
+1.47
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.65
+2.1
+No outcome buttons found in the first market item.
+3.75
+1.27
+3.6
+1.22
+2.45
+1.47
+6.5
+1.07
+Game period text: 2do Set8:1111:12
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Vitrovyj, Oleg, Team Score: 11, Set: 0
+Team Name: Hejduk, Alexander, Team Score: 12, Set: 1
+Match to best of 5 sets
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set8:1111:12 because it's in the first or second set.
+1.12
+Game period text: 3º set12:1011:9
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Lazar, Julius, Team Score: 5, Set: 2
+Team Name: Holik, Tomas, Team Score: 3, Set: 0
+Match to best of 5 sets
+Button clicked for league: CZECH LIGA PRO
+SELECTED BUTTON:  1.12
+Balance is 5000. Proceeding to place bets...
+Error checking bet amount: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@data-test='betslip-possible-win-amount']"}
+  (Session info: MicrosoftEdge=133.0.3065.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F4F70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51566C6+1401718]
+	(No symbol) [0x00007FF7F4D2D84C]
+	(No symbol) [0x00007FF7F4D2DA0B]
+	(No symbol) [0x00007FF7F4D6B037]
+	(No symbol) [0x00007FF7F4D4DE1F]
+	(No symbol) [0x00007FF7F4D23DB7]
+	(No symbol) [0x00007FF7F4D6890D]
+	(No symbol) [0x00007FF7F4D4DA43]
+	(No symbol) [0x00007FF7F4D23304]
+	(No symbol) [0x00007FF7F4D22636]
+	(No symbol) [0x00007FF7F4D22EF1]
+	(No symbol) [0x00007FF7F4DAE1A4]
+	(No symbol) [0x00007FF7F4E5608F]
+	(No symbol) [0x00007FF7F4DB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7F52B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4EF7546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Unclicked selected outcome button due to insufficient bet amount.
+5
+2.15
+1.6
+3.2
+1.27
+1.15
+Game period text: 5º set5:1111:911:7
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Sanchez Juan A, Team Score: 4, Set: 2
+Team Name: Garcia, Leon Jose, Team Score: 0, Set: 2
+Match to best of 5 sets
+Skipping button click for league: TT CUP at timer: 5º set5:1111:911:7 because it's in the first or second set.
+4.5
+2.25
+1.55
+1.02
+Game period text: 4º set8:1111:9
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Hejda Jr, Vaclav, Team Score: 6, Set: 2
+Team Name: Vonasek, Jan, Team Score: 1, Set: 1
+Match to best of 5 sets
+Button clicked for league: TT CUP
+SELECTED BUTTON:  1.02
+Balance is 5000. Proceeding to place bets...
+Error checking bet amount: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@data-test='betslip-possible-win-amount']"}
+  (Session info: MicrosoftEdge=133.0.3065.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F4F70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51566C6+1401718]
+	(No symbol) [0x00007FF7F4D2D84C]
+	(No symbol) [0x00007FF7F4D2DA0B]
+	(No symbol) [0x00007FF7F4D6B037]
+	(No symbol) [0x00007FF7F4D4DE1F]
+	(No symbol) [0x00007FF7F4D23DB7]
+	(No symbol) [0x00007FF7F4D6890D]
+	(No symbol) [0x00007FF7F4D4DA43]
+	(No symbol) [0x00007FF7F4D23304]
+	(No symbol) [0x00007FF7F4D22636]
+	(No symbol) [0x00007FF7F4D22EF1]
+	(No symbol) [0x00007FF7F4DAE1A4]
+	(No symbol) [0x00007FF7F4E5608F]
+	(No symbol) [0x00007FF7F4DB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7F52B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4EF7546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Unclicked selected outcome button due to insufficient bet amount.
+7.5
+2.05
+1.65
+1.4
+2.7
+1.45
+2.45
+1.85
+1.85
+2.2
+1.57
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.15
+1.3
+3.75
+1.22
+3.35
+1.22
+2.45
+1.47
+4.2
+1.18
+Game period text: 4º set9:112:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Havel, Ladislav (1956), Team Score: 5, Set: 1
+Team Name: Trinta, Mihail, Team Score: 4, Set: 2
+Match to best of 5 sets
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set9:112:11 because it's in the first or second set.
+2.65
+1.4
+1.16
+Game period text: 3º set12:1011:9
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Lazar, Julius, Team Score: 6, Set: 2
+Team Name: Holik, Tomas, Team Score: 5, Set: 0
+Match to best of 5 sets
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set12:1011:9 because it's in the first or second set.
+4.3
+6.5
+1.07
+Game period text: 2do Set8:1112:13
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Vitrovyj, Oleg, Team Score: 12, Set: 0
+Team Name: Hejduk, Alexander, Team Score: 13, Set: 1
+Match to best of 5 sets
+Skipping button click for league: CZECH LIGA PRO at timer: 2do Set8:1112:13 because it's in the first or second set.
+1.07
+Game period text: 5º set5:1111:911:7
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Sanchez Juan A, Team Score: 5, Set: 2
+Team Name: Garcia, Leon Jose, Team Score: 0, Set: 2
+Match to best of 5 sets
+Button clicked for league: TT CUP
+SELECTED BUTTON:  1.12
+Balance is 5000. Proceeding to place bets...
+Error checking bet amount: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@data-test='betslip-possible-win-amount']"}
+  (Session info: MicrosoftEdge=133.0.3065.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F4F70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51566C6+1401718]
+	(No symbol) [0x00007FF7F4D2D84C]
+	(No symbol) [0x00007FF7F4D2DA0B]
+	(No symbol) [0x00007FF7F4D6B037]
+	(No symbol) [0x00007FF7F4D4DE1F]
+	(No symbol) [0x00007FF7F4D23DB7]
+	(No symbol) [0x00007FF7F4D6890D]
+	(No symbol) [0x00007FF7F4D4DA43]
+	(No symbol) [0x00007FF7F4D23304]
+	(No symbol) [0x00007FF7F4D22636]
+	(No symbol) [0x00007FF7F4D22EF1]
+	(No symbol) [0x00007FF7F4DAE1A4]
+	(No symbol) [0x00007FF7F4E5608F]
+	(No symbol) [0x00007FF7F4DB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7F52B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4EF7546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Unclicked selected outcome button due to insufficient bet amount.
+4.9
+1.4
+2.7
+10.5
+2.15
+1.6
+1.4
+2.65
+1.45
+2.45
+1.85
+1.85
+1.95
+1.7
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.5
+1.45
+5.2
+1.12
+Game period text: 2do Set8:114:7
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Balcerzak, Marcin, Team Score: 4, Set: 0
+Team Name: Wisniewski, Karol, Team Score: 7, Set: 1
+Match to best of 5 sets
+Skipping button click for league: TT ELITE SERIES at timer: 2do Set8:114:7 because it's in the first or second set.
+2.55
+1.45
+2.45
+1.47
+3.4
+1.25
+2.65
+1.4
+1.32
+3.05
+9.5
+1.01
+Game period text: Segundo break
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Vitrovyj, Oleg, Team Score: 12, Set: 0
+Team Name: Hejduk, Alexander, Team Score: 14, Set: 2
+Match to best of 5 sets
+Skipping button click for league: CZECH LIGA PRO at timer: Segundo break because it's in the first or second set.
+1.2
+Game period text: 5º set5:1111:911:7
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Sanchez Juan A, Team Score: 5, Set: 2
+Team Name: Garcia, Leon Jose, Team Score: 2, Set: 2
+Match to best of 5 sets
+Button clicked for league: TT CUP
+SELECTED BUTTON:  1.1
+Balance is 5000. Proceeding to place bets...
+Error checking bet amount: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@data-test='betslip-possible-win-amount']"}
+  (Session info: MicrosoftEdge=133.0.3065.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F4F70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51566C6+1401718]
+	(No symbol) [0x00007FF7F4D2D84C]
+	(No symbol) [0x00007FF7F4D2DA0B]
+	(No symbol) [0x00007FF7F4D6B037]
+	(No symbol) [0x00007FF7F4D4DE1F]
+	(No symbol) [0x00007FF7F4D23DB7]
+	(No symbol) [0x00007FF7F4D6890D]
+	(No symbol) [0x00007FF7F4D4DA43]
+	(No symbol) [0x00007FF7F4D23304]
+	(No symbol) [0x00007FF7F4D22636]
+	(No symbol) [0x00007FF7F4D22EF1]
+	(No symbol) [0x00007FF7F4DAE1A4]
+	(No symbol) [0x00007FF7F4E5608F]
+	(No symbol) [0x00007FF7F4DB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7F52B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4EF7546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Unclicked selected outcome button due to insufficient bet amount.
+5.4
+1.35
+2.9
+10.5
+1.95
+1.7
+1.3
+3.1
+1.45
+2.45
+1.85
+1.85
+2.15
+1.6
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.55
+1.45
+6.25
+1.08
+Game period text: 2do Set8:116:9
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Balcerzak, Marcin, Team Score: 6, Set: 0
+Team Name: Wisniewski, Karol, Team Score: 9, Set: 1
+Match to best of 5 sets
+Skipping button click for league: TT ELITE SERIES at timer: 2do Set8:116:9 because it's in the first or second set.
+1.95
+1.7
+2.45
+1.47
+4.85
+1.14
+Game period text: 4º set9:112:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Havel, Ladislav (1956), Team Score: 7, Set: 1
+Team Name: Trinta, Mihail, Team Score: 7, Set: 2
+Match to best of 5 sets
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set9:112:11 because it's in the first or second set.
+No outcome buttons found in the first market item.
+1.55
+2.3
+8.75
+1.02
+Game period text: 3º set8:1112:14
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Vitrovyj, Oleg, Team Score: 0, Set: 0
+Team Name: Hejduk, Alexander, Team Score: 0, Set: 2
+Match to best of 5 sets
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set8:1112:14 because it's in the first or second set.
+1.09
+Game period text: 5º set5:1111:911:7
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Sanchez Juan A, Team Score: 7, Set: 2
+Team Name: Garcia, Leon Jose, Team Score: 3, Set: 2
+Match to best of 5 sets
+Button clicked for league: TT CUP
+SELECTED BUTTON:  1.09
+Balance is 5000. Proceeding to place bets...
+Error checking bet amount: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@data-test='betslip-possible-win-amount']"}
+  (Session info: MicrosoftEdge=133.0.3065.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F4F70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51566C6+1401718]
+	(No symbol) [0x00007FF7F4D2D84C]
+	(No symbol) [0x00007FF7F4D2DA0B]
+	(No symbol) [0x00007FF7F4D6B037]
+	(No symbol) [0x00007FF7F4D4DE1F]
+	(No symbol) [0x00007FF7F4D23DB7]
+	(No symbol) [0x00007FF7F4D6890D]
+	(No symbol) [0x00007FF7F4D4DA43]
+	(No symbol) [0x00007FF7F4D23304]
+	(No symbol) [0x00007FF7F4D22636]
+	(No symbol) [0x00007FF7F4D22EF1]
+	(No symbol) [0x00007FF7F4DAE1A4]
+	(No symbol) [0x00007FF7F4E5608F]
+	(No symbol) [0x00007FF7F4DB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7F52B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4EF7546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Unclicked selected outcome button due to insufficient bet amount.
+9
+1.57
+2.2
+No outcome buttons found in the first market item.
+2.3
+1.52
+1.4
+2.7
+1.45
+2.45
+1.85
+1.85
+2.05
+1.65
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.65
+1.4
+6.75
+1.06
+Game period text: Segundo break
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Balcerzak, Marcin, Team Score: 6, Set: 0
+Team Name: Wisniewski, Karol, Team Score: 11, Set: 2
+Match to best of 5 sets
+Skipping button click for league: TT ELITE SERIES at timer: Segundo break because it's in the first or second set.
+2.1
+1.6
+2.45
+1.47
+3.5
+1.25
+No outcome buttons found in the first market item.
+1.55
+2.25
+8
+1.03
+Game period text: 3º set8:1112:14
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Vitrovyj, Oleg, Team Score: 1, Set: 0
+Team Name: Hejduk, Alexander, Team Score: 0, Set: 2
+Match to best of 5 sets
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set8:1112:14 because it's in the first or second set.
+1.01
+Game period text: 5º set5:1111:911:7
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Sanchez Juan A, Team Score: 9, Set: 2
+Team Name: Garcia, Leon Jose, Team Score: 4, Set: 2
+Match to best of 5 sets
+Button clicked for league: TT CUP
+SELECTED BUTTON:  1.01
+Balance is 5000. Proceeding to place bets...
+Error checking bet amount: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@data-test='betslip-possible-win-amount']"}
+  (Session info: MicrosoftEdge=133.0.3065.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F4F70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51566C6+1401718]
+	(No symbol) [0x00007FF7F4D2D84C]
+	(No symbol) [0x00007FF7F4D2DA0B]
+	(No symbol) [0x00007FF7F4D6B037]
+	(No symbol) [0x00007FF7F4D4DE1F]
+	(No symbol) [0x00007FF7F4D23DB7]
+	(No symbol) [0x00007FF7F4D6890D]
+	(No symbol) [0x00007FF7F4D4DA43]
+	(No symbol) [0x00007FF7F4D23304]
+	(No symbol) [0x00007FF7F4D22636]
+	(No symbol) [0x00007FF7F4D22EF1]
+	(No symbol) [0x00007FF7F4DAE1A4]
+	(No symbol) [0x00007FF7F4E5608F]
+	(No symbol) [0x00007FF7F4DB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7F52B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4EF7546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Unclicked selected outcome button due to insufficient bet amount.
+10
+1.3
+3.1
+No outcome buttons found in the first market item.
+1.95
+1.7
+1.57
+2.2
+1.45
+2.45
+1.85
+1.85
+2.05
+1.65
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+6.75
+1.06
+Game period text: 5º set8:1110:1211:6
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Piecowski, Milosz, Team Score: 6, Set: 2
+Team Name: Zochniak, Jakub, Team Score: 9, Set: 2
+Match to best of 5 sets
+Button clicked for league: TT ELITE SERIES
+SELECTED BUTTON:  1.06
+Balance is 5000. Proceeding to place bets...
+Error checking bet amount: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@data-test='betslip-possible-win-amount']"}
+  (Session info: MicrosoftEdge=133.0.3065.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F4F70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51566C6+1401718]
+	(No symbol) [0x00007FF7F4D2D84C]
+	(No symbol) [0x00007FF7F4D2DA0B]
+	(No symbol) [0x00007FF7F4D6B037]
+	(No symbol) [0x00007FF7F4D4DE1F]
+	(No symbol) [0x00007FF7F4D23DB7]
+	(No symbol) [0x00007FF7F4D6890D]
+	(No symbol) [0x00007FF7F4D4DA43]
+	(No symbol) [0x00007FF7F4D23304]
+	(No symbol) [0x00007FF7F4D22636]
+	(No symbol) [0x00007FF7F4D22EF1]
+	(No symbol) [0x00007FF7F4DAE1A4]
+	(No symbol) [0x00007FF7F4E5608F]
+	(No symbol) [0x00007FF7F4DB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7F52B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4EF7546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Unclicked selected outcome button due to insufficient bet amount.
+7.25
+1.05
+Game period text: 3º set8:116:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Balcerzak, Marcin, Team Score: 1, Set: 0
+Team Name: Wisniewski, Karol, Team Score: 2, Set: 2
+Match to best of 5 sets
+Skipping button click for league: TT ELITE SERIES at timer: 3º set8:116:11 because it's in the first or second set.
+2.5
+1.45
+2.45
+1.47
+2.3
+1.52
+3.15
+1.3
+1.47
+2.45
+9.75
+1.01
+Game period text: 3º set8:1112:14
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Vitrovyj, Oleg, Team Score: 1, Set: 0
+Team Name: Hejduk, Alexander, Team Score: 2, Set: 2
+Match to best of 5 sets
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set8:1112:14 because it's in the first or second set.
+No outcome buttons found in the first market item.
+1.52
+2.3
+1.8
+1.85
+1.85
+1.85
+1.45
+2.45
+2
+1.7
+3.05
+1.32
+2
+1.7
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.05
+1.32
+7.5
+1.05
+Game period text: 3º set8:116:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Balcerzak, Marcin, Team Score: 2, Set: 0
+Team Name: Wisniewski, Karol, Team Score: 3, Set: 2
+Match to best of 5 sets
+Skipping button click for league: TT ELITE SERIES at timer: 3º set8:116:11 because it's in the first or second set.
+2.4
+1.47
+2.45
+1.47
+2.3
+1.52
+2.75
+1.37
+1.75
+1.9
+10.5
+1.01
+Game period text: 3º set8:1112:14
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Vitrovyj, Oleg, Team Score: 1, Set: 0
+Team Name: Hejduk, Alexander, Team Score: 4, Set: 2
+Match to best of 5 sets
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set8:1112:14 because it's in the first or second set.
+1.16
+Game period text: 5º set5:1111:911:7
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Sanchez Juan A, Team Score: 9, Set: 2
+Team Name: Garcia, Leon Jose, Team Score: 7, Set: 2
+Match to best of 5 sets
+Button clicked for league: TT CUP
+SELECTED BUTTON:  1.16
+Balance is 5000. Proceeding to place bets...
+Error checking bet amount: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@data-test='betslip-possible-win-amount']"}
+  (Session info: MicrosoftEdge=133.0.3065.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F4F70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51566C6+1401718]
+	(No symbol) [0x00007FF7F4D2D84C]
+	(No symbol) [0x00007FF7F4D2DA0B]
+	(No symbol) [0x00007FF7F4D6B037]
+	(No symbol) [0x00007FF7F4D4DE1F]
+	(No symbol) [0x00007FF7F4D23DB7]
+	(No symbol) [0x00007FF7F4D6890D]
+	(No symbol) [0x00007FF7F4D4DA43]
+	(No symbol) [0x00007FF7F4D23304]
+	(No symbol) [0x00007FF7F4D22636]
+	(No symbol) [0x00007FF7F4D22EF1]
+	(No symbol) [0x00007FF7F4DAE1A4]
+	(No symbol) [0x00007FF7F4E5608F]
+	(No symbol) [0x00007FF7F4DB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7F52B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4EF7546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Unclicked selected outcome button due to insufficient bet amount.
+4.35
+1.1
+Game period text: 5º set11:814:169:11
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Rolik, Jakub, Team Score: 9, Set: 2
+Team Name: Matousch, Simon, Team Score: 6, Set: 2
+Match to best of 5 sets
+Button clicked for league: TT CUP
+SELECTED BUTTON:  1.1
+Balance is 5000. Proceeding to place bets...
+Error checking bet amount: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@data-test='betslip-possible-win-amount']"}
+  (Session info: MicrosoftEdge=133.0.3065.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F4F70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51566C6+1401718]
+	(No symbol) [0x00007FF7F4D2D84C]
+	(No symbol) [0x00007FF7F4D2DA0B]
+	(No symbol) [0x00007FF7F4D6B037]
+	(No symbol) [0x00007FF7F4D4DE1F]
+	(No symbol) [0x00007FF7F4D23DB7]
+	(No symbol) [0x00007FF7F4D6890D]
+	(No symbol) [0x00007FF7F4D4DA43]
+	(No symbol) [0x00007FF7F4D23304]
+	(No symbol) [0x00007FF7F4D22636]
+	(No symbol) [0x00007FF7F4D22EF1]
+	(No symbol) [0x00007FF7F4DAE1A4]
+	(No symbol) [0x00007FF7F4E5608F]
+	(No symbol) [0x00007FF7F4DB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7F52B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4EF7546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Unclicked selected outcome button due to insufficient bet amount.
+5.6
+3.05
+1.32
+1.95
+1.75
+1.45
+2.45
+1.9
+1.8
+3.05
+1.32
+3.05
+1.32
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+9.75
+1.01
+Game period text: 3º set8:116:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Balcerzak, Marcin, Team Score: 3, Set: 0
+Team Name: Wisniewski, Karol, Team Score: 6, Set: 2
+Match to best of 5 sets
+Button clicked for league: TT ELITE SERIES
+SELECTED BUTTON:  1.01
+Balance is 5000. Proceeding to place bets...
+Error checking bet amount: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@data-test='betslip-possible-win-amount']"}
+  (Session info: MicrosoftEdge=133.0.3065.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F4F70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51566C6+1401718]
+	(No symbol) [0x00007FF7F4D2D84C]
+	(No symbol) [0x00007FF7F4D2DA0B]
+	(No symbol) [0x00007FF7F4D6B037]
+	(No symbol) [0x00007FF7F4D4DE1F]
+	(No symbol) [0x00007FF7F4D23DB7]
+	(No symbol) [0x00007FF7F4D6890D]
+	(No symbol) [0x00007FF7F4D4DA43]
+	(No symbol) [0x00007FF7F4D23304]
+	(No symbol) [0x00007FF7F4D22636]
+	(No symbol) [0x00007FF7F4D22EF1]
+	(No symbol) [0x00007FF7F4DAE1A4]
+	(No symbol) [0x00007FF7F4E5608F]
+	(No symbol) [0x00007FF7F4DB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7F52B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4EF7546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Unclicked selected outcome button due to insufficient bet amount.
+4
+1.2
+Game period text: 2do Set11:130:0
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Michna, Dawid, Team Score: 0, Set: 0
+Team Name: Golebiowski, Mateusz, Team Score: 0, Set: 1
+Match to best of 5 sets
+Skipping button click for league: TT ELITE SERIES at timer: 2do Set11:130:0 because it's in the first or second set.
+2.45
+1.47
+2.4
+1.47
+4.3
+1.16
+Game period text: 3º set6:1111:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Krejci, Ales, Team Score: 5, Set: 1
+Team Name: Necas, Miroslav, Team Score: 9, Set: 1
+Match to best of 5 sets
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set6:1111:7 because it's in the first or second set.
+1.6
+2.15
+10.5
+No outcome buttons found in the first market item.
+1.1
+Game period text: 5º set11:814:169:11
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Rolik, Jakub, Team Score: 9, Set: 2
+Team Name: Matousch, Simon, Team Score: 6, Set: 2
+Match to best of 5 sets
+Button clicked for league: TT CUP
+SELECTED BUTTON:  1.1
+Balance is 5000. Proceeding to place bets...
+Error checking bet amount: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@data-test='betslip-possible-win-amount']"}
+  (Session info: MicrosoftEdge=133.0.3065.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F4F70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51566C6+1401718]
+	(No symbol) [0x00007FF7F4D2D84C]
+	(No symbol) [0x00007FF7F4D2DA0B]
+	(No symbol) [0x00007FF7F4D6B037]
+	(No symbol) [0x00007FF7F4D4DE1F]
+	(No symbol) [0x00007FF7F4D23DB7]
+	(No symbol) [0x00007FF7F4D6890D]
+	(No symbol) [0x00007FF7F4D4DA43]
+	(No symbol) [0x00007FF7F4D23304]
+	(No symbol) [0x00007FF7F4D22636]
+	(No symbol) [0x00007FF7F4D22EF1]
+	(No symbol) [0x00007FF7F4DAE1A4]
+	(No symbol) [0x00007FF7F4E5608F]
+	(No symbol) [0x00007FF7F4DB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7F52B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4EF7546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Unclicked selected outcome button due to insufficient bet amount.
+5.6
+3
+1.32
+1.95
+1.7
+1.45
+2.45
+Error processing event row: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=133.0.3065.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F4F70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51566C6+1401718]
+	(No symbol) [0x00007FF7F4CEB350]
+	(No symbol) [0x00007FF7F4CEDA0C]
+	(No symbol) [0x00007FF7F4CEDADF]
+	(No symbol) [0x00007FF7F4D2D35B]
+	(No symbol) [0x00007FF7F4D2DA0B]
+	(No symbol) [0x00007FF7F4D23E0C]
+	(No symbol) [0x00007FF7F4D4DE1F]
+	(No symbol) [0x00007FF7F4D23DB7]
+	(No symbol) [0x00007FF7F4D23C7D]
+	(No symbol) [0x00007FF7F4D4E0C0]
+	(No symbol) [0x00007FF7F4D23DB7]
+	(No symbol) [0x00007FF7F4D6890D]
+	(No symbol) [0x00007FF7F4D4DA43]
+	(No symbol) [0x00007FF7F4D23304]
+	(No symbol) [0x00007FF7F4D22636]
+	(No symbol) [0x00007FF7F4D22EF1]
+	(No symbol) [0x00007FF7F4DAE1A4]
+	(No symbol) [0x00007FF7F4E5608F]
+	(No symbol) [0x00007FF7F4DB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7F52B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4EF7546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Error processing event row: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=133.0.3065.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F4F70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51566C6+1401718]
+	(No symbol) [0x00007FF7F4CEB350]
+	(No symbol) [0x00007FF7F4CEDA0C]
+	(No symbol) [0x00007FF7F4CEDADF]
+	(No symbol) [0x00007FF7F4D2D35B]
+	(No symbol) [0x00007FF7F4D2DA0B]
+	(No symbol) [0x00007FF7F4D23E0C]
+	(No symbol) [0x00007FF7F4D4DE1F]
+	(No symbol) [0x00007FF7F4D23DB7]
+	(No symbol) [0x00007FF7F4D23C7D]
+	(No symbol) [0x00007FF7F4D4E0C0]
+	(No symbol) [0x00007FF7F4D23DB7]
+	(No symbol) [0x00007FF7F4D6890D]
+	(No symbol) [0x00007FF7F4D4DA43]
+	(No symbol) [0x00007FF7F4D23304]
+	(No symbol) [0x00007FF7F4D22636]
+	(No symbol) [0x00007FF7F4D22EF1]
+	(No symbol) [0x00007FF7F4DAE1A4]
+	(No symbol) [0x00007FF7F4E5608F]
+	(No symbol) [0x00007FF7F4DB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7F52B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4EF7546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Error processing event row: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=133.0.3065.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F4F70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51566C6+1401718]
+	(No symbol) [0x00007FF7F4CEB350]
+	(No symbol) [0x00007FF7F4CEDA0C]
+	(No symbol) [0x00007FF7F4CEDADF]
+	(No symbol) [0x00007FF7F4D2D35B]
+	(No symbol) [0x00007FF7F4D2DA0B]
+	(No symbol) [0x00007FF7F4D23E0C]
+	(No symbol) [0x00007FF7F4D4DE1F]
+	(No symbol) [0x00007FF7F4D23DB7]
+	(No symbol) [0x00007FF7F4D23C7D]
+	(No symbol) [0x00007FF7F4D4E0C0]
+	(No symbol) [0x00007FF7F4D23DB7]
+	(No symbol) [0x00007FF7F4D6890D]
+	(No symbol) [0x00007FF7F4D4DA43]
+	(No symbol) [0x00007FF7F4D23304]
+	(No symbol) [0x00007FF7F4D22636]
+	(No symbol) [0x00007FF7F4D22EF1]
+	(No symbol) [0x00007FF7F4DAE1A4]
+	(No symbol) [0x00007FF7F4E5608F]
+	(No symbol) [0x00007FF7F4DB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7F52B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4EF7546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+8.5
+1.03
+Game period text: 3º set8:116:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Balcerzak, Marcin, Team Score: 6, Set: 0
+Team Name: Wisniewski, Karol, Team Score: 7, Set: 2
+Match to best of 5 sets
+Skipping button click for league: TT ELITE SERIES at timer: 3º set8:116:11 because it's in the first or second set.
+3
+1.32
+2.45
+1.47
+5.1
+1.12
+Game period text: 5º set9:112:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Havel, Ladislav (1956), Team Score: 1, Set: 2
+Team Name: Trinta, Mihail, Team Score: 4, Set: 2
+Match to best of 5 sets
+Skipping button click for league: CZECH LIGA PRO at timer: 5º set9:112:11 because it's in the first or second set.
+4.7
+1.14
+Game period text: 3º set6:1111:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Krejci, Ales, Team Score: 6, Set: 1
+Team Name: Necas, Miroslav, Team Score: 10, Set: 1
+Match to best of 5 sets
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set6:1111:7 because it's in the first or second set.
+1.6
+2.15
+9.25
+1.02
+Game period text: 3º set8:1112:14
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Vitrovyj, Oleg, Team Score: 4, Set: 0
+Team Name: Hejduk, Alexander, Team Score: 5, Set: 2
+Match to best of 5 sets
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set8:1112:14 because it's in the first or second set.
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+3.9
+1.2
+Game period text: Tercer break10:12
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Gola, Pawel, Team Score: 8, Set: 1
+Team Name: Lysakowski, Michal, Team Score: 11, Set: 2
+Match to best of 5 sets
+Skipping button click for league: TT CUP at timer: Tercer break10:12 because it's in the first or second set.
+1.85
+1.8
+1.45
+2.45
+1.9
+1.8
+3.05
+1.32
+3.75
+1.22
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+7.75
+1.04
+Game period text: 3º set8:116:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Balcerzak, Marcin, Team Score: 7, Set: 0
+Team Name: Wisniewski, Karol, Team Score: 8, Set: 2
+Match to best of 5 sets
+Skipping button click for league: TT ELITE SERIES at timer: 3º set8:116:11 because it's in the first or second set.
+2.45
+1.47
+2.45
+1.47
+6.75
+1.06
+Game period text: 5º set9:112:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Havel, Ladislav (1956), Team Score: 1, Set: 2
+Team Name: Trinta, Mihail, Team Score: 5, Set: 2
+Match to best of 5 sets
+Button clicked for league: CZECH LIGA PRO
+SELECTED BUTTON:  1.06
+Balance is 5000. Proceeding to place bets...
+Error checking bet amount: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@data-test='betslip-possible-win-amount']"}
+  (Session info: MicrosoftEdge=133.0.3065.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F4F70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51566C6+1401718]
+	(No symbol) [0x00007FF7F4D2D84C]
+	(No symbol) [0x00007FF7F4D2DA0B]
+	(No symbol) [0x00007FF7F4D6B037]
+	(No symbol) [0x00007FF7F4D4DE1F]
+	(No symbol) [0x00007FF7F4D23DB7]
+	(No symbol) [0x00007FF7F4D6890D]
+	(No symbol) [0x00007FF7F4D4DA43]
+	(No symbol) [0x00007FF7F4D23304]
+	(No symbol) [0x00007FF7F4D22636]
+	(No symbol) [0x00007FF7F4D22EF1]
+	(No symbol) [0x00007FF7F4DAE1A4]
+	(No symbol) [0x00007FF7F4E5608F]
+	(No symbol) [0x00007FF7F4DB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7F52B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4EF7546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Unclicked selected outcome button due to insufficient bet amount.
+3.65
+1.22
+2
+1.7
+9.25
+1.02
+Game period text: 3º set8:1112:14
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Vitrovyj, Oleg, Team Score: 5, Set: 0
+Team Name: Hejduk, Alexander, Team Score: 6, Set: 2
+Match to best of 5 sets
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set8:1112:14 because it's in the first or second set.
+No outcome buttons found in the first market item.
+3.9
+1.2
+Game period text: Tercer break10:12
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Gola, Pawel, Team Score: 8, Set: 1
+Team Name: Lysakowski, Michal, Team Score: 11, Set: 2
+Match to best of 5 sets
+Skipping button click for league: TT CUP at timer: Tercer break10:12 because it's in the first or second set.
+1.6
+2.15
+1.45
+2.45
+1.75
+1.95
+3.05
+1.32
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5000. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+2.2
+1.57
+2.45
+1.47
+9.5
+1.02
+Game period text: 5º set9:112:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Havel, Ladislav (1956), Team Score: 2, Set: 2
+Team Name: Trinta, Mihail, Team Score: 7, Set: 2
+Match to best of 5 sets
+Button clicked for league: CZECH LIGA PRO
+SELECTED BUTTON:  1.02
+Balance is 5000. Proceeding to place bets...
+Error checking bet amount: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@data-test='betslip-possible-win-amount']"}
+  (Session info: MicrosoftEdge=133.0.3065.69); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F4F70AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51FBC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7F51566C6+1401718]
+	(No symbol) [0x00007FF7F4D2D84C]
+	(No symbol) [0x00007FF7F4D2DA0B]
+	(No symbol) [0x00007FF7F4D6B037]
+	(No symbol) [0x00007FF7F4D4DE1F]
+	(No symbol) [0x00007FF7F4D23DB7]
+	(No symbol) [0x00007FF7F4D6890D]
+	(No symbol) [0x00007FF7F4D4DA43]
+	(No symbol) [0x00007FF7F4D23304]
+	(No symbol) [0x00007FF7F4D22636]
+	(No symbol) [0x00007FF7F4D22EF1]
+	(No symbol) [0x00007FF7F4DAE1A4]
+	(No symbol) [0x00007FF7F4E5608F]
+	(No symbol) [0x00007FF7F4DB1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7F52B81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F07191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F02484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4F025C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7F4EF7546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Unclicked selected outcome button due to insufficient bet amount.
+3.15
+1.3
+2.4
+1.5
+11
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+1.9
+1.8
+1.45
+2.45
+1.65
+2.05
+3.05
+1.32
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found

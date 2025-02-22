@@ -1,0 +1,883 @@
+Please enter your email: Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4760. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.05
+1.32
+1.8
+1.9
+1.35
+2.85
+1.42
+2.6
+1.16
+Game period text: 4º set11:611:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Zika, Tadeas, Team Score: 0, Set: 2
+Team Name: Petracek, Vratislav, Team Score: 0, Set: 1
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set11:611:7 because it's in the first or second set.
+4.45
+No outcome buttons found in the first market item.
+2.5
+1.45
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4760. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.3
+1.27
+1.8
+1.9
+1.35
+2.85
+1.42
+2.6
+No outcome buttons found in the first market item.
+1.1
+Game period text: 3º set11:611:4
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Trojan, Frantisek, Team Score: 8, Set: 2
+Team Name: Vitrovyj, Oleg, Team Score: 10, Set: 0
+Skipping button click for league: CZECH LIGA PRO at timer: 3º set11:611:4 because it's in the first or second set.
+5.6
+2.5
+1.45
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4760. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.7
+1.22
+1.8
+1.9
+1.35
+2.85
+1.42
+2.6
+1.12
+Game period text: 4º set11:611:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Zika, Tadeas, Team Score: 2, Set: 2
+Team Name: Petracek, Vratislav, Team Score: 1, Set: 1
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set11:611:7 because it's in the first or second set.
+5.3
+1.12
+Game period text: 4º set11:611:4
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Trojan, Frantisek, Team Score: 0, Set: 2
+Team Name: Vitrovyj, Oleg, Team Score: 0, Set: 1
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set11:611:4 because it's in the first or second set.
+4.9
+2.5
+1.45
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4760. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.25
+1.27
+1.8
+1.9
+1.35
+2.85
+1.42
+2.6
+1.07
+Game period text: 4º set11:611:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Zika, Tadeas, Team Score: 3, Set: 2
+Team Name: Petracek, Vratislav, Team Score: 1, Set: 1
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set11:611:7 because it's in the first or second set.
+6.25
+1.12
+Game period text: 4º set11:611:4
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Trojan, Frantisek, Team Score: 0, Set: 2
+Team Name: Vitrovyj, Oleg, Team Score: 0, Set: 1
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set11:611:4 because it's in the first or second set.
+4.9
+2.5
+1.45
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4760. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.9
+1.35
+1.8
+1.9
+1.35
+2.85
+1.42
+2.6
+1.12
+Game period text: 4º set11:611:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Zika, Tadeas, Team Score: 3, Set: 2
+Team Name: Petracek, Vratislav, Team Score: 2, Set: 1
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set11:611:7 because it's in the first or second set.
+5.2
+1.09
+Game period text: 4º set11:611:4
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Trojan, Frantisek, Team Score: 1, Set: 2
+Team Name: Vitrovyj, Oleg, Team Score: 0, Set: 1
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set11:611:4 because it's in the first or second set.
+5.7
+2.5
+1.45
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4760. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.9
+1.35
+1.8
+1.9
+1.35
+2.85
+1.42
+2.6
+1.18
+Game period text: 4º set11:611:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Zika, Tadeas, Team Score: 3, Set: 2
+Team Name: Petracek, Vratislav, Team Score: 2, Set: 1
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set11:611:7 because it's in the first or second set.
+4.2
+1.09
+Game period text: 4º set11:611:4
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Trojan, Frantisek, Team Score: 1, Set: 2
+Team Name: Vitrovyj, Oleg, Team Score: 0, Set: 1
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set11:611:4 because it's in the first or second set.
+5.7
+2.25
+1.55
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4760. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.2
+1.27
+1.7
+2
+1.35
+2.85
+1.42
+2.6
+1.18
+Game period text: 4º set11:611:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Zika, Tadeas, Team Score: 3, Set: 2
+Team Name: Petracek, Vratislav, Team Score: 3, Set: 1
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set11:611:7 because it's in the first or second set.
+4.2
+1.09
+Game period text: 4º set11:611:4
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Trojan, Frantisek, Team Score: 2, Set: 2
+Team Name: Vitrovyj, Oleg, Team Score: 1, Set: 1
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set11:611:4 because it's in the first or second set.
+5.7
+2.55
+1.42
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4760. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.85
+1.35
+1.7
+2
+1.35
+2.85
+1.42
+2.6
+1.3
+3.2
+1.05
+Game period text: 4º set11:611:4
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Trojan, Frantisek, Team Score: 3, Set: 2
+Team Name: Vitrovyj, Oleg, Team Score: 1, Set: 1
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set11:611:4 because it's in the first or second set.
+7.25
+3
+1.32
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4760. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.3
+1.52
+1.65
+2.05
+1.35
+2.85
+1.42
+2.6
+1.22
+3.75
+1.05
+Game period text: 4º set11:611:4
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Trojan, Frantisek, Team Score: 3, Set: 2
+Team Name: Vitrovyj, Oleg, Team Score: 1, Set: 1
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set11:611:4 because it's in the first or second set.
+7.25
+3.3
+1.3
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4760. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.25
+1.55
+1.65
+2.05
+1.35
+2.85
+1.42
+2.6
+1.32
+3
+1.1
+Game period text: 4º set11:611:4
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Trojan, Frantisek, Team Score: 3, Set: 2
+Team Name: Vitrovyj, Oleg, Team Score: 2, Set: 1
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set11:611:4 because it's in the first or second set.
+5.6
+2.65
+1.4
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4760. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.45
+1.47
+1.52
+2.35
+1.35
+2.85
+1.42
+2.6
+1.32
+3
+1.05
+Game period text: 4º set11:611:4
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Trojan, Frantisek, Team Score: 4, Set: 2
+Team Name: Vitrovyj, Oleg, Team Score: 2, Set: 1
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set11:611:4 because it's in the first or second set.
+7
+2.75
+1.37
+1.45
+2.55
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4760. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.35
+1.52
+1.8
+1.85
+1.35
+2.85
+1.42
+2.6
+1.3
+3.1
+1.05
+Game period text: 4º set11:611:4
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Trojan, Frantisek, Team Score: 4, Set: 2
+Team Name: Vitrovyj, Oleg, Team Score: 2, Set: 1
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set11:611:4 because it's in the first or second set.
+7
+2.3
+1.52
+1.45
+2.55
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4760. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.65
+1.4
+2
+1.7
+1.35
+2.85
+1.42
+2.6
+1.42
+2.6
+1.03
+Game period text: 4º set11:611:4
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Trojan, Frantisek, Team Score: 4, Set: 2
+Team Name: Vitrovyj, Oleg, Team Score: 2, Set: 1
+Skipping button click for league: CZECH LIGA PRO at timer: 4º set11:611:4 because it's in the first or second set.
+8.5
+2.95
+1.35
+1.45
+2.55
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4760. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.65
+1.4
+1.95
+1.75
+1.35
+2.85
+1.42
+2.6
+1.52
+2.3
+1.01
+Game period text: 4º set11:611:4
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Trojan, Frantisek, Team Score: 7, Set: 2
+Team Name: Vitrovyj, Oleg, Team Score: 2, Set: 1
+Button clicked for league: CZECH LIGA PRO
+SELECTED BUTTON:  1.01
+Bet amount set to: 500
+Possible win amount (505.0) is not sufficient compared to input amount (500).
+Unclicked selected outcome button due to insufficient bet amount.
+10.5
+3.9
+1.2
+Game period text: 4º set10:128:11
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Latala, Lukasz, Team Score: 5, Set: 1
+Team Name: Jastrzebowski, Franciszek, Team Score: 7, Set: 2
+Button clicked for league: TT CUP
+SELECTED BUTTON:  1.09
+Bet amount set to: 500
+Possible win amount (545.0) is sufficient compared to input amount (500).
+Looking for after-bet errors
+Looking for after-bet errors
+Bet placed successfully.
+Scoreboard:
+Team Name: Latala, Lukasz, Team Score: 5, Set: 1
+Team Name: Jastrzebowski, Franciszek, Team Score: 8, Set: 2
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Cup
+Bet type: simple
+Successfully inserted bet #5816215
+Bet still pending (status 0), checking again in 30 seconds...
+Bet still pending (status 0), checking again in 30 seconds...
+Bet still pending (status 0), checking again in 30 seconds...
+Error processing event row: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=132.0.2957.140); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF784B10AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF784D9BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF784CF66C6+1401718]
+	(No symbol) [0x00007FF784896DFA]
+	(No symbol) [0x00007FF784895B4A]
+	(No symbol) [0x00007FF7848971FB]
+	(No symbol) [0x00007FF78488BC82]
+	(No symbol) [0x00007FF78488A0ED]
+	(No symbol) [0x00007FF78488DA0C]
+	(No symbol) [0x00007FF78488DADF]
+	(No symbol) [0x00007FF7848CD35B]
+	(No symbol) [0x00007FF7848CDA0B]
+	(No symbol) [0x00007FF7848C3E0C]
+	(No symbol) [0x00007FF7848EDE1F]
+	(No symbol) [0x00007FF7848C3DB7]
+	(No symbol) [0x00007FF7848C3C7D]
+	(No symbol) [0x00007FF7848EE0C0]
+	(No symbol) [0x00007FF7848C3DB7]
+	(No symbol) [0x00007FF78490890D]
+	(No symbol) [0x00007FF7848EDA43]
+	(No symbol) [0x00007FF7848C3304]
+	(No symbol) [0x00007FF7848C2636]
+	(No symbol) [0x00007FF7848C2EF1]
+	(No symbol) [0x00007FF78494E1A4]
+	(No symbol) [0x00007FF7849F608F]
+	(No symbol) [0x00007FF784951B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF784E581F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF784AA7191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF784AA2484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF784AA25C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF784A97546+454758]
+	BaseThreadInitThunk [0x00007FFC7137259D+29]
+	RtlUserThreadStart [0x00007FFC7204AF38+40]
+
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4805. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+4.4
+1.16
+Game period text: 3º set7:119:119:6
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Zochniak, Jakub, Team Score: 9, Set: 0
+Team Name: Radlo, Szymon, Team Score: 6, Set: 2
+Skipping button click for league: TT ELITE SERIES at timer: 3º set7:119:119:6 because it's in the first or second set.
+2.05
+1.65
+1.35
+2.85
+1.42
+2.6
+1.45
+2.55
+1.6
+2.15
+4
+1.2
+Game period text: 5º set11:611:7
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Zika, Tadeas, Team Score: 1, Set: 2
+Team Name: Petracek, Vratislav, Team Score: 5, Set: 2
+Button clicked for league: CZECH LIGA PRO
+SELECTED BUTTON:  1.2
+Bet amount set to: 1000
+Possible win amount (1200.0) is sufficient compared to input amount (1000).
+Looking for after-bet errors
+Looking for after-bet errors
+Bet placed successfully.
+Scoreboard:
+Team Name: Zika, Tadeas, Team Score: 1, Set: 2
+Team Name: Petracek, Vratislav, Team Score: 5, Set: 2
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: Czech Liga Pro
+Bet type: simple
+Successfully inserted bet #5816232
+Bet still pending (status 0), checking again in 30 seconds...
+Bet still pending (status 0), checking again in 30 seconds...
+Bet still pending (status 0), checking again in 30 seconds...
+Bet still pending (status 0), checking again in 30 seconds...
+Bet still pending (status 0), checking again in 30 seconds...
+Bet still pending (status 0), checking again in 30 seconds...
+Bet still pending (status 0), checking again in 30 seconds...
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5005. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.75
+1.95
+1.45
+2.55
+1.45
+2.5
+1.85
+1.85
+1.57
+2.2
+1.7
+2
+1.35
+2.9
+1.6
+2.15
+2
+1.7
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5005. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.85
+1.85
+1.45
+2.5
+1.45
+2.55
+1.85
+1.85
+1.57
+2.2
+1.7
+2
+1.3
+3.15
+1.6
+2.15
+2
+1.7
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5005. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.95
+1.75
+1.45
+2.55
+1.5
+2.35
+1.85
+1.85
+1.57
+2.2
+1.7
+2
+1.18
+Game period text: 2do Set11:82:3
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Kumar, Vijay, Team Score: 2, Set: 1
+Team Name: Goncharov, Denys, Team Score: 3, Set: 0
+Skipping button click for league: TT CUP at timer: 2do Set11:82:3 because it's in the first or second set.
+4.05
+1.6
+2.15
+2
+1.7
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5005. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.35
+1.5
+1.45
+2.5
+1.5
+2.35
+1.85
+1.85
+1.57
+2.2
+1.7
+2
+1.18
+Game period text: 2do Set11:84:3
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Kumar, Vijay, Team Score: 4, Set: 1
+Team Name: Goncharov, Denys, Team Score: 3, Set: 0
+Skipping button click for league: TT CUP at timer: 2do Set11:84:3 because it's in the first or second set.
+4.2
+1.6
+2.15
+2
+1.7
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5005. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.25
+1.55
+1.45
+2.55
+1.65
+2.1
+1.65
+2.05
+1.85
+1.85
+1.57
+2.2
+1.7
+2
+1.18
+Game period text: 2do Set11:85:4
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Kumar, Vijay, Team Score: 5, Set: 1
+Team Name: Goncharov, Denys, Team Score: 4, Set: 0
+Skipping button click for league: TT CUP at timer: 2do Set11:85:4 because it's in the first or second set.
+4.2
+1.6
+2.15
+2
+1.7
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5005. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.35
+1.5
+1.7
+2
+1.7
+2
+1.65
+2.05
+1.85
+1.85
+1.57
+2.2
+1.7
+2
+1.12
+Game period text: 2do Set11:86:4
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Kumar, Vijay, Team Score: 6, Set: 1
+Team Name: Goncharov, Denys, Team Score: 4, Set: 0
+Skipping button click for league: TT CUP at timer: 2do Set11:86:4 because it's in the first or second set.
+5
+1.6
+2.15
+2
+1.7
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5005. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.9
+1.75
+1.85
+1.8
+1.7
+2
+1.65
+2.05
+1.85
+1.85
+1.57
+2.2
+1.7
+2
+1.18
+Game period text: 2do Set11:86:5
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Kumar, Vijay, Team Score: 6, Set: 1
+Team Name: Goncharov, Denys, Team Score: 5, Set: 0
+Skipping button click for league: TT CUP at timer: 2do Set11:86:5 because it's in the first or second set.
+4.2
+1.6
+2.15
+2
+1.7
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5005. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.55
+2.25
+2.25
+1.55
+1.9
+1.8
+1.65
+2.05
+1.85
+1.85
+1.57
+2.2
+1.7
+2
+1.25
+3.55
+1.6
+2.15
+2
+1.7
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5005. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.35
+2.9
+2.55
+1.42
+2.05
+1.65
+1.65
+2.05
+1.85
+1.85
+1.57
+2.2
+1.7
+2
+1.2
+Game period text: 2do Set11:87:7
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Kumar, Vijay, Team Score: 7, Set: 1
+Team Name: Goncharov, Denys, Team Score: 7, Set: 0
+Skipping button click for league: TT CUP at timer: 2do Set11:87:7 because it's in the first or second set.
+3.95
+1.6
+2.15
+2
+1.7
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5005. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.9
+1.75
+2.65
+1.4
+1.9
+1.8
+1.65
+2.05
+1.85
+1.85
+1.57
+2.2
+1.6
+2.15
+1.15
+Game period text: 2do Set11:88:7
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Kumar, Vijay, Team Score: 8, Set: 1
+Team Name: Goncharov, Denys, Team Score: 7, Set: 0
+Skipping button click for league: TT CUP at timer: 2do Set11:88:7 because it's in the first or second set.
+4.55
+1.6
+2.15
+1.95
+1.7
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5005. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.8
+1.85
+2.65
+1.4
+1.95
+1.75
+1.65
+2.05
+1.6
+2.1
+1.57
+2.2
+1.5
+2.35
+1.09
+Game period text: 2do Set11:89:7
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Kumar, Vijay, Team Score: 9, Set: 1
+Team Name: Goncharov, Denys, Team Score: 7, Set: 0
+Skipping button click for league: TT CUP at timer: 2do Set11:89:7 because it's in the first or second set.
+5.7
+1.57
+2.25
+2
+1.7
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 5005. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+3.95
+1.2
+Game period text: 5º set11:98:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Olbrycht, Michal, Team Score: 6, Set: 2
+Team Name: Witkowski, Jakub, Team Score: 8, Set: 2
+Button clicked for league: TT ELITE SERIES
+SELECTED BUTTON:  1.2
+Bet amount set to: 500
+Possible win amount (600.0) is sufficient compared to input amount (500).
+Looking for after-bet errors
+Looking for after-bet errors
+Bet placed successfully.
+Scoreboard:
+Team Name: Olbrycht, Michal, Team Score: 7, Set: 2
+Team Name: Witkowski, Jakub, Team Score: 8, Set: 2
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet #5816295
+Bet still pending (status 0), checking again in 30 seconds...

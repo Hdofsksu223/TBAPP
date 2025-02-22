@@ -1,0 +1,3958 @@
+Please enter your email: Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.8
+1.85
+3.05
+1.3
+6
+1.08
+Game period text: 1er set
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 6, Set: 0
+Team Name: Balcerzak, Marcin, Team Score: 10, Set: 0
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+1.52
+2.3
+1.04
+Game period text: Segundo break11:1
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Alvarez Garcia, Moises, Team Score: 11, Set: 2
+Team Name: Gonzalez, Eduardo, Team Score: 9, Set: 0
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+7.75
+1.12
+Game period text: Segundo break
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Kral, Adam, Team Score: 11, Set: 2
+Team Name: Kubat, Petr, Team Score: 8, Set: 0
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+4.9
+2.6
+1.42
+1.65
+2.1
+2.05
+1.65
+1.15
+Game period text: 4º set11:311:99:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Sedlak, Marek, Team Score: 4, Set: 2
+Team Name: Louda, Jiri, Team Score: 2, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+4.55
+No outcome buttons found in the first market item.
+1.65
+2.1
+2.35
+1.5
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.65
+1.4
+5.9
+1.09
+Game period text: 2do Set12:1412:13
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Grela, Artur, Team Score: 12, Set: 0
+Team Name: Chodorski, Piotr, Team Score: 13, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+6.25
+1.08
+Game period text: Primer break
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 7, Set: 0
+Team Name: Balcerzak, Marcin, Team Score: 11, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+1.47
+2.4
+1.04
+Game period text: Segundo break11:1
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Alvarez Garcia, Moises, Team Score: 11, Set: 2
+Team Name: Gonzalez, Eduardo, Team Score: 9, Set: 0
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+7.75
+1.15
+Game period text: 3º set11:911:8
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Kral, Adam, Team Score: 0, Set: 2
+Team Name: Kubat, Petr, Team Score: 0, Set: 0
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+4.55
+2.35
+1.5
+1.65
+2.1
+2.05
+1.65
+1.12
+Game period text: 4º set11:311:99:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Sedlak, Marek, Team Score: 5, Set: 2
+Team Name: Louda, Jiri, Team Score: 3, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+5
+No outcome buttons found in the first market item.
+2.05
+1.65
+1.9
+1.8
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+5
+1.12
+Game period text: 5º set9:1111:9
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Oracz, Lukasz, Team Score: 1, Set: 2
+Team Name: Pelka, Jerzy, Team Score: 4, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+2.5
+1.45
+7
+1.05
+Game period text: 2do Set7:110:1
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 0, Set: 0
+Team Name: Balcerzak, Marcin, Team Score: 1, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+1.6
+2.1
+1.07
+Game period text: 3º set11:111:90:1
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Alvarez Garcia, Moises, Team Score: 0, Set: 2
+Team Name: Gonzalez, Eduardo, Team Score: 1, Set: 0
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+6.5
+1.07
+Game period text: 3º set11:911:8
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Kral, Adam, Team Score: 2, Set: 2
+Team Name: Kubat, Petr, Team Score: 0, Set: 0
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+6.5
+3.35
+1.27
+1.55
+2.25
+2.05
+1.65
+1.14
+Game period text: 4º set11:311:99:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Sedlak, Marek, Team Score: 6, Set: 2
+Team Name: Louda, Jiri, Team Score: 4, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+4.85
+1.47
+2.45
+5.3
+1.12
+Game period text: 5º set11:711:9
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Krcal, Radek, Team Score: 7, Set: 2
+Team Name: Lengal, Dominik, Team Score: 9, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+3.35
+1.27
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+5
+1.12
+Game period text: 5º set9:1111:9
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Oracz, Lukasz, Team Score: 1, Set: 2
+Team Name: Pelka, Jerzy, Team Score: 6, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+2
+1.7
+8.5
+1.03
+Game period text: 2do Set7:111:4
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 1, Set: 0
+Team Name: Balcerzak, Marcin, Team Score: 4, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+1.47
+2.4
+1.05
+Game period text: 3º set11:111:91:1
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Alvarez Garcia, Moises, Team Score: 1, Set: 2
+Team Name: Gonzalez, Eduardo, Team Score: 1, Set: 0
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+7.25
+1.05
+Game period text: 3º set11:911:8
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Kral, Adam, Team Score: 3, Set: 2
+Team Name: Kubat, Petr, Team Score: 1, Set: 0
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+7.5
+2.5
+1.45
+1.65
+2.05
+2.05
+1.65
+1.02
+Game period text: 4º set11:311:99:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Sedlak, Marek, Team Score: 8, Set: 2
+Team Name: Louda, Jiri, Team Score: 4, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+9.25
+1.65
+2.1
+No outcome buttons found in the first market item.
+2.5
+1.2
+Game period text: 5º set7:1111:98:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Postelt, Tomas, Team Score: 6, Set: 2
+Team Name: Prosa, Tomas, Team Score: 8, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+5.3
+1.12
+Game period text: 5º set9:1111:9
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Oracz, Lukasz, Team Score: 2, Set: 2
+Team Name: Pelka, Jerzy, Team Score: 6, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+2
+1.7
+8.5
+1.03
+Game period text: 2do Set7:112:5
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 2, Set: 0
+Team Name: Balcerzak, Marcin, Team Score: 5, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+1.42
+2.6
+1.02
+Game period text: 3º set11:111:93:1
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Alvarez Garcia, Moises, Team Score: 3, Set: 2
+Team Name: Gonzalez, Eduardo, Team Score: 1, Set: 0
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+9.25
+1.04
+Game period text: 3º set11:911:8
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Kral, Adam, Team Score: 4, Set: 2
+Team Name: Kubat, Petr, Team Score: 1, Set: 0
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+7.75
+2.9
+1.35
+1.52
+2.1
+2.05
+1.65
+1.04
+Game period text: 4º set11:311:99:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Sedlak, Marek, Team Score: 8, Set: 2
+Team Name: Louda, Jiri, Team Score: 5, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+7.5
+2.55
+1.42
+No outcome buttons found in the first market item.
+2.7
+1.4
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+4.5
+1.15
+Game period text: 5º set9:1111:9
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Oracz, Lukasz, Team Score: 4, Set: 2
+Team Name: Pelka, Jerzy, Team Score: 7, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+1.9
+1.75
+9.5
+1.02
+Game period text: 2do Set7:112:7
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 2, Set: 0
+Team Name: Balcerzak, Marcin, Team Score: 7, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+1.32
+3
+1.01
+Game period text: 3º set11:111:94:1
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Alvarez Garcia, Moises, Team Score: 4, Set: 2
+Team Name: Gonzalez, Eduardo, Team Score: 1, Set: 0
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+10
+1.03
+Game period text: 3º set11:911:8
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Kral, Adam, Team Score: 5, Set: 2
+Team Name: Kubat, Petr, Team Score: 1, Set: 0
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+8.5
+4
+1.18
+Game period text: 2do Set8:115:7
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Vaarpu, Madis, Team Score: 5, Set: 0
+Team Name: Oja, Brunold, Team Score: 7, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+2.05
+1.65
+2.05
+1.65
+1.03
+Game period text: 4º set11:311:99:11
+Associated alt value: 15
+League name: CZECH LIGA PRO
+Scoreboard:
+Team Name: Sedlak, Marek, Team Score: 9, Set: 2
+Team Name: Louda, Jiri, Team Score: 6, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+6.75
+3.65
+1.22
+2.7
+1.4
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+6.75
+1.06
+Game period text: 5º set9:1111:9
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Oracz, Lukasz, Team Score: 4, Set: 2
+Team Name: Pelka, Jerzy, Team Score: 8, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+2.35
+1.5
+9.25
+1.01
+Game period text: 2do Set7:114:9
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 4, Set: 0
+Team Name: Balcerzak, Marcin, Team Score: 9, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+1.27
+3.25
+1.01
+Game period text: 3º set11:111:95:2
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Alvarez Garcia, Moises, Team Score: 5, Set: 2
+Team Name: Gonzalez, Eduardo, Team Score: 2, Set: 0
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+10.5
+1.02
+Game period text: 3º set11:911:8
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Kral, Adam, Team Score: 6, Set: 2
+Team Name: Kubat, Petr, Team Score: 2, Set: 0
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+9.5
+3.5
+1.25
+1.85
+1.85
+2.05
+1.65
+No outcome buttons found in the first market item.
+3.7
+1.22
+1.4
+2.7
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+2.75
+1.37
+9.75
+1.01
+Game period text: 2do Set7:114:9
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 4, Set: 0
+Team Name: Balcerzak, Marcin, Team Score: 9, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+1.45
+2.5
+11
+1.02
+Game period text: 3º set11:911:8
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Kral, Adam, Team Score: 7, Set: 2
+Team Name: Kubat, Petr, Team Score: 3, Set: 0
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+9.25
+3.4
+1.15
+Game period text: 2do Set8:117:9
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Vaarpu, Madis, Team Score: 7, Set: 0
+Team Name: Oja, Brunold, Team Score: 9, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+1.65
+2.05
+2.05
+1.65
+No outcome buttons found in the first market item.
+2.75
+1.37
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+1.85
+1.8
+10
+1.01
+Game period text: 2do Set7:115:10
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 5, Set: 0
+Team Name: Balcerzak, Marcin, Team Score: 11, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+1.22
+3.65
+11
+1.01
+Game period text: 3º set11:911:8
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Kral, Adam, Team Score: 8, Set: 2
+Team Name: Kubat, Petr, Team Score: 4, Set: 0
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+9.75
+3.5
+1.25
+2.05
+1.65
+2.05
+1.65
+No outcome buttons found in the first market item.
+2.85
+1.35
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.65
+1.27
+10
+1.01
+Game period text: 3º set7:115:110:1
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 0, Set: 0
+Team Name: Balcerzak, Marcin, Team Score: 1, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+1.22
+3.65
+11
+11
+2.7
+1.55
+1.8
+1.85
+2.05
+1.65
+1.95
+1.75
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.45
+1.47
+9.75
+1.01
+Game period text: 3º set7:115:111:1
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 1, Set: 0
+Team Name: Balcerzak, Marcin, Team Score: 1, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+1.22
+3.65
+11
+No outcome buttons found in the first market item.
+1.85
+1.85
+1.8
+1.85
+2.05
+1.65
+1.95
+Error processing button: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62102B350]
+	(No symbol) [0x00007FF62102DA0C]
+	(No symbol) [0x00007FF62102DADF]
+	(No symbol) [0x00007FF62106D35B]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.5
+2.35
+9.25
+1.02
+Game period text: 3º set7:115:113:2
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 3, Set: 0
+Team Name: Balcerzak, Marcin, Team Score: 2, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+1.22
+Error processing button: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62102B350]
+	(No symbol) [0x00007FF62102DA0C]
+	(No symbol) [0x00007FF62102DADF]
+	(No symbol) [0x00007FF62106D35B]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+1.85
+1.85
+1.65
+2.1
+2.05
+1.65
+3.2
+1.3
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.4
+3.1
+10
+1.01
+Game period text: 3º set7:115:114:3
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 4, Set: 0
+Team Name: Balcerzak, Marcin, Team Score: 3, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+1.4
+2.7
+No outcome buttons found in the first market item.
+No outcome buttons found in the first market item.
+1.85
+1.85
+2.4
+1.47
+2.05
+1.65
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.27
+3.25
+9.25
+1.02
+Game period text: 3º set7:115:114:3
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 4, Set: 0
+Team Name: Balcerzak, Marcin, Team Score: 3, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+No outcome buttons found in the first market item.
+1.4
+2.7
+2.05
+1.65
+2.5
+1.45
+2.05
+1.65
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.18
+Game period text: 4º set12:1415:13
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Grela, Artur, Team Score: 4, Set: 2
+Team Name: Chodorski, Piotr, Team Score: 1, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+4
+7.5
+1.05
+Game period text: 3º set7:115:116:3
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 6, Set: 0
+Team Name: Balcerzak, Marcin, Team Score: 3, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+2.45
+1.47
+1.32
+3.05
+2.05
+1.65
+2.5
+1.45
+2.05
+1.65
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.27
+3.3
+7.25
+1.05
+Game period text: 3º set7:115:117:4
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 7, Set: 0
+Team Name: Balcerzak, Marcin, Team Score: 4, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+2.45
+1.47
+1.22
+3.6
+1.7
+2
+2.7
+1.4
+2.05
+1.65
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.08
+Game period text: 4º set12:1415:13
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Grela, Artur, Team Score: 6, Set: 2
+Team Name: Chodorski, Piotr, Team Score: 2, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+6.25
+8
+1.04
+Game period text: 3º set7:115:117:5
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 7, Set: 0
+Team Name: Balcerzak, Marcin, Team Score: 5, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+2.45
+1.47
+1.16
+Game period text: 4º set7:1111:911:9
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Kwiatkowski, Kacper, Team Score: 3, Set: 2
+Team Name: Jedrzejowski, Oskar, Team Score: 2, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+4.3
+1.9
+1.8
+2.9
+1.35
+2.05
+1.65
+No outcome buttons found in the first market item.
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.14
+Game period text: 4º set12:1415:13
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Grela, Artur, Team Score: 6, Set: 2
+Team Name: Chodorski, Piotr, Team Score: 3, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+4.65
+7.5
+1.04
+Game period text: 3º set7:115:118:6
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 8, Set: 0
+Team Name: Balcerzak, Marcin, Team Score: 6, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+2.45
+1.47
+1.25
+3.5
+No outcome buttons found in the first market item.
+1.7
+2
+3.1
+1.3
+2.05
+1.65
+2.35
+1.52
+1.47
+2.45
+2.55
+1.45
+2.15
+1.6
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.18
+Game period text: 4º set12:1415:13
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Grela, Artur, Team Score: 7, Set: 2
+Team Name: Chodorski, Piotr, Team Score: 5, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+4.1
+7.25
+1.05
+Game period text: 3º set7:115:119:7
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 9, Set: 0
+Team Name: Balcerzak, Marcin, Team Score: 7, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+2.45
+1.47
+1.32
+3
+No outcome buttons found in the first market item.
+1.7
+2
+3.9
+1.2
+Game period text: 2do Set9:111:5
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Libovicky, Vladimir, Team Score: 1, Set: 0
+Team Name: Strouhal, Vojtech, Team Score: 5, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+1.95
+1.75
+2.35
+1.52
+1.47
+2.45
+2.55
+1.45
+2.15
+1.6
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.16
+Game period text: 4º set12:1415:13
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Grela, Artur, Team Score: 8, Set: 2
+Team Name: Chodorski, Piotr, Team Score: 6, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+4.3
+6.75
+1.06
+Game period text: 3º set7:115:1110:8
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 10, Set: 0
+Team Name: Balcerzak, Marcin, Team Score: 8, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+2.45
+1.47
+1.55
+2.25
+No outcome buttons found in the first market item.
+1.9
+1.8
+3.9
+1.2
+Game period text: 2do Set9:112:5
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Libovicky, Vladimir, Team Score: 2, Set: 0
+Team Name: Strouhal, Vojtech, Team Score: 5, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+2.2
+1.57
+2.35
+1.52
+1.47
+2.45
+2.55
+1.45
+2.15
+1.6
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+6
+1.08
+Game period text: Tercer break7:11
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 11, Set: 1
+Team Name: Balcerzak, Marcin, Team Score: 8, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Error processing button: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62102B350]
+	(No symbol) [0x00007FF62102DA0C]
+	(No symbol) [0x00007FF62102DADF]
+	(No symbol) [0x00007FF62106D35B]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Error processing button: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62102B350]
+	(No symbol) [0x00007FF62102DA0C]
+	(No symbol) [0x00007FF62102DADF]
+	(No symbol) [0x00007FF62106D35B]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Error processing event row: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62102B350]
+	(No symbol) [0x00007FF62102DA0C]
+	(No symbol) [0x00007FF62102DADF]
+	(No symbol) [0x00007FF62106D35B]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Error processing event row: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62102B350]
+	(No symbol) [0x00007FF62102DA0C]
+	(No symbol) [0x00007FF62102DADF]
+	(No symbol) [0x00007FF62106D35B]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Error processing event row: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62102B350]
+	(No symbol) [0x00007FF62102DA0C]
+	(No symbol) [0x00007FF62102DADF]
+	(No symbol) [0x00007FF62106D35B]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Error processing event row: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62102B350]
+	(No symbol) [0x00007FF62102DA0C]
+	(No symbol) [0x00007FF62102DADF]
+	(No symbol) [0x00007FF62106D35B]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Error processing event row: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62102B350]
+	(No symbol) [0x00007FF62102DA0C]
+	(No symbol) [0x00007FF62102DADF]
+	(No symbol) [0x00007FF62106D35B]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Error processing event row: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62102B350]
+	(No symbol) [0x00007FF62102DA0C]
+	(No symbol) [0x00007FF62102DADF]
+	(No symbol) [0x00007FF62106D35B]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Error processing event row: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62102B350]
+	(No symbol) [0x00007FF62102DA0C]
+	(No symbol) [0x00007FF62102DADF]
+	(No symbol) [0x00007FF62106D35B]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Error processing event row: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62102B350]
+	(No symbol) [0x00007FF62102DA0C]
+	(No symbol) [0x00007FF62102DADF]
+	(No symbol) [0x00007FF62106D35B]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Error processing event row: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62102B350]
+	(No symbol) [0x00007FF62102DA0C]
+	(No symbol) [0x00007FF62102DADF]
+	(No symbol) [0x00007FF62106D35B]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+6
+1.08
+Game period text: 4º set7:115:1111:8
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 0, Set: 1
+Team Name: Balcerzak, Marcin, Team Score: 0, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+2.45
+1.47
+1.35
+2.9
+2.15
+1.6
+2.5
+1.45
+2.1
+1.6
+2.35
+1.52
+1.47
+2.45
+1.85
+1.85
+2.55
+1.45
+2.15
+1.6
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+7.25
+1.05
+Game period text: 4º set7:115:1111:8
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 0, Set: 1
+Team Name: Balcerzak, Marcin, Team Score: 1, Set: 2
+Team definition error: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62102B350]
+	(No symbol) [0x00007FF62102DA0C]
+	(No symbol) [0x00007FF62102DADF]
+	(No symbol) [0x00007FF62106D35B]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+Error processing button: Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62102B350]
+	(No symbol) [0x00007FF62102DA0C]
+	(No symbol) [0x00007FF62102DADF]
+	(No symbol) [0x00007FF62106D35B]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+2.45
+1.47
+1.25
+3.55
+1.85
+1.8
+2.8
+1.35
+2.1
+1.65
+2.35
+1.52
+1.47
+2.45
+1.85
+1.85
+2.55
+1.45
+2.15
+1.6
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+7
+1.05
+Game period text: 4º set7:115:1111:8
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 1, Set: 1
+Team Name: Balcerzak, Marcin, Team Score: 2, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+2.45
+1.47
+1.15
+Game period text: 4º set7:1111:911:9
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Kwiatkowski, Kacper, Team Score: 7, Set: 2
+Team Name: Jedrzejowski, Oskar, Team Score: 6, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+4.5
+1.9
+1.75
+3.9
+1.2
+Game period text: 2do Set9:115:8
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Libovicky, Vladimir, Team Score: 5, Set: 0
+Team Name: Strouhal, Vojtech, Team Score: 8, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+2.4
+1.5
+2.35
+1.52
+1.47
+2.45
+1.85
+1.85
+2.55
+1.45
+2.15
+1.6
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+8.25
+1.03
+Game period text: 4º set7:115:1111:8
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 1, Set: 1
+Team Name: Balcerzak, Marcin, Team Score: 3, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+2.45
+1.47
+1.25
+3.4
+1.6
+2.1
+3.05
+1.3
+2.1
+1.65
+2.35
+1.52
+1.47
+2.45
+1.85
+1.85
+2.55
+1.45
+2.15
+1.6
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+10.5
+1.01
+Game period text: 4º set7:115:1111:8
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Rudomina, Kamil, Team Score: 1, Set: 1
+Team Name: Balcerzak, Marcin, Team Score: 5, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+2.45
+1.47
+1.37
+2.75
+1.45
+2.55
+4.75
+1.14
+Game period text: 2do Set9:117:10
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Libovicky, Vladimir, Team Score: 7, Set: 0
+Team Name: Strouhal, Vojtech, Team Score: 10, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+2.35
+1.5
+2.35
+1.52
+1.47
+2.45
+1.85
+1.85
+2.55
+1.45
+2.15
+1.6
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+11
+2.45
+1.47
+1.55
+2.25
+1.22
+3.6
+3.25
+1.27
+2.4
+1.5
+2.35
+1.52
+1.47
+2.45
+1.85
+1.85
+2.55
+1.45
+2.15
+1.6
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+11
+2.45
+1.47
+1.55
+1.95
+1.22
+3.6
+4.8
+1.14
+Game period text: Segundo break
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Libovicky, Vladimir, Team Score: 9, Set: 0
+Team Name: Strouhal, Vojtech, Team Score: 11, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+2.1
+1.6
+2.35
+1.52
+1.47
+2.45
+1.85
+1.85
+2.55
+1.45
+2.15
+1.6
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+2.45
+1.47
+1.65
+2.05
+1.22
+3.65
+4.8
+1.14
+Game period text: Segundo break
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Libovicky, Vladimir, Team Score: 9, Set: 0
+Team Name: Strouhal, Vojtech, Team Score: 11, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+2.45
+1.47
+2.35
+1.52
+1.65
+2.1
+1.85
+1.85
+2.55
+1.45
+2.15
+1.6
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+2.45
+1.47
+1.8
+1.85
+1.25
+3.55
+5.6
+1.1
+Game period text: 3º set9:119:11
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Libovicky, Vladimir, Team Score: 0, Set: 0
+Team Name: Strouhal, Vojtech, Team Score: 1, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+2.15
+1.6
+2.35
+1.52
+1.65
+2.1
+1.85
+1.85
+2.55
+1.45
+2.15
+1.6
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+No outcome buttons found in the first market item.
+2.45
+1.47
+1.8
+1.85
+1.16
+Game period text: 4º set8:1111:9
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Vaarpu, Madis, Team Score: 2, Set: 2
+Team Name: Oja, Brunold, Team Score: 1, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+4.25
+7
+1.06
+Game period text: 3º set9:119:11
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Libovicky, Vladimir, Team Score: 0, Set: 0
+Team Name: Strouhal, Vojtech, Team Score: 2, Set: 2
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+2.5
+1.45
+2.35
+1.52
+1.65
+2.1
+1.85
+1.85
+2.55
+1.45
+2.15
+1.6
+Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 6585. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+2.45
+1.47
+1.95
+1.7
+1.65
+2.1
+1.8
+1.85
+1.07
+Game period text: 4º set8:1111:9
+Associated alt value: 15
+League name: TT CUP
+Scoreboard:
+Team Name: Vaarpu, Madis, Team Score: 4, Set: 2
+Team Name: Oja, Brunold, Team Score: 1, Set: 1
+Error processing button: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@data-test='reduced-periods']"}
+  (Session info: MicrosoftEdge=133.0.3065.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6212B0AD5+13637]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF62153BC04+2078900]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF6214966C6+1401718]
+	(No symbol) [0x00007FF62106D84C]
+	(No symbol) [0x00007FF62106DA0B]
+	(No symbol) [0x00007FF621063E0C]
+	(No symbol) [0x00007FF62108DE1F]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF621063C7D]
+	(No symbol) [0x00007FF62108E0C0]
+	(No symbol) [0x00007FF621063DB7]
+	(No symbol) [0x00007FF6210A890D]
+	(No symbol) [0x00007FF62108DA43]
+	(No symbol) [0x00007FF621063304]
+	(No symbol) [0x00007FF621062636]
+	(No symbol) [0x00007FF621062EF1]
+	(No symbol) [0x00007FF6210EE1A4]
+	(No symbol) [0x00007FF62119608F]
+	(No symbol) [0x00007FF6210F1B93]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF6215F81F9+269801]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621247191+519345]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621242484+499620]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6212425C9+499945]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF621237546+454758]
+	BaseThreadInitThunk [0x00007FFDC3AD259D+29]
+	RtlUserThreadStart [0x00007FFDC5CCAF38+40]
+
+6.5

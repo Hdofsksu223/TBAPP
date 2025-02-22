@@ -1,0 +1,30 @@
+Please enter your email: Checking URL: https://tonybet.com/cl/live/table-tennis
+Bets panel already open or button not found
+Balance is 4545. Proceeding to place bets...
+No coupon bet events found to remove.
+No more 'Borrar resultado' buttons to click.
+1.06
+Game period text: 4º set4:1111:5
+Associated alt value: 15
+League name: TT ELITE SERIES
+Scoreboard:
+Team Name: Koczyba, Mariusz, Team Score: 8, Set: 2
+Team Name: Trela, Mateusz, Team Score: 6, Set: 1
+Button clicked for league: TT ELITE SERIES
+SELECTED BUTTON:  1.07
+Bet amount set to: 500
+Possible win amount (535.0) is sufficient compared to input amount (500).
+Looking for after-bet errors
+Looking for after-bet errors
+Bet placed successfully.
+Scoreboard:
+Team Name: Koczyba, Mariusz, Team Score: 8, Set: 2
+Team Name: Trela, Mateusz, Team Score: 6, Set: 1
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Bet type: simple
+Match Sport ID: 15 (<class 'int'>)
+Match league: TT Elite Series
+Bet type: simple
+Successfully inserted bet #5814107

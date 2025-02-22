@@ -1,0 +1,364 @@
+2025-02-11 a 2025-02-12:
+
+- 137 wins
+- 18 losses
+
+4 instancias de pérdidas consecutivas
+
+Found 15 winning streaks:
+
+Streak 1:
+Start: 2025-02-11 16:35:00
+End:   2025-02-11 22:31:00
+Wins:  11
+
+Streak 2:
+Start: 2025-02-11 22:42:00
+End:   2025-02-11 22:52:00
+Wins:  2
+
+Streak 3:
+Start: 2025-02-11 23:23:00
+End:   2025-02-12 02:50:00
+Wins:  17
+
+Streak 4:
+Start: 2025-02-12 03:06:00
+End:   2025-02-12 04:54:00
+Wins:  12
+
+Streak 5:
+Start: 2025-02-12 05:11:00
+End:   2025-02-12 07:12:00
+Wins:  19
+
+Streak 6:
+Start: 2025-02-12 07:42:00
+End:   2025-02-12 07:47:00
+Wins:  2
+
+Streak 7:
+Start: 2025-02-12 08:09:00
+End:   2025-02-12 09:45:00
+Wins:  18
+
+Streak 8:
+Start: 2025-02-12 10:01:00
+End:   2025-02-12 10:48:00
+Wins:  6
+
+Streak 9:
+Start: 2025-02-12 11:10:00
+End:   2025-02-12 12:18:00
+Wins:  10
+
+Streak 10:
+Start: 2025-02-12 12:31:00
+End:   2025-02-12 13:52:00
+Wins:  7
+
+Streak 11:
+Start: 2025-02-12 14:15:00
+End:   2025-02-12 14:51:00
+Wins:  7
+
+Streak 12:
+Start: 2025-02-12 15:37:00
+End:   2025-02-12 16:04:00
+Wins:  4
+
+Streak 13:
+Start: 2025-02-12 16:32:00
+End:   2025-02-12 16:32:00
+Wins:  1
+
+Streak 14:
+Start: 2025-02-12 18:21:00
+End:   2025-02-12 20:19:00
+Wins:  14
+
+Streak 15:
+Start: 2025-02-12 21:09:00
+End:   2025-02-12 22:06:00
+Wins:  7
+
+
+---------------------------------------------------------------------------------
+
+Found 15 losing streaks:
+
+Streak 1:
+Start: 2025-02-11 22:38:00
+End:   2025-02-11 22:38:00
+Losses:  1
+
+Streak 2:
+Start: 2025-02-11 23:05:00
+End:   2025-02-11 23:05:00
+Losses:  1
+
+Streak 3:
+Start: 2025-02-12 02:54:00
+End:   2025-02-12 02:54:00
+Losses:  1
+
+Streak 4:
+Start: 2025-02-12 05:06:00
+End:   2025-02-12 05:06:00
+Losses:  1
+
+Streak 5:
+Start: 2025-02-12 07:23:00
+End:   2025-02-12 07:23:00
+Losses:  1
+
+Streak 6:
+Start: 2025-02-12 07:52:00
+End:   2025-02-12 07:52:00
+Losses:  1
+
+Streak 7:
+Start: 2025-02-12 09:53:00
+End:   2025-02-12 09:53:00
+Losses:  1
+
+Streak 8:
+Start: 2025-02-12 10:59:00
+End:   2025-02-12 10:59:00
+Losses:  1
+
+Streak 9:
+Start: 2025-02-12 12:25:00
+End:   2025-02-12 12:25:00
+Losses:  1
+
+Streak 10:
+Start: 2025-02-12 14:00:00
+End:   2025-02-12 14:00:00
+Losses:  1
+
+Streak 11:
+Start: 2025-02-12 14:58:00
+End:   2025-02-12 15:15:00
+Losses:  2
+
+Streak 12:
+Start: 2025-02-12 16:09:00
+End:   2025-02-12 16:09:00
+Losses:  1
+
+Streak 13:
+Start: 2025-02-12 16:44:00
+End:   2025-02-12 16:44:00
+Losses:  1
+
+Streak 14:
+Start: 2025-02-12 20:30:00
+End:   2025-02-12 20:47:00
+Losses:  2
+
+Streak 15:
+Start: 2025-02-12 22:16:00
+End:   2025-02-13 00:18:00
+Losses:  3
+
+----------------------------------------------
+
+
+Odds frequency (winning bets only):
+Odds 1.01: 11 times
+Odds 1.02: 10 times
+Odds 1.03: 12 times
+Odds 1.04: 15 times
+Odds 1.05: 8 times
+Odds 1.06: 7 times
+Odds 1.07: 8 times
+Odds 1.08: 5 times
+Odds 1.09: 10 times
+Odds 1.10: 7 times
+Odds 1.12: 9 times
+Odds 1.14: 6 times
+Odds 1.15: 3 times
+Odds 1.16: 4 times
+Odds 1.18: 6 times
+Odds 1.20: 7 times
+Odds 1.22: 1 times
+Odds 1.27: 1 times
+Odds 1.30: 1 times
+Odds 1.32: 2 times
+Odds 1.35: 2 times
+Odds 1.40: 1 times
+Odds 1.45: 1 times
+
+----------------------------------------------
+
+
+Odds frequency (losing bets only):
+Odds 1.02: 1 times
+Odds 1.03: 3 times
+Odds 1.04: 3 times
+Odds 1.03: 3 times
+Odds 1.03: 3 times
+Odds 1.03: 3 times
+Odds 1.03: 3 times
+Odds 1.03: 3 times
+Odds 1.03: 3 times
+Odds 1.04: 3 times
+Odds 1.06: 2 times
+Odds 1.07: 1 times
+Odds 1.08: 1 times
+Odds 1.10: 2 times
+Odds 1.12: 2 times
+Odds 1.14: 1 times
+Odds 1.20: 2 times
+Odds 3.75: 1 times
+
+
+----------------------------------------------
+
+
+Selected team frequency (winning bets only):
+Team Balcerzak, Marcin: 1 times
+Team Barta, Tomas: 1 times
+Team Bayer, Alesh: 1 times
+Team Brandtl, Ales: 1 times
+Team Briza, Frantisek: 1 times
+Team Brunner, Marian: 1 times
+Team Cernota, Filip: 1 times
+Team Chlodnicki, Piotr: 2 times
+Team Chodorski, Piotr: 1 times
+Team Cmerda, Ondrej: 2 times
+Team Delgado, Cristian: 2 times
+Team Domagala, Pawel: 1 times
+Team Dorko, Tomas: 1 times
+Team Drozdz, Dariusz: 1 times
+Team Gola, Blazej: 1 times
+Team Gola, Pawel: 1 times
+Team Golebiowski, Mateusz: 2 times
+Team Grela, Artur: 1 times
+Team Gumulinski, Piotr: 3 times
+Team Hejda Jr, Vaclav: 1 times
+Team Holas, Petr: 1 times
+Team Jarocki, Lukasz: 1 times
+Team Jastrzebowski, Franciszek: 2 times
+Team Jira, Jiri: 1 times
+Team Kapik, Krzysztof: 1 times
+Team Kocab, Jan: 2 times
+Team Kociuba, Filip: 1 times
+Team Koczyba, Mariusz: 1 times
+Team Kolar, Milan: 2 times
+Team Kosowski, Jakub: 1 times
+Team Kotwica, Dawid: 1 times
+Team Kotyl, Krzysztof: 1 times
+Team Kouble, Daniel: 1 times
+Team Kovtanyuk, Denys: 1 times
+Team Kowalczyk, Marcin: 1 times
+Team Kral, Adam: 1 times
+Team Krcal, Radek: 1 times
+Team Kujawa, Filip: 1 times
+Team Latala, Lukasz: 1 times
+Team Lengal, Dominik: 1 times
+Team Lewczuk, Miroslaw: 2 times
+Team Lojtek, Tomasz: 1 times
+Team Louda, Jiri: 2 times
+Team Lu, Louis: 1 times
+Team Machart, Jiri: 1 times
+Team Manhal Sr, Jan: 1 times
+Team Mecik, Patryk: 1 times
+Team Meneses, Luis: 1 times
+Team Minda, Michal: 2 times
+Team Monik, Petr: 1 times
+Team Murawski, Daniel: 1 times
+Team Murawski, Michal: 2 times
+Team Musil, Filip: 1 times
+Team Myszewski, Adrian: 2 times
+Team Nader, Fahimi: 1 times
+Team Nevrtal, Tomas: 2 times
+Team Nocun, Zbigniew: 1 times
+Team Olmedo, Alberto: 1 times
+Team Oracz, Lukasz: 2 times
+Team Parhomenko, Dmitro: 2 times
+Team Pecka, Vlastimil: 1 times
+Team Pelka, Jerzy: 1 times
+Team Pesek, Karel: 1 times
+Team Petas, Kacper: 2 times
+Team Petr, Pavel: 1 times
+Team Petracek, Vratislav: 2 times
+Team Pikous, Marcel: 2 times
+Team Pleskot, Jan: 1 times
+Team Polanski, Pawel: 1 times
+Team Prokupek, Jaroslav: 1 times
+Team Przewlocki, Jacek: 2 times
+Team Rolak, Jaroslaw: 2 times
+Team Rudomina, Kamil: 3 times
+Team Ruzicka, Jiri: 1 times
+Team Scigany, Dariusz: 1 times
+Team Skupinski, Arkadiusz: 1 times
+Team Smidt, Karel: 1 times
+Team Spychala, Adrian: 2 times
+Team Stary, Jiri: 1 times
+Team Stepien, Marcin: 3 times
+Team Stojek, Karol: 2 times
+Team Strouhal, Vojtech: 1 times
+Team Strus, Piotr: 1 times
+Team Svacha, Ondrej: 1 times
+Team Svatos, Vlastimil: 1 times
+Team Sychra, Martin: 1 times
+Team Tazler, Jakub: 1 times
+Team Trefny, Jan: 1 times
+Team Trinta, Mihail: 2 times
+Team Vaarpu, Madis: 1 times
+Team Vavrecka, Michal: 1 times
+Team Vidourek, Jan: 1 times
+Team Viigimets, Peetr: 2 times
+Team Vitrovyj, Oleg: 1 times
+Team Volhejn, Jan: 1 times
+Team Vorisek, Tomas: 1 times
+Team Vtelensky, Ludek: 1 times
+Team Wiecek, Adrian: 2 times
+Team Wisniewski, Karol: 1 times
+Team Witkowski, Jakub: 2 times
+Team Wloczko, Krzysztof: 1 times
+Team Wrobel, Dariusz: 1 times
+Team Zika, Tadeas: 1 times
+Team Zochniak, Jakub: 1 times
+Team Zwolinski, Piotr: 1 times
+
+----------------------------------------------
+
+
+Selected team frequency (losing bets only):
+Team Batog, Tomek: 1 times
+Team Cermak, Vladimir: 1 times
+Team Danilov Nikolai: 1 times
+Team Dhawan, Abhishek: 1 times
+Team Kolar, Milan: 1 times
+Team Kosowski, Jakub: 1 times
+Team Kulisek, Marek: 1 times
+Team Libovicky, Vladimir: 1 times
+Team Mecik, Patryk: 1 times
+Team Oracz, Lukasz: 1 times
+Team Oracz, Michal: 1 times
+Team Pelka, Jerzy: 1 times
+Team Ruzicka, Josef: 1 times
+Team Schaniel Krzysztof: 1 times
+Team Sikora, Fabian: 1 times
+Team Wisniewski, Karol: 1 times
+Team Witkowski, Jakub: 1 times
+Team Witkowski, Tomasz: 1 times
+Team Yang, Ray: 1 times
+
+
+
+Bet placed successfully.
+Scoreboard:
+Team Name: {team_1}, Team Score: {team_1_score}, Set: {team_1_set_score}
+Team Name: {team_2}, Team Score: {team_2_score}, Set: {team_2_set_score}
+
+
+Please make the program update every 'bet_history' row's columns 'point_score' and 'set_score' with each obtained scoreboard.
+The logic should be:
+As the program reads each log file, for every scoreboard instance it finds under a "Bet placed successfully" line, it must run the sql query:
+"UPDATE bet_history
+SET point_score' = '{point_scbd}', set_score = '{set_scbd}'
+WHERE team_1 = '{teamA}' and  team_2 = '{teamB}'; "

@@ -10,12 +10,26 @@ import os
 import sys
 from datetime import datetime
 from selenium.common.exceptions import StaleElementReferenceException
+import psycopg2
+from psycopg2 import sql
+import re
 
 # Add this code right after the imports
 log_dir = "logs"
 os.makedirs(log_dir, exist_ok=True)
 timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 log_file = os.path.join(log_dir, f"{timestamp}_tbAppPinpon.txt")
+
+# Add these near the top with other initializations
+BANKROLL = 2470
+MIN_BET = 500
+RISK_WINDOWS = {14, 16, 17, 20, 22}  # High-risk hours
+loss_tracker = {
+    'consecutive': 0,
+    'hourly': 0,
+    'daily': 0,
+    'last_hour': None
+}
 
 class Tee:
     def __init__(self, *files):
@@ -98,7 +112,7 @@ def check_balance(driver):
             balance_text = balance_element.text.strip()  # Get the text and strip any whitespace
             balance_value = int(balance_text.replace('$', '').replace(',', '').strip())  # Convert to integer
             
-            if balance_value > 3500:
+            if balance_value > 0:
                 print(f"Balance is {balance_value}. Proceeding to place bets...")
                 return balance_value  # Return the balance value for further use
             else:
@@ -107,7 +121,8 @@ def check_balance(driver):
 
         except Exception as e:
             print("Error checking balance:", e)
-            time.sleep(5)
+            driver.get("https://tonybet.com/cl/live/table-tennis")  # Reload page
+            time.sleep(5)  # Wait for page to reload
 
 def remove_betslip_2(driver):
     # Locate all coupon bet events
@@ -159,35 +174,90 @@ def remove_betslip(driver):
             # If the status element is not found, continue to the next event
             continue
         
-def set_bet_amount(driver):
-    """Clear the bet input field and set a new bet amount."""
-    bet_input = driver.find_element(By.XPATH, "//input[@data-test='betslip-amount']")
-    bet_input.clear()  # Clear any existing value
-    amount = 500
-    #amount = str(amount_value)
-    bet_input.send_keys(amount)  # Set the value to the specified amount
-    print(f"Bet amount set to: {amount}")
-    return amount
+def set_bet_amount(driver, amount):
+    """Set bet amount and wait for possible win calculation"""
+    try:
+        bet_input = driver.find_element(By.XPATH, "//input[@data-test='betslip-amount']")
+        bet_input.clear()
+        bet_input.send_keys(str(amount))
+        
+        # Wait for possible win element to update
+        WebDriverWait(driver, 5).until(
+            EC.visibility_of_element_located((By.XPATH, "//span[@data-test='betslip-possible-win-amount']"))
+        )
+        
+        print(f"Bet amount set to: {amount}")
+        return amount
+    except Exception as e:
+        print(f"Error setting bet amount: {e}")
+        return 0
+
+def calculate_bet_amount(current_balance):
+    """Dynamic bet sizing based on temporal strategy"""
+    current_hour = datetime.now().hour
+    base_percent = 0.02  # 2% of balance
+    
+    if current_hour in RISK_WINDOWS:
+        bet_amount = max(MIN_BET, current_balance * base_percent * 0.7)
+    else:
+        bet_amount = max(MIN_BET, current_balance * base_percent)
+    
+    return min(bet_amount, current_balance * 0.2)
+
+def update_risk_tracker(success):
+    """Update loss counters after each bet"""
+    global loss_tracker
+    current_hour = datetime.now().hour
+    
+    if not success:
+        loss_tracker['consecutive'] += 1
+        loss_tracker['hourly'] += 1
+        loss_tracker['daily'] += 1
+    else:
+        loss_tracker['consecutive'] = 0
+        
+    # Reset hourly counter if hour changed
+    if current_hour != loss_tracker.get('last_hour'):
+        loss_tracker['hourly'] = 0
+        loss_tracker['last_hour'] = current_hour
 
 def check_bet_amount(driver, amount):
-    """Check if the possible win amount is sufficient to place the bet."""
+    """Enhanced check with temporal risk management"""
     try:
-        # Locate the possible win amount element
+        # First set the bet amount and wait for calculation
+        set_bet_amount(driver, amount)
+        
+        # Now safely retrieve the possible win amount
         possible_win_element = driver.find_element(By.XPATH, "//span[@data-test='betslip-possible-win-amount']")
         possible_win_text = possible_win_element.text.strip()
-        possible_win_amount = float(possible_win_text)  # Convert to float
-
-        # Check the difference
-        if possible_win_amount - amount >= 15:
-            print(f"Possible win amount ({possible_win_amount}) is sufficient compared to input amount ({amount}).")
-            return True  # Sufficient amount to place the bet
-        else:
-            print(f"Possible win amount ({possible_win_amount}) is not sufficient compared to input amount ({amount}).")
-            return False  # Not sufficient to place the bet
+        possible_win_amount = float(possible_win_text)
+        
+        current_hour = datetime.now().hour
+        required_profit = 20 if current_hour in RISK_WINDOWS else 15
+        
+        # Hard stop conditions
+        if loss_tracker['consecutive'] >= 3:
+            print("EMERGENCY STOP: 3 consecutive losses reached")
+            sys.exit()
+            
+        if loss_tracker['hourly'] >= 1000:
+            print("EMERGENCY STOP: Hourly loss limit (1000CLP) reached")
+            sys.exit()
+            
+        if loss_tracker['daily'] >= 1500:
+            print("EMERGENCY STOP: Daily loss limit (1500CLP) reached")
+            sys.exit()
+            
+        # Profitability check
+        if (possible_win_amount - amount) >= required_profit:
+            print(f"Acceptable profit margin: {possible_win_amount - amount:.2f}")
+            return True
+            
+        return False
 
     except Exception as e:
         print("Error checking bet amount:", e)
-        return False  # Return false if there's an error
+        return False
 
 
 def place_bet_and_check_errors(driver, button, selected_outcome_buttons, amount, placed_bet):
@@ -318,15 +388,21 @@ def check_and_adjust_outcome_buttons(driver, button, selected_outcome_buttons, p
     return selected_outcome_buttons
 
 
-def check_selected_team_score(selected_team_name, score_dict, set_score_dict):
+def check_selected_team_score(selected_team_name, score_dict, set_score_dict, best_of_sets): 
     """Check if selected team is winning by 3+ points."""
     if selected_team_name in score_dict and selected_team_name in set_score_dict:
         selected_score = score_dict[selected_team_name]
         set_score = set_score_dict[selected_team_name]
-        if selected_score > 4 and set_score == 2:
-            opponent_scores = [score for name, score in score_dict.items() 
-                         if name != selected_team_name]
-            return any(selected_score - score >= 2 for score in opponent_scores)
+        if best_of_sets == "5":
+            if selected_score > 4 and set_score == 2:
+                opponent_scores = [score for name, score in score_dict.items() 
+                            if name != selected_team_name]
+                return any(selected_score - score >= 2 for score in opponent_scores)
+        elif best_of_sets == "7":
+            if selected_score > 4 and set_score == 3:
+                opponent_scores = [score for name, score in score_dict.items() 
+                            if name != selected_team_name]
+                return any(selected_score - score >= 2 for score in opponent_scores)
     return False
 
 
@@ -358,25 +434,433 @@ def define_sel_team(button, row):
         return None
 
 
+def get_db_connection():
+    try:
+        return psycopg2.connect(
+            host="localhost",
+            database="tebedata",
+            user="postgres",
+            password="admin",
+            port="5432"
+        )
+    except Exception as e:
+        print(f"Database connection error: {str(e)}")
+        return None
+
+def insert_into_bet_history(data):
+    """Insert validated data into bet_history table"""
+    conn = None
+    try:
+        conn = get_db_connection()
+        if not conn:
+            print("Failed to establish database connection")
+            return
+        query = sql.SQL("""
+            INSERT INTO bet_history (
+                bet_id, bet_date, bet_time, odds, stake, win_amount, bet_status,
+                sport_id, league, team_1, team_2, selected_team, match_result,
+                point_score, set_score, bet_type
+            ) VALUES (
+                %s, %s, %s, %s, %s, %s, %s,
+                %s, %s, %s, %s, %s, %s,
+                %s, %s, %s
+            )
+        """)
+        
+        validated = {
+            'bet_id': data.get('bet_id'),
+            'bet_date': data.get('bet_date'),
+            'bet_time': data.get('bet_time'),
+            'odds': float(data['odds']) if data.get('odds') else None,
+            'stake': float(data['stake']) if data.get('stake') else None,
+            'win_amount': float(data['win_amount']) if data.get('win_amount') else 0.0,
+            'bet_status': data.get('bet_status'),
+            'sport_id': int(data['sport_id']) if data.get('sport_id') else None,
+            'league': data.get('league'),
+            'team_1': data.get('team_1'),
+            'team_2': data.get('team_2'),
+            'selected_team': data.get('selected_team'),
+            'match_result': data.get('match_result'),
+            'point_score': data.get('point_score'),
+            'set_score': data.get('set_score'),
+            'bet_type': int(data.get('bet_type', 1))
+        }
+
+        with conn.cursor() as cursor:
+            cursor.execute(query, tuple(validated.values()))
+        conn.commit()
+        print(f"Successfully inserted bet {validated['bet_id']}")
+        
+    except Exception as e:
+        print(f"Database insertion error: {str(e)}")
+    finally:
+        if conn:
+            conn.close()
+
+def process_bet_history(driver):
+    """Process the first bet history item after successful bet placement"""
+    try:
+        driver.get("https://tonybet.com/cl/cabinet/betting-history")
+        time.sleep(5)
+        
+        bet_item = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.XPATH, "//tbody[@data-test='bet-history-item']"))
+        )
+        
+        # Expand the item
+        expand_button = WebDriverWait(bet_item, 10).until(
+            EC.element_to_be_clickable((By.XPATH, ".//button[@data-test='expand']"))
+        )
+        driver.execute_script("arguments[0].click();", expand_button)
+        time.sleep(1)
+
+        bet_type = get_bet_type(bet_item)
+        if bet_type == 1:
+            data = {}
+            data.update(scrape_1(bet_item))
+            data.update(scrape_2(bet_item))
+            data.update(scrape_3(bet_item))
+            data['bet_type'] = 1
+            insert_into_bet_history(data)
+        elif bet_type == 2:
+            all_rows = bet_item.find_elements(
+                By.XPATH, 
+                ".//tr[contains(@class, 'rounded-table-module_tr__cneKHX1T__platform-desktop-ui')]"
+            )
+            
+            header_row = all_rows[0]
+            header_data = scrape_1(header_row)
+            
+            match_groups = []
+            current_group = []
+            
+            for row in all_rows[1:]:
+                if 'details-module_league__' in row.get_attribute('innerHTML'):
+                    if current_group:
+                        match_groups.append(current_group)
+                    current_group = []
+                else:
+                    current_group.append(row)
+            
+            if current_group:
+                match_groups.append(current_group)
+
+            for group in match_groups:
+                if len(group) >= 2:
+                    group_data = header_data.copy()
+                    group_data.update(scrape_2(group[0]))
+                    group_data.update(scrape_3(group[1]))
+                    group_data['bet_type'] = 2
+                    insert_into_bet_history(group_data)
+                    
+    except Exception as e:
+        print(f"Error processing bet history: {str(e)}")
+
 # Function to place a bet
 def place_bet(driver, button, selected_outcome_buttons, placed_bet):
     try:
-        # Validate all buttons before placing bet
         selected_outcome_buttons = check_and_adjust_outcome_buttons(driver, button, selected_outcome_buttons, placed_bet)
         
         if not selected_outcome_buttons:
             print("No valid buttons remaining after final checks")
-            return
+            return placed_bet
         
-        # Proceed with only validated buttons
-        amount = set_bet_amount(driver)
+        # Get current balance and calculate bet size
+        current_balance = check_balance(driver)
+        amount = calculate_bet_amount(current_balance)
+        
         time.sleep(1)
         placed_bet = place_bet_and_check_errors(driver, button, selected_outcome_buttons, amount, placed_bet)
         
+        if placed_bet:
+            process_bet_history(driver)
+            
+            # Monitor bet status until resolution
+            final_status = check_bet_status_loop(driver)
+            
+            # Update risk tracker with bet outcome
+            bet_success = final_status == 1  # Assuming 1=win, 2=loss
+            update_risk_tracker(bet_success)
+            
+            # Return to live matches
+            driver.get("https://tonybet.com/cl/live/table-tennis")
+            time.sleep(5)
+            
     except Exception as e:
         print(f"Error in place_bet: {str(e)}")
-
+        update_risk_tracker(False)
     return placed_bet
+
+
+def scrape_2(item):
+    try:
+        # Get sport ID as integer
+        sport_id = get_sport_id(item)  # Assume this returns string like "sport-25"
+        #sport_id = int(sport_id_str.split('-')[-1])  # Extract numeric part
+        
+        # Get league name
+        liga_element = item.find_element(By.XPATH, ".//div[contains(@class, 'details-module_league__CSGMiNgP__platform-desktop-ui')]")
+        league = liga_element.text.strip()
+
+        print(f"Match Sport ID: {sport_id} ({type(sport_id)})")
+        print(f"Match league: {league}")
+
+        return {
+            'sport_id': sport_id,  # Integer type
+            'league': league if league else None  # NULL if empty
+        }
+    except Exception as e:
+        print(f"Scrape2 error: {str(e)}")
+        return {}
+
+
+def scrape_1(item):
+    try:
+        bet_id_td = item.find_element(By.XPATH, ".//td[@data-test='betting-history-bet_id']") 
+        bet_id = bet_id_td.text.strip()
+        # Date parsing fix using correct elements
+        date_span = item.find_element(By.XPATH, ".//span[@data-test='eventDate']")
+        time_span = item.find_element(By.XPATH, ".//span[@data-test='eventTime']")
+        
+        # Get cleaned text content
+        date_text = date_span.text.strip().replace('\xa0', ' ')
+        time_text = time_span.text.strip().replace('\xa0', ' ').replace(',', '').strip()
+        
+        # Handle European date format
+        parsed_date = datetime.strptime(date_text, "%d.%m.%Y").date()
+        parsed_time = datetime.strptime(time_text, "%H:%M").time()
+
+        # Numeric field handling
+        odds_element = item.find_element(By.XPATH, ".//td[@data-test='betting-history-odds']")
+        odds_text = str(odds_element.text).replace(',', '.')  # Convert to string first
+        odds = float(odds_text) if odds_text else None
+
+        # Convert numeric fields safely
+        stake = get_bet_stake(item)
+        #stake = float(str(item.find_element(By.XPATH, ".//div[contains(text(), 'Stake:')]/following-sibling::div").text).replace('$', '').replace(',', ''))
+        
+        return {
+            'bet_id': bet_id,
+            'bet_date': parsed_date,
+            'bet_time': parsed_time,
+            'odds': odds,
+            'stake': stake,
+            'win_amount': get_win_amount(item),
+            'bet_status': get_bet_status(item),
+            'sport_id': get_sport_id(item),
+            'league': item.find_element(By.XPATH, ".//div[contains(@class, 'details-module_league__CSGMiNgP__platform-desktop-ui')]").text.strip(),
+            'team_1': get_teams(item)[0],
+            'team_2': get_teams(item)[1],
+            'selected_team': get_sel_team(item),
+            'match_result': get_match_result(item),
+            'point_score': scrape_3(item)['point_score'],
+            'set_score': scrape_3(item)['set_score'],
+            'bet_type': get_bet_type(item)
+        }
+    except Exception as e:
+        print(f"Scrape1 error: {str(e)}")
+        return {}
+
+def scrape_3(item):
+    try:
+        # Handle missing teams
+        teams = get_teams(item) or (None, None)
+        team_1, team_2 = teams if teams else (None, None)
+        
+        # Handle scores with fallback
+        scores = (None, None)
+        point_score, set_score = scores
+
+        return {
+            'team_1': team_1.strip() if team_1 else None,
+            'team_2': team_2.strip() if team_2 else None,
+            'point_score': point_score,
+            'set_score': set_score,
+            'selected_team': get_sel_team(item),
+            'match_result': get_match_result(item),
+            'bet_type': get_bet_type(item)
+        }
+    except Exception as e:
+        print(f"Scrape3 error: {str(e)}")
+        return {}
+
+
+def get_date_time(item):
+    bet_date_time = item.find_element(By.XPATH, ".//td[@data-test='betting-history-ts']")
+    bet_date = bet_date_time.find_element(By.XPATH, "./span[1]")
+    
+    bet_time = bet_date_time.find_element(By.XPATH, "./span[2]")
+    return bet_date, bet_time
+
+
+def get_bet_status(item):
+    status_text = item.find_element(By.XPATH, ".//td[@data-test='betting-history-status']").text.strip()
+    if any(phrase.lower() in status_text.lower() for phrase in ["gan"]):
+        bet_status = 1
+    elif any(phrase.lower() in status_text.lower() for phrase in ["perdid"]):
+        bet_status = 2
+    elif any(phrase.lower() in status_text.lower() for phrase in ["pendiente"]):
+        bet_status = 0
+    
+    return bet_status
+
+
+def get_bet_type(item):
+    bet_types = item.find_element(By.XPATH, ".//td[@data-test='betting-history-mode']")
+    bet_type = bet_types.text.strip()
+    if any(phrase.lower() in bet_type.lower() for phrase in ["simple"]):
+        bet_type = 1
+        print(f"Bet type: simple")
+    elif any(phrase.lower() in bet_type.lower() for phrase in ["múltiple", "multiple"]):
+        bet_type = 2
+        print(f"Bet type: múltiple")
+    return bet_type
+
+
+def get_sel_team(item):
+    """Extract the selected team from the 'Ganador' column"""
+    try:
+        # Find the cell containing "Ganador"
+        ganador_td = item.find_element(
+            By.XPATH, 
+            ".//td[contains(., 'Ganador:')]"
+        )
+        
+        sel_team = ganador_td.get_attribute("textContent").strip()
+        
+        if "Ganador:" in sel_team:
+            _, remainder = sel_team.split("Ganador:", 1)
+            
+            # Find score marker positions
+            score_pos = remainder.find('-')
+            en_dash_pos = remainder.find('–')
+            
+            # Determine cut position
+            valid_positions = [p for p in [score_pos, en_dash_pos] if p != -1]
+            cut_pos = min(valid_positions) if valid_positions else None
+
+            if cut_pos is not None:
+                # Get text up to score marker and remove trailing digits
+                team_text = remainder[:cut_pos].strip()
+                clean_team = team_text.rstrip('0123456789').strip()
+                return clean_team
+            return remainder.strip()
+            
+        return sel_team
+    
+    except Exception as e:
+        print(f"Error retrieving selected team: {e}")
+        return None
+
+def get_match_result(item):
+    """Extract the full match result from the results column"""
+    try:
+        # Find the result span
+        result_span = item.find_element(
+            By.XPATH, 
+            ".//td/span[contains(., '–')]"  # Looks for hyphen character
+        )
+        return result_span.text.strip()
+    
+    except Exception as e:
+        print(f"Error retrieving match result: {e}")
+        return None
+
+
+def get_bet_stake(item):
+    try:
+        # Locate the win amount container
+        stake_td = item.find_element(
+            By.XPATH, 
+            ".//td[@data-test='betting-history-stake']"
+        )
+        
+        # Get the numeric value from the second span
+        stake_div = stake_td.find_element(
+            By.XPATH, 
+            ".//div[contains(@class, 'stake-module_amount__HLIXPmqj__platform-desktop-ui')]"
+        )
+        
+        stake = stake_div.find_element(By.XPATH, "./span[2]")
+        return stake.text.strip()
+    
+    except Exception as e:
+        print(f"Error retrieving stake: {e}")
+        return None
+
+
+def get_win_amount(item):
+    try:
+        # Check if win amount container exists
+        win_amount_divs = item.find_elements(
+            By.XPATH, 
+            ".//div[contains(@class, 'win-amount-module_amount__')]"
+        )
+        
+        if not win_amount_divs:
+            return 0  # No win amount container found
+        
+        win_amount_div = win_amount_divs[0]
+        
+        # Check if the amount span exists
+        amount_spans = win_amount_div.find_elements(By.XPATH, "./span[2]")
+        if not amount_spans:
+            return 0  # No amount text found
+        
+        amount_text = amount_spans[0].text.strip()
+        return int(amount_text) if amount_text else 0
+    
+    except Exception as e:
+        print(f"Error retrieving win amount: {e}")
+        return 0  # Return 0 even on exceptions
+
+
+def get_teams(item):
+    try:
+        # Find the competitors container
+        competitors_td = item.find_element(
+            By.XPATH, 
+            ".//td[contains(@class, 'details-module_competitors__')]"
+        )
+        
+        # Get both competitor divs
+        competitors = competitors_td.find_elements(
+            By.XPATH, 
+            ".//div[contains(@class, 'competitor-module_competitor__')]"
+        )
+        
+        # Extract team names from spans
+        team_1 = competitors[0].find_element(
+            By.XPATH, 
+            ".//span[contains(@class, 'competitor-module_ellipsis__')]"
+        ).text.strip()
+        
+        team_2 = competitors[1].find_element(
+            By.XPATH, 
+            ".//span[contains(@class, 'competitor-module_ellipsis__')]"
+        ).text.strip()
+        
+        return team_1, team_2
+        
+    except Exception as e:
+        print(f"Error retrieving teams: {e}")
+        return None, None
+    
+
+
+def get_sport_id(item):
+    try:
+        sport_img = item.find_element(By.XPATH, ".//img[contains(@src, '/assets/sport/')]")
+        src = sport_img.get_attribute('src')
+        
+        # Use regex to find sport ID in URL
+        sport_id = re.search(r'sport[/_-](\d+)', src)
+        if sport_id:
+            return int(sport_id.group(1))
+        return None
+    except Exception as e:
+        print(f"Error retrieving sport ID: {str(e)}")
+        return None
 
 
 
@@ -429,12 +913,15 @@ def button_info(driver, button, selected_outcome_buttons, row):
 
         # Get selected team for THIS button
         selected_team_name = define_sel_team(button, row)
+        best_of = row.find_element(By.XPATH, ".//div[@data-test='reduced-periods']")
+        best_of_sets = best_of.text.strip()
+        print(f"Match to best of {best_of_sets} sets")
 
-        if any(phrase.lower() in period_text.lower() for phrase in ["1er set", "2do set", "no iniciado", "primer", "segundo", "break"]) or not check_selected_team_score(selected_team_name, score_dict, set_score_dict):
+        if any(phrase.lower() in period_text.lower() for phrase in ["1er set", "2do set", "no iniciado", "primer", "segundo", "break"]) or not check_selected_team_score(selected_team_name, score_dict, set_score_dict, best_of_sets):
                 print(f"Skipping button click for league: {league_name} at timer: {period_text} because it's in the first or second set.")
                 return  # Move on to the next case or iteration
             
-        if any(phrase.lower() in period_text.lower() for phrase in ["3º set", "4º set", "5º set"]) and check_selected_team_score(selected_team_name, score_dict, set_score_dict):
+        if any(phrase.lower() in period_text.lower() for phrase in ["3º set", "4º set", "5º set", "6° set", "7° set"]) and check_selected_team_score(selected_team_name, score_dict, set_score_dict, best_of_sets):
             button.click()
             print(f"Button clicked for league: {league_name}")
             selected_outcome_buttons = True
@@ -470,6 +957,7 @@ def bet_sel(driver):
                     selected_outcome_buttons = False
                     selected_outcome_buttons = button_info(driver, button, selected_outcome_buttons, row)
                     if selected_outcome_buttons == True:
+                        validate_loss_tracker()
                         placed_bet = place_bet(driver, button, selected_outcome_buttons, placed_bet)
                     
                     time.sleep(0.5)  # Optional: wait a moment before checking again
@@ -486,7 +974,7 @@ def bet_sel(driver):
     #            except Exception as e:
     #                print(f"Error checking scores:", e)
     if placed_bet == True:
-        time.sleep(300)
+        time.sleep(60)
     elif placed_bet == False:
         time.sleep(1)
 
@@ -533,6 +1021,38 @@ def open_bets(driver):
     except Exception as e:
         print("Bets panel already open or button not found")
         pass  # Continue with the program if button is not found
+
+
+def check_bet_status_loop(driver):
+    """Check bet status until resolved, returns final status"""
+    while True:
+        try:
+            driver.get("https://tonybet.com/cl/cabinet/betting-history")
+            time.sleep(5)
+            
+            bet_item = WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.XPATH, "//tbody[@data-test='bet-history-item']"))
+            )
+            
+            status = get_bet_status(bet_item)
+            if status in (1, 2):
+                return status
+                
+            print(f"Bet still pending (status {status}), checking again in 30 seconds...")
+            time.sleep(30)
+            
+        except Exception as e:
+            print(f"Error checking bet status: {e}")
+            time.sleep(30)
+
+# Add this validation check
+def validate_loss_tracker():
+    if loss_tracker['consecutive'] >= 3:
+        print(f"WARNING: Invalid consecutive loss count detected")
+        print("Resetting tracker after manual verification...")
+        loss_tracker['consecutive'] = 0
+        loss_tracker['hourly'] = 0
+        loss_tracker['daily'] = 0
 
 
 
