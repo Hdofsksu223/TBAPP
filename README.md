@@ -16,7 +16,7 @@ But, as stated at the top of this file, this project was created to tinker with 
 
 
 
-Brief explanation of each '.py' file:
+Brief explanation of each '.py' file:<br>
     -tbApp: First try. Barely functional.<br>
     -tbAppData: Scrapes the user's bet history data in the site and inserts it into a database.<br>
     -tbAppMulti: Draft for a multi-sport betting program. Not functional.<br>
