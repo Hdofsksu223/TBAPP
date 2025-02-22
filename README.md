@@ -17,12 +17,11 @@ But, as stated at the top of this file, this project was created to tinker with 
 
 
 Brief explanation of each '.py' file:
-
-tbApp: First try. Barely functional.<br>
-tbAppData: Scrapes the user's bet history data in the site and inserts it into a database.<br>
-tbAppMulti: Draft for a multi-sport betting program. Not functional.<br>
-tbAppPinpon: Bets on table tennis. Functional.<br>
-tbAppTest: Draft for testing purposes.<br>
-tbAppTest2: Draft for testing purposes.<br>
-tbDB: Database query analysis.<br>
-tbLogReader: Reads log files to get betting instance scoreboards.<br>
+    -tbApp: First try. Barely functional.<br>
+    -tbAppData: Scrapes the user's bet history data in the site and inserts it into a database.<br>
+    -tbAppMulti: Draft for a multi-sport betting program. Not functional.<br>
+    -tbAppPinpon: Bets on table tennis. Functional.<br>
+    -tbAppTest: Draft for testing purposes.<br>
+    -tbAppTest2: Draft for testing purposes.<br>
+    -tbDB: Database query analysis.<br>
+    -tbLogReader: Reads log files to get betting instance scoreboards.<br>
